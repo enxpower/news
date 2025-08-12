@@ -1,1 +1,64 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+  <meta charset="UTF-8" />
+  <title>储能行业新闻聚合 | BESS News Hub</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <link rel="stylesheet" href="css/style.css" />
+</head>
+<body>
+  <!-- 页眉模块插槽 -->
+  <div id="header"></div>
+
+  <!-- 分类栏模块插槽 -->
+  <div id="category-bar"></div>
+
+  <!-- 主内容区域 -->
+  <main style="padding: 2rem;">
+    <section id="news-container" class="news-list">
+      <!-- 新闻列表将在这里加载 -->
+    </section>
+
+    <!-- 加载状态 -->
+    <div id="loading" style="margin-top:2rem;"></div>
+  </main>
+
+  <!-- 页脚模块插槽 -->
+  <div id="footer"></div>
+
+  <!-- 模块加载脚本 -->
+  <script>
+    // 加载模块（header/footer/category-bar/loading）
+    const modules = ["header", "footer", "category-bar", "loading"];
+    modules.forEach(id => {
+      fetch(`components/${id}.html`)
+        .then(res => res.text())
+        .then(html => {
+          document.getElementById(id).innerHTML = html;
+        });
+    });
+
+    // 加载新闻数据
+    fetch("data/news.json")
+      .then(res => res.json())
+      .then(data => {
+        const container = document.getElementById("news-container");
+        data.forEach(item => {
+          const card = document.createElement("div");
+          card.className = "news-card";
+          card.innerHTML = `
+            <h3><a href="${item.link}" target="_blank">${item.title}</a></h3>
+            <p class="meta">${item.source} · ${item.date}</p>
+            <p>${item.summary}</p>
+          `;
+          container.appendChild(card);
+        });
+        document.getElementById("loading").style.display = "none";
+      })
+      .catch(err => {
+        document.getElementById("loading").innerText = "❌ 加载新闻失败，请稍后重试。";
+      });
+  </script>
+</body>
+</html>
 
