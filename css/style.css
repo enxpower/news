@@ -1,1 +1,76 @@
+/* ========= 全局基础样式 ========= */
+:root {
+  --bg: #0f1115;
+  --panel: #151922;
+  --ink: #e6e8ee;
+  --muted: #aab1c6;
+  --accent: #6ea0ff;
+  --ok: #2ecc71;
+  --warn: #f1c40f;
+  --bad: #e74c3c;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+  background: var(--bg);
+  color: var(--ink);
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+  font-size: 16px;
+  line-height: 1.6;
+}
+
+/* ========= 链接 ========= */
+a {
+  color: var(--accent);
+  text-decoration: none;
+}
+a:hover {
+  text-decoration: underline;
+}
+
+/* ========= 新闻卡片样式 ========= */
+.news-card {
+  background-color: var(--panel);
+  padding: 1.2rem 1.5rem;
+  border-radius: 10px;
+  margin-bottom: 1.5rem;
+  box-shadow: 0 0 5px rgba(255,255,255,0.05);
+  transition: all 0.2s ease-in-out;
+}
+.news-card:hover {
+  transform: translateY(-3px);
+  box-shadow: 0 4px 12px rgba(0,0,0,0.15);
+}
+.news-card h3 {
+  margin-top: 0;
+  font-size: 1.1rem;
+}
+.news-card .meta {
+  font-size: 0.8rem;
+  color: var(--muted);
+  margin-bottom: 0.6rem;
+}
+
+/* ========= 分类栏（未来用） ========= */
+#category-bar {
+  padding: 1rem;
+  text-align: center;
+  border-bottom: 1px solid #1f2430;
+}
+#category-bar a {
+  margin: 0 0.8rem;
+  font-size: 0.9rem;
+}
+
+/* ========= 加载动画（未来用） ========= */
+#loading {
+  text-align: center;
+  color: var(--muted);
+  font-size: 0.95rem;
+}
 
