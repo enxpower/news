@@ -2,33 +2,47 @@ name: Update News JSON
 
 on:
   schedule:
-    - cron: '0 * * * *'  # 每小时运行一次（你可以改成每天：'0 4 * * *'）
-  workflow_dispatch:     # 允许手动运行
+    - cron: "0 * * * *"  # 每小时的整点运行
+  workflow_dispatch: {}   # 允许手动运行
+
+permissions:
+  contents: write
+
+concurrency:
+  group: update-news
+  cancel-in-progress: true
 
 jobs:
-  build:
+  run:
     runs-on: ubuntu-latest
 
     steps:
-    - name: Checkout repo
-      uses: actions/checkout@v3
+      - name: Checkout repo
+        uses: actions/checkout@v3
 
-    - name: Setup Python
-      uses: actions/setup-python@v4
-      with:
-        python-version: 3.x
+      - name: Setup Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: "3.x"
 
-    - name: Install dependencies
-      run: pip install feedparser
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install feedparser
 
-    - name: Run fetch script
-      run: python fetch_feeds.py
+      - name: Run aggregator
+        env:
+          PER_FEED_LIMIT: "30"     # 每源条数上限
+          STALE_DAYS: "30"         # 过滤30天未更新的源
+          TOTAL_LIMIT: "200"       # 总条数上限
+          FEED_USER_AGENT: "Mozilla/5.0 (compatible; BESSNewsBot/1.2; +https://example.org)"
+        run: |
+          python aggregator.py
 
-    - name: Commit and push
-      run: |
-        git config --global user.name "GitHub Actions"
-        git config --global user.email "actions@github.com"
-        git add data/news.json data/meta.json
-        git commit -m "🔄 Auto-update news & meta from RSS" || echo "No changes"
-        git push
-
+      - name: Commit and push updates
+        run: |
+          git config --global user.name "GitHub Actions"
+          git config --global user.email "actions@github.com"
+          git add data/news.json data/meta.json
+          git commit -m "🔄 Auto-update news & meta" || echo "No changes"
+          git push
