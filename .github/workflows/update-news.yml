@@ -2,9 +2,10 @@ name: Update News JSON
 
 on:
   schedule:
-    - cron: "0 * * * *"  # 每小时的整点运行
-  workflow_dispatch: {}   # 允许手动运行
+    - cron: "0 * * * *"   # 每小时整点运行
+  workflow_dispatch: {}    # 允许手动触发
 
+# 允许工作流写入仓库（避免 403）
 permissions:
   contents: write
 
@@ -30,14 +31,15 @@ jobs:
           python -m pip install --upgrade pip
           pip install feedparser
 
-      - name: Run aggregator
+      - name: Run fetcher
         env:
-          PER_FEED_LIMIT: "30"     # 每源条数上限
-          STALE_DAYS: "30"         # 过滤30天未更新的源
-          TOTAL_LIMIT: "200"       # 总条数上限
+          # 可按需修改，不改就用默认值
+          PER_FEED_LIMIT: "30"      # 每个源最多抓取 30 条
+          STALE_DAYS: "30"          # 源 30 天无更新则跳过
+          TOTAL_LIMIT: "200"        # 聚合后总条数上限
           FEED_USER_AGENT: "Mozilla/5.0 (compatible; BESSNewsBot/1.2; +https://example.org)"
         run: |
-          python aggregator.py
+          python fetch_feeds.py
 
       - name: Commit and push updates
         run: |
