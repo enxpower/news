@@ -1,5 +1,21 @@
 [
   {
+    "title": "Massachusetts issues RFP seeking 1,500MW of BESS",
+    "link": "https://www.energy-storage.news/massachusetts-issues-rfp-seeking-1500mw-of-bess/",
+    "date": "2025-08-12",
+    "summary": "Massachusetts’s electric distribution companies (EDCs) and the state’s Department of Energy Resources (DOER) have launched a request for pro…",
+    "source": "Energy-Storage.News",
+    "image": null
+  },
+  {
+    "title": "Chinese firms increase global BESS market share, except in North America: Tesla retains top spot",
+    "link": "https://www.energy-storage.news/chinese-firms-increase-global-bess-market-share-except-in-north-america-tesla-retains-top-spot/",
+    "date": "2025-08-12",
+    "summary": "Wood Mackenzie's BESS supply rankings list shows 'intensifying regional competition and shifting dynamics' as Tesla remains number one.…",
+    "source": "Energy-Storage.News",
+    "image": null
+  },
+  {
     "title": "UK ROUNDUP: Project commissioning and deals for Wärtsilä, Canadian Solar, Gresham House and Eku Energy",
     "link": "https://www.energy-storage.news/uk-roundup-project-commissioning-and-deals-for-wartsila-canadian-solar-gresham-house-and-eku-energy/",
     "date": "2025-08-12",
@@ -24,6 +40,30 @@
     "image": null
   },
   {
+    "title": "Highland Materials leases former nuclear site for Tennessee polysilicon plant",
+    "link": "https://www.pv-tech.org/highland-materials-leases-former-nuclear-site-for-tennessee-polysilicon-plant/",
+    "date": "2025-08-12",
+    "summary": "US polysilicon company Highland Materials has signed a long-term lease for the site of a planned “next-generation” polysilicon production fa…",
+    "source": "PV Tech",
+    "image": null
+  },
+  {
+    "title": "AFSIA: Solar is the ‘ideal’ power source as Africa exceeds 20GW of operational capacity",
+    "link": "https://www.pv-tech.org/afsia-solar-ideal-power-source-africa-exceeds-20gw-operational-capacity/",
+    "date": "2025-08-12",
+    "summary": "AFSIA CEO John van Zuylen told PV Tech Premium that solar power is the “ideal” technology type to improve electricity access in Africa.…",
+    "source": "PV Tech",
+    "image": null
+  },
+  {
+    "title": "Uganda greenlights EA Astrovolt’s 100MW solar plus 250MWh BESS project",
+    "link": "https://www.pv-tech.org/uganda-greenlights-ea-astrovolts-100mw-solar-plus-250mwh-bess-project/",
+    "date": "2025-08-12",
+    "summary": "The Government of Uganda has authorised EA Astrovolt to develop a 100MWp solar PV power plant, integrated with a 250MWh storage system.…",
+    "source": "PV Tech",
+    "image": null
+  },
+  {
     "title": "Indonesia new programme targets 100GW solar PV, 320GWh BESS",
     "link": "https://www.pv-tech.org/indonesia-targets-100gw-solar-pv-320gwh-bess/",
     "date": "2025-08-12",
@@ -45,6 +85,30 @@
     "date": "2025-08-12",
     "summary": "Australia’s New South Wales has increased its renewable energy targets to 16GW of new clean power generation by 2030 and 42GWh of long-durat…",
     "source": "PV Tech",
+    "image": null
+  },
+  {
+    "title": "Residential solar contractors brace for market turbulence Long-time PV installers share strategies for weathering waning subsidies.",
+    "link": "https://www.solarpowerworldonline.com/2025/08/residential-solar-contractors-brace-for-market-turbulence/",
+    "date": "2025-08-12",
+    "summary": "The U.S. solar industry has experienced unprecedented growth with tax credits spurring new PV deployment. The Inflation Reduction Act (IRA) …",
+    "source": "Solar Power World",
+    "image": null
+  },
+  {
+    "title": "Renon batteries reach UL 9540 certification with Sol-Ark inverters",
+    "link": "https://www.solarpowerworldonline.com/2025/08/renon-batteries-reach-ul-9540-certification-with-sol-ark-inverters/",
+    "date": "2025-08-12",
+    "summary": "The Xcellent Plus residential energy storage system from Renon Power has achieved UL 9540 certification when paired with the Sol-Ark 12K and…",
+    "source": "Solar Power World",
+    "image": null
+  },
+  {
+    "title": "New DER protection system eliminates costly fiber installations while ensuring worker safety",
+    "link": "https://www.solarpowerworldonline.com/2025/08/new-der-protection-system-eliminates-costly-fiber-installations-while-ensuring-worker-safety/",
+    "date": "2025-08-12",
+    "summary": "Custom Electronics Inc. (CEI) and GridEdge Networks have partnered to launch a 69-kV distributed generation permissive (DGP) solution that e…",
+    "source": "Solar Power World",
     "image": null
   },
   {
@@ -131,23 +195,7 @@
     "title": "US Commerce initiates AD/CVD investigation on Indian, Indonesian and Laos solar cells",
     "link": "https://www.pv-tech.org/us-commerce-initiates-ad-cvd-investigation-on-indian-indonesian-and-laos-solar-cells/",
     "date": "2025-08-11",
-    "summary": "The US Department of Commerce has initiated an antidumping duty and countervailing duty investigations of crystalline silicon PV cells, whet…",
-    "source": "PV Tech",
-    "image": null
-  },
-  {
-    "title": "Exus Renewables, MUFG close financing on 130MW Portugal PV plant",
-    "link": "https://www.pv-tech.org/exus-renewables-mufg-close-financing-on-130mw-portugal-pv-plant/",
-    "date": "2025-08-11",
-    "summary": "Spain-based renewable energy firm Exus Renewables has closed financing on a 130MW solar PV project in Portugal.…",
-    "source": "PV Tech",
-    "image": null
-  },
-  {
-    "title": "Belectric powers 96MW Germany PV plant, plans storage addition",
-    "link": "https://www.pv-tech.org/belectric-powers-96mw-germany-pv-plant-plans-storage-addition/",
-    "date": "2025-08-11",
-    "summary": "German renewables engineering firm Belectric has begun operations at a 96MW solar PV project near its headquarters in the Kolitzheim area of…",
+    "summary": "The US Department of Commerce has initiated antidumping duty and countervailing duty investigations of crystalline silicon PV cells, whether…",
     "source": "PV Tech",
     "image": null
   },
@@ -253,30 +301,6 @@
     "date": "2025-08-10",
     "summary": "The article explores the phenomenon of corona discharge in high-voltage transmission lines and outlines key mitigation techniques.…",
     "source": "EE Power",
-    "image": null
-  },
-  {
-    "title": "‘A win for Transatlantic relations’ but a ‘big loss’ for creditors: Lyten’s Northvolt deal",
-    "link": "https://www.energy-storage.news/a-win-for-transatlantic-relations-but-a-big-loss-for-creditors-lytens-northvolt-deal/",
-    "date": "2025-08-08",
-    "summary": "Lyten's deal to acquire and recommence operations of European battery firm Northvolt out of bankruptcy has winners and losers, but some of t…",
-    "source": "Energy-Storage.News",
-    "image": null
-  },
-  {
-    "title": "Indiana county officials reject 800MWh LFP BESS proposal, despite MISO capacity warnings",
-    "link": "https://www.energy-storage.news/indiana-county-officials-reject-800mwh-lfp-bess-proposal-despite-miso-capacity-warnings/",
-    "date": "2025-08-08",
-    "summary": "Officials at the Zoning Board of Appeals for Hamilton County, Indiana, have rejected an application for a lithium iron phosphate BESS from d…",
-    "source": "Energy-Storage.News",
-    "image": null
-  },
-  {
-    "title": "FINANCING ROUND-UP: CREC, BRUC, Qair and Greenalia secure funds for projects",
-    "link": "https://www.pv-tech.org/financing-round-up-crec-bruc-qair-and-greenalia-secure-funds-for-projects/",
-    "date": "2025-08-08",
-    "summary": "This week several solar developers have raised funds for projects around the world, including BRUC in Europe, Greenalia in the US, Qair in M…",
-    "source": "PV Tech",
     "image": null
   },
   {
@@ -416,14 +440,6 @@
     "image": null
   },
   {
-    "title": "Latest BESS rankings show Tesla’s global dominance",
-    "link": "https://www.solarpowerworldonline.com/2025/08/latest-bess-rankings-show-teslas-global-dominance/",
-    "date": "2025-08-07",
-    "summary": "Tesla retains its top spot for the second consecutive year as the leading global producer in the battery energy storage system (BESS) integr…",
-    "source": "Solar Power World",
-    "image": null
-  },
-  {
     "title": "Siemens Gamesa starts sales activities for ‘overhauled’ 5.X successor",
     "link": "https://www.windpowermonthly.com/article/1928211/siemens-gamesa-starts-sales-activities-overhauled-5x-successor",
     "date": "2025-08-07",
@@ -509,22 +525,6 @@
     "date": "2025-08-07",
     "summary": "Researchers have developed a switched-capacitor-based nine-level inverter that achieves a fourfold voltage and up to 96.5% efficiency.…",
     "source": "EE Power",
-    "image": null
-  },
-  {
-    "title": "Koolbridge Energy to bring new Smart Load Center to RE+ 2025",
-    "link": "https://www.solarpowerworldonline.com/2025/08/koolbridge-energy-to-bring-new-smart-load-center-to-re-2025/",
-    "date": "2025-08-06",
-    "summary": "Koolbridge Energy will unveil its Smart Load Center at the RE+ tradeshow next month. This advanced intelligent breaker panel is designed to …",
-    "source": "Solar Power World",
-    "image": null
-  },
-  {
-    "title": "Pioneer Community Energy inks solar + storage PPA with Origis Energy",
-    "link": "https://www.solarpowerworldonline.com/2025/08/pioneer-community-energy-inks-solar-storage-ppa-with-origis-energy/",
-    "date": "2025-08-06",
-    "summary": "Origis Energy and Pioneer Community Energy, a nonprofit electricity provider headquartered in Rocklin, California, announced the signing of …",
-    "source": "Solar Power World",
     "image": null
   },
   {
