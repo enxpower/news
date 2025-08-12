@@ -1,5 +1,13 @@
 [
   {
+    "title": "Kentucky utilities shelve 1.6GWh BESS project, doubling down on fossil fuel expansion",
+    "link": "https://www.energy-storage.news/kentucky-utilities-shelve-1-6gwh-bess-project-doubling-down-on-fossil-fuel-expansion/",
+    "date": "2025-08-12",
+    "summary": "Louisville Gas and Electric Company (LG&#038;E) and Kentucky Utilities Company (KU) have withdrawn plans to deploy a new 400MW/1,600MWh BESS…",
+    "source": "Energy-Storage.News",
+    "image": null
+  },
+  {
     "title": "Massachusetts issues RFP seeking 1,500MW of BESS",
     "link": "https://www.energy-storage.news/massachusetts-issues-rfp-seeking-1500mw-of-bess/",
     "date": "2025-08-12",
@@ -37,6 +45,14 @@
     "date": "2025-08-12",
     "summary": "Stor-Energy has submitted plans for a 730MWh battery storage project in New South Wales to Australia's EPBC Act.…",
     "source": "Energy-Storage.News",
+    "image": null
+  },
+  {
+    "title": "Government of Brunei breaks ground on 30MW solar PV plant",
+    "link": "https://www.pv-tech.org/government-of-brunei-breaks-ground-on-30mw-solar-pv-plant/",
+    "date": "2025-08-12",
+    "summary": "The Government of Brunei Darussalam has broken ground on the 30MW solar PV power plant in Kampong Belimbing, the country’s largest solar fac…",
+    "source": "PV Tech",
     "image": null
   },
   {
@@ -85,6 +101,14 @@
     "date": "2025-08-12",
     "summary": "Australia’s New South Wales has increased its renewable energy targets to 16GW of new clean power generation by 2030 and 42GWh of long-durat…",
     "source": "PV Tech",
+    "image": null
+  },
+  {
+    "title": "Namaste Solar installs project for Denver nonprofit serving blind children",
+    "link": "https://www.solarpowerworldonline.com/2025/08/namaste-solar-installs-project-for-denver-nonprofit-serving-blind-children/",
+    "date": "2025-08-12",
+    "summary": "The Anchor Center for Blind Children, Colorado’s only nonprofit dedicated to serving young children who are blind or visually impaired, has …",
+    "source": "Solar Power World",
     "image": null
   },
   {
@@ -160,14 +184,6 @@
     "image": null
   },
   {
-    "title": "Capacity Investment Scheme Tender 6 to ‘open soon’, seeking 2.4GWh of energy storage in Western Australia",
-    "link": "https://www.energy-storage.news/capacity-investment-scheme-tender-6-to-open-soon-seeking-2-4gwh-of-energy-storage-in-western-australia/",
-    "date": "2025-08-11",
-    "summary": "Australia’s AusEnergy Services (ASL), formerly AEMO Services, has released the Capacity Investment Scheme (CIS) Tender 6 parameters, seeking…",
-    "source": "Energy-Storage.News",
-    "image": null
-  },
-  {
     "title": "Illuminate USA to acquire US-made solar glass from Solarcycle",
     "link": "https://www.pv-tech.org/illuminate-usa-acquire-us-made-solar-glass-solarcycle/",
     "date": "2025-08-11",
@@ -188,14 +204,6 @@
     "link": "https://www.pv-tech.org/european-solar-buyers-confidence-falls-july-2025/",
     "date": "2025-08-11",
     "summary": "European solar buyers’ confidence fell to a record low level in July 2025 due to 'caution among buyers' in a more ' volatile' environment.…",
-    "source": "PV Tech",
-    "image": null
-  },
-  {
-    "title": "US Commerce initiates AD/CVD investigation on Indian, Indonesian and Laos solar cells",
-    "link": "https://www.pv-tech.org/us-commerce-initiates-ad-cvd-investigation-on-indian-indonesian-and-laos-solar-cells/",
-    "date": "2025-08-11",
-    "summary": "The US Department of Commerce has initiated antidumping duty and countervailing duty investigations of crystalline silicon PV cells, whether…",
     "source": "PV Tech",
     "image": null
   },
@@ -428,14 +436,6 @@
     "link": "https://www.solarpowerworldonline.com/2025/08/boost-efficiency-and-save-on-bos-with-fixed-string-voltage-architecture-how-solaredge-terramax-1500v-inverters-and-h-series-power-optimizers-transform-large-scale-commercial-pv-design/",
     "date": "2025-08-07",
     "summary": "By Tim Stocker, Principal Product Manager, CC&#38;I When we tell engineers and EPCs that our inverters use “fixed string voltage,” we often …",
-    "source": "Solar Power World",
-    "image": null
-  },
-  {
-    "title": "FlexGen acquires Powin IP, will keep popular BESS brand afloat",
-    "link": "https://www.solarpowerworldonline.com/2025/08/flexgen-acquires-powin-ip-will-keep-popular-bess-brand-afloat/",
-    "date": "2025-08-07",
-    "summary": "FlexGen Power Systems, a battery integrator and provider of energy management software, will acquire a substantial portion of Powin&#8217;s …",
     "source": "Solar Power World",
     "image": null
   },
