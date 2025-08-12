@@ -2,7 +2,7 @@
 <html lang="zh-CN">
 <head>
   <meta charset="UTF-8" />
-  <title>储能行业新闻聚合 | BESS News Hub</title>
+  <title>储能行业聚合新闻｜BESS News Hub</title>
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <link rel="stylesheet" href="css/style.css" />
 </head>
@@ -13,6 +13,12 @@
   <!-- 分类栏模块插槽 -->
   <div id="category-bar"></div>
 
+  <!-- 页面标题区 -->
+  <header class="page-hero">
+    <h1>储能行业聚合新闻 · BESS News Hub</h1>
+    <p id="last-updated" class="subtle">最后更新：加载中…</p>
+  </header>
+
   <!-- 主内容区域 -->
   <main style="padding: 2rem;">
     <section id="news-container" class="news-list"></section>
@@ -22,8 +28,9 @@
   <!-- 页脚模块插槽 -->
   <div id="footer"></div>
 
-  <!-- 加载模块 -->
+  <!-- 加载模块 + 渲染数据 -->
   <script>
+    // 加载通用组件
     ["header","footer","category-bar","loading"].forEach(id=>{
       fetch(`components/${id}.html`).then(r=>r.text()).then(html=>{
         const el = document.getElementById(id);
@@ -31,8 +38,19 @@
       });
     });
 
-    // 只读本地 JSON（由 GitHub Actions 自动生成/更新）
-    fetch("data/news.json?_ts="+Date.now())
+    // 显示更新时间（由 GitHub Actions 生成 data/meta.json）
+    fetch("data/meta.json?_ts=" + Date.now())
+      .then(r => r.json())
+      .then(meta => {
+        const el = document.getElementById("last-updated");
+        if (el && meta && meta.updated) {
+          el.textContent = `最后更新：${meta.updated} · 共 ${meta.count || 0} 条`;
+        }
+      })
+      .catch(()=>{ /* 忽略 */ });
+
+    // 渲染新闻列表（读取本地 data/news.json）
+    fetch("data/news.json?_ts=" + Date.now())
       .then(res => res.json())
       .then(list => {
         const container = document.getElementById("news-container");
