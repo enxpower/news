@@ -15,32 +15,43 @@
 
   <!-- 主内容区域 -->
   <main style="padding: 2rem;">
-    <section id="news-container" class="news-list">
-      <!-- 新闻列表将在这里加载 -->
-    </section>
-
-    <!-- 加载状态 -->
+    <section id="news-container" class="news-list"></section>
     <div id="loading" style="margin-top:2rem;">🔄 正在加载新闻，请稍候…</div>
   </main>
 
   <!-- 页脚模块插槽 -->
   <div id="footer"></div>
 
-  <!-- 插入：模块加载脚本 -->
+  <!-- 加载模块 -->
   <script>
-    const modules = ["header", "footer", "category-bar", "loading"];
-    modules.forEach(id => {
-      fetch(`components/${id}.html`)
-        .then(res => res.text())
-        .then(html => {
-          document.getElementById(id).innerHTML = html;
-        });
+    ["header","footer","category-bar","loading"].forEach(id=>{
+      fetch(`components/${id}.html`).then(r=>r.text()).then(html=>{
+        const el = document.getElementById(id);
+        if (el) el.innerHTML = html;
+      });
     });
-  </script>
 
-  <!-- 插入：RSS 聚合脚本（浏览器中自动加载 RSS） -->
-  <script src="https://unpkg.com/rss-parser/dist/rss-parser.min.js"></script>
-  <script src="js/feeds.js"></script>
-  <script src="js/main.js"></script>
+    // 只读本地 JSON（由 GitHub Actions 自动生成/更新）
+    fetch("data/news.json?_ts="+Date.now())
+      .then(res => res.json())
+      .then(list => {
+        const container = document.getElementById("news-container");
+        container.innerHTML = "";
+        list.forEach(item=>{
+          const card = document.createElement("div");
+          card.className = "news-card";
+          card.innerHTML = `
+            <h3><a href="${item.link}" target="_blank" rel="noopener">${item.title}</a></h3>
+            <p class="meta">${item.source || ""} · ${item.date || ""}</p>
+            <p>${item.summary || ""}</p>
+          `;
+          container.appendChild(card);
+        });
+        document.getElementById("loading").style.display = "none";
+      })
+      .catch(()=>{
+        document.getElementById("loading").innerText = "❌ 加载 news.json 失败。";
+      });
+  </script>
 </body>
 </html>
