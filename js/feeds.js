@@ -1,7 +1,5 @@
-// 你的网站将从这些 RSS 源拉取新闻
 const FEED_URLS = [
-  "https://www.energy-storage.news/feed/",
-  "https://www.pv-magazine.com/feed/",
-  "https://solarbuildermag.com/feed/"
+  "https://cleantechnica.com/tag/energy-storage/feed/",
+  "https://www.renewableenergyworld.com/storage/feed/",
+  "https://www.utilitydive.com/rss/energy/"
 ];
-
