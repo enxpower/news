@@ -20,15 +20,14 @@
     </section>
 
     <!-- 加载状态 -->
-    <div id="loading" style="margin-top:2rem;"></div>
+    <div id="loading" style="margin-top:2rem;">🔄 正在加载新闻，请稍候…</div>
   </main>
 
   <!-- 页脚模块插槽 -->
   <div id="footer"></div>
 
-  <!-- 模块加载脚本 -->
+  <!-- 插入：模块加载脚本 -->
   <script>
-    // 加载模块（header/footer/category-bar/loading）
     const modules = ["header", "footer", "category-bar", "loading"];
     modules.forEach(id => {
       fetch(`components/${id}.html`)
@@ -37,28 +36,11 @@
           document.getElementById(id).innerHTML = html;
         });
     });
-
-    // 加载新闻数据
-    fetch("data/news.json")
-      .then(res => res.json())
-      .then(data => {
-        const container = document.getElementById("news-container");
-        data.forEach(item => {
-          const card = document.createElement("div");
-          card.className = "news-card";
-          card.innerHTML = `
-            <h3><a href="${item.link}" target="_blank">${item.title}</a></h3>
-            <p class="meta">${item.source} · ${item.date}</p>
-            <p>${item.summary}</p>
-          `;
-          container.appendChild(card);
-        });
-        document.getElementById("loading").style.display = "none";
-      })
-      .catch(err => {
-        document.getElementById("loading").innerText = "❌ 加载新闻失败，请稍后重试。";
-      });
   </script>
+
+  <!-- 插入：RSS 聚合脚本（浏览器中自动加载 RSS） -->
+  <script src="https://unpkg.com/rss-parser/dist/rss-parser.min.js"></script>
+  <script src="js/feeds.js"></script>
+  <script src="js/main.js"></script>
 </body>
 </html>
-
