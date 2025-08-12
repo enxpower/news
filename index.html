@@ -30,7 +30,7 @@
 
   <!-- 加载模块 + 渲染数据 -->
   <script>
-    // 加载通用组件
+    // 通用组件
     ["header","footer","category-bar","loading"].forEach(id=>{
       fetch(`components/${id}.html`).then(r=>r.text()).then(html=>{
         const el = document.getElementById(id);
@@ -38,7 +38,7 @@
       });
     });
 
-    // 显示更新时间（由 GitHub Actions 生成 data/meta.json）
+    // 显示更新时间
     fetch("data/meta.json?_ts=" + Date.now())
       .then(r => r.json())
       .then(meta => {
@@ -49,19 +49,26 @@
       })
       .catch(()=>{ /* 忽略 */ });
 
-    // 渲染新闻列表（读取本地 data/news.json）
+    // 渲染新闻列表（本地 JSON）
     fetch("data/news.json?_ts=" + Date.now())
       .then(res => res.json())
       .then(list => {
         const container = document.getElementById("news-container");
         container.innerHTML = "";
         list.forEach(item=>{
-          const card = document.createElement("div");
+          const card = document.createElement("article");
           card.className = "news-card";
+
+          const hasImg = item.image && typeof item.image === "string";
           card.innerHTML = `
-            <h3><a href="${item.link}" target="_blank" rel="noopener">${item.title}</a></h3>
-            <p class="meta">${item.source || ""} · ${item.date || ""}</p>
-            <p>${item.summary || ""}</p>
+            ${hasImg ? `<a class="thumb-wrap" href="${item.link}" target="_blank" rel="noopener">
+                          <img class="thumb" src="${item.image}" alt="preview" loading="lazy">
+                        </a>` : ``}
+            <div class="news-body">
+              <h3><a href="${item.link}" target="_blank" rel="noopener">${item.title}</a></h3>
+              <p class="meta">${item.source || ""} · ${item.date || ""}</p>
+              <p>${item.summary || ""}</p>
+            </div>
           `;
           container.appendChild(card);
         });
