@@ -1,74 +1,66 @@
-# aggregator.py
-# 作用：
-# - 读取 feeds 列表（优先 data/feeds.json，其次根目录 feeds.json）
-# - 每个源最多取 30 条（超过自动截断）
-# - 若源最近无更新（默认 30 天内无新条目）则跳过该源（不报错）
-# - 自动去重（按 link），清洗摘要，尝试提取图片
+# fetch_feeds.py
+# 固化要求：
+# - 每源最多 30 条（PER_FEED_LIMIT）
+# - 源若 30 天无更新则跳过（STALE_DAYS）
 # - 生成 data/news.json 与 data/meta.json
-# - 任何单个源失败都只计入统计，不中断脚本（确保 workflow 不会 fail）
+# - 不因单源失败导致脚本报错退出
 
 import os
 import json
 import feedparser
 from datetime import datetime, timezone, timedelta
 
-# ---------- 可调参数 ----------
-STALE_DAYS = int(os.getenv("STALE_DAYS", "30"))     # 源若在此天数内无更新，则视为“无更新”并跳过
-PER_FEED_LIMIT = int(os.getenv("PER_FEED_LIMIT", "30"))  # 每个源最多条数
-TOTAL_LIMIT = int(os.getenv("TOTAL_LIMIT", "200"))  # 聚合后总条数上限
+# ---------- 可调参数（也可用环境变量覆盖） ----------
+STALE_DAYS = int(os.getenv("STALE_DAYS", "30"))
+PER_FEED_LIMIT = int(os.getenv("PER_FEED_LIMIT", "30"))
+TOTAL_LIMIT = int(os.getenv("TOTAL_LIMIT", "200"))
 USER_AGENT = os.getenv("FEED_USER_AGENT", "Mozilla/5.0 (compatible; BESSNewsBot/1.2; +https://example.org)")
-# -----------------------------
+# ---------------------------------------------------
 
 feedparser.USER_AGENT = USER_AGENT
 
 def load_feeds() -> list[str]:
-    candidates = ["data/feeds.json", "feeds.json"]
-    for path in candidates:
+    """优先 data/feeds.json，其次根目录 feeds.json；支持 ['url', ...] 或 [{'url': '...'}]"""
+    for path in ("data/feeds.json", "feeds.json"):
         if os.path.exists(path):
             with open(path, "r", encoding="utf-8") as f:
                 data = json.load(f)
-            # 既支持 ["url", ...] 也支持 [{"url": "..."}]
             feeds = []
             if isinstance(data, list):
-                for item in data:
-                    if isinstance(item, str):
-                        feeds.append(item.strip())
-                    elif isinstance(item, dict) and "url" in item:
-                        feeds.append(item["url"].strip())
+                for it in data:
+                    if isinstance(it, str):
+                        feeds.append(it.strip())
+                    elif isinstance(it, dict) and "url" in it:
+                        feeds.append(str(it["url"]).strip())
             return [u for u in feeds if u]
-    print("⚠️ 未找到 feeds 列表（尝试了 data/feeds.json 和 feeds.json）")
+    print("⚠️ 未找到 feeds 列表（data/feeds.json 或 feeds.json）")
     return []
 
-def pick_date(entry) -> datetime | None:
-    # 1) *_parsed
+def pick_date(entry):
+    """尽量从 entry 中取出 UTC 日期"""
     for key in ("published_parsed", "updated_parsed", "created_parsed"):
         if entry.get(key):
             try:
                 return datetime(*entry[key][:6], tzinfo=timezone.utc)
             except Exception:
                 pass
-    # 2) 文本字段兜底
     for key in ("published", "updated", "created"):
         val = entry.get(key)
         if isinstance(val, str) and len(val) >= 10:
             try:
-                # 常见格式：YYYY-MM-DD...
+                # 常见格式 YYYY-MM-DD...
                 return datetime.fromisoformat(val[:10] + "T00:00:00+00:00")
             except Exception:
-                # 尝试 RFC2822 解析（feedparser 通常会给 parsed，不走到这里）
                 pass
     return None
 
-def date_to_str(d: datetime | None) -> str:
-    if not d:
-        return ""
-    return d.astimezone(timezone.utc).strftime("%Y-%m-%d")
+def date_to_str(d):
+    return d.astimezone(timezone.utc).strftime("%Y-%m-%d") if d else ""
 
 def clean_summary(txt: str) -> str:
     if not txt:
         return ""
     t = txt.replace("\n", " ").replace("\r", " ")
-    # 粗糙去标签
     for tag in ("<p>", "</p>", "<br>", "<br/>", "<br />"):
         t = t.replace(tag, " ")
     t = " ".join(t.split())
@@ -114,15 +106,13 @@ def main():
     for url in feeds:
         try:
             feed = feedparser.parse(url)
-            # 某些异常时 feed.bozo == 1，但仍可能有 entries；这里不据此直接失败
             entries = list(feed.entries or [])
             if not entries:
-                # 空源：当作“无更新”，跳过
+                # 空源：按无更新处理
                 stats["skipped_stale"] += 1
                 continue
 
-            # 以最新一条的时间判断这条源是否“近期有更新”
-            # 取 entries 中有日期的最大值
+            # 判断该源最近是否有更新
             latest_dt = None
             for e in entries:
                 d = pick_date(e)
@@ -130,11 +120,11 @@ def main():
                     latest_dt = d
 
             if (latest_dt is None) or (latest_dt < stale_cutoff):
-                # 最近 STALE_DAYS 内无更新
+                # 超过 STALE_DAYS 无更新：跳过
                 stats["skipped_stale"] += 1
                 continue
 
-            # 该源可用：限制每源最多 PER_FEED_LIMIT 条
+            # 限制每源条数
             entries = entries[:PER_FEED_LIMIT]
             source = feed.feed.get("title", "RSS Source")
 
@@ -143,15 +133,13 @@ def main():
                 title = (e.get("title") or "").strip()
                 if not link or not title:
                     continue
-
                 if link.lower() in seen_links:
                     continue
 
-                d = pick_date(e)
                 item = {
                     "title": title,
                     "link": link,
-                    "date": date_to_str(d),
+                    "date": date_to_str(pick_date(e)),
                     "summary": clean_summary(e.get("summary", "")),
                     "source": source,
                     "image": extract_image(e)
@@ -167,19 +155,16 @@ def main():
 
     stats["items_before_dedup"] = len(all_items)
 
-    # 按日期倒序并总体裁剪
+    # 全局排序与总量裁剪
     all_items.sort(key=lambda x: x.get("date",""), reverse=True)
     if TOTAL_LIMIT and len(all_items) > TOTAL_LIMIT:
         all_items = all_items[:TOTAL_LIMIT]
 
-    # 确保输出目录存在
     os.makedirs("data", exist_ok=True)
 
-    # 写 news.json
     with open("data/news.json", "w", encoding="utf-8") as f:
         json.dump(all_items, f, ensure_ascii=False, indent=2)
 
-    # 写 meta.json（包含统计与更新时间）
     meta = {
         "updated": now_utc.strftime("%Y-%m-%d %H:%M UTC"),
         "count": len(all_items),
@@ -193,7 +178,6 @@ def main():
     with open("data/meta.json", "w", encoding="utf-8") as f:
         json.dump(meta, f, ensure_ascii=False, indent=2)
 
-    # 友好日志（不以异常结束，保证 workflow 成功）
     print("✅ 聚合完成")
     print(json.dumps(meta, ensure_ascii=False, indent=2))
 
