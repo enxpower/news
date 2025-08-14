@@ -184,6 +184,14 @@
     "image": null
   },
   {
+    "title": "Optimizing MMC Submodule Capacitor Design for Medium Voltage Converters",
+    "link": "https://eepower.com/technical-articles/optimizing-mmc-submodule-capacitor-design-for-medium-voltage-converters/",
+    "date": "2025-08-14",
+    "summary": "Learn how to determine the minimum capacitor per submodule to control voltage ripple and ensure long-term energy stability in 10-100 kV modu…",
+    "source": "EE Power",
+    "image": null
+  },
+  {
     "title": "Google Invests in CO2 Battery for Long-Duration Energy Storage",
     "link": "https://eepower.com/news/google-invests-in-co2-battery-for-long-duration-energy-storage/",
     "date": "2025-08-14",
@@ -748,14 +756,6 @@
     "link": "https://eepower.com/news/gm-ford-and-tesla-make-a-leap-to-lfp-battery-production/",
     "date": "2025-07-30",
     "summary": "Electric vehicle makers and battery companies are launching production on lithium-iron phosphate batteries in the U.S. What’s behind the mov…",
-    "source": "EE Power",
-    "image": null
-  },
-  {
-    "title": "Exclusive Interview: Quino Energy CEO Touts Flow Battery Advantages",
-    "link": "https://eepower.com/market-insights/exclusive-interview-quino-energy-ceo-touts-flow-battery-advantages/",
-    "date": "2025-07-30",
-    "summary": "Quino Energy’s CEO Eugene Beh discusses flow batteries’ role in grid stabilization and shorter-duration energy storage.…",
     "source": "EE Power",
     "image": null
   }
