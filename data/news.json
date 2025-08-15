@@ -1,5 +1,13 @@
 [
   {
+    "title": "Viridi claims its BESS products meet the One Big Beautiful Bill’s FEOC requirements",
+    "link": "https://www.energy-storage.news/viridi-claims-its-bess-products-meet-the-one-big-beautiful-bills-feoc-requirements/",
+    "date": "2025-08-15",
+    "summary": "Viridi Parente has announced its battery energy storage systems (BESS) products meet the current Foreign Entity of Concern (FEOC) requiremen…",
+    "source": "Energy-Storage.News",
+    "image": null
+  },
+  {
     "title": "Spearmint Energy gets greenlight for Texas City BESS, as a further 860MW+ of capacity withdrawn from ERCOT queue",
     "link": "https://www.energy-storage.news/spearmint-energy-gets-greenlight-for-texas-city-bess-as-a-further-860mw-of-capacity-withdrawn-from-ercot-queue/",
     "date": "2025-08-15",
@@ -32,6 +40,14 @@
     "image": null
   },
   {
+    "title": "T1 Energy, Corning sign ‘landmark’ US-made solar poly, wafer, cell supply deal",
+    "link": "https://www.pv-tech.org/t1-energy-corning-landmark-us-made-solar-poly-wafer-cell-supply-deal/",
+    "date": "2025-08-15",
+    "summary": "US solar manufacturer T1 Energy has signed a deal to buy US-made polysilicon and wafers from ceramics and glass producer Corning.…",
+    "source": "PV Tech",
+    "image": null
+  },
+  {
     "title": "FTC Solar launches tracker for extreme wind conditions",
     "link": "https://www.pv-tech.org/ftc-solar-launches-tracker-for-extreme-wind-conditions/",
     "date": "2025-08-15",
@@ -61,6 +77,22 @@
     "date": "2025-08-15",
     "summary": "Gentari Renewables has broken ground on its 243MWp Maryvale solar-plus-storage site in New South Wales, Australia.…",
     "source": "PV Tech",
+    "image": null
+  },
+  {
+    "title": "Corning, T1 Energy sign agreement for American solar panel supply chain",
+    "link": "https://www.solarpowerworldonline.com/2025/08/corning-t1-energy-sign-agreement-for-american-solar-panel-supply-chain/",
+    "date": "2025-08-15",
+    "summary": "T1 Energy has signed an agreement with Corning for domestic supply of silicon wafers for its solar panel manufacturing. Corning solar wafers…",
+    "source": "Solar Power World",
+    "image": null
+  },
+  {
+    "title": "REC solar panel deliveries back on track after June fire at Singapore factory",
+    "link": "https://www.solarpowerworldonline.com/2025/08/rec-solar-panel-deliveries-back-on-track-after-june-fire-at-singapore-factory/",
+    "date": "2025-08-15",
+    "summary": "A fire at REC&#8217;s solar cell and panel factory in Singapore this June has set back the company&#8217;s delivery timelines, according to …",
+    "source": "Solar Power World",
     "image": null
   },
   {
@@ -144,14 +176,6 @@
     "image": null
   },
   {
-    "title": "India’s battery storage boom: Getting the execution right",
-    "link": "https://www.energy-storage.news/indias-battery-storage-boom-getting-the-execution-right/",
-    "date": "2025-08-14",
-    "summary": "India's ambitious drive for renewable energy has accelerated the need for energy storage, but there are many factors to success, writes Char…",
-    "source": "Energy-Storage.News",
-    "image": null
-  },
-  {
     "title": "SolMicroGrid launches energy-as-a-service partner program for developers and EPCs",
     "link": "https://www.pv-tech.org/solmicrogrid-launches-energy-as-a-service-partner-program-for-developers-and-epcs/",
     "date": "2025-08-14",
@@ -188,14 +212,6 @@
     "link": "https://www.pv-tech.org/eskom-opens-tender-for-291mw-of-pv-in-south-africa/",
     "date": "2025-08-14",
     "summary": "South Africa’s state-owned energy utility, Eskom, has issued a request for proposals for 291MW of solar capacity.…",
-    "source": "PV Tech",
-    "image": null
-  },
-  {
-    "title": "Cells and wafers account for 42% of Chinese solar exports in H1 2025",
-    "link": "https://www.pv-tech.org/cells-wafers-account-42-chinese-solar-exports-h1-2025/",
-    "date": "2025-08-14",
-    "summary": "Cells and wafers have accounted for 22% and 20%, respectively, of China’s product exports in the first half of 2025, according to Ember.…",
     "source": "PV Tech",
     "image": null
   },
@@ -420,22 +436,6 @@
     "link": "https://www.solarpowerworldonline.com/2025/08/namaste-solar-installs-project-for-denver-nonprofit-serving-blind-children/",
     "date": "2025-08-12",
     "summary": "The Anchor Center for Blind Children, Colorado’s only nonprofit dedicated to serving young children who are blind or visually impaired, has …",
-    "source": "Solar Power World",
-    "image": null
-  },
-  {
-    "title": "Residential solar contractors brace for market turbulence Long-time PV installers share strategies for weathering waning subsidies.",
-    "link": "https://www.solarpowerworldonline.com/2025/08/residential-solar-contractors-brace-for-market-turbulence/",
-    "date": "2025-08-12",
-    "summary": "The U.S. solar industry has experienced unprecedented growth with tax credits spurring new PV deployment. The Inflation Reduction Act (IRA) …",
-    "source": "Solar Power World",
-    "image": null
-  },
-  {
-    "title": "Renon batteries reach UL 9540 certification with Sol-Ark inverters",
-    "link": "https://www.solarpowerworldonline.com/2025/08/renon-batteries-reach-ul-9540-certification-with-sol-ark-inverters/",
-    "date": "2025-08-12",
-    "summary": "The Xcellent Plus residential energy storage system from Renon Power has achieved UL 9540 certification when paired with the Sol-Ark 12K and…",
     "source": "Solar Power World",
     "image": null
   },
