@@ -176,6 +176,14 @@
     "image": null
   },
   {
+    "title": "HV-IGBT Module for High-Performance Inverter Design",
+    "link": "https://eepower.com/technical-articles/hv-igbt-module-for-high-performance-inverter-design/",
+    "date": "2025-08-15",
+    "summary": "Learn about Mitsubishi’s XB-Series HV-IGBT modules. They offer lower switching losses and enhanced reliability through 7th-gen Si IGBT and R…",
+    "source": "EE Power",
+    "image": null
+  },
+  {
     "title": "Demand for Energy Efficiency Fuels Heat Pump Growth",
     "link": "https://eepower.com/market-insights/demand-for-energy-efficiency-fuels-heat-pump-growth/",
     "date": "2025-08-15",
@@ -748,14 +756,6 @@
     "link": "https://eepower.com/news/floating-factory-makes-clean-e-fuels-from-wind-and-seawater/",
     "date": "2025-08-01",
     "summary": "German researchers have created a floating platform that turns offshore wind, seawater, and air into synthetic fuels, marking a new phase in…",
-    "source": "EE Power",
-    "image": null
-  },
-  {
-    "title": "Transmission Line Losses and Efficiency Optimization—Part 5: FACTS",
-    "link": "https://eepower.com/technical-articles/transmission-line-losses-and-efficiency-optimizationpart-5-facts/",
-    "date": "2025-07-31",
-    "summary": "Learn about the role of Flexible AC Transmission Systems (FACTS) in enhancing power system efficiency, stability, and controllability. We’ll…",
     "source": "EE Power",
     "image": null
   }
