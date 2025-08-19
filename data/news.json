@@ -1,5 +1,13 @@
 [
   {
+    "title": "Minnesota Public Utilities Commission approves state’s first standalone BESS project",
+    "link": "https://www.energy-storage.news/minnesota-public-utilities-commission-approves-states-first-standalone-bess-project/",
+    "date": "2025-08-19",
+    "summary": "The Minnesota Public Utilities Commission (PUC) has approved a site permit for Spearmint Energy’s 150MW/600MWh battery energy storage system…",
+    "source": "Energy-Storage.News",
+    "image": null
+  },
+  {
     "title": "Hithium signs 1GWh residential and C&I BESS distribution agreement in Pakistan",
     "link": "https://www.energy-storage.news/hithium-signs-1gwh-residential-and-ci-bess-distribution-agreement-in-pakistan/",
     "date": "2025-08-19",
@@ -32,6 +40,14 @@
     "image": null
   },
   {
+    "title": "Geronimo Power breaks ground on 125MW solar PV plant in Michigan",
+    "link": "https://www.pv-tech.org/geronimo-power-breaks-ground-on-125mw-solar-pv-plant-in-michigan/",
+    "date": "2025-08-19",
+    "summary": "Independent power producer Geronimo Power has started construction on a 125MW solar PV plant in the Midwest US state of Michigan.…",
+    "source": "PV Tech",
+    "image": null
+  },
+  {
     "title": "Third Pillar Solar looks to build 500MW of floating PV on Texas reservoirs",
     "link": "https://www.pv-tech.org/third-pillar-solar-looks-to-build-500mw-of-floating-pv-on-texas-reservoirs/",
     "date": "2025-08-19",
@@ -56,6 +72,22 @@
     "image": null
   },
   {
+    "title": "Solar Spotlight: Empowering Utility-Scale Solar from the Ground Up",
+    "link": "https://www.solarpowerworldonline.com/2025/08/solar-spotlight-covering-pv-electronics-from-substation-to-accessories/",
+    "date": "2025-08-19",
+    "summary": "Josh Dorfman, President of American Wire Group, discusses with Solar Spotlight how project developers can save time, reduce risk, and ensure…",
+    "source": "Solar Power World",
+    "image": null
+  },
+  {
+    "title": "Meta data center in South Carolina to run on power from 100-MW Silicon Ranch solar project",
+    "link": "https://www.solarpowerworldonline.com/2025/08/silicon-ranch-building-solar-project-supporting-meta-data-center/",
+    "date": "2025-08-19",
+    "summary": "Silicon Ranch will partner with Columbia-based Central Electric Power Cooperative to build a 100-MW solar farm that will support Meta’s firs…",
+    "source": "Solar Power World",
+    "image": null
+  },
+  {
     "title": "German wind power firm Volkswind names new CEO",
     "link": "https://www.windpowermonthly.com/article/1929240/german-wind-power-firm-volkswind-names-new-ceo",
     "date": "2025-08-19",
@@ -69,6 +101,14 @@
     "date": "2025-08-19",
     "summary": "<img alt=\"China’s Rare Earth Grip: TECHCET Report Warns of Global Supply Chain Shifts.\" class=\"webfeedsFeaturedVisual wp-post-image\" height=…",
     "source": "Power Electronics News",
+    "image": null
+  },
+  {
+    "title": "Briefs: Companies Deal in Data Center Energy, EV Charging",
+    "link": "https://eepower.com/news/briefs-companies-deal-in-data-center-energy-ev-charging/",
+    "date": "2025-08-19",
+    "summary": "Google, Eaton, Shell, Emobi, and ElectricFish have announced partnerships, deals, changes, and products for data center energy and electric …",
+    "source": "EE Power",
     "image": null
   },
   {
@@ -148,14 +188,6 @@
     "link": "https://www.pv-tech.org/longi-unveils-new-lightweight-bc-module-for-rooftop-ci/",
     "date": "2025-08-18",
     "summary": "Chinese module manufacturer LONGI has launched a new back-contact (BC) lightweight module for commercial and industrial (C&#038;I) rooftop a…",
-    "source": "PV Tech",
-    "image": null
-  },
-  {
-    "title": "Maxeon’s module shipments fall by 90% over two years amid border dispute",
-    "link": "https://www.pv-tech.org/maxeons-module-shipments-fall-by-90-over-two-years-amid-border-dispute/",
-    "date": "2025-08-18",
-    "summary": "Maxeon shipped just 153.2MW of modules in the first half of this year, just 15% of the capacity sold in the first half of 2024.…",
     "source": "PV Tech",
     "image": null
   },
@@ -268,14 +300,6 @@
     "link": "https://www.energy-storage.news/viridi-claims-its-bess-products-meet-the-one-big-beautiful-bills-feoc-requirements/",
     "date": "2025-08-15",
     "summary": "Viridi Parente has announced its battery energy storage systems (BESS) products meet the current Foreign Entity of Concern (FEOC) requiremen…",
-    "source": "Energy-Storage.News",
-    "image": null
-  },
-  {
-    "title": "Spearmint Energy gets greenlight for Texas City BESS, as a further 860MW+ of capacity withdrawn from ERCOT queue",
-    "link": "https://www.energy-storage.news/spearmint-energy-gets-greenlight-for-texas-city-bess-as-a-further-860mw-of-capacity-withdrawn-from-ercot-queue/",
-    "date": "2025-08-15",
-    "summary": "Miami, Florida-based developer Spearmint Energy has been given the go-ahead to develop a 300MW/600MWh lithium-ion BESS destined for Texas Ci…",
     "source": "Energy-Storage.News",
     "image": null
   },
@@ -469,22 +493,6 @@
     "date": "2025-08-14",
     "summary": "Google has partnered with Energy Dome to scale long-duration carbon dioxide battery storage to advance its carbon-free goals.…",
     "source": "EE Power",
-    "image": null
-  },
-  {
-    "title": "GoodLeap partners with Connecticut Green Bank to develop VPPs across the state",
-    "link": "https://www.solarpowerworldonline.com/2025/08/goodleap-partners-with-connecticut-green-bank-to-develop-vpps-across-the-state/",
-    "date": "2025-08-13",
-    "summary": "The Connecticut Green Bank and GoodLeap have announced a strategic partnership to develop and operate virtual power plants (VPPs) across Con…",
-    "source": "Solar Power World",
-    "image": null
-  },
-  {
-    "title": "Paired Power earns patent for solar-powered EV charger platform",
-    "link": "https://www.solarpowerworldonline.com/2025/08/paired-power-earns-patent-for-solar-powered-ev-charger-platform/",
-    "date": "2025-08-13",
-    "summary": "Paired Power, a leading manufacturer of solar-powered electric vehicle (EV) charging systems, was awarded a patent for its PairTree solar ca…",
-    "source": "Solar Power World",
     "image": null
   },
   {
@@ -748,14 +756,6 @@
     "link": "https://eepower.com/news/biz-briefs-ev-chargers-fuel-cells-and-wind-turbines-push-on/",
     "date": "2025-08-05",
     "summary": "Recent business plans and partnerships involve InstaVolt, Wallbox, Doosan Fuel, Ceres, Richardson Electronics, KEBA Industrial Automation, S…",
-    "source": "EE Power",
-    "image": null
-  },
-  {
-    "title": "Nokia To Install Private 5G Network To Modernize Tennessee Grid",
-    "link": "https://eepower.com/news/nokia-to-install-private-5g-network-to-modernize-tennessee-grid/",
-    "date": "2025-08-04",
-    "summary": "The deal between Noka and Memphis, Light, Gas and Water represents a growing trend in 5G utilization in smart grid operations.…",
     "source": "EE Power",
     "image": null
   }
