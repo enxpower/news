@@ -64,6 +64,22 @@
     "image": null
   },
   {
+    "title": "CTO interview with JA Solar",
+    "link": "https://www.pv-tech.org/cto-interview-with-ja-solar/",
+    "date": "2025-08-21",
+    "summary": "JA Solar's CTO, Zi Ouyang, discusses the company's latest module technologies and why the future is tandem.…",
+    "source": "PV Tech",
+    "image": null
+  },
+  {
+    "title": "Canadian Solar’s Q2 module sales increase, battery revenues grow",
+    "link": "https://www.pv-tech.org/canadian-solars-q2-module-sales-increase-battery-revenues-grow/",
+    "date": "2025-08-21",
+    "summary": "Canadian Solar shipped 7.9GW of modules in the second quarter of this year, a 14% quarter-on-quarter increase.…",
+    "source": "PV Tech",
+    "image": null
+  },
+  {
     "title": "33GW utility-scale solar installations forecast in 2025 – US EIA",
     "link": "https://www.pv-tech.org/33gw-utility-scale-solar-installations-forecast-in-2025-us-eia/",
     "date": "2025-08-21",
@@ -96,6 +112,14 @@
     "image": null
   },
   {
+    "title": "Large wind farm commissioned in Montana",
+    "link": "https://www.windpowermonthly.com/article/1929698/large-wind-farm-commissioned-montana",
+    "date": "2025-08-21",
+    "summary": "",
+    "source": "Wind Power News & Analysis RSS Feed",
+    "image": null
+  },
+  {
     "title": "New podcast: Unlocking Asia Pacific’s potential for offshore wind",
     "link": "https://www.windpowermonthly.com/article/1929635/new-podcast-unlocking-asia-pacifics-potential-offshore-wind",
     "date": "2025-08-21",
@@ -117,6 +141,14 @@
     "date": "2025-08-21",
     "summary": "German drivetrain specialist Flender has named Vestas veteran Tommy Rahbek Nielsen as the new president of its Winergy wind business segment…",
     "source": "Wind Power News & Analysis RSS Feed",
+    "image": null
+  },
+  {
+    "title": "Why Grid Hardening is No Longer Optional",
+    "link": "https://www.powermag.com/why-grid-hardening-is-no-longer-optional/",
+    "date": "2025-08-21",
+    "summary": "In the past decade, we have seen &#8220;once in a century storms&#8221; almost every year, flash floods wiping out entire towns, and extreme…",
+    "source": "POWER Magazine",
     "image": null
   },
   {
@@ -188,22 +220,6 @@
     "link": "https://www.pv-tech.org/silicon-ranch-central-electric-to-build-100mw-solar-project-for-meta/",
     "date": "2025-08-20",
     "summary": "Silicon Ranch is building a 100MW solar plant in South Carolina that will supply power to Meta's first data centre in the state.…",
-    "source": "PV Tech",
-    "image": null
-  },
-  {
-    "title": "Enphase signs US$50 million microinverter ITC safe harbour deal",
-    "link": "https://www.pv-tech.org/enphase-signs-us50-million-microinverter-itc-safe-harbour-deal/",
-    "date": "2025-08-20",
-    "summary": "US microinverter manufacturer Enphase Energy has signed a safe harbour deal to secure residential solar tax credits, the second such deal th…",
-    "source": "PV Tech",
-    "image": null
-  },
-  {
-    "title": "CHINA ROUND-UP: 60GW racking procurement; Aiko, LONGi shortlisted in offshore PV project; QW Solar offshoot in EPC win",
-    "link": "https://www.pv-tech.org/china-round-up-60gw-racking-procurement-aiko-longi-shortlisted-in-offshore-pv-project-qw-solar-offshoot-in-epc-win/",
-    "date": "2025-08-20",
-    "summary": "A round-up of breaking solar industry news from China.…",
     "source": "PV Tech",
     "image": null
   },
@@ -576,14 +592,6 @@
     "image": null
   },
   {
-    "title": "Leading Hydrogen Producer May Abandon U.S. Projects Due to Trump’s Actions",
-    "link": "https://www.powermag.com/leading-hydrogen-producer-may-abandon-u-s-projects-due-to-trumps-actions/",
-    "date": "2025-08-15",
-    "summary": "A Germany-headquartered company involved in the global hydrogen industry said it plans to abandon some of its projects in the U.S. due to ac…",
-    "source": "POWER Magazine",
-    "image": null
-  },
-  {
     "title": "Advancing Autonomous Driving with High-Power VCSEL Arrays and GaN HEMTs",
     "link": "https://www.powerelectronicsnews.com/advancing-autonomous-driving-with-high-power-vcsel-arrays-and-gan-hemts/",
     "date": "2025-08-15",
@@ -676,14 +684,6 @@
     "link": "https://www.windpowermonthly.com/article/1928735/zf-wind-power-chief-replace-nielsen-vestas-technology-boss",
     "date": "2025-08-13",
     "summary": "ZF Wind Power CEO Felix Henseler will take over as chief technology and operations officer (CTOO) at Vestas, the wind turbine maker has anno…",
-    "source": "Wind Power News & Analysis RSS Feed",
-    "image": null
-  },
-  {
-    "title": "Vestas turns profit, but US woes harm new wind turbine orders",
-    "link": "https://www.windpowermonthly.com/article/1928729/vestas-turns-profit-us-woes-harm-new-wind-turbine-orders",
-    "date": "2025-08-13",
-    "summary": "Vestas reported a net profit in the second quarter of 2025 as it benefited from improved onshore project performance, although new wind turb…",
     "source": "Wind Power News & Analysis RSS Feed",
     "image": null
   },
