@@ -104,6 +104,14 @@
     "image": null
   },
   {
+    "title": "220-MW Ohio solar project approved for construction",
+    "link": "https://www.solarpowerworldonline.com/2025/08/ohio-solar-project-approved-for-construction/",
+    "date": "2025-08-21",
+    "summary": "The Ohio Power Siting Board (OPSB) has approved the up to 220-MW Eastern Cottontail Solar Project for construction. The project, developed b…",
+    "source": "Solar Power World",
+    "image": null
+  },
+  {
     "title": "Schneider Electric acquires home electrical insight software WattBuy",
     "link": "https://www.solarpowerworldonline.com/2025/08/schneider-electric-acquires-home-electrical-insight-software-wattbuy/",
     "date": "2025-08-21",
@@ -112,7 +120,7 @@
     "image": null
   },
   {
-    "title": "September 2025 Issue: Planning for a Post-Incentive Market",
+    "title": "September 2025 Issue: Planning for a Post-Incentive Market, RE+ Exhibitor Showcase",
     "link": "https://www.solarpowerworldonline.com/2025/08/september-2025-issue-planning-for-a-post-incentive-market/",
     "date": "2025-08-21",
     "summary": "&#160; It&#8217;s time to regroup After spending months trying to predict what would happen to the Inflation Reduction Act under the Trump p…",
@@ -189,6 +197,14 @@
     "date": "2025-08-21",
     "summary": "<img alt=\"Metis Engineering Partners with Lightfighter Racing to Boost Safety and Performance in Electric Superbike Racing.\" class=\"webfeeds…",
     "source": "Power Electronics News",
+    "image": null
+  },
+  {
+    "title": "Role of Thyristor-Controlled Series Capacitors in Power System Control",
+    "link": "https://eepower.com/technical-articles/role-of-thyristor-controlled-series-capacitors-in-power-system-control/",
+    "date": "2025-08-21",
+    "summary": "In this article, learn about the role of Thyristor-Controlled Series Capacitors (TCSC) in enhancing power system performance through dynamic…",
+    "source": "EE Power",
     "image": null
   },
   {
@@ -428,14 +444,6 @@
     "link": "https://www.solarpowerworldonline.com/2025/08/the-obbbs-impact-on-residential-solar-consumer-data-revealed/",
     "date": "2025-08-19",
     "summary": "Every solar professional has spent countless hours trying to decipher what’s in the budget bill that was just signed into law in early July.…",
-    "source": "Solar Power World",
-    "image": null
-  },
-  {
-    "title": "TPO, OBBB, and solar: Why third-party ownership has never been more important",
-    "link": "https://www.solarpowerworldonline.com/2025/08/tpo-obbb-and-solar-why-third-party-ownership-has-never-been-more-important/",
-    "date": "2025-08-19",
-    "summary": "The solar landscape just shifted dramatically. The newly passed One Big Beautiful Bill (OBBB) brings sweeping changes to federal solar incen…",
     "source": "Solar Power World",
     "image": null
   },
@@ -748,14 +756,6 @@
     "link": "https://eepower.com/technical-articles/silicon-carbide-inverter-solutions-enabling-functionally-safe-drivetrain-design-using-certified-components/",
     "date": "2025-08-07",
     "summary": "Learn how SiC inverter solutions offer a modular, functionally safe platform with certified components, accelerating development and complia…",
-    "source": "EE Power",
-    "image": null
-  },
-  {
-    "title": "Switched-Capacitor Design Boosts Inverter Efficiency to 96.5%",
-    "link": "https://eepower.com/market-insights/switched-capacitor-design-boosts-inverter-efficiency-to-96.5/",
-    "date": "2025-08-07",
-    "summary": "Researchers have developed a switched-capacitor-based nine-level inverter that achieves a fourfold voltage and up to 96.5% efficiency.…",
     "source": "EE Power",
     "image": null
   }
