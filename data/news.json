@@ -48,11 +48,43 @@
     "image": null
   },
   {
+    "title": "33GW utility-scale solar installations forecast in 2025 – US EIA",
+    "link": "https://www.pv-tech.org/33gw-utility-scale-solar-installations-forecast-in-2025-us-eia/",
+    "date": "2025-08-21",
+    "summary": "The US Energy Information Administration (EIA) has forecast that the US will add 33.3GW of utility-scale solar PV in 2025.…",
+    "source": "PV Tech",
+    "image": null
+  },
+  {
+    "title": "NTPC Green commissions 212.5MW of 1.2GW Khavda PV plant in Gujarat",
+    "link": "https://www.pv-tech.org/ntpc-green-commissions-212-5mw-of-1-2gw-khavda-pv-plant-in-gujarat/",
+    "date": "2025-08-21",
+    "summary": "National Thermal Power Corporation (NTPC), through its renewable energy arm NTPC Green Energy, has commissioned 212.5MW of solar capacity at…",
+    "source": "PV Tech",
+    "image": null
+  },
+  {
     "title": "Qair secures finance for 5.8MW floating solar project in Seychelles",
     "link": "https://www.pv-tech.org/qair-secures-finance-5-8mw-floating-solar-project-seychelles/",
     "date": "2025-08-21",
     "summary": "Qair has secured a US$5.7 million senior debt facility to finance the development of a 5.8MW floating solar (FPV) project in Seychelles.…",
     "source": "PV Tech",
+    "image": null
+  },
+  {
+    "title": "New podcast: Unlocking Asia Pacific’s potential for offshore wind",
+    "link": "https://www.windpowermonthly.com/article/1929635/new-podcast-unlocking-asia-pacifics-potential-offshore-wind",
+    "date": "2025-08-21",
+    "summary": "This time on the Wind Power Podcast, we speak with three leading industry experts on offshore wind in Asia Pacific, and discuss how Japan, S…",
+    "source": "Wind Power News & Analysis RSS Feed",
+    "image": null
+  },
+  {
+    "title": "Trump vows to halt approvals for 'scam of the century' wind and solar",
+    "link": "https://www.windpowermonthly.com/article/1929628/trump-vows-halt-approvals-scam-century-wind-solar",
+    "date": "2025-08-21",
+    "summary": "US President Donald Trump has pledged not to approve any new wind power or solar projects, claiming they are responsible for “record-breakin…",
+    "source": "Wind Power News & Analysis RSS Feed",
     "image": null
   },
   {
@@ -69,6 +101,14 @@
     "date": "2025-08-21",
     "summary": "<img alt=\"Metis Engineering Partners with Lightfighter Racing to Boost Safety and Performance in Electric Superbike Racing.\" class=\"webfeeds…",
     "source": "Power Electronics News",
+    "image": null
+  },
+  {
+    "title": "Grid-Scale Energy Storage Projects Heat Up Globally",
+    "link": "https://eepower.com/news/grid-scale-energy-storage-projects-heat-up-globally/",
+    "date": "2025-08-21",
+    "summary": "Quidnet Energy, ENBW, and Peak Energy have energy storage projects in the works in the U.S. and Europe.…",
+    "source": "EE Power",
     "image": null
   },
   {
@@ -156,22 +196,6 @@
     "link": "https://www.pv-tech.org/china-round-up-60gw-racking-procurement-aiko-longi-shortlisted-in-offshore-pv-project-qw-solar-offshoot-in-epc-win/",
     "date": "2025-08-20",
     "summary": "A round-up of breaking solar industry news from China.…",
-    "source": "PV Tech",
-    "image": null
-  },
-  {
-    "title": "Italy exceeds 40GW cumulative solar PV installations",
-    "link": "https://www.pv-tech.org/italy-exceeds-40gw-cumulative-solar-pv-installations/",
-    "date": "2025-08-20",
-    "summary": "Italy’s cumulative solar installations have exceeded 40GW, with more than two million solar systems now in operation in the country.…",
-    "source": "PV Tech",
-    "image": null
-  },
-  {
-    "title": "Econergy starts operations at 87MW Oradea solar project in Romania",
-    "link": "https://www.pv-tech.org/econergy-starts-operations-87m-oradea-solar-project-romania/",
-    "date": "2025-08-20",
-    "summary": "Israel-headquartered independent power producer (IPP) Econergy has started commercial operations at its 87MW Oradea solar project in Romania…",
     "source": "PV Tech",
     "image": null
   },
@@ -680,22 +704,6 @@
     "image": null
   },
   {
-    "title": "Wind blade giant TPI Composites files for 'reorganisation bankruptcy'",
-    "link": "https://www.windpowermonthly.com/article/1928598/wind-blade-giant-tpi-composites-files-reorganisation-bankruptcy",
-    "date": "2025-08-12",
-    "summary": "US wind turbine blade maker TPI Composites has commenced 'reorganisation bankruptcy' proceedings – a process that will allow the company to …",
-    "source": "Wind Power News & Analysis RSS Feed",
-    "image": null
-  },
-  {
-    "title": "Ørsted’s €8bn rights issue 'unexpected but necessary' – Sydbank analyst",
-    "link": "https://www.windpowermonthly.com/article/1928541/orsteds-%E2%82%AC8bn-rights-issue-unexpected-necessary-%E2%80%93-sydbank-analyst",
-    "date": "2025-08-11",
-    "summary": "Ørsted's bid to raise DKK 60 billion (€8 billion) through a rights issue – announced in response to US offshore wind challenges and greater …",
-    "source": "Wind Power News & Analysis RSS Feed",
-    "image": null
-  },
-  {
     "title": "Salty ‘Water Glue&#8217; Helps Aqueous Batteries Live Longer",
     "link": "https://eepower.com/market-insights/salty-water-glue-helps-aqueous-batteries-live-longer/",
     "date": "2025-08-11",
@@ -748,14 +756,6 @@
     "link": "https://eepower.com/market-insights/switched-capacitor-design-boosts-inverter-efficiency-to-96.5/",
     "date": "2025-08-07",
     "summary": "Researchers have developed a switched-capacitor-based nine-level inverter that achieves a fourfold voltage and up to 96.5% efficiency.…",
-    "source": "EE Power",
-    "image": null
-  },
-  {
-    "title": "Foam Filling Stops Heat Spread to Prevent EV Battery Fires",
-    "link": "https://eepower.com/news/foam-filling-stops-heat-spread-to-prevent-ev-battery-fires/",
-    "date": "2025-08-06",
-    "summary": "Covestro’s flame-resistant foam helps prevent thermal spread in electric vehicle batteries, offering a safe and efficient solution for high-…",
     "source": "EE Power",
     "image": null
   }
