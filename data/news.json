@@ -1,5 +1,21 @@
 [
   {
+    "title": "Threshold projects scrapped, higher PPA prices, FEOC uncertainty: Life as a US BESS developer-operator post-OBBB",
+    "link": "https://www.energy-storage.news/threshold-projects-scrapped-higher-ppa-prices-feoc-uncertainty-life-us-developer-operator-post-tax-reconciliation-bill-obbb/",
+    "date": "2025-08-21",
+    "summary": "What does Trump's tax reconciliation bill mean for US solar and BESS project development and construction right now? We hear from developer-…",
+    "source": "Energy-Storage.News",
+    "image": null
+  },
+  {
+    "title": "North America energy storage acquisitions: FlexGen acquires Powin, Glencore acquires Li-Cycle",
+    "link": "https://www.energy-storage.news/north-america-energy-storage-acquisitions-flexgen-acquires-powin-glencore-acquires-li-cycle/",
+    "date": "2025-08-21",
+    "summary": "Two North American companies, Powin and Li-Cycle, were recently acquired by FlexGen and Glencore, respectively, after announcing bankruptcy.…",
+    "source": "Energy-Storage.News",
+    "image": null
+  },
+  {
     "title": "Ultra-low cost battery storage launch provokes price war discussion at Shanghai trade show",
     "link": "https://www.energy-storage.news/ultra-low-cost-battery-storage-launch-provokes-price-war-discussion-at-shanghai-trade-show/",
     "date": "2025-08-21",
@@ -72,6 +88,14 @@
     "image": null
   },
   {
+    "title": "New utility-scale solar and wind installs continue to wallop fossil fuel setups in US",
+    "link": "https://www.solarpowerworldonline.com/2025/08/new-utility-scale-solar-and-wind-installs-continue-to-wallop-fossil-fuel-setups-in-us/",
+    "date": "2025-08-21",
+    "summary": "A review of data released by the Federal Energy Regulatory Commission (FERC) shows that the combination of solar and wind accounted for over…",
+    "source": "Solar Power World",
+    "image": null
+  },
+  {
     "title": "New podcast: Unlocking Asia Pacific’s potential for offshore wind",
     "link": "https://www.windpowermonthly.com/article/1929635/new-podcast-unlocking-asia-pacifics-potential-offshore-wind",
     "date": "2025-08-21",
@@ -124,22 +148,6 @@
     "link": "https://www.energy-storage.news/us-epa-issues-comprehensive-full-lifecycle-bess-safety-guidance/",
     "date": "2025-08-20",
     "summary": "US Environmental Protection Agency (EPA) Administrator Lee Zeldin recently held a press conference in Hauppauge, New York, to address the co…",
-    "source": "Energy-Storage.News",
-    "image": null
-  },
-  {
-    "title": "Don’t miss the moment: Why we must scale long-duration energy storage now",
-    "link": "https://www.energy-storage.news/dont-miss-the-moment-why-we-must-scale-long-duration-energy-storage-now/",
-    "date": "2025-08-20",
-    "summary": "Now is the moment for long-duration energy storage to become a key pillar of the energy transition, writes LDES Council CEO Julia Souder.…",
-    "source": "Energy-Storage.News",
-    "image": null
-  },
-  {
-    "title": "Infrastructure solutions provider DS1 begins installing 30MW/60MWh CATL BESS in Lithuania",
-    "link": "https://www.energy-storage.news/infrastructure-solutions-provider-ds1-installing-30mw-60mwh-catl-bess-lithuania/",
-    "date": "2025-08-20",
-    "summary": "Construction has begun in western Lithuania on a 30MW/60MWh grid-connected battery energy storage system (BESS) project using CATL equipment…",
     "source": "Energy-Storage.News",
     "image": null
   },
@@ -469,14 +477,6 @@
     "date": "2025-08-19",
     "summary": "Google, Eaton, Shell, Emobi, and ElectricFish have announced partnerships, deals, changes, and products for data center energy and electric …",
     "source": "EE Power",
-    "image": null
-  },
-  {
-    "title": "Geronimo starts construction on 125-MW project in Michigan",
-    "link": "https://www.solarpowerworldonline.com/2025/08/geronimo-starts-construction-on-125-mw-project-in-michigan/",
-    "date": "2025-08-18",
-    "summary": "Geronimo Power has begun on-site construction at its 125-MW Jackson County Solar project in Jackson County, Michigan. The project should com…",
-    "source": "Solar Power World",
     "image": null
   },
   {
