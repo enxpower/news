@@ -155,7 +155,7 @@
     "title": "600 Workers Take TVA Buyout as Utility Seeks to Cut $1 Billion in Spending",
     "link": "https://www.powermag.com/600-workers-take-tva-buyout-as-utility-seeks-to-cut-1-billion-in-spending/",
     "date": "2025-08-22",
-    "summary": "A spokesperson for the Tennessee Valley Authority (TVA) confirmed that about 600 of the utility&#8217;s employees have taken buyouts. Some w…",
+    "summary": "A spokesperson for the Tennessee Valley Authority (TVA) confirmed that about 600 of the utility's employees have taken buyouts. Some workers…",
     "source": "POWER Magazine",
     "image": null
   },
@@ -189,6 +189,14 @@
     "date": "2025-08-22",
     "summary": "<img alt=\"Power Integrations Launches Solar Race Car Reference Design Kit Ahead of Bridgestone World Solar Challenge.\" class=\"webfeedsFeatur…",
     "source": "Power Electronics News",
+    "image": null
+  },
+  {
+    "title": "Unlocking the Potential of SiC MOSFETs With Front-Side Copper Metallization",
+    "link": "https://eepower.com/technical-articles/unlocking-the-potential-of-sic-mosfets-with-front-side-copper-metallization/",
+    "date": "2025-08-22",
+    "summary": "Learn how front-side copper metallization (FSM) is unlocking the full potential of Silicon Carbide (SiC) MOSFETs, especially as devices shri…",
+    "source": "EE Power",
     "image": null
   },
   {
@@ -748,14 +756,6 @@
     "link": "https://eepower.com/technical-articles/understanding-corona-discharge-in-high-voltage-transmission-lines/",
     "date": "2025-08-10",
     "summary": "The article explores the phenomenon of corona discharge in high-voltage transmission lines and outlines key mitigation techniques.…",
-    "source": "EE Power",
-    "image": null
-  },
-  {
-    "title": "Achieving Galvanic Isolation and Protection With Solid-State Isolators—Part 1",
-    "link": "https://eepower.com/technical-articles/part-1-achieving-galvanic-isolation-and-protection-in-high-performance-systems-with-solid-state-isolators/",
-    "date": "2025-08-08",
-    "summary": "In Part 1 we introduce solid-state isolators (SSIs) with coreless transformer tech, covering architecture, energy transfer, built-in protect…",
     "source": "EE Power",
     "image": null
   }
