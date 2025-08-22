@@ -1,5 +1,13 @@
 [
   {
+    "title": "US ROUNDUP: Energy Vault, Richardson and Fluence make strategic supply chain moves",
+    "link": "https://www.energy-storage.news/us-roundup-energy-vault-richardson-and-fluence-make-strategic-supply-chain-moves/",
+    "date": "2025-08-22",
+    "summary": "Three companies, Energy Vault, Richardson Electronics, and Fluence, have made strategic moves to create a secure BESS equipment supply chain…",
+    "source": "Energy-Storage.News",
+    "image": null
+  },
+  {
     "title": "China drives global BESS deployments in July, technology nears pumped hydro GW capacity",
     "link": "https://www.energy-storage.news/china-drives-global-bess-deployments-in-july-technology-nears-pumped-hydro-gw-capacity/",
     "date": "2025-08-22",
@@ -56,11 +64,43 @@
     "image": null
   },
   {
+    "title": "Siemens Gamesa 5.X turbine suffers blade break at Finnish wind farm",
+    "link": "https://www.windpowermonthly.com/article/1929826/siemens-gamesa-5x-turbine-suffers-blade-break-finnish-wind-farm",
+    "date": "2025-08-22",
+    "summary": "A blade broke off a Siemens Gamesa 5.X turbine at a wind farm in Finland, a company spokesperson confirmed.…",
+    "source": "Wind Power News & Analysis RSS Feed",
+    "image": null
+  },
+  {
+    "title": "Equinor pulls out of 2GW floating offshore wind farm",
+    "link": "https://www.windpowermonthly.com/article/1929805/equinor-pulls-2gw-floating-offshore-wind-farm",
+    "date": "2025-08-22",
+    "summary": "Equinor has pulled out of a 2GW floating offshore wind farm planned off the coast of New South Wales, having seemingly disagreed with Austra…",
+    "source": "Wind Power News & Analysis RSS Feed",
+    "image": null
+  },
+  {
+    "title": "US launches national security probe into wind turbine imports",
+    "link": "https://www.windpowermonthly.com/article/1929794/us-launches-national-security-probe-wind-turbine-imports",
+    "date": "2025-08-22",
+    "summary": "The US has launched a national security investigation into imports of wind turbines and their components and raised the prospect of further …",
+    "source": "Wind Power News & Analysis RSS Feed",
+    "image": null
+  },
+  {
     "title": "Colombia launches South America's first offshore wind power auction",
     "link": "https://www.windpowermonthly.com/article/1929504/colombia-launches-south-americas-first-offshore-wind-power-auction",
     "date": "2025-08-22",
     "summary": "Colombia is offering 15-year power deals in South America's first offtake auction for offshore wind.…",
     "source": "Wind Power News & Analysis RSS Feed",
+    "image": null
+  },
+  {
+    "title": "Solar Energy Is Dropping in Price for Surprising Reasons",
+    "link": "https://eepower.com/market-insights/solar-energy-is-dropping-in-price-for-surprising-reasons/",
+    "date": "2025-08-22",
+    "summary": "An MIT-led study revealed the hidden contributors to plummeting solar costs, and many had nothing to do with solar at all.…",
+    "source": "EE Power",
     "image": null
   },
   {
@@ -108,14 +148,6 @@
     "link": "https://www.energy-storage.news/akaysha-energy-developing-the-worlds-most-powerful-battery-storage-system/",
     "date": "2025-08-21",
     "summary": "“It’s the most powerful BESS in the world,” Nick Carter of Akaysha Energy, tells ESN Premium after switching on the Waratah Super Battery in…",
-    "source": "Energy-Storage.News",
-    "image": null
-  },
-  {
-    "title": "Fluence opens 35GWh utility-scale battery storage system manufacturing facility in Vietnam",
-    "link": "https://www.energy-storage.news/fluence-opens-35gwh-utility-scale-battery-storage-system-manufacturing-facility-in-vietnam/",
-    "date": "2025-08-21",
-    "summary": "Global energy storage technology and energy software services provider Fluence and ACE Engineering have opened a new automated battery stora…",
     "source": "Energy-Storage.News",
     "image": null
   },
@@ -264,7 +296,7 @@
     "image": null
   },
   {
-    "title": "Why Grid Hardening is No Longer Optional",
+    "title": "Why Grid Hardening Is No Longer Optional",
     "link": "https://www.powermag.com/why-grid-hardening-is-no-longer-optional/",
     "date": "2025-08-21",
     "summary": "In the past decade, we have seen &#8220;once in a century storms&#8221; almost every year, flash floods wiping out entire towns, and extreme…",
@@ -656,14 +688,6 @@
     "image": null
   },
   {
-    "title": "RWE profit hit by weak European winds",
-    "link": "https://www.windpowermonthly.com/article/1928857/rwe-profit-hit-weak-european-winds",
-    "date": "2025-08-14",
-    "summary": "RWE reported a drop in profits in the first half of 2025, as unusually low wind speeds across Europe offset gains from new capacity, while w…",
-    "source": "Wind Power News & Analysis RSS Feed",
-    "image": null
-  },
-  {
     "title": "Optimizing MMC Submodule Capacitor Design for Medium Voltage Converters",
     "link": "https://eepower.com/technical-articles/optimizing-mmc-submodule-capacitor-design-for-medium-voltage-converters/",
     "date": "2025-08-14",
@@ -677,22 +701,6 @@
     "date": "2025-08-14",
     "summary": "Google has partnered with Energy Dome to scale long-duration carbon dioxide battery storage to advance its carbon-free goals.…",
     "source": "EE Power",
-    "image": null
-  },
-  {
-    "title": "TPI boss: Why wind power blade giant filed for ‘reorganisation bankruptcy’",
-    "link": "https://www.windpowermonthly.com/article/1928780/tpi-boss-why-wind-power-blade-giant-filed-reorganisation-bankruptcy",
-    "date": "2025-08-13",
-    "summary": "TPI Composites’ CEO detailed a long list of macroeconomic headaches – from the challenges of Chinese rivals to US President Donald Trump – t…",
-    "source": "Wind Power News & Analysis RSS Feed",
-    "image": null
-  },
-  {
-    "title": "India scraps two offshore wind auctions due to lack of interest",
-    "link": "https://www.windpowermonthly.com/article/1928768/india-scraps-two-offshore-wind-auctions-due-lack-interest",
-    "date": "2025-08-13",
-    "summary": "India has called off two major offshore wind tenders due to a lack of interest, according to analysts.…",
-    "source": "Wind Power News & Analysis RSS Feed",
     "image": null
   },
   {
@@ -748,14 +756,6 @@
     "link": "https://eepower.com/market-insights/aluminum-contamination-blocks-efficient-battery-recycling/",
     "date": "2025-08-08",
     "summary": "Researchers have discovered that aluminum contamination during conventional recycling processes inhibits critical metal recovery.…",
-    "source": "EE Power",
-    "image": null
-  },
-  {
-    "title": "Silicon Carbide Inverter Solutions Enable Functionally Safe Drivetrain Design",
-    "link": "https://eepower.com/technical-articles/silicon-carbide-inverter-solutions-enabling-functionally-safe-drivetrain-design-using-certified-components/",
-    "date": "2025-08-07",
-    "summary": "Learn how SiC inverter solutions offer a modular, functionally safe platform with certified components, accelerating development and complia…",
     "source": "EE Power",
     "image": null
   }
