@@ -1,5 +1,13 @@
 [
   {
+    "title": "A Guide to Electromagnetic Interference in High-Voltage Transmission Lines",
+    "link": "https://eepower.com/technical-articles/a-guide-to-electromagnetic-interference-in-high-voltage-transmission-lines/",
+    "date": "2025-08-24",
+    "summary": "The article explores the issue of electromagnetic interference (EMI) in high-voltage transmission systems, highlighting its sources, impacts…",
+    "source": "EE Power",
+    "image": null
+  },
+  {
     "title": "Trump halts Ørsted’s Revolution Wind in new US setback",
     "link": "https://www.windpowermonthly.com/article/1929897/trump-halts-orsteds-revolution-wind-new-us-setback",
     "date": "2025-08-23",
@@ -748,14 +756,6 @@
     "link": "https://eepower.com/news/biz-briefs-lfp-batteries-mosfets-ev-chargers-and-solar/",
     "date": "2025-08-11",
     "summary": "Tesla’s $3.4 billion battery project with LG Energy leads tech business news this week, along with moves by Toshiba, Ideal Semiconductor, Ri…",
-    "source": "EE Power",
-    "image": null
-  },
-  {
-    "title": "Understanding Corona Discharge in High-Voltage Transmission Lines",
-    "link": "https://eepower.com/technical-articles/understanding-corona-discharge-in-high-voltage-transmission-lines/",
-    "date": "2025-08-10",
-    "summary": "The article explores the phenomenon of corona discharge in high-voltage transmission lines and outlines key mitigation techniques.…",
     "source": "EE Power",
     "image": null
   }
