@@ -120,6 +120,14 @@
     "image": null
   },
   {
+    "title": "PFC Control Methods Overview",
+    "link": "https://eepower.com/technical-articles/pfc-control-methods-overview/",
+    "date": "2025-08-25",
+    "summary": "Power factor correction (PFC) is needed for AC-DC power supplies with input power greater than 75 W. This article offers an overview of the …",
+    "source": "EE Power",
+    "image": null
+  },
+  {
     "title": "Costco Builds Off-Grid Microgrid for Warehouse Operations",
     "link": "https://eepower.com/news/costco-builds-off-grid-microgrid-for-warehouse-operations/",
     "date": "2025-08-25",
@@ -748,14 +756,6 @@
     "link": "https://eepower.com/market-insights/power-urgently-needs-more-engineers-with-diverse-skills/",
     "date": "2025-08-13",
     "summary": "A study by Kearney and IEEE Power & Energy reviews how the power industry could recruit and train enough engineers to meet rapidly evolving …",
-    "source": "EE Power",
-    "image": null
-  },
-  {
-    "title": "Transmission Line Construction Too Slow To Meet Future Demand",
-    "link": "https://eepower.com/market-insights/transmission-line-construction-too-slow-to-meet-future-demand/",
-    "date": "2025-08-13",
-    "summary": "While energy demand escalates, new line construction has slowed to the lowest level in a decade.…",
     "source": "EE Power",
     "image": null
   }
