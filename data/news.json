@@ -1,5 +1,13 @@
 [
   {
+    "title": "Fullmark Energy’s 20MW/40MWh California BESS reaches commercial operation",
+    "link": "https://www.energy-storage.news/fullmark-energys-20mw-40mwh-california-bess-reaches-commercial-operation/",
+    "date": "2025-08-25",
+    "summary": "Independent power producer (IPP) Fullmark Energy has announced the commercial operation of its 20MW/40MWh Ortega energy storage project in L…",
+    "source": "Energy-Storage.News",
+    "image": null
+  },
+  {
     "title": "NextEra Energy Resources receives approval for 200MW Utah BESS",
     "link": "https://www.energy-storage.news/nextera-energy-resources-receives-approval-for-200mw-utah-bess/",
     "date": "2025-08-25",
@@ -32,7 +40,15 @@
     "image": null
   },
   {
-    "title": "Trina solar brings new solar panels, ESS options to US market at RE+",
+    "title": "California Energy Commission approves Solesca design software for Title 24 projects",
+    "link": "https://www.solarpowerworldonline.com/2025/08/california-energy-commission-approves-solesca-design-software-for-title-24-projects/",
+    "date": "2025-08-25",
+    "summary": "The California Energy Commission (CEC) has added Solesca to its list of approved Solar Assessment Tools for Title 24. Developers and EPCs ca…",
+    "source": "Solar Power World",
+    "image": null
+  },
+  {
+    "title": "Trinasolar brings new solar panels, ESS options to US market at RE+",
     "link": "https://www.solarpowerworldonline.com/2025/08/trina-solar-brings-new-solar-panels-ess-options-to-us-market-at-re/",
     "date": "2025-08-25",
     "summary": "Trinasolar will unveil new solar panel and energy storage products for the U.S. market at next month&#8217;s RE+ tradeshow. Solar panels on …",
@@ -328,14 +344,6 @@
     "image": null
   },
   {
-    "title": "North America energy storage acquisitions: FlexGen acquires Powin, Glencore acquires Li-Cycle",
-    "link": "https://www.energy-storage.news/north-america-energy-storage-acquisitions-flexgen-acquires-powin-glencore-acquires-li-cycle/",
-    "date": "2025-08-21",
-    "summary": "Two North American companies, Powin and Li-Cycle, were recently acquired by FlexGen and Glencore, respectively, after announcing bankruptcy.…",
-    "source": "Energy-Storage.News",
-    "image": null
-  },
-  {
     "title": "CTO interview with JA Solar",
     "link": "https://www.pv-tech.org/cto-interview-with-ja-solar/",
     "date": "2025-08-21",
@@ -532,14 +540,6 @@
     "link": "https://www.solarpowerworldonline.com/2025/08/atlanta-k-12-school-installs-solar-canopies-at-softball-field/",
     "date": "2025-08-20",
     "summary": "Woodward Academy, a private pre-K-12 school in Atlanta, Georgia, is likely the first K-12 school in the country to install solar canopies ov…",
-    "source": "Solar Power World",
-    "image": null
-  },
-  {
-    "title": "New platform streamlines C-PACE financing nationwide",
-    "link": "https://www.solarpowerworldonline.com/2025/08/new-platform-streamlines-c-pace-financing-nationwide/",
-    "date": "2025-08-20",
-    "summary": "Commercial real estate finance company Allectrify has announced the launch of FASTPACE.com, a new platform built to simplify and accelerate …",
     "source": "Solar Power World",
     "image": null
   },
