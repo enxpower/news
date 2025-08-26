@@ -1,5 +1,21 @@
 [
   {
+    "title": "New Jersey Governor signs laws to increase energy storage and community solar installations",
+    "link": "https://www.energy-storage.news/new-jersey-governor-signs-laws-to-increase-energy-storage-and-community-solar-installations/",
+    "date": "2025-08-26",
+    "summary": "Governor of New Jersey, US, Phil Murphy, signed legislation into law to reach 2,000MW of energy storage capacity by 2030, and nearly doublin…",
+    "source": "Energy-Storage.News",
+    "image": null
+  },
+  {
+    "title": "Megawatts are not enough anymore for leading US BESS markets",
+    "link": "https://www.energy-storage.news/megawatts-are-not-enough-anymore-for-leading-us-bess-markets/",
+    "date": "2025-08-26",
+    "summary": "After an initial rush to deploy that gave CAISO and ERCOT the lead in US BESS adoption, both markets are focused on capacity and availabilit…",
+    "source": "Energy-Storage.News",
+    "image": null
+  },
+  {
     "title": "New EU end-of-life battery regulations create legal and commercial complexities for suppliers",
     "link": "https://www.energy-storage.news/new-eu-end-of-life-battery-regulations-create-legal-and-commercial-complexities-for-suppliers/",
     "date": "2025-08-26",
@@ -92,6 +108,14 @@
     "link": "https://www.windpowermonthly.com/article/1929986/mitsubishi-denies-reports-japanese-offshore-wind-exit",
     "date": "2025-08-26",
     "summary": "",
+    "source": "Wind Power News & Analysis RSS Feed",
+    "image": null
+  },
+  {
+    "title": "Eneco announces Vattenfall veteran as next CEO",
+    "link": "https://www.windpowermonthly.com/article/1929987/eneco-announces-vattenfall-veteran-next-ceo",
+    "date": "2025-08-26",
+    "summary": "Vattenfall veteran Martijn Hagens has been appointed as the future CEO of Dutch utility and wind power developer Eneco.…",
     "source": "Wind Power News & Analysis RSS Feed",
     "image": null
   },
@@ -301,22 +325,6 @@
     "date": "2025-08-23",
     "summary": "An energy infrastructure company said it&#8217;s moving forward with the GW Ranch project, an off-grid complex in Texas that will combine na…",
     "source": "POWER Magazine",
-    "image": null
-  },
-  {
-    "title": "US ROUNDUP: Energy Vault, Richardson and Fluence make strategic supply chain moves",
-    "link": "https://www.energy-storage.news/us-roundup-energy-vault-richardson-and-fluence-make-strategic-supply-chain-moves/",
-    "date": "2025-08-22",
-    "summary": "Three companies, Energy Vault, Richardson Electronics, and Fluence, have made strategic moves to create a secure BESS equipment supply chain…",
-    "source": "Energy-Storage.News",
-    "image": null
-  },
-  {
-    "title": "China drives global BESS deployments in July, technology nears pumped hydro GW capacity",
-    "link": "https://www.energy-storage.news/china-drives-global-bess-deployments-in-july-technology-nears-pumped-hydro-gw-capacity/",
-    "date": "2025-08-22",
-    "summary": "China continued to drive global grid-scale BESS commissioning activity in July, as the technology approaches the global installed gigawatt (…",
-    "source": "Energy-Storage.News",
     "image": null
   },
   {
@@ -677,14 +685,6 @@
     "date": "2025-08-20",
     "summary": "Trinova’s electric leaning trike promises motorcycle agility and electric vehicle range without the fear factor.…",
     "source": "EE Power",
-    "image": null
-  },
-  {
-    "title": "German wind power firm Volkswind names new CEO",
-    "link": "https://www.windpowermonthly.com/article/1929240/german-wind-power-firm-volkswind-names-new-ceo",
-    "date": "2025-08-19",
-    "summary": "German wind power developer Volkswind has selected the former head of Danish renewables developer Eurowind Energy as its new CEO after its c…",
-    "source": "Wind Power News & Analysis RSS Feed",
     "image": null
   },
   {
