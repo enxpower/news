@@ -1,5 +1,21 @@
 [
   {
+    "title": "Lithuania’s capex support scheme to help fund 4,000MWh of energy storage",
+    "link": "https://www.energy-storage.news/lithuania-capex-support-scheme-help-fund-4000mwh-of-bess-battery-storage/",
+    "date": "2025-08-27",
+    "summary": "An EU-backed energy storage capex support scheme in Lithuania will support as much as 4,000MWh of battery storage, the Ministry of Energy ha…",
+    "source": "Energy-Storage.News",
+    "image": null
+  },
+  {
+    "title": "Sungrow plans Hong Kong listing; ESS revenues overtake PV inverters",
+    "link": "https://www.energy-storage.news/sungrow-plans-hong-kong-listing-ess-revenues-overtake-pv-inverters/",
+    "date": "2025-08-27",
+    "summary": "Chinese solar PV inverter and energy storage provider Sungrow has announced two major developments: plans for a Hong Kong IPO and the releas…",
+    "source": "Energy-Storage.News",
+    "image": null
+  },
+  {
     "title": "Hithium deploys 1175Ah ‘long-duration’ cells at 4GWh BESS projects in Saudi Arabia",
     "link": "https://www.energy-storage.news/hithium-deploys-1175ah-long-duration-cells-at-4gwh-bess-projects-in-saudi-arabia/",
     "date": "2025-08-27",
@@ -13,6 +29,30 @@
     "date": "2025-08-27",
     "summary": "“BESS typically change ownership between two and four times during their 40-year lifecycle,” John Sheehy, CEO of Pottinger.…",
     "source": "Energy-Storage.News",
+    "image": null
+  },
+  {
+    "title": "‘US solar manufacturing is at a crossroads’",
+    "link": "https://www.pv-tech.org/us-solar-manufacturing-is-at-a-crossroads/",
+    "date": "2025-08-27",
+    "summary": "American Clean Power Association’s MJ Shiao assesses the state of US PV manufacturing in the wake of recent policy developments.…",
+    "source": "PV Tech",
+    "image": null
+  },
+  {
+    "title": "One of Poland’s largest wind farms commissioned",
+    "link": "https://www.windpowermonthly.com/article/1930110/one-polands-largest-wind-farms-commissioned",
+    "date": "2025-08-27",
+    "summary": "",
+    "source": "Wind Power News & Analysis RSS Feed",
+    "image": null
+  },
+  {
+    "title": "Mitsubishi confirms exit from three Japanese offshore wind projects",
+    "link": "https://www.windpowermonthly.com/article/1930103/mitsubishi-confirms-exit-three-japanese-offshore-wind-projects",
+    "date": "2025-08-27",
+    "summary": "Japanese conglomerate Mitsubishi Corporation has confirmed its exit from three Japanese offshore wind farms – one day after denying media re…",
+    "source": "Wind Power News & Analysis RSS Feed",
     "image": null
   },
   {
@@ -140,14 +180,6 @@
     "link": "https://www.pv-tech.org/ember-african-imports-chinese-solar-panels-increase-60-year-on-year-over-15gw/",
     "date": "2025-08-26",
     "summary": "Africa imported over 15GW of panels from China in the 12 months to June 2025, a 60% increase over the imports recorded in the prior year.…",
-    "source": "PV Tech",
-    "image": null
-  },
-  {
-    "title": "China added 11GW of new PV capacity in July, down 48% year-on-year",
-    "link": "https://www.pv-tech.org/china-added-11gw-of-new-pv-capacity-in-july-down-48-year-on-year/",
-    "date": "2025-08-26",
-    "summary": "China has added 11.04GW of solar PV capacity in July 2025, a 48% decrease from the same period a year ago, according to data from China's Na…",
     "source": "PV Tech",
     "image": null
   },
@@ -317,22 +349,6 @@
     "date": "2025-08-26",
     "summary": "<img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"4320\" src=\"https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/…",
     "source": "Power Electronics News",
-    "image": null
-  },
-  {
-    "title": "Fullmark Energy’s 20MW/40MWh California BESS reaches commercial operation",
-    "link": "https://www.energy-storage.news/fullmark-energys-20mw-40mwh-california-bess-reaches-commercial-operation/",
-    "date": "2025-08-25",
-    "summary": "Independent power producer (IPP) Fullmark Energy has announced the commercial operation of its 20MW/40MWh Ortega energy storage project in L…",
-    "source": "Energy-Storage.News",
-    "image": null
-  },
-  {
-    "title": "NextEra Energy Resources receives approval for 200MW Utah BESS",
-    "link": "https://www.energy-storage.news/nextera-energy-resources-receives-approval-for-200mw-utah-bess/",
-    "date": "2025-08-25",
-    "summary": "Independent power producer (IPP) NextEra Energy Resources (NEER) has received approval from the Utah Inland Port Authority (UIPA) for its 20…",
-    "source": "Energy-Storage.News",
     "image": null
   },
   {
@@ -652,22 +668,6 @@
     "link": "https://www.windpowermonthly.com/article/1929476/us-extends-50-steel-tariff-wind-turbines-components",
     "date": "2025-08-20",
     "summary": "The US has extended a 50% steel and aluminium tariff to imported wind turbines and their parts and components, the commerce department annou…",
-    "source": "Wind Power News & Analysis RSS Feed",
-    "image": null
-  },
-  {
-    "title": "Former Fortum subsidiary among winners in Russian wind auction",
-    "link": "https://www.windpowermonthly.com/article/1929341/former-fortum-subsidiary-among-winners-russian-wind-auction",
-    "date": "2025-08-20",
-    "summary": "Russia has awarded power deals to more than 500MW of new wind farms to be built in the far east of the country through a national auction.…",
-    "source": "Wind Power News & Analysis RSS Feed",
-    "image": null
-  },
-  {
-    "title": "Wind power patents: Vestas | Equinor | Siemens Gamesa | Nordex",
-    "link": "https://www.windpowermonthly.com/article/1929177/wind-power-patents-vestas-equinor-siemens-gamesa-nordex",
-    "date": "2025-08-20",
-    "summary": "Windpower Monthly rounds up the latest patents for wind power technology granted and applied for in the last week.…",
     "source": "Wind Power News & Analysis RSS Feed",
     "image": null
   },
