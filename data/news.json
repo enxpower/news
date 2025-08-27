@@ -1,5 +1,21 @@
 [
   {
+    "title": "Harmony Energy CEO on lessons learned from HEIT, strategy going forward and European expansion",
+    "link": "https://www.energy-storage.news/harmony-energy-ceo-on-lessons-learned-from-heit-strategy-going-forward-and-european-expansion/",
+    "date": "2025-08-27",
+    "summary": "We catch up with the CEO of BESS developer Harmony Energy about its strategy and plans going forward, following the sale of its affiliated H…",
+    "source": "Energy-Storage.News",
+    "image": null
+  },
+  {
+    "title": "California’s Orange County is latest jurisdiction to introduce new BESS zoning standards",
+    "link": "https://www.energy-storage.news/californias-orange-county-is-latest-jurisdiction-to-introduce-new-bess-zoning-standards/",
+    "date": "2025-08-27",
+    "summary": "Following in the footsteps of several other US jurisdictions this year, officials at California’s Orange County are one step closer to amend…",
+    "source": "Energy-Storage.News",
+    "image": null
+  },
+  {
     "title": "Pacifico, Zenith Volts and Fermi America propose gigawatt-scale energy solutions with BESS to feed US data centres",
     "link": "https://www.energy-storage.news/pacifico-zenith-volts-and-fermi-america-propose-gigawatt-scale-energy-solutions-with-bess-to-feed-us-data-centres/",
     "date": "2025-08-27",
@@ -35,8 +51,16 @@
     "title": "‘BESS ownership typically changes hands 2-4 times during a 40-year lifecycle,’ says Pottinger",
     "link": "https://www.energy-storage.news/bess-ownership-typically-changes-hands-2-4-times-during-a-40-year-lifecycle-says-pottinger/",
     "date": "2025-08-27",
-    "summary": "“BESS typically change ownership between two and four times during their 40-year lifecycle,” John Sheehy, CEO of Pottinger.…",
+    "summary": "“Battery energy storage systems (BESS) typically change ownership between two and four times during their 40-year lifecycle,” John Sheehy, C…",
     "source": "Energy-Storage.News",
+    "image": null
+  },
+  {
+    "title": "One high-quality dataset is enough: Rethinking common data practices in PV projects",
+    "link": "https://www.pv-tech.org/one-high-quality-dataset-enough-rethinking-common-data-practices-pv-projects/",
+    "date": "2025-08-27",
+    "summary": "Solargis' Marcel Suri reports on the mixing of datasets in solar project planning to artificially enhance financial attractiveness.…",
+    "source": "PV Tech",
     "image": null
   },
   {
@@ -88,6 +112,14 @@
     "image": null
   },
   {
+    "title": "Construction underway on 1st floating tracker solar project in US",
+    "link": "https://www.solarpowerworldonline.com/2025/08/construction-underway-on-floating-tracker-solar-project-in-us/",
+    "date": "2025-08-27",
+    "summary": "Noria Energy, a floating solar developer and technology provider, is beginning construction on Aurea Solar, a 50-kW floating solar pilot pro…",
+    "source": "Solar Power World",
+    "image": null
+  },
+  {
     "title": "Solar is nation’s fastest growing electricity source, expands by 30% in 2025",
     "link": "https://www.solarpowerworldonline.com/2025/08/solar-is-nations-fastest-growing-electricity-source-expands-by-30-in-2025/",
     "date": "2025-08-27",
@@ -117,6 +149,14 @@
     "date": "2025-08-27",
     "summary": "Japanese conglomerate Mitsubishi Corporation has confirmed its exit from three Japanese offshore wind farms – one day after denying media re…",
     "source": "Wind Power News & Analysis RSS Feed",
+    "image": null
+  },
+  {
+    "title": "TWAICE, Fullmark Energy Partner on California Energy Storage Projects",
+    "link": "https://www.powermag.com/twaice-fullmark-energy-partner-on-california-energy-storage-projects/",
+    "date": "2025-08-27",
+    "summary": "Germany-based TWAICE, a provider of predictive analytics software for battery energy storage systems (BESS), has announced a three-year part…",
+    "source": "POWER Magazine",
     "image": null
   },
   {
@@ -168,22 +208,6 @@
     "image": null
   },
   {
-    "title": "New EU end-of-life battery regulations create legal and commercial complexities for suppliers",
-    "link": "https://www.energy-storage.news/new-eu-end-of-life-battery-regulations-create-legal-and-commercial-complexities-for-suppliers/",
-    "date": "2025-08-26",
-    "summary": "Suriya Edwards and Deborah Harvey, partners specialising in battery energy storage at law firm Freeths LLP, analyse new EU battery regulatio…",
-    "source": "Energy-Storage.News",
-    "image": null
-  },
-  {
-    "title": "Gigawatt-hour-scale ‘Energy Parks’ BESS developer Pacific Green raises AU$77 million for Australia projects",
-    "link": "https://www.energy-storage.news/gigawatt-hour-scale-energy-parks-bess-developer-pacific-green-raises-au77-million-for-australia-projects/",
-    "date": "2025-08-26",
-    "summary": "BESS developer Pacific Green Technologies has secured a AU$77 million (US$49.9 million) debt facility for projects in Australia.…",
-    "source": "Energy-Storage.News",
-    "image": null
-  },
-  {
     "title": "ABO Energy closes US$279.8 million loan to fund renewable projects",
     "link": "https://www.pv-tech.org/abo-energy-closes-us-279-8-million-to-fund-renewable-projects/",
     "date": "2025-08-26",
@@ -204,14 +228,6 @@
     "link": "https://www.pv-tech.org/utility-scale-pv-investment-drops-and-small-scale-soars-in-first-half-of-2025-bloombergnef/",
     "date": "2025-08-26",
     "summary": "Investment in utility-scale solar fell by 19% in the first half of 2025, as global investment in all renewable energy projects grew by 10%.…",
-    "source": "PV Tech",
-    "image": null
-  },
-  {
-    "title": "Jakson Engineers invests US$912.5 million in 6GW integrated PV manufacturing plant",
-    "link": "https://www.pv-tech.org/jakson-engineers-invests-us912-5-million-in-6gw-integrated-pv-manufacturing-plant/",
-    "date": "2025-08-26",
-    "summary": "Jakson Engineers is investing over INR80 billion (US$912.5 million) to set up a 6GW integrated solar module, cell, and wafer plant.…",
     "source": "PV Tech",
     "image": null
   },
@@ -520,14 +536,6 @@
     "image": null
   },
   {
-    "title": "New law unlocks 3,000 MW of new community solar capacity in New Jersey",
-    "link": "https://www.solarpowerworldonline.com/2025/08/new-law-unlocks-3000-mw-of-new-community-solar-capacity-in-new-jersey/",
-    "date": "2025-08-22",
-    "summary": "Today, Governor Phil Murphy signed a bill into law paving the way for an additional 3,000 MWDC of community solar in New Jersey. S4530 / A57…",
-    "source": "Solar Power World",
-    "image": null
-  },
-  {
     "title": "Fitch improves outlook for Ørsted in boost for troubled renewables major",
     "link": "https://www.windpowermonthly.com/article/1929869/fitch-improves-outlook-orsted-boost-troubled-renewables-major",
     "date": "2025-08-22",
@@ -580,14 +588,6 @@
     "link": "https://www.powermag.com/600-workers-take-tva-buyout-as-utility-seeks-to-cut-1-billion-in-spending/",
     "date": "2025-08-22",
     "summary": "A spokesperson for the Tennessee Valley Authority (TVA) confirmed that about 600 of the utility's employees have taken buyouts. Some workers…",
-    "source": "POWER Magazine",
-    "image": null
-  },
-  {
-    "title": "It’s Time to Listen to Transformers",
-    "link": "https://www.powermag.com/its-time-to-listen-to-transformers/",
-    "date": "2025-08-22",
-    "summary": "A transformer fire at Heathrow Airport earlier this year triggered cascading power outages, cutting electricity to more than 66,000 homes, g…",
     "source": "POWER Magazine",
     "image": null
   },
