@@ -40,6 +40,22 @@
     "image": null
   },
   {
+    "title": "US solar could pay ‘tens of billions’ in duties after Biden’s AD/CVD moratorium ruled illegal",
+    "link": "https://www.pv-tech.org/us-solar-could-pay-tens-of-billions-in-duties-after-bidens-ad-cvd-moratorium-ruled-illegal/",
+    "date": "2025-08-28",
+    "summary": "US solar companies could potentially pay “tens of billions” of dollars in retroactive duties on products imported from Southeast Asia betwee…",
+    "source": "PV Tech",
+    "image": null
+  },
+  {
+    "title": "Boviet Solar completes exterior construction of 3GW PV cell plant in North Carolina",
+    "link": "https://www.pv-tech.org/boviet-solar-completes-exterior-construction-of-3gw-pv-cell-plant-in-north-carolina/",
+    "date": "2025-08-28",
+    "summary": "Boviet Solar has completed exterior construction work on its 3GW PV cell manufacturing facility in Greenville, Pitt County, North Carolina.…",
+    "source": "PV Tech",
+    "image": null
+  },
+  {
     "title": "JinkoSolar module sales recover as manufacturing losses worsen",
     "link": "https://www.pv-tech.org/jinkosolar-module-sales-recover-manufacturing-losses-worsen/",
     "date": "2025-08-28",
@@ -72,16 +88,16 @@
     "image": null
   },
   {
-    "title": "Japan looks to re-auction offshore wind sites dropped by Mitsubishi – report",
-    "link": "https://www.windpowermonthly.com/article/1930265/japan-looks-re-auction-offshore-wind-sites-dropped-mitsubishi-%E2%80%93-report",
+    "title": "Japan looks to re-auction offshore wind sites dropped by Mitsubishi – media report",
+    "link": "https://www.windpowermonthly.com/article/1930265/japan-looks-re-auction-offshore-wind-sites-dropped-mitsubishi-%E2%80%93-media-report",
     "date": "2025-08-28",
     "summary": "",
     "source": "Wind Power News & Analysis RSS Feed",
     "image": null
   },
   {
-    "title": "US plans to scrap approval for another offshore wind project",
-    "link": "https://www.windpowermonthly.com/article/1930267/us-plans-scrap-approval-offshore-wind-project",
+    "title": "US plans to scrap offshore project approval as war on wind continues",
+    "link": "https://www.windpowermonthly.com/article/1930267/us-plans-scrap-offshore-project-approval-war-wind-continues",
     "date": "2025-08-28",
     "summary": "The US government will move to rescind its construction approval for a 2GW offshore wind farm currently being developed off the coast of Mar…",
     "source": "Wind Power News & Analysis RSS Feed",
@@ -93,6 +109,14 @@
     "date": "2025-08-28",
     "summary": "India cancelled its first two offshore wind tenders earlier this month after failing to attract sufficient interest in the rounds. The failu…",
     "source": "Wind Power News & Analysis RSS Feed",
+    "image": null
+  },
+  {
+    "title": "New Consortium Aims to Reduce Impediments to Expanded Transmission Capacity",
+    "link": "https://eepower.com/market-insights/new-consortium-aims-to-reduce-impediments-to-expanded-transmission-capacity/",
+    "date": "2025-08-28",
+    "summary": "As high-voltage transmission line demand explodes in the U.S, a new consortium gearing up to tackle the key legal and regulatory changes nee…",
+    "source": "EE Power",
     "image": null
   },
   {
@@ -164,22 +188,6 @@
     "link": "https://www.pv-tech.org/statkraft-divests-120mwp-netherlands-pv-portfolio-to-greenchoice/",
     "date": "2025-08-27",
     "summary": "Norwegian energy company Statkraft has sold its Netherlands solar portfolio of 120MWp to Dutch renewable energy supplier Greenchoice.…",
-    "source": "PV Tech",
-    "image": null
-  },
-  {
-    "title": "Noria starts construction at first US floating solar project to use trackers",
-    "link": "https://www.pv-tech.org/noria-starts-construction-at-first-us-floating-solar-project-to-use-trackers/",
-    "date": "2025-08-27",
-    "summary": "Noria has started construction on a 50kW floating PV pilot project, which includes the first trackers on a floating solar project in the US.…",
-    "source": "PV Tech",
-    "image": null
-  },
-  {
-    "title": "US solar market must think in ‘years and decades’ amid ‘complicated’ supply challenges – ACP",
-    "link": "https://www.pv-tech.org/us-solar-market-must-think-in-years-and-decades/",
-    "date": "2025-08-27",
-    "summary": "Long-term procurement decisions from the US solar industry could support US solar manufacturing, regardless of changes to federal tax credit…",
     "source": "PV Tech",
     "image": null
   },
@@ -748,14 +756,6 @@
     "link": "https://eepower.com/technical-articles/optimizing-mmc-submodule-capacitor-design-for-medium-voltage-converters/",
     "date": "2025-08-14",
     "summary": "Learn how to determine the minimum capacitor per submodule to control voltage ripple and ensure long-term energy stability in 10-100 kV modu…",
-    "source": "EE Power",
-    "image": null
-  },
-  {
-    "title": "Google Invests in CO2 Battery for Long-Duration Energy Storage",
-    "link": "https://eepower.com/news/google-invests-in-co2-battery-for-long-duration-energy-storage/",
-    "date": "2025-08-14",
-    "summary": "Google has partnered with Energy Dome to scale long-duration carbon dioxide battery storage to advance its carbon-free goals.…",
     "source": "EE Power",
     "image": null
   }
