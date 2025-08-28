@@ -136,6 +136,14 @@
     "image": null
   },
   {
+    "title": "kWh Analytics adds ‘excess natural catastrophe’ coverage to solar insurance offerings",
+    "link": "https://www.solarpowerworldonline.com/2025/08/kwh-analytics-adds-excess-natural-catastrophe-coverage-to-solar-insurance-offerings/",
+    "date": "2025-08-28",
+    "summary": "kWh Analytics has expanded its insurance solutions with new Excess Natural Catastrophe coverage, through its licensed insurance entity Solar…",
+    "source": "Solar Power World",
+    "image": null
+  },
+  {
     "title": "Interconnection reform efforts pay off with highest volume on record in 2024",
     "link": "https://www.solarpowerworldonline.com/2025/08/interconnection-reform-efforts-pay-off-with-highest-volume-on-record-in-2024/",
     "date": "2025-08-28",
@@ -197,6 +205,14 @@
     "date": "2025-08-28",
     "summary": "Inspecting and monitoring long-distance transmission lines has always been both costly and dangerous for utilities. Networks that stretch ac…",
     "source": "POWER Magazine",
+    "image": null
+  },
+  {
+    "title": "Introduction to Transmission Line Modeling for Power System Analysis",
+    "link": "https://eepower.com/technical-articles/introduction-to-transmission-line-modeling-for-power-system-analysis/",
+    "date": "2025-08-28",
+    "summary": "This article series explores the modeling of short, medium, and long transmission lines for reliable simulation of power flow, voltage behav…",
+    "source": "EE Power",
     "image": null
   },
   {
@@ -816,14 +832,6 @@
     "image": null
   },
   {
-    "title": "Trinasolar brings new solar panels, ESS options to US market at RE+",
-    "link": "https://www.solarpowerworldonline.com/2025/08/trina-solar-brings-new-solar-panels-ess-options-to-us-market-at-re/",
-    "date": "2025-08-25",
-    "summary": "Trinasolar will unveil new solar panel and energy storage products for the U.S. market at next month&#8217;s RE+ tradeshow. Solar panels on …",
-    "source": "Solar Power World",
-    "image": null
-  },
-  {
     "title": "Infineon and NVIDIA Join Forces to Advance Humanoid Robotics with High-Performance Motor Control Solutions",
     "link": "https://www.powerelectronicsnews.com/infineon-and-nvidia-join-forces-to-advance-humanoid-robotics-with-high-performance-motor-control-solutions/",
     "date": "2025-08-25",
@@ -1068,14 +1076,6 @@
     "link": "https://eepower.com/market-insights/demand-for-energy-efficiency-fuels-heat-pump-growth/",
     "date": "2025-08-15",
     "summary": "A BCC Research report revealed that heat pumps are drawing interest as a critical solution for energy-saving next-generation heating and coo…",
-    "source": "EE Power",
-    "image": null
-  },
-  {
-    "title": "Optimizing MMC Submodule Capacitor Design for Medium Voltage Converters",
-    "link": "https://eepower.com/technical-articles/optimizing-mmc-submodule-capacitor-design-for-medium-voltage-converters/",
-    "date": "2025-08-14",
-    "summary": "Learn how to determine the minimum capacitor per submodule to control voltage ripple and ensure long-term energy stability in 10-100 kV modu…",
     "source": "EE Power",
     "image": null
   }
