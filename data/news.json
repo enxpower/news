@@ -1,5 +1,13 @@
 [
   {
+    "title": "Modeling Medium and Long Transmission Lines for Power System Analysis",
+    "link": "https://eepower.com/technical-articles/modeling-medium-and-long-transmission-lines-for-power-system-analysis/",
+    "date": "2025-08-31",
+    "summary": "This second article in the series applies our knowledge about power system modeling to medium and long transmission lines.…",
+    "source": "EE Power",
+    "image": null
+  },
+  {
     "title": "Hitachi Energy acquires Powin’s remaining stake in power conversion system maker Eks Energy",
     "link": "https://www.energy-storage.news/hitachi-energy-acquires-powin-stake-eks-energy/",
     "date": "2025-08-29",
@@ -1068,14 +1076,6 @@
     "link": "https://eepower.com/technical-articles/seven-steps-to-ensuring-product-electrical-safety-compliance/",
     "date": "2025-08-17",
     "summary": "This article provides developers with step-by-step guidance in qualifying new electrical products for safety compliance certification.…",
-    "source": "EE Power",
-    "image": null
-  },
-  {
-    "title": "HV-IGBT Module for High-Performance Inverter Design",
-    "link": "https://eepower.com/technical-articles/hv-igbt-module-for-high-performance-inverter-design/",
-    "date": "2025-08-15",
-    "summary": "Learn about Mitsubishi’s XB-Series HV-IGBT modules. They offer lower switching losses and enhanced reliability through 7th-gen Si IGBT and R…",
     "source": "EE Power",
     "image": null
   }
