@@ -1,5 +1,29 @@
 [
   {
+    "title": "Grid-forming battery storage: ‘Standby consumption will be higher’ says Australia’s AGL",
+    "link": "https://www.energy-storage.news/grid-forming-battery-storage-standby-consumption-will-be-higher-says-australias-agl/",
+    "date": "2025-09-02",
+    "summary": "“The speed at which the grid-forming inverters are operating means that standby consumption will be higher,” said Dave Bowly of AGL.…",
+    "source": "Energy-Storage.News",
+    "image": null
+  },
+  {
+    "title": "Securing the future of energy storage: Navigating the cybersecurity landscape",
+    "link": "https://www.energy-storage.news/securing-the-future-of-energy-storage-navigating-the-cybersecurity-landscape/",
+    "date": "2025-09-02",
+    "summary": "Katherine Hutton, product manager of cybersecurity at Fluence, discusses why cybersecurity is critical for battery storage systems and how t…",
+    "source": "Energy-Storage.News",
+    "image": null
+  },
+  {
+    "title": "NEM data spotlight: Solar PV generation strikes back with record-breaking month",
+    "link": "https://www.pv-tech.org/nem-data-spotlight-solar-pv-generation-strikes-back-with-record-breaking-month/",
+    "date": "2025-09-02",
+    "summary": "In August 2025, the final month of Australia’s winter, utility-scale and rooftop solar PV generation in the National Electricity Market (NEM…",
+    "source": "PV Tech",
+    "image": null
+  },
+  {
     "title": "Chinese battery manufacturer Hithium ships first units from Texas BESS assembly plant",
     "link": "https://www.energy-storage.news/chinese-battery-manufacturer-hithium-ships-first-units-from-texas-bess-assembly-plant/",
     "date": "2025-09-01",
@@ -696,14 +720,6 @@
     "image": null
   },
   {
-    "title": "One high-quality dataset is enough: Rethinking common data practices in PV projects",
-    "link": "https://www.pv-tech.org/one-high-quality-dataset-enough-rethinking-common-data-practices-pv-projects/",
-    "date": "2025-08-27",
-    "summary": "Solargis' Marcel Suri reports on the mixing of datasets in solar project planning to artificially enhance financial attractiveness.…",
-    "source": "PV Tech",
-    "image": null
-  },
-  {
     "title": "Construction underway on 1st floating tracker solar project in US",
     "link": "https://www.solarpowerworldonline.com/2025/08/construction-underway-on-floating-tracker-solar-project-in-us/",
     "date": "2025-08-27",
@@ -948,22 +964,6 @@
     "link": "https://www.energy-storage.news/fullmark-energys-20mw-40mwh-california-bess-reaches-commercial-operation/",
     "date": "2025-08-25",
     "summary": "Independent power producer (IPP) Fullmark Energy has announced the commercial operation of its 20MW/40MWh Ortega energy storage project in L…",
-    "source": "Energy-Storage.News",
-    "image": null
-  },
-  {
-    "title": "NextEra Energy Resources receives approval for 200MW Utah BESS",
-    "link": "https://www.energy-storage.news/nextera-energy-resources-receives-approval-for-200mw-utah-bess/",
-    "date": "2025-08-25",
-    "summary": "Independent power producer (IPP) NextEra Energy Resources (NEER) has received approval from the Utah Inland Port Authority (UIPA) for its 20…",
-    "source": "Energy-Storage.News",
-    "image": null
-  },
-  {
-    "title": "New Mexico utility picks batteries over fossil fuels, ordering BESS retrofits for solar PV plants",
-    "link": "https://www.energy-storage.news/new-mexico-utility-picks-batteries-over-fossil-fuels-ordering-bess-retrofits-for-solar-pv-plants/",
-    "date": "2025-08-25",
-    "summary": "Public Service Company of New Mexico (PNM) has laid the groundwork for a new 120MWh distribution-connected portfolio of battery energy stora…",
     "source": "Energy-Storage.News",
     "image": null
   },
