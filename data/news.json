@@ -1,5 +1,21 @@
 [
   {
+    "title": "BESS codes, constructability and safety require technical, regulatory insight: 10 tips from an EPC",
+    "link": "https://www.energy-storage.news/bess-codes-constructability-and-safety-require-technical-regulatory-insight-10-tips-from-an-epc/",
+    "date": "2025-09-02",
+    "summary": "Andrew Early and Ben Echeverria of EPC Burns &#038; McDonnell offer their strategies for navigating the complexities of large-scale battery …",
+    "source": "Energy-Storage.News",
+    "image": null
+  },
+  {
+    "title": "HEIT sale ‘proved us right’ about private capital and BESS, Harmony says",
+    "link": "https://www.energy-storage.news/heit-sale-proved-us-right-about-private-capital-and-bess-harmony-says/",
+    "date": "2025-09-02",
+    "summary": "The sale of the UK BESS-holding Harmony Energy Income Trust (HEIT) proved private capital's greater patience and valuation around the asset …",
+    "source": "Energy-Storage.News",
+    "image": null
+  },
+  {
     "title": "Vertically integrated cell-BESS suppliers lose market share as competition increases",
     "link": "https://www.energy-storage.news/vertically-integrated-cell-bess-suppliers-lose-market-share-as-competition-increases/",
     "date": "2025-09-02",
@@ -24,11 +40,35 @@
     "image": null
   },
   {
+    "title": "Iberdrola commissions 316MW Spanish solar PV project",
+    "link": "https://www.pv-tech.org/iberdrola-commissions-316mw-spanish-solar-project/",
+    "date": "2025-09-02",
+    "summary": "Iberdrola has commissioned the 316MW Ciudad Rodrigo solar projectin Salamanca, Spain, the company’s second solar plant in the province.…",
+    "source": "PV Tech",
+    "image": null
+  },
+  {
+    "title": "Grenergy sells phase four of Oasis de Atacama solar-plus-storage project",
+    "link": "https://www.pv-tech.org/grenergy-sells-phase-four-of-oasis-de-atacama-solar-plus-storage-project/",
+    "date": "2025-09-02",
+    "summary": "Spanish independent power producer (IPP) Grenergy has sold the fourth phase of its flagship solar-plus-storage project in Chile, Oasis de At…",
+    "source": "PV Tech",
+    "image": null
+  },
+  {
     "title": "NEM data spotlight: Solar PV generation strikes back with record-breaking month",
     "link": "https://www.pv-tech.org/nem-data-spotlight-solar-pv-generation-strikes-back-with-record-breaking-month/",
     "date": "2025-09-02",
     "summary": "In August 2025, the final month of Australia’s winter, utility-scale and rooftop solar PV generation in the National Electricity Market (NEM…",
     "source": "PV Tech",
+    "image": null
+  },
+  {
+    "title": "Enercon worker seriously injured after arm gets stuck in wind turbine",
+    "link": "https://www.windpowermonthly.com/article/1930685/enercon-worker-seriously-injured-arm-gets-stuck-wind-turbine",
+    "date": "2025-09-02",
+    "summary": "An Enercon wind turbine technician was seriously injured at a wind farm in Belgium after his arm became trapped in a generator.…",
+    "source": "Wind Power News & Analysis RSS Feed",
     "image": null
   },
   {
@@ -728,22 +768,6 @@
     "image": null
   },
   {
-    "title": "RP Global breaks ground on 50MWp solar project at former German lignite mine",
-    "link": "https://www.pv-tech.org/rp-global-breaks-ground-on-50mwp-solar-project-former-german-lignite-mine/",
-    "date": "2025-08-27",
-    "summary": "Independent power producer RP Global is building a 50MWp solar project in Harbke, Germany.…",
-    "source": "PV Tech",
-    "image": null
-  },
-  {
-    "title": "New Jersey to seek 3GW community solar by 2029 with new legislation",
-    "link": "https://www.pv-tech.org/new-jersey-to-seek-3gw-community-solar-by-2029-with-new-legislation/",
-    "date": "2025-08-27",
-    "summary": "The governor of New Jersey, Phil Murphy, has signed a new legislation that seeks to build 3GW of new community solar by 2029.…",
-    "source": "PV Tech",
-    "image": null
-  },
-  {
     "title": "Construction underway on 1st floating tracker solar project in US",
     "link": "https://www.solarpowerworldonline.com/2025/08/construction-underway-on-floating-tracker-solar-project-in-us/",
     "date": "2025-08-27",
@@ -896,22 +920,6 @@
     "image": null
   },
   {
-    "title": "Gigawatt-hour-scale ‘Energy Parks’ BESS developer Pacific Green raises AU$77 million for Australia projects",
-    "link": "https://www.energy-storage.news/gigawatt-hour-scale-energy-parks-bess-developer-pacific-green-raises-au77-million-for-australia-projects/",
-    "date": "2025-08-26",
-    "summary": "BESS developer Pacific Green Technologies has secured a AU$77 million (US$49.9 million) debt facility for projects in Australia.…",
-    "source": "Energy-Storage.News",
-    "image": null
-  },
-  {
-    "title": "Australia: Capacity Investment Scheme results for 16GWh tender expected ‘in the coming weeks’",
-    "link": "https://www.energy-storage.news/australia-capacity-investment-scheme-results-for-16gwh-tender-expected-in-the-coming-weeks/",
-    "date": "2025-08-26",
-    "summary": "“We’re expecting the results of the Capacity Investment Scheme (CIS) Tender 3 in the coming weeks,” Thimo Mueller, general manager, commerci…",
-    "source": "Energy-Storage.News",
-    "image": null
-  },
-  {
     "title": "X1 Kit can automate controls on existing construction equipment",
     "link": "https://www.solarpowerworldonline.com/2025/08/x1-kit-can-automate-controls-on-existing-construction-equipment/",
     "date": "2025-08-26",
@@ -948,14 +956,6 @@
     "link": "https://www.windpowermonthly.com/article/1929986/mitsubishi-denies-reports-japanese-offshore-wind-exit",
     "date": "2025-08-26",
     "summary": "",
-    "source": "Wind Power News & Analysis RSS Feed",
-    "image": null
-  },
-  {
-    "title": "Eneco announces Vattenfall veteran as next CEO",
-    "link": "https://www.windpowermonthly.com/article/1929987/eneco-announces-vattenfall-veteran-next-ceo",
-    "date": "2025-08-26",
-    "summary": "Vattenfall veteran Martijn Hagens has been appointed as the future CEO of Dutch utility and wind power developer Eneco.…",
     "source": "Wind Power News & Analysis RSS Feed",
     "image": null
   },
