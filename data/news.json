@@ -1,5 +1,13 @@
 [
   {
+    "title": "Argentina awards 667MW in first energy storage tender",
+    "link": "https://www.energy-storage.news/argentina-awards-667mw-in-first-energy-storage-tender/",
+    "date": "2025-09-04",
+    "summary": "Argentina has awarded 667MW of battery energy storage system (BESS) in its first tender under the AlmaGBA scheme.…",
+    "source": "Energy-Storage.News",
+    "image": null
+  },
+  {
     "title": "Washington governor delays approval of hybrid BESS proposal from Cypress Creek Renewables",
     "link": "https://www.energy-storage.news/washington-governor-delays-approval-of-hybrid-bess-proposal-from-cypress-creek-renewables/",
     "date": "2025-09-04",
@@ -45,6 +53,22 @@
     "date": "2025-09-04",
     "summary": "Australian battery storage developer Akaysha Energy has secured an AU$300 million (US$196 million) corporate debt facility to accelerate its…",
     "source": "Energy-Storage.News",
+    "image": null
+  },
+  {
+    "title": "India cuts GST on renewable energy components from 12% to 5%",
+    "link": "https://www.pv-tech.org/india-cuts-gst-on-renewable-energy-components-from-12-to-5/",
+    "date": "2025-09-04",
+    "summary": "India’s Goods and Services Tax (GST) Council, the joint forum of the Centre and States, has reduced the GST rate on renewable energy compone…",
+    "source": "PV Tech",
+    "image": null
+  },
+  {
+    "title": "Fraunhofer ISE completes testing on grid-forming inverters, to publish results next month",
+    "link": "https://www.pv-tech.org/fraunhofer-ise-completes-testing-grid-forming-inverters-publish-results-next-month/",
+    "date": "2025-09-04",
+    "summary": "Fraunhofer ISE has completed testing work of grid-forming inverters currently available in the energy industry.…",
+    "source": "PV Tech",
     "image": null
   },
   {
@@ -192,6 +216,14 @@
     "image": null
   },
   {
+    "title": "Ørsted and Skyborn sue Trump over Revolution Wind halt",
+    "link": "https://www.windpowermonthly.com/article/1931156/orsted-skyborn-sue-trump-revolution-wind-halt",
+    "date": "2025-09-04",
+    "summary": "Danish developer Ørsted and partner Skyborn Renewables are suing US President Donald Trump after he ordered a stop-work order on their Revol…",
+    "source": "Wind Power News & Analysis RSS Feed",
+    "image": null
+  },
+  {
     "title": "Wind turbine maker Enercon expands solutions offering in ‘challenging conditions’",
     "link": "https://www.windpowermonthly.com/article/1930971/wind-turbine-maker-enercon-expands-solutions-offering-challenging-conditions",
     "date": "2025-09-04",
@@ -221,6 +253,30 @@
     "date": "2025-09-04",
     "summary": "A Suzlon wind turbine at CPFL Energia’s Enacel wind farm in Ceará, north-east Brazil, caught fire, destroying the nacelle and blades.…",
     "source": "Wind Power News & Analysis RSS Feed",
+    "image": null
+  },
+  {
+    "title": "EnergyHub Acquiring Major Player in EV Telematics-Based Solutions",
+    "link": "https://www.powermag.com/energyhub-acquiring-major-player-in-ev-telematics-based-solutions/",
+    "date": "2025-09-04",
+    "summary": "EnergyHub, a leading provider of grid-edge flexibility solutions, on September 4 announced the acquisition of Bridge to Renewables (BTR), a …",
+    "source": "POWER Magazine",
+    "image": null
+  },
+  {
+    "title": "Minnesota Regulators Approve Permit for Utility-Scale Solar-Plus-Storage Project",
+    "link": "https://www.powermag.com/minnesota-regulators-approve-permit-for-utility-scale-solar-plus-storage-project/",
+    "date": "2025-09-04",
+    "summary": "A California-based renewable energy group said a Minnesota solar-plus-storage project is being supported by state regulators. Primergy on Se…",
+    "source": "POWER Magazine",
+    "image": null
+  },
+  {
+    "title": "Two More UK AGR Nuclear Plants Get Further Lifetime Extensions",
+    "link": "https://www.powermag.com/two-more-uk-agr-nuclear-plants-get-further-lifetime-extensions/",
+    "date": "2025-09-04",
+    "summary": "EDF will extend the lifetimes of two UK nuclear power plants—Heysham 1 in Lancashire and Hartlepool in Teesside—by an additional 12 months t…",
+    "source": "POWER Magazine",
     "image": null
   },
   {
@@ -664,30 +720,6 @@
     "image": null
   },
   {
-    "title": "Desert Power: A Deep Dive into the Massive Solar + Storage Project Powering Las Vegas’ Lights",
-    "link": "https://www.powermag.com/desert-power-a-deep-dive-into-the-massive-solar-storage-project-powering-las-vegas-lights/",
-    "date": "2025-09-02",
-    "summary": "In a sun-drenched Nevada desert, the Gemini project became America&#8217;s largest dispatchable single-phase solar + storage system, powerin…",
-    "source": "POWER Magazine",
-    "image": null
-  },
-  {
-    "title": "Solar and Wind’s Hidden Price Tag: Why Cost Isn’t the Whole Story",
-    "link": "https://www.powermag.com/solar-and-winds-hidden-price-tag-why-cost-isnt-the-whole-story/",
-    "date": "2025-09-02",
-    "summary": "Solar and wind power have become increasingly cost-competitive over the past decade, prompting claims that they are now the cheapest sources…",
-    "source": "POWER Magazine",
-    "image": null
-  },
-  {
-    "title": "Solar by the Numbers: Midong Is China’s Latest Mega-Marvel",
-    "link": "https://www.powermag.com/solar-by-the-numbers-midong-is-chinas-latest-mega-marvel/",
-    "date": "2025-09-02",
-    "summary": "A solar power project in the Gobi Desert has moved the needle on the size and scope of global photovoltaic installations, aided by innovatio…",
-    "source": "POWER Magazine",
-    "image": null
-  },
-  {
     "title": "X-FAB Expands GaN-on-Si Foundry Services with dMode Technology for High-Power Applications",
     "link": "https://www.powerelectronicsnews.com/x-fab-expands-gan-on-si-foundry-services-with-dmode-technology-for-high-power-applications/",
     "date": "2025-09-02",
@@ -756,22 +788,6 @@
     "link": "https://www.pv-tech.org/calssa-us10-million-fine-utilities-slow-residential-solar-storage-approval/",
     "date": "2025-09-01",
     "summary": "California's solar and storage association has called for US$10 million fines for PG&#038;E and SCE for failing to approve residential solar…",
-    "source": "PV Tech",
-    "image": null
-  },
-  {
-    "title": "Syria signs deal with STE to build 100MW solar PV plant",
-    "link": "https://www.pv-tech.org/syria-signs-deal-with-ste-to-build-100mw-solar-pv-plant/",
-    "date": "2025-09-01",
-    "summary": "General Corporation for Electricity Transmission and Distribution has signed a deal with Syrian-Turkish Energy Company (STE) to build a 100M…",
-    "source": "PV Tech",
-    "image": null
-  },
-  {
-    "title": "Solar Organic to build 10GW solar, battery manufacturing site in Spain",
-    "link": "https://www.pv-tech.org/solar-organic-to-build-10gw-solar-battery-manufacturing-site-in-spain/",
-    "date": "2025-09-01",
-    "summary": "Solar Organic Centro España is planning to build a 10GW solar module and battery manufacturing facility in the Spanish autonomous community …",
     "source": "PV Tech",
     "image": null
   },
@@ -904,14 +920,6 @@
     "image": null
   },
   {
-    "title": "Roundup: Flurry of wind power activity in south-east Europe",
-    "link": "https://www.windpowermonthly.com/article/1930181/roundup-flurry-wind-power-activity-south-east-europe",
-    "date": "2025-08-29",
-    "summary": "Wind power activity has picked up in south-east Europe in recent weeks, with large auctions concluded, turbine orders announced and project …",
-    "source": "Wind Power News & Analysis RSS Feed",
-    "image": null
-  },
-  {
     "title": "SiC MOSFETs Short-Circuit, Solid-State Batteries, India’s GaN Revolution: Power Electronics Week Insights",
     "link": "https://www.powerelectronicsnews.com/sic-mosfets-short-circuit-solid-state-batteries-indias-gan-revolution-power-electronics-week-insights/",
     "date": "2025-08-29",
@@ -948,14 +956,6 @@
     "link": "https://www.energy-storage.news/california-and-texas-remain-the-most-stable-profiles-for-battery-storage-asset-owners/",
     "date": "2025-08-28",
     "summary": "California and Texas have been “really good proving grounds” for energy storage, according to the CEO of developer Fullmark Energy.…",
-    "source": "Energy-Storage.News",
-    "image": null
-  },
-  {
-    "title": "MEAG and SMA Altenso partner on 354MWh Germany BESS with ‘next-gen’ inverters",
-    "link": "https://www.energy-storage.news/meag-and-sma-altenso-partner-on-354mwh-germany-bess-with-next-gen-inverters/",
-    "date": "2025-08-28",
-    "summary": "Asset manager MEAG and a subsidiary of inverter specialist SMA have partnered to deploy a 130MW/354MWh BESS in Germany, their second togethe…",
     "source": "Energy-Storage.News",
     "image": null
   },
