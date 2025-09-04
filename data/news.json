@@ -1,5 +1,13 @@
 [
   {
+    "title": "Washington governor delays approval of hybrid BESS proposal from Cypress Creek Renewables",
+    "link": "https://www.energy-storage.news/washington-governor-delays-approval-of-hybrid-bess-proposal-from-cypress-creek-renewables/",
+    "date": "2025-09-04",
+    "summary": "The Governor of Washington State has delayed issuing final approval of a hybrid BESS facility under development by Cypress Creek Renewables.…",
+    "source": "Energy-Storage.News",
+    "image": null
+  },
+  {
     "title": "Swift Current Energy closes US$242 million financing for Virginia battery storage project",
     "link": "https://www.energy-storage.news/swift-current-energy-closes-us242-million-financing-for-virginia-battery-storage-project/",
     "date": "2025-09-04",
@@ -101,6 +109,38 @@
     "date": "2025-09-04",
     "summary": "ARENA has launched the second funding round of its AU$1 billion Solar Sunshot programme, making AU$150 million available.…",
     "source": "PV Tech",
+    "image": null
+  },
+  {
+    "title": "First tests completed on LFP battery cell made with North American materials",
+    "link": "https://www.solarpowerworldonline.com/2025/09/first-tests-completed-on-lfp-battery-cell-made-with-north-american-materials/",
+    "date": "2025-09-04",
+    "summary": "Ultion Technologies has completed testing of lithium-iron phosphate (LFP) battery cells made entirely with North American materials. Uliton,…",
+    "source": "Solar Power World",
+    "image": null
+  },
+  {
+    "title": "Elmya Energy, Atlantica Sustainable Infrastructure launch joint venture for 4 GW of solar, wind and storage",
+    "link": "https://www.solarpowerworldonline.com/2025/09/elmya-energy-atlantica-sustainable-infrastructure-launch-joint-venture-for-4-gw-of-solar-wind-and-storage/",
+    "date": "2025-09-04",
+    "summary": "Elmya Energy and Atlantica Sustainable Infrastructure have announced the formation of Elmantic, a new joint venture to develop 4 GW of utili…",
+    "source": "Solar Power World",
+    "image": null
+  },
+  {
+    "title": "400-MWh Big Rock energy storage project now online for CAISO",
+    "link": "https://www.solarpowerworldonline.com/2025/09/400-mwh-big-rock-energy-storage-project-now-online-for-caiso/",
+    "date": "2025-09-04",
+    "summary": "LS Energy Solutions has commenced commercial operations at the Big Rock energy storage site in Imperial County, California. The 200-MW/400-M…",
+    "source": "Solar Power World",
+    "image": null
+  },
+  {
+    "title": "Solargik unveils AI platform for PV tracker sites",
+    "link": "https://www.solarpowerworldonline.com/2025/09/solargik-unveils-ai-platform-for-pv-tracker-sites/",
+    "date": "2025-09-04",
+    "summary": "Solargik, an international manufacturer of terrain-adaptive tracking, will debut Sunnie, an artificial intelligence solution for solar sites…",
+    "source": "Solar Power World",
     "image": null
   },
   {
@@ -340,38 +380,6 @@
     "link": "https://www.solarpowerworldonline.com/2025/09/encore-renewable-energy-completes-storage-project-for-vermont-university/",
     "date": "2025-09-03",
     "summary": "Encore Renewable Energy has energized South Street Storage, a 2-MW, 8-MWh utility-scale battery energy storage system, located next to the 5…",
-    "source": "Solar Power World",
-    "image": null
-  },
-  {
-    "title": "New report finds only 33% of solar EPCs meet HelioVolta quality standards",
-    "link": "https://www.solarpowerworldonline.com/2025/09/new-report-finds-only-33-of-solar-epcs-meet-heliovolta-quality-standards/",
-    "date": "2025-09-03",
-    "summary": "HelioVolta released the largest publicly available benchmark of U.S. solar contractors based on independent field inspections in its annual …",
-    "source": "Solar Power World",
-    "image": null
-  },
-  {
-    "title": "ENGIE partners with Prometheus to site AI datacenters near renewable energy in Texas",
-    "link": "https://www.solarpowerworldonline.com/2025/09/engie-partners-with-prometheus-to-site-ai-datacenters-near-renewable-energy-in-texas/",
-    "date": "2025-09-03",
-    "summary": "ENGIE North America announced it has entered into an agreement with data center developer Prometheus Hyperscale to co-locate data centers at…",
-    "source": "Solar Power World",
-    "image": null
-  },
-  {
-    "title": "New solar microgrid powers California permaculture farm and demonstration site",
-    "link": "https://www.solarpowerworldonline.com/2025/09/new-solar-microgrid-powers-california-permaculture-farm-and-demonstration-site/",
-    "date": "2025-09-03",
-    "summary": "Occidental Arts &#38; Ecology Center (OAEC), in partnership with RE-volv and Vital Energy Solutions, recently installed a 124-kW solar and 5…",
-    "source": "Solar Power World",
-    "image": null
-  },
-  {
-    "title": "91% of new electrical capacity added in first half of 2025 was solar and wind",
-    "link": "https://www.solarpowerworldonline.com/2025/09/91-of-new-electrical-capacity-added-in-first-half-of-2025-was-solar-and-wind/",
-    "date": "2025-09-03",
-    "summary": "A review by the SUN DAY Campaign of data just released by the Federal Energy Regulatory Commission (FERC) reveals that the combination of so…",
     "source": "Solar Power World",
     "image": null
   },
@@ -948,14 +956,6 @@
     "link": "https://www.energy-storage.news/meag-and-sma-altenso-partner-on-354mwh-germany-bess-with-next-gen-inverters/",
     "date": "2025-08-28",
     "summary": "Asset manager MEAG and a subsidiary of inverter specialist SMA have partnered to deploy a 130MW/354MWh BESS in Germany, their second togethe…",
-    "source": "Energy-Storage.News",
-    "image": null
-  },
-  {
-    "title": "EC-funded study progresses battery storage hybridisation of pumped hydro plant in Slovakia",
-    "link": "https://www.energy-storage.news/ec-funded-study-progresses-battery-storage-hybridisation-of-pumped-hydro-plant-in-slovakia/",
-    "date": "2025-08-28",
-    "summary": "European Commission funding is supporting a project to integrate battery storage at a pumped hydro energy storage (PHES) plant in Slovakia.…",
     "source": "Energy-Storage.News",
     "image": null
   },
