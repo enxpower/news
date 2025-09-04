@@ -1,5 +1,21 @@
 [
   {
+    "title": "Swift Current Energy closes US$242 million financing for Virginia battery storage project",
+    "link": "https://www.energy-storage.news/swift-current-energy-closes-us242-million-financing-for-virginia-battery-storage-project/",
+    "date": "2025-09-04",
+    "summary": "Swift Current Energy has secured US$242 million for what the developer claimed will be the biggest BESS project in the PJM service area.…",
+    "source": "Energy-Storage.News",
+    "image": null
+  },
+  {
+    "title": "Texas: Ormat brings online 120MWh BESS, Engie partners with data centre developer",
+    "link": "https://www.energy-storage.news/texas-ormat-brings-online-120mwh-bess-engie-partners-with-data-centre-developer/",
+    "date": "2025-09-04",
+    "summary": "In a double-hit of Texas news, Ormat is commencing operations at its Lower Rio facility, Engie is partnering with Prometheus Hyperscale to p…",
+    "source": "Energy-Storage.News",
+    "image": null
+  },
+  {
     "title": "South African government’s 11GWh BESS procurement in charts",
     "link": "https://www.energy-storage.news/south-africa-governments-11gwh-bess-procurement-visualised/",
     "date": "2025-09-04",
@@ -21,6 +37,22 @@
     "date": "2025-09-04",
     "summary": "Australian battery storage developer Akaysha Energy has secured an AU$300 million (US$196 million) corporate debt facility to accelerate its…",
     "source": "Energy-Storage.News",
+    "image": null
+  },
+  {
+    "title": "Governor Newsom signs executive order to accelerate projects at risk of losing IRA support",
+    "link": "https://www.pv-tech.org/governor-newsom-signs-executive-order-accelerate-projects-at-risk-losing-ira-support/",
+    "date": "2025-09-04",
+    "summary": "Gavin Newsom has signed an executive order to accelerate the permitting of energy generation projects that could be set to lose IRA support.…",
+    "source": "PV Tech",
+    "image": null
+  },
+  {
+    "title": "Czech Republic warns of cybersecurity threat from Chinese solar inverters",
+    "link": "https://www.pv-tech.org/czech-republic-warns-of-cybersecurity-threat-from-chinese-solar-inverters/",
+    "date": "2025-09-04",
+    "summary": "The Czech national cybersecurity agency has warned that Chinese solar inverters represent a threat to the country’s data security.…",
+    "source": "PV Tech",
     "image": null
   },
   {
@@ -69,6 +101,38 @@
     "date": "2025-09-04",
     "summary": "ARENA has launched the second funding round of its AU$1 billion Solar Sunshot programme, making AU$150 million available.…",
     "source": "PV Tech",
+    "image": null
+  },
+  {
+    "title": "Nextracker showcasing new trunk connector for solar trackers at RE+",
+    "link": "https://www.solarpowerworldonline.com/2025/09/nextracker-showcasing-new-trunk-connector-for-solar-trackers-at-re/",
+    "date": "2025-09-04",
+    "summary": "Nextracker has launched its proprietary NX PowerMerge trunk connector, a DC power component designed to streamline electrical balance of sys…",
+    "source": "Solar Power World",
+    "image": null
+  },
+  {
+    "title": "Repsol selects RES as O&M partner for 1.5-GW utility solar portfolio",
+    "link": "https://www.solarpowerworldonline.com/2025/09/repsol-selects-res-as-om-partner-for-1-5-gw-utility-solar-portfolio/",
+    "date": "2025-09-04",
+    "summary": "RES announced it has signed a contract with Repsol to provide O&#38;M services for more than 1.5 GW of utility-scale solar projects in the U…",
+    "source": "Solar Power World",
+    "image": null
+  },
+  {
+    "title": "SPR expands solar panel recycling capacity at North Carolina facility",
+    "link": "https://www.solarpowerworldonline.com/2025/09/spr-expands-solar-panel-recycling-capacity-at-north-carolina-facility/",
+    "date": "2025-09-04",
+    "summary": "SPR (SolarPanelRecycling.com) is adding a new processing technology to its solar panel recycling outfits that will accelerate recycling time…",
+    "source": "Solar Power World",
+    "image": null
+  },
+  {
+    "title": "Ampion launches new interstate community solar program",
+    "link": "https://www.solarpowerworldonline.com/2025/09/ampion-launches-new-interstate-community-solar-program/",
+    "date": "2025-09-04",
+    "summary": "Ampion Renewable Energy has announced the launch of a new interstate community solar setup it&#8217;s calling &#8220;Synthetic Community Sol…",
+    "source": "Solar Power World",
     "image": null
   },
   {
@@ -300,38 +364,6 @@
     "link": "https://www.solarpowerworldonline.com/2025/09/91-of-new-electrical-capacity-added-in-first-half-of-2025-was-solar-and-wind/",
     "date": "2025-09-03",
     "summary": "A review by the SUN DAY Campaign of data just released by the Federal Energy Regulatory Commission (FERC) reveals that the combination of so…",
-    "source": "Solar Power World",
-    "image": null
-  },
-  {
-    "title": "Virtual PPA trading platform CleanTrade receives regulatory approval",
-    "link": "https://www.solarpowerworldonline.com/2025/09/virtual-ppa-trading-platform-cleantrade-receives-regulatory-approval/",
-    "date": "2025-09-03",
-    "summary": "REsurety announced the regulatory approval of its clean energy transaction platform, CleanTrade, from the US federal Commodity Futures Tradi…",
-    "source": "Solar Power World",
-    "image": null
-  },
-  {
-    "title": "Generac unveils two-panel solar microinverter",
-    "link": "https://www.solarpowerworldonline.com/2025/09/generac-unveils-two-panel-solar-microinverter/",
-    "date": "2025-09-03",
-    "summary": "Generac is now in the inverter game after releasing a two-panel, 820-W microinverter. The Generac PWRmicro is backed by a 25-year warranty. …",
-    "source": "Solar Power World",
-    "image": null
-  },
-  {
-    "title": "Honda’s new Acura EV will have bidirectional charging capabilities",
-    "link": "https://www.solarpowerworldonline.com/2025/09/hondas-new-acura-ev-will-have-bidirectional-charging-capabilities/",
-    "date": "2025-09-03",
-    "summary": "American Honda Motor Co. will exhibit at the RE+ tradeshow next week, displaying its new Acura RSX Prototype electric vehicle (EV) that can …",
-    "source": "Solar Power World",
-    "image": null
-  },
-  {
-    "title": "HD Hyundai displays solar panel technologies at RE+",
-    "link": "https://www.solarpowerworldonline.com/2025/09/hd-hyundai-displays-solar-panel-technologies-at-re/",
-    "date": "2025-09-03",
-    "summary": "HD Hyundai Energy Solutions will exhibit at the RE+ tradeshow next week, highlighting its 20 years of experience in solar cell and module ma…",
     "source": "Solar Power World",
     "image": null
   },
@@ -728,22 +760,6 @@
     "image": null
   },
   {
-    "title": "US ITC to pursue investigation on PV cell imports from India, Indonesia and Laos",
-    "link": "https://www.pv-tech.org/us-itc-to-pursue-investigation-on-pv-cell-imports-from-india-indonesia-and-laos/",
-    "date": "2025-09-01",
-    "summary": "The US International Trade Commission (ITC) has voted to continue the investigation on imported solar cells from India, Indonesia and Laos.…",
-    "source": "PV Tech",
-    "image": null
-  },
-  {
-    "title": "Utility-scale solar and wind hit a record 47.2% electricity share in Australia’s NEM",
-    "link": "https://www.pv-tech.org/utility-scale-solar-and-wind-hit-a-record-47-2-electricity-share-in-australias-nem/",
-    "date": "2025-09-01",
-    "summary": "Australia’s National Electricity Market (NEM) hit a record high for the combined utility-scale solar PV and wind share in the electricity mi…",
-    "source": "PV Tech",
-    "image": null
-  },
-  {
     "title": "Cross-border Laos-to-Vietnam wind farm commissioned",
     "link": "https://www.windpowermonthly.com/article/1930610/cross-border-laos-to-vietnam-wind-farm-commissioned",
     "date": "2025-09-01",
@@ -932,22 +948,6 @@
     "link": "https://www.energy-storage.news/ec-funded-study-progresses-battery-storage-hybridisation-of-pumped-hydro-plant-in-slovakia/",
     "date": "2025-08-28",
     "summary": "European Commission funding is supporting a project to integrate battery storage at a pumped hydro energy storage (PHES) plant in Slovakia.…",
-    "source": "Energy-Storage.News",
-    "image": null
-  },
-  {
-    "title": "Wood Mackenzie: ‘Australia is a leading country for grid-forming BESS’",
-    "link": "https://www.energy-storage.news/wood-mackenzie-australia-is-a-leading-country-for-grid-forming-bess/",
-    "date": "2025-08-28",
-    "summary": "“Australia is one of the leading countries for grid-forming inverters,” said Natalie Thompson, senior analyst of energy storage and solar at…",
-    "source": "Energy-Storage.News",
-    "image": null
-  },
-  {
-    "title": "TagEnergy acquires ACE Power, adding 6GW of energy storage and renewables in Australia",
-    "link": "https://www.energy-storage.news/tagenergy-acquires-ace-power-adding-6gw-of-energy-storage-and-renewables-in-australia/",
-    "date": "2025-08-28",
-    "summary": "Renewables developer and independent power producer (IPP) TagEnergy has acquired Australian developer ACE Power, adding 6GW of energy storag…",
     "source": "Energy-Storage.News",
     "image": null
   },
