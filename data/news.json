@@ -256,6 +256,14 @@
     "image": null
   },
   {
+    "title": "Introducing the Loss Cost Factor: A New Benchmark for Magnetic Material Selection",
+    "link": "https://eepower.com/technical-articles/introducing-the-loss-cost-factor-a-new-benchmark-for-magnetic-material-selection/",
+    "date": "2025-09-05",
+    "summary": "In this article, we introduce a figure of merit called the Loss Cost Factor (LCF), which integrates technical performance and cost factors o…",
+    "source": "EE Power",
+    "image": null
+  },
+  {
     "title": "Take Our 2025 EETech Engineering Insights Survey",
     "link": "https://eepower.com/news/take-our-2025-eetech-engineering-insights-survey/",
     "date": "2025-09-05",
@@ -1068,14 +1076,6 @@
     "link": "https://eepower.com/technical-articles/role-of-thyristor-controlled-series-capacitors-in-power-system-control/",
     "date": "2025-08-21",
     "summary": "In this article, learn about the role of Thyristor-Controlled Series Capacitors (TCSC) in enhancing power system performance through dynamic…",
-    "source": "EE Power",
-    "image": null
-  },
-  {
-    "title": "Grid-Scale Energy Storage Projects Heat Up Globally",
-    "link": "https://eepower.com/news/grid-scale-energy-storage-projects-heat-up-globally/",
-    "date": "2025-08-21",
-    "summary": "Quidnet Energy, ENBW, and Peak Energy have energy storage projects in the works in the U.S. and Europe.…",
     "source": "EE Power",
     "image": null
   }
