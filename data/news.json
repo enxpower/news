@@ -1,5 +1,13 @@
 [
   {
+    "title": "SK On signs 7.2GWh deal to supply US-made LFP batteries to Flatiron Energy Development",
+    "link": "https://www.energy-storage.news/sk-on-signs-7-2gwh-deal-to-supply-us-made-lfp-batteries-to-flatiron-energy-development/",
+    "date": "2025-09-05",
+    "summary": "South Korean company SK On has entered the US BESS market with LFP batteries, securing a supply contract with Flatiron Energy Development.…",
+    "source": "Energy-Storage.News",
+    "image": null
+  },
+  {
     "title": "VIDEO: Model and maximise C&I battery storage profits with Qcells + Geli",
     "link": "https://www.energy-storage.news/video-model-and-maximise-ci-battery-storage-profits-with-qcells-geli/",
     "date": "2025-09-05",
@@ -29,6 +37,22 @@
     "date": "2025-09-05",
     "summary": "Australian renewable energy company Tilt Renewables has officially inaugurated its 100MW/200MWh Latrobe Valley battery energy storage system…",
     "source": "Energy-Storage.News",
+    "image": null
+  },
+  {
+    "title": "Nextracker launches new eBOS trunk connector, NX PowerMerge",
+    "link": "https://www.pv-tech.org/nextracker-launches-new-ebos-trunk-connector-nx-powermerge/",
+    "date": "2025-09-05",
+    "summary": "US solar tracker manufacturer Nextracker has launched a new electrical balance of systems (eBOS) trunk connector.…",
+    "source": "PV Tech",
+    "image": null
+  },
+  {
+    "title": "Fraunhofer ISE, KAUST advance perovskite tandem cell passivation in ‘crucial step for industrialisation’",
+    "link": "https://www.pv-tech.org/fraunhofer-ise-kaust-advance-perovskite-tandem-cell-passivation-in-crucial-step-for-industrialisation/",
+    "date": "2025-09-05",
+    "summary": "Scientists from Germany and Saudi Arabia have discovered that perovskite thin-film cells are compatible with current industry standard silic…",
+    "source": "PV Tech",
     "image": null
   },
   {
@@ -125,6 +149,14 @@
     "date": "2025-09-05",
     "summary": "The Cabaiguán photovoltaic park, with a capacity of 21.87 MW, located in the central province of Sancti Spíritus, began operations after jus…",
     "source": "POWER Magazine",
+    "image": null
+  },
+  {
+    "title": "Foundry Models, SiC Modules Reliability and Thermal Performance, 3-Channel Buck Converter: Power Electronics Week Insights",
+    "link": "https://www.powerelectronicsnews.com/foundry-models-sic-modules-reliability-and-thermal-performance-3-channel-buck-converter-power-electronics-week-insights/",
+    "date": "2025-09-05",
+    "summary": "<img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"1669\" src=\"https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/…",
+    "source": "Power Electronics News",
     "image": null
   },
   {
@@ -808,22 +840,6 @@
     "image": null
   },
   {
-    "title": "Iberdrola commissions 316MW Spanish solar PV project",
-    "link": "https://www.pv-tech.org/iberdrola-commissions-316mw-spanish-solar-project/",
-    "date": "2025-09-02",
-    "summary": "Iberdrola has commissioned the 316MW Ciudad Rodrigo solar project in Salamanca, Spain, the company’s second solar plant in the province.…",
-    "source": "PV Tech",
-    "image": null
-  },
-  {
-    "title": "Grenergy sells phase four of Oasis de Atacama solar-plus-storage project",
-    "link": "https://www.pv-tech.org/grenergy-sells-phase-four-of-oasis-de-atacama-solar-plus-storage-project/",
-    "date": "2025-09-02",
-    "summary": "Spanish independent power producer (IPP) Grenergy has sold the fourth phase of its flagship solar-plus-storage project in Chile, Oasis de At…",
-    "source": "PV Tech",
-    "image": null
-  },
-  {
     "title": "UK floating wind pioneer takes hit as Chinese oil giant drops electrification project",
     "link": "https://www.windpowermonthly.com/article/1930708/uk-floating-wind-pioneer-takes-hit-chinese-oil-giant-drops-electrification-project",
     "date": "2025-09-02",
@@ -888,14 +904,6 @@
     "image": null
   },
   {
-    "title": "ABLIC Introduces S-19230/1 Series: Ultra-Low Current Automotive Voltage Regulator with Enhanced Safety and 80V Tolerance",
-    "link": "https://www.powerelectronicsnews.com/ablic-introduces-s-19230-1-series-ultra-low-current-automotive-voltage-regulator-with-enhanced-safety-and-80v-tolerance/",
-    "date": "2025-09-02",
-    "summary": "<img alt=\"ABLIC Introduces S-19230/1 Series: Ultra-Low Current Automotive Voltage Regulator with Enhanced Safety and 80V Tolerance.\" class=\"…",
-    "source": "Power Electronics News",
-    "image": null
-  },
-  {
     "title": "Chinese battery manufacturer Hithium ships first units from Texas BESS assembly plant",
     "link": "https://www.energy-storage.news/chinese-battery-manufacturer-hithium-ships-first-units-from-texas-bess-assembly-plant/",
     "date": "2025-09-01",
@@ -956,14 +964,6 @@
     "link": "https://www.energy-storage.news/capacity-investment-scheme-tenders-open-targeting-2-4gwh-of-energy-storage-in-western-australia/",
     "date": "2025-08-29",
     "summary": "The Australian government has opened two CIS tenders in Western Australia, targeting 2.4GWh of energy storage and 1.6GW of renewables.…",
-    "source": "Energy-Storage.News",
-    "image": null
-  },
-  {
-    "title": "Potentia’s 900MWh BESS site the first to be approved under South Australia’s HRE Act",
-    "link": "https://www.energy-storage.news/potentias-900mwh-bess-site-the-first-to-be-approved-under-south-australias-hre-act/",
-    "date": "2025-08-29",
-    "summary": "Potentia Energy, a joint venture co-owned by Enel Green Power and INPEX, has secured the first environmental approval for a grid-scale batte…",
     "source": "Energy-Storage.News",
     "image": null
   },
