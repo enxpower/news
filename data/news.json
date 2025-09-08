@@ -112,6 +112,22 @@
     "image": null
   },
   {
+    "title": "SMA to manufacture inverters in the U.S. with help from Create Energy",
+    "link": "https://www.solarpowerworldonline.com/2025/09/sma-to-manufacture-inverters-in-the-u-s-with-help-from-create-energy/",
+    "date": "2025-09-08",
+    "summary": "SMA and Create Energy announced they will work together to manufacture both the Sunny Highpower PEAK3 and the fully-integrated PowerSkid sol…",
+    "source": "Solar Power World",
+    "image": null
+  },
+  {
+    "title": "New home battery from Kora comes with smart panel and VPP platform",
+    "link": "https://www.solarpowerworldonline.com/2025/09/new-home-battery-from-kora-comes-with-smart-panel-and-vpp-platform/",
+    "date": "2025-09-08",
+    "summary": "Kora has unveiled a home energy system that integrates a smart panel, batteries, inverter, app and virtual power plant platform. The company…",
+    "source": "Solar Power World",
+    "image": null
+  },
+  {
     "title": "Nextracker acquires PV panel frame manufacturer Origami Solar",
     "link": "https://www.solarpowerworldonline.com/2025/09/nextracker-acquires-pv-panel-frame-manufacturer-origami-solar/",
     "date": "2025-09-08",
@@ -213,6 +229,14 @@
     "date": "2025-09-08",
     "summary": "<img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"333\" src=\"https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2…",
     "source": "Power Electronics News",
+    "image": null
+  },
+  {
+    "title": "Next-Gen SiC MOSFET and Si RC-IGBT Tech Meets E-Mobility Needs",
+    "link": "https://eepower.com/technical-articles/next-gen-sic-mosfet-si-rc-igbt-bare-dies-and-transfer-mold-power-modules-high-power-density-high-efficiency-scalability-for-e-mobility/",
+    "date": "2025-09-08",
+    "summary": "Learn how Mitsubishi’s in-house designed & developed efficient semiconductor bare-dies (SiC MOSFET & Si RC-IGBT) and compact high-reliabilit…",
+    "source": "EE Power",
     "image": null
   },
   {
@@ -688,22 +712,6 @@
     "image": null
   },
   {
-    "title": "Data centers forcing US utilities to plan large load capacity additions very quickly",
-    "link": "https://www.solarpowerworldonline.com/2025/09/data-centers-forcing-us-utilities-to-plan-large-load-capacity-additions-very-quickly/",
-    "date": "2025-09-04",
-    "summary": "With 116 GW of large load capacity committed or under construction, U.S. utilities are planning for significant large load capacity growth —…",
-    "source": "Solar Power World",
-    "image": null
-  },
-  {
-    "title": "First tests completed on LFP battery cell made with North American materials",
-    "link": "https://www.solarpowerworldonline.com/2025/09/first-tests-completed-on-lfp-battery-cell-made-with-north-american-materials/",
-    "date": "2025-09-04",
-    "summary": "Ultion Technologies has completed testing of lithium-iron phosphate (LFP) battery cells made entirely with North American materials. Uliton,…",
-    "source": "Solar Power World",
-    "image": null
-  },
-  {
     "title": "Ørsted and Skyborn sue Trump over Revolution Wind halt",
     "link": "https://www.windpowermonthly.com/article/1931156/orsted-skyborn-sue-trump-revolution-wind-halt",
     "date": "2025-09-04",
@@ -1068,14 +1076,6 @@
     "link": "https://eepower.com/market-insights/next-gen-solar-cells-break-indoor-efficiency-records/",
     "date": "2025-08-25",
     "summary": "Researchers have demonstrated a perovskite indoor solar cell with a record 37.6% power conversion efficiency under LED lighting.…",
-    "source": "EE Power",
-    "image": null
-  },
-  {
-    "title": "A Guide to Electromagnetic Interference in High-Voltage Transmission Lines",
-    "link": "https://eepower.com/technical-articles/a-guide-to-electromagnetic-interference-in-high-voltage-transmission-lines/",
-    "date": "2025-08-24",
-    "summary": "The article explores the issue of electromagnetic interference (EMI) in high-voltage transmission systems, highlighting its sources, impacts…",
     "source": "EE Power",
     "image": null
   }
