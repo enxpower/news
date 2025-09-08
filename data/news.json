@@ -1,5 +1,13 @@
 [
   {
+    "title": "SEIA & WoodMac: US on track to lose 55 GW of new solar by 2030",
+    "link": "https://www.solarpowerworldonline.com/2025/09/seia-woodmac-us-on-track-to-lose-55-gw-of-new-solar-by-2030/",
+    "date": "2025-09-08",
+    "summary": "The U.S. solar industry installed nearly 18 GW of new capacity in the first half of 2025. Even as the Trump Administration rolled out a seri…",
+    "source": "Solar Power World",
+    "image": null
+  },
+  {
     "title": "An Introduction to Wave Propagation in Long-Distance Power Transmission",
     "link": "https://eepower.com/technical-articles/an-introduction-to-wave-propagation-in-long-distance-power-transmission/",
     "date": "2025-09-07",
@@ -53,54 +61,6 @@
     "date": "2025-09-05",
     "summary": "Australian renewable energy company Tilt Renewables has officially inaugurated its 100MW/200MWh Latrobe Valley battery energy storage system…",
     "source": "Energy-Storage.News",
-    "image": null
-  },
-  {
-    "title": "Nextracker launches new eBOS trunk connector, NX PowerMerge",
-    "link": "https://www.pv-tech.org/nextracker-launches-new-ebos-trunk-connector-nx-powermerge/",
-    "date": "2025-09-05",
-    "summary": "US solar tracker manufacturer Nextracker has launched a new electrical balance of systems (eBOS) trunk connector.…",
-    "source": "PV Tech",
-    "image": null
-  },
-  {
-    "title": "Fraunhofer ISE, KAUST advance perovskite tandem cell passivation in ‘crucial step for industrialisation’",
-    "link": "https://www.pv-tech.org/fraunhofer-ise-kaust-advance-perovskite-tandem-cell-passivation-in-crucial-step-for-industrialisation/",
-    "date": "2025-09-05",
-    "summary": "Scientists from Germany and Saudi Arabia have discovered that perovskite thin-film cells are compatible with current industry standard silic…",
-    "source": "PV Tech",
-    "image": null
-  },
-  {
-    "title": "US ROUND-UP: ContourGlobal powers its first US solar plant, Arevon closes financing on 430MW PV in Missouri",
-    "link": "https://www.pv-tech.org/us-round-up-contourglobal-powers-its-first-us-solar-plant-arevon-closes-financing-on-430mw-pv-in-missouri/",
-    "date": "2025-09-05",
-    "summary": "During a week of major US clean energy developments, ContourGlobal, PSE, Arevon, and Ameren Missouri advanced solar projects across four sta…",
-    "source": "PV Tech",
-    "image": null
-  },
-  {
-    "title": "Sale of Sunnova assets and business confirmed",
-    "link": "https://www.pv-tech.org/sale-of-sunnova-assets-and-business-confirmed/",
-    "date": "2025-09-05",
-    "summary": "Newly formed firm Solaris Assets has acquired the business operations and assets of Texas-based residential solar installer Sunnova.…",
-    "source": "PV Tech",
-    "image": null
-  },
-  {
-    "title": "Array Technologies’ trackers certified as compatible with 2,000V systems",
-    "link": "https://www.pv-tech.org/array-technologies-trackers-certified-compatible-2000v-systems/",
-    "date": "2025-09-05",
-    "summary": "US solar tracker manufacturer Array Technologies has announced that two of its tracking systems are compatible with 2,000V solar systems.…",
-    "source": "PV Tech",
-    "image": null
-  },
-  {
-    "title": "Australia: Queensland utility-scale solar PV plants dominate best-performing list for August",
-    "link": "https://www.pv-tech.org/australia-queensland-utility-scale-solar-pv-plants-dominate-best-performing-list-for-august/",
-    "date": "2025-09-05",
-    "summary": "Research firm Rystad Energy has found that Queensland’s utility-scale solar PV power plants have dominated the best-performing assets, in te…",
-    "source": "PV Tech",
     "image": null
   },
   {
@@ -352,86 +312,6 @@
     "image": null
   },
   {
-    "title": "India cuts GST on renewable energy components from 12% to 5%",
-    "link": "https://www.pv-tech.org/india-cuts-gst-on-renewable-energy-components-from-12-to-5/",
-    "date": "2025-09-04",
-    "summary": "India’s Goods and Services Tax (GST) Council, the joint forum of the Centre and States, has reduced the GST rate on renewable energy compone…",
-    "source": "PV Tech",
-    "image": null
-  },
-  {
-    "title": "Fraunhofer ISE completes testing on grid-forming inverters, to publish results next month",
-    "link": "https://www.pv-tech.org/fraunhofer-ise-completes-testing-grid-forming-inverters-publish-results-next-month/",
-    "date": "2025-09-04",
-    "summary": "Fraunhofer ISE has completed testing work of grid-forming inverters currently available in the energy industry.…",
-    "source": "PV Tech",
-    "image": null
-  },
-  {
-    "title": "Governor Newsom signs executive order to accelerate projects at risk of losing IRA support",
-    "link": "https://www.pv-tech.org/governor-newsom-signs-executive-order-accelerate-projects-at-risk-losing-ira-support/",
-    "date": "2025-09-04",
-    "summary": "Gavin Newsom has signed an executive order to accelerate the permitting of energy generation projects that could be set to lose IRA support.…",
-    "source": "PV Tech",
-    "image": null
-  },
-  {
-    "title": "Czech Republic warns of cybersecurity threat from Chinese solar inverters",
-    "link": "https://www.pv-tech.org/czech-republic-warns-of-cybersecurity-threat-from-chinese-solar-inverters/",
-    "date": "2025-09-04",
-    "summary": "The Czech national cybersecurity agency has warned that Chinese solar inverters represent a threat to the country’s data security.…",
-    "source": "PV Tech",
-    "image": null
-  },
-  {
-    "title": "Highland Materials to begin polysilicon plant construction in H2 2026",
-    "link": "https://www.pv-tech.org/highland-materials-to-begin-polysilicon-plant-construction-in-h2-2026/",
-    "date": "2025-09-04",
-    "summary": "US polysilicon company Highland Materials has aimed to begin construction at its polysilicon plant in the second half of 2026.…",
-    "source": "PV Tech",
-    "image": null
-  },
-  {
-    "title": "Waaree Energies acquires 64% stake in transformer maker Kotsons",
-    "link": "https://www.pv-tech.org/waaree-energies-acquires-64-stake-in-transformer-maker-kotsons/",
-    "date": "2025-09-04",
-    "summary": "Indian solar manufacturer Waaree Energies has acquired a 64% equity stake in power transformer manufacturing company Kotsons.…",
-    "source": "PV Tech",
-    "image": null
-  },
-  {
-    "title": "Biden tariff moratorium ‘single worst policy’ for US solar supply chain",
-    "link": "https://www.pv-tech.org/biden-tariff-moratorium-single-worst-policy-for-us-solar-supply-chain/",
-    "date": "2025-09-04",
-    "summary": "Analysis: A Biden-era policy to suspend the payment of duties on Southeast Asian module imports looks set to backfire badly on an already un…",
-    "source": "PV Tech",
-    "image": null
-  },
-  {
-    "title": "‘Innovation allows us to compete straight up against China on polysilicon’",
-    "link": "https://www.pv-tech.org/innovation-allows-us-to-compete-straight-up-against-china-on-polysilicon/",
-    "date": "2025-09-04",
-    "summary": "PV Talk: Highland Materials' CEO Richard Rast explains how the company aims to compete in the polysilicon landscape through US innovation.…",
-    "source": "PV Tech",
-    "image": null
-  },
-  {
-    "title": "FTC Solar launches automated 80 degree hail stow angle for 1P Pioneer tracker",
-    "link": "https://www.pv-tech.org/ftc-solar-launches-80-degree-hail-stow-angle-1p-pioneer-tracker/",
-    "date": "2025-09-04",
-    "summary": "US tracker manufacturer FTC Solar has launched an automated 80 degree hail stow angle for its flagship 1P Pioneer tracker.…",
-    "source": "PV Tech",
-    "image": null
-  },
-  {
-    "title": "ARENA launches AU$150 million second round of Solar Sunshot programme in Australia",
-    "link": "https://www.pv-tech.org/arena-launches-au150-million-second-round-of-solar-sunshot-programme-in-australia/",
-    "date": "2025-09-04",
-    "summary": "ARENA has launched the second funding round of its AU$1 billion Solar Sunshot programme, making AU$150 million available.…",
-    "source": "PV Tech",
-    "image": null
-  },
-  {
     "title": "Nextracker showcasing new trunk connector for solar trackers at RE+",
     "link": "https://www.solarpowerworldonline.com/2025/09/nextracker-showcasing-new-trunk-connector-for-solar-trackers-at-re/",
     "date": "2025-09-04",
@@ -524,14 +404,6 @@
     "link": "https://www.solarpowerworldonline.com/2025/09/ampion-launches-new-interstate-community-solar-program/",
     "date": "2025-09-04",
     "summary": "Ampion Renewable Energy has announced the launch of a new interstate community solar setup it&#8217;s calling &#8220;Synthetic Community Sol…",
-    "source": "Solar Power World",
-    "image": null
-  },
-  {
-    "title": "SEIA focuses on grid reliability in new solar + storage policy agenda",
-    "link": "https://www.solarpowerworldonline.com/2025/09/seia-focuses-on-grid-reliability-in-new-solar-storage-policy-agenda/",
-    "date": "2025-09-04",
-    "summary": "Today, the Solar Energy Industries Association (SEIA) is unveiling a new policy agenda that details the critical actions that local, state a…",
     "source": "Solar Power World",
     "image": null
   },
@@ -688,62 +560,6 @@
     "image": null
   },
   {
-    "title": "Alight and Neoen power up 100MW PV plant in Sweden",
-    "link": "https://www.pv-tech.org/alight-and-neoen-power-up-100mw-pv-plant-in-sweden/",
-    "date": "2025-09-03",
-    "summary": "Developers Alight Neoen have commissioned the 100MWp Hultsfred Solar Farm in Småland, southern Sweden.…",
-    "source": "PV Tech",
-    "image": null
-  },
-  {
-    "title": "US residential PV prices remain stable but industry confidence falters – EnergySage",
-    "link": "https://www.pv-tech.org/us-residential-pv-prices-remain-stable-but-industry-confidence-falters-energysage/",
-    "date": "2025-09-03",
-    "summary": "US residential solar prices have remained at historic lows in the first half of the year despite market uncertainty and continued high inter…",
-    "source": "PV Tech",
-    "image": null
-  },
-  {
-    "title": "Trinasolar, Holosolis ink TOPCon patent licence agreement in Europe",
-    "link": "https://www.pv-tech.org/trinasolar-holosolis-ink-topcon-patent-licence-agreement-in-europe/",
-    "date": "2025-09-03",
-    "summary": "Chinese solar manufacturer Trinasolar has signed a patent licence agreement with French module manufacturing startup Holosolis to use its TO…",
-    "source": "PV Tech",
-    "image": null
-  },
-  {
-    "title": "India adds 2.8GW rooftop solar in H1 2025, up 158% year-on-year",
-    "link": "https://www.pv-tech.org/india-adds-2-8gw-rooftop-solar-in-h1-2025-up-158-year-on-year/",
-    "date": "2025-09-03",
-    "summary": "India has added 2.8GW of rooftop solar in H1 2025, a 158% year-on-year surge from just 1.1GW in the same period last year.…",
-    "source": "PV Tech",
-    "image": null
-  },
-  {
-    "title": "Huasun claims 34.02% efficiency on HJT-perovskite tandem cell",
-    "link": "https://www.pv-tech.org/huasun-claims-34-02-efficiency-on-hjt-perovskite-tandem-cell/",
-    "date": "2025-09-03",
-    "summary": "Huasun claims it has set new record efficiencies for HJT-perovskite tandem solar cells at both laboratory and commercial scales.…",
-    "source": "PV Tech",
-    "image": null
-  },
-  {
-    "title": "Peak Energy breaks ground on 65MWp solar project in Philippines",
-    "link": "https://www.pv-tech.org/peak-energy-breaks-ground-on-65mwp-solar-project-in-philippines/",
-    "date": "2025-09-03",
-    "summary": "Singapore-headquartered independent power producer Peak Energy has broken ground on a 65MWp solar project in Isabela, in the Cagayan Valley …",
-    "source": "PV Tech",
-    "image": null
-  },
-  {
-    "title": "China’s top four solar manufacturers suffer US$1.54 billion in losses in H1 2025",
-    "link": "https://www.pv-tech.org/chinas-top-four-solar-manufacturers-suffer-1-54-billion-losses-h1-2025/",
-    "date": "2025-09-03",
-    "summary": "LONGi, Jinko Solar, Trina Solar and JA Solar posted combined net losses of nearly RMB11 billion (US$1.54 billion) in H1 2025.…",
-    "source": "PV Tech",
-    "image": null
-  },
-  {
     "title": "Trump looks to scrap SouthCoast Wind approval in latest offshore wind attack",
     "link": "https://www.windpowermonthly.com/article/1930882/trump-looks-scrap-southcoast-wind-approval-latest-offshore-wind-attack",
     "date": "2025-09-03",
@@ -845,62 +661,6 @@
     "date": "2025-09-02",
     "summary": "Katherine Hutton, product manager of cybersecurity at Fluence, discusses why cybersecurity is critical for battery storage systems and how t…",
     "source": "Energy-Storage.News",
-    "image": null
-  },
-  {
-    "title": "Q Energy secures financing for 252MW PV portfolio in Spain",
-    "link": "https://www.pv-tech.org/q-energy-secures-financing-for-252mw-pv-portfolio-in-spain/",
-    "date": "2025-09-02",
-    "summary": "Q Energy has reached financial close for Taurus B, a portfolio of seven solar PV plants in Spain with a combined capacity of 251.71MWp.…",
-    "source": "PV Tech",
-    "image": null
-  },
-  {
-    "title": "Fraunhofer ISE to build pilot TOPCon cell line to support 4GW Talon PV US facility",
-    "link": "https://www.pv-tech.org/fraunhofer-ise-to-build-pilot-topcon-cell-line-to-support-4gw-talon-pv-us-facility/",
-    "date": "2025-09-02",
-    "summary": "The Fraunhofer Institute for Solar Energy Systems (ISE) will build a pilot solar cell line in Germany to support US manufacturer Talon PV’s …",
-    "source": "PV Tech",
-    "image": null
-  },
-  {
-    "title": "GES to build 695MW AES Andes co-located renewables project in Chile",
-    "link": "https://www.pv-tech.org/ges-to-build-695mw-aes-andes-co-located-renewables-project-in-chile/",
-    "date": "2025-09-02",
-    "summary": "Spanish construction firm GES (Global Energy Services) has secured a contract to build a roughly 700MW solar-wind-storage hybrid project in …",
-    "source": "PV Tech",
-    "image": null
-  },
-  {
-    "title": "Ingeteam provides PV inverters for 640MW solar plant in Texas",
-    "link": "https://www.pv-tech.org/ingeteam-provides-pv-inverters-for-640mw-solar-plant-in-texas/",
-    "date": "2025-09-02",
-    "summary": "Ingeteam has supplied its INGECON SUN 3Power Series C liquid-cooled central PV inverters for a 640MW solar PV plant in Texas.…",
-    "source": "PV Tech",
-    "image": null
-  },
-  {
-    "title": "SMA Solar predicts losses and ‘restructuring’ amid residential market decline",
-    "link": "https://www.pv-tech.org/sma-solar-predicts-losses-and-restructuring-amid-residential-market-decline/",
-    "date": "2025-09-02",
-    "summary": "SMA Solar has forecast financial losses and further restructuring measures in 2025, as it responds to falling sales and a “challenging” mark…",
-    "source": "PV Tech",
-    "image": null
-  },
-  {
-    "title": "OX2 appoints former BayWa r.e. head as new CEO",
-    "link": "https://www.pv-tech.org/ox2-appoints-former-baywa-r-e-head-as-new-ceo/",
-    "date": "2025-09-02",
-    "summary": "Swedish independent power producer (IPP) OX2 has appointed Matthias Taft as its new chief executive officer.…",
-    "source": "PV Tech",
-    "image": null
-  },
-  {
-    "title": "Scatec signs 15-year PPA for 130MW solar project in Colombia",
-    "link": "https://www.pv-tech.org/scatec-signs-15-year-ppa-for-130mw-solar-project-in-colombia/",
-    "date": "2025-09-02",
-    "summary": "Scatec has signed a 15-year power purchase agreement (PPA) with BTG Pactual Comercializadora de Energia to develop a 130MW solar project in …",
-    "source": "PV Tech",
     "image": null
   },
   {
