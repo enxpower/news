@@ -1,5 +1,37 @@
 [
   {
+    "title": "Australia: ‘Social licensing is the next frontier for battery energy storage systems’",
+    "link": "https://www.energy-storage.news/australia-social-licensing-is-the-next-frontier-for-battery-energy-storage-systems/",
+    "date": "2025-09-09",
+    "summary": "“Social licensing is the next frontier for battery energy storage systems,” said Matt Baumgurtel, partner, new energy lead at Hamilton Locke…",
+    "source": "Energy-Storage.News",
+    "image": null
+  },
+  {
+    "title": "‘Optimising BESS performance requires long-term perspective,’ says Fluence",
+    "link": "https://www.energy-storage.news/optimising-bess-performance-requires-long-term-perspective-says-fluence/",
+    "date": "2025-09-09",
+    "summary": "Andrés Barberán, energy storage product manager at Fluence, emphasises that optimising battery energy storage system (BESS) performance mean…",
+    "source": "Energy-Storage.News",
+    "image": null
+  },
+  {
+    "title": "Australia’s NEM sets new renewable energy record with solar PV providing 17GW",
+    "link": "https://www.pv-tech.org/australias-nem-sets-new-renewable-energy-record-with-solar-pv-providing-17gw/",
+    "date": "2025-09-09",
+    "summary": "Australia's National Electricity Market (NEM) broke records yesterday when renewables supplied 76.4% of total electricity demand, with solar…",
+    "source": "PV Tech",
+    "image": null
+  },
+  {
+    "title": "US adds 17.9GW solar PV in first half of 2025, SEIA predicts installation slowdown",
+    "link": "https://www.pv-tech.org/us-adds-17-9gw-solar-first-half-year-seia-predicts-installation-slowdown/",
+    "date": "2025-09-09",
+    "summary": "The US installed 17.92GW of new capacity in the first half of 2025, with quarterly declines in additions for utility-scale and residential s…",
+    "source": "PV Tech",
+    "image": null
+  },
+  {
     "title": "Power Devices to Elevate UAV Motor Control Performance",
     "link": "https://www.powerelectronicsnews.com/power-devices-to-elevate-uav-motor-control-performance/",
     "date": "2025-09-09",
@@ -736,6 +768,14 @@
     "image": null
   },
   {
+    "title": "Analysis: South Korea backs public-led offshore wind – but door still open for private investors",
+    "link": "https://www.windpowermonthly.com/article/1931152/analysis-south-korea-backs-public-led-offshore-wind-%E2%80%93-door-open-private-investors",
+    "date": "2025-09-04",
+    "summary": "South Korea’s recent offshore wind auction awarded power deals to around 700MW of projects led exclusively by state-affiliated companies, bu…",
+    "source": "Wind Power News & Analysis RSS Feed",
+    "image": null
+  },
+  {
     "title": "Ørsted and Skyborn sue Trump over Revolution Wind halt",
     "link": "https://www.windpowermonthly.com/article/1931156/orsted-skyborn-sue-trump-revolution-wind-halt",
     "date": "2025-09-04",
@@ -880,22 +920,6 @@
     "image": null
   },
   {
-    "title": "Trinasolar, Holosolis ink TOPCon patent licence agreement in Europe",
-    "link": "https://www.pv-tech.org/trinasolar-holosolis-ink-topcon-patent-licence-agreement-in-europe/",
-    "date": "2025-09-03",
-    "summary": "Chinese solar manufacturer Trinasolar has signed a patent licence agreement with French module manufacturing startup Holosolis to use its TO…",
-    "source": "PV Tech",
-    "image": null
-  },
-  {
-    "title": "India adds 2.8GW rooftop solar in H1 2025, up 158% year-on-year",
-    "link": "https://www.pv-tech.org/india-adds-2-8gw-rooftop-solar-in-h1-2025-up-158-year-on-year/",
-    "date": "2025-09-03",
-    "summary": "India has added 2.8GW of rooftop solar in H1 2025, a 158% year-on-year surge from just 1.1GW in the same period last year.…",
-    "source": "PV Tech",
-    "image": null
-  },
-  {
     "title": "Trump looks to scrap SouthCoast Wind approval in latest offshore wind attack",
     "link": "https://www.windpowermonthly.com/article/1930882/trump-looks-scrap-southcoast-wind-approval-latest-offshore-wind-attack",
     "date": "2025-09-03",
@@ -968,22 +992,6 @@
     "image": null
   },
   {
-    "title": "Vertically integrated cell-BESS suppliers lose market share as competition increases",
-    "link": "https://www.energy-storage.news/vertically-integrated-cell-bess-suppliers-lose-market-share-as-competition-increases/",
-    "date": "2025-09-02",
-    "summary": "The market share of vertically integrated battery cell and BESS companies has fallen since 2023, market intelligence firm Rho Motion said.…",
-    "source": "Energy-Storage.News",
-    "image": null
-  },
-  {
-    "title": "Grid-forming battery storage: ‘Standby consumption will be higher’ says Australia’s AGL",
-    "link": "https://www.energy-storage.news/grid-forming-battery-storage-standby-consumption-will-be-higher-says-australias-agl/",
-    "date": "2025-09-02",
-    "summary": "“The speed at which the grid-forming inverters are operating means that standby consumption will be higher,” said Dave Bowly of AGL.…",
-    "source": "Energy-Storage.News",
-    "image": null
-  },
-  {
     "title": "UK floating wind pioneer takes hit as Chinese oil giant drops electrification project",
     "link": "https://www.windpowermonthly.com/article/1930708/uk-floating-wind-pioneer-takes-hit-chinese-oil-giant-drops-electrification-project",
     "date": "2025-09-02",
@@ -996,14 +1004,6 @@
     "link": "https://www.windpowermonthly.com/article/1930706/us-offshore-wind-freeze-prompt-legal-action-%E2%80%93-rwe-chief",
     "date": "2025-09-02",
     "summary": "",
-    "source": "Wind Power News & Analysis RSS Feed",
-    "image": null
-  },
-  {
-    "title": "State-backed projects dominate South Korean offshore wind tender",
-    "link": "https://www.windpowermonthly.com/article/1930689/state-backed-projects-dominate-south-korean-offshore-wind-tender",
-    "date": "2025-09-02",
-    "summary": "South Korea has awarded power deals to nearly 700MW of new capacity in its latest offshore wind auction, with the four successful projects a…",
     "source": "Wind Power News & Analysis RSS Feed",
     "image": null
   },
