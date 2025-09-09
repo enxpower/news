@@ -1,5 +1,13 @@
 [
   {
+    "title": "Flatiron Energy proposes 672MWh BESS at former Massachusetts fossil plant, pauses indoor BESS project in Boston",
+    "link": "https://www.energy-storage.news/flatiron-energy-proposes-672mwh-bess-at-former-massachusetts-fossil-plant-pauses-indoor-bess-project-in-boston/",
+    "date": "2025-09-09",
+    "summary": "Flatiron Energy has commenced initial proceedings to construct a 168MW/672MWh BESS at the site of a former coal-fired power plant located in…",
+    "source": "Energy-Storage.News",
+    "image": null
+  },
+  {
     "title": "Lithium-ion is long-duration energy storage (LDES)",
     "link": "https://www.energy-storage.news/lithium-ion-is-long-duration-energy-storage-ldes/",
     "date": "2025-09-09",
@@ -29,6 +37,14 @@
     "date": "2025-09-09",
     "summary": "Andrés Barberán, energy storage product manager at Fluence, emphasises that optimising battery energy storage system (BESS) performance mean…",
     "source": "Energy-Storage.News",
+    "image": null
+  },
+  {
+    "title": "Nautilus, Summit Ridge secure financing for US community solar expansion",
+    "link": "https://www.pv-tech.org/nautilus-summit-ridge-secure-financing-for-us-community-solar-expansion/",
+    "date": "2025-09-09",
+    "summary": "Nautilus and Summit Ridge Energy secured major financing deals to expand community solar projects across multiple US states.…",
+    "source": "PV Tech",
     "image": null
   },
   {
@@ -93,6 +109,38 @@
     "date": "2025-09-09",
     "summary": "The US installed 17.92GW of new capacity in the first half of 2025, with quarterly declines in additions for utility-scale and residential s…",
     "source": "PV Tech",
+    "image": null
+  },
+  {
+    "title": "Sungrow PowerTitan 3.0 BESS reaches 6.9 MWh in 20-ft container",
+    "link": "https://www.solarpowerworldonline.com/2025/09/sungrow-powertitan-3-0-bess-reaches-6-9-mwh-in-20-ft-container/",
+    "date": "2025-09-09",
+    "summary": "Sungrow will have new products on display at the RE+ tradeshow, including a second-generation modular inverter for utility-scale PV projects…",
+    "source": "Solar Power World",
+    "image": null
+  },
+  {
+    "title": "Enphase to bring bidirectional EV charger to market next year",
+    "link": "https://www.solarpowerworldonline.com/2025/09/enphase-to-bring-bidirectional-ev-charger-to-market-next-year/",
+    "date": "2025-09-09",
+    "summary": "Enphase Energy today unveiled its new IQ Bidirectional EV Charger architecture for vehicle-to-home (V2H) and vehicle-to-grid (V2G) capabilit…",
+    "source": "Solar Power World",
+    "image": null
+  },
+  {
+    "title": "Trimark unveils new SCADA system for utility scale solar and storage",
+    "link": "https://www.solarpowerworldonline.com/2025/09/trimark-unveils-new-scada-system-for-utility-scale-solar-and-storage/",
+    "date": "2025-09-09",
+    "summary": "Trimark Associates has released True:SCADA, a reimagined control solution, engineered specifically for utility-scale PV and BESS resources. …",
+    "source": "Solar Power World",
+    "image": null
+  },
+  {
+    "title": "China's soaring wind and solar growth displacing fossil fuels – Ember",
+    "link": "https://www.windpowermonthly.com/article/1931708/chinas-soaring-wind-solar-growth-displacing-fossil-fuels-%E2%80%93-ember",
+    "date": "2025-09-09",
+    "summary": "The rapid expansion of wind and solar power China could soon bring about a peak of fossil fuels used for electricity generation in the count…",
+    "source": "Wind Power News & Analysis RSS Feed",
     "image": null
   },
   {
@@ -800,38 +848,6 @@
     "image": null
   },
   {
-    "title": "Waaree Energies acquires 64% stake in transformer maker Kotsons",
-    "link": "https://www.pv-tech.org/waaree-energies-acquires-64-stake-in-transformer-maker-kotsons/",
-    "date": "2025-09-04",
-    "summary": "Indian solar manufacturer Waaree Energies has acquired a 64% equity stake in power transformer manufacturing company Kotsons.…",
-    "source": "PV Tech",
-    "image": null
-  },
-  {
-    "title": "Nextracker showcasing new trunk connector for solar trackers at RE+",
-    "link": "https://www.solarpowerworldonline.com/2025/09/nextracker-showcasing-new-trunk-connector-for-solar-trackers-at-re/",
-    "date": "2025-09-04",
-    "summary": "Nextracker has launched its proprietary NX PowerMerge trunk connector, a DC power component designed to streamline electrical balance of sys…",
-    "source": "Solar Power World",
-    "image": null
-  },
-  {
-    "title": "New Farmers Powering Communities partnership aims to expand rural community solar",
-    "link": "https://www.solarpowerworldonline.com/2025/09/new-farmers-powering-communities-partnership-aims-to-expand-rural-community-solar/",
-    "date": "2025-09-04",
-    "summary": "Reactivate, an Invenergy company, American Farmland Trust (AFT) and Edelen Renewables Community Solar have announced their newly formed part…",
-    "source": "Solar Power World",
-    "image": null
-  },
-  {
-    "title": "Minnesota utilities commission approves permit for Primergy’s 150-MW solar + storage project",
-    "link": "https://www.solarpowerworldonline.com/2025/09/minnesota-utilities-commission-approves-permit-for-primergys-150-mw-solar-storage-project/",
-    "date": "2025-09-04",
-    "summary": "Primergy&#8217;s Northern Crescent Solar + Storage project recently received unanimous approval from the Minnesota Public Utilities Commissi…",
-    "source": "Solar Power World",
-    "image": null
-  },
-  {
     "title": "Analysis: South Korea backs public-led offshore wind – but door still open for private investors",
     "link": "https://www.windpowermonthly.com/article/1931152/analysis-south-korea-backs-public-led-offshore-wind-%E2%80%93-door-open-private-investors",
     "date": "2025-09-04",
@@ -976,14 +992,6 @@
     "image": null
   },
   {
-    "title": "US wind investment plummets as Trump policies bite – BloombergNEF",
-    "link": "https://www.windpowermonthly.com/article/1930415/us-wind-investment-plummets-trump-policies-bite-%E2%80%93-bloombergnef",
-    "date": "2025-09-03",
-    "summary": "US wind power investment fell to its lowest level since 2014 in the first half of 2025 due to deteriorating policy conditions and growing ta…",
-    "source": "Wind Power News & Analysis RSS Feed",
-    "image": null
-  },
-  {
     "title": "Briefs: Changes in Leaders, Wafers, EVs, Batteries and More",
     "link": "https://eepower.com/news/briefs-changes-in-leaders-wafers-evs-batteries-and-more/",
     "date": "2025-09-03",
@@ -1004,14 +1012,6 @@
     "link": "https://www.energy-storage.news/how-pae-engineers-is-incorporating-microgrids-into-sustainable-building-designs/",
     "date": "2025-09-02",
     "summary": "Energy-Storage.news speaks with Karina Hershberg, Associate Principal at engineering firm PAE Engineers, on integrating microgrids with sust…",
-    "source": "Energy-Storage.News",
-    "image": null
-  },
-  {
-    "title": "Maryland county officials deny rezoning request for East Point Energy’s 600MWh BESS project",
-    "link": "https://www.energy-storage.news/maryland-county-officials-deny-rezoning-request-for-east-point-energys-600mwh-bess-project/",
-    "date": "2025-09-02",
-    "summary": "East Point Energy has been dealt a blow in its pursuit to construct a 150MW/600MWh BESS in Maryland.…",
     "source": "Energy-Storage.News",
     "image": null
   },
