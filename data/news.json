@@ -1,5 +1,13 @@
 [
   {
+    "title": "Lithium-ion is long-duration energy storage (LDES)",
+    "link": "https://www.energy-storage.news/lithium-ion-is-long-duration-energy-storage-ldes/",
+    "date": "2025-09-09",
+    "summary": "Emerging tech must prove it can outcompete the incumbent, writes Sightline Climate analyst Lukas Karapin-Springorum, outlining the state of …",
+    "source": "Energy-Storage.News",
+    "image": null
+  },
+  {
     "title": "Hithium and BOS Power sign 3GWh BESS agreement for Nordics",
     "link": "https://www.energy-storage.news/hithium-and-bos-power-sign-3gwh-bess-agreement-for-nordics/",
     "date": "2025-09-09",
@@ -21,6 +29,30 @@
     "date": "2025-09-09",
     "summary": "Andrés Barberán, energy storage product manager at Fluence, emphasises that optimising battery energy storage system (BESS) performance mean…",
     "source": "Energy-Storage.News",
+    "image": null
+  },
+  {
+    "title": "US clean energy tax credit monetisation to reach up to US$60 billion in 2025 – Crux",
+    "link": "https://www.pv-tech.org/us-clean-energy-tax-credit-monetisation-to-reach-up-to-us60-billion-in-2025-crux/",
+    "date": "2025-09-09",
+    "summary": "The US is forecast to reach between US$55-60 billion in clean energy tax credit monetisation in 2025, according to a report from clean energ…",
+    "source": "PV Tech",
+    "image": null
+  },
+  {
+    "title": "European PV buyer sentiment remains low, but stable, in August",
+    "link": "https://www.pv-tech.org/european-pv-buyer-sentiment-remains-low-but-stable-in-august/",
+    "date": "2025-09-09",
+    "summary": "The average price of solar modules sold in Europe fell marginally between July and August, while buyers’ confidence remained steady.…",
+    "source": "PV Tech",
+    "image": null
+  },
+  {
+    "title": "SEIA releases policy recommendations for US solar and storage",
+    "link": "https://www.pv-tech.org/seia-releases-policy-recommendations-for-us-solar-and-storage/",
+    "date": "2025-09-09",
+    "summary": "The US Solar Energy Industries Association (SEIA) has released a policy blueprint which it claims would “strengthen the reliability of Ameri…",
+    "source": "PV Tech",
     "image": null
   },
   {
@@ -93,6 +125,14 @@
     "date": "2025-09-09",
     "summary": "<img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"398\" src=\"https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2…",
     "source": "Power Electronics News",
+    "image": null
+  },
+  {
+    "title": "Is a Novel Oxide Material the Key to Clean Hydrogen?",
+    "link": "https://eepower.com/market-insights/is-a-novel-oxide-material-the-key-to-clean-hydrogen/",
+    "date": "2025-09-09",
+    "summary": "Researchers at POSTECH and Seoul National University have discovered a class of oxide materials that can efficiently produce hydrogen using …",
+    "source": "EE Power",
     "image": null
   },
   {
@@ -768,30 +808,6 @@
     "image": null
   },
   {
-    "title": "Biden tariff moratorium ‘single worst policy’ for US solar supply chain",
-    "link": "https://www.pv-tech.org/biden-tariff-moratorium-single-worst-policy-for-us-solar-supply-chain/",
-    "date": "2025-09-04",
-    "summary": "Analysis: A Biden-era policy to suspend the payment of duties on Southeast Asian module imports looks set to backfire badly on an already un…",
-    "source": "PV Tech",
-    "image": null
-  },
-  {
-    "title": "‘Innovation allows us to compete straight up against China on polysilicon’",
-    "link": "https://www.pv-tech.org/innovation-allows-us-to-compete-straight-up-against-china-on-polysilicon/",
-    "date": "2025-09-04",
-    "summary": "PV Talk: Highland Materials' CEO Richard Rast explains how the company aims to compete in the polysilicon landscape through US innovation.…",
-    "source": "PV Tech",
-    "image": null
-  },
-  {
-    "title": "FTC Solar launches automated 80 degree hail stow angle for 1P Pioneer tracker",
-    "link": "https://www.pv-tech.org/ftc-solar-launches-80-degree-hail-stow-angle-1p-pioneer-tracker/",
-    "date": "2025-09-04",
-    "summary": "US tracker manufacturer FTC Solar has launched an automated 80 degree hail stow angle for its flagship 1P Pioneer tracker.…",
-    "source": "PV Tech",
-    "image": null
-  },
-  {
     "title": "Nextracker showcasing new trunk connector for solar trackers at RE+",
     "link": "https://www.solarpowerworldonline.com/2025/09/nextracker-showcasing-new-trunk-connector-for-solar-trackers-at-re/",
     "date": "2025-09-04",
@@ -1000,14 +1016,6 @@
     "image": null
   },
   {
-    "title": "BESS codes, constructability and safety require technical, regulatory insight: 10 tips from an EPC",
-    "link": "https://www.energy-storage.news/bess-codes-constructability-and-safety-require-technical-regulatory-insight-10-tips-from-an-epc/",
-    "date": "2025-09-02",
-    "summary": "Andrew Early and Ben Echeverria of EPC Burns &#038; McDonnell offer their strategies for navigating the complexities of large-scale battery …",
-    "source": "Energy-Storage.News",
-    "image": null
-  },
-  {
     "title": "Time-Shifting Energy Use Could Shrink Carbon Emissions",
     "link": "https://eepower.com/market-insights/time-shifting-energy-use-could-shrink-carbon-emissions/",
     "date": "2025-09-01",
@@ -1068,14 +1076,6 @@
     "link": "https://eepower.com/news/costco-builds-off-grid-microgrid-for-warehouse-operations/",
     "date": "2025-08-25",
     "summary": "Costco’s latest move represents a growing trend of commercial and industrial microgrid development.…",
-    "source": "EE Power",
-    "image": null
-  },
-  {
-    "title": "Next-Gen Solar Cells Break Indoor Efficiency Records",
-    "link": "https://eepower.com/market-insights/next-gen-solar-cells-break-indoor-efficiency-records/",
-    "date": "2025-08-25",
-    "summary": "Researchers have demonstrated a perovskite indoor solar cell with a record 37.6% power conversion efficiency under LED lighting.…",
     "source": "EE Power",
     "image": null
   }
