@@ -1,5 +1,13 @@
 [
   {
+    "title": "Hithium and BOS Power sign 3GWh BESS agreement for Nordics",
+    "link": "https://www.energy-storage.news/hithium-and-bos-power-sign-3gwh-bess-agreement-for-nordics/",
+    "date": "2025-09-09",
+    "summary": "Chinese lithium-ion OEM Hithium and system integrator BOS Power have signed a supply agreement for 3GWh of BESS deployments in the Nordic re…",
+    "source": "Energy-Storage.News",
+    "image": null
+  },
+  {
     "title": "Australia: ‘Social licensing is the next frontier for battery energy storage systems’",
     "link": "https://www.energy-storage.news/australia-social-licensing-is-the-next-frontier-for-battery-energy-storage-systems/",
     "date": "2025-09-09",
@@ -13,6 +21,22 @@
     "date": "2025-09-09",
     "summary": "Andrés Barberán, energy storage product manager at Fluence, emphasises that optimising battery energy storage system (BESS) performance mean…",
     "source": "Energy-Storage.News",
+    "image": null
+  },
+  {
+    "title": "Nextracker acquires Origami Solar in US$53 million deal",
+    "link": "https://www.pv-tech.org/nextracker-acquires-origami-solar-in-us53-million-deal/",
+    "date": "2025-09-09",
+    "summary": "US solar tracker manufacturer Nextracker has acquired Origami Solar, a steel frame technology-focused company, for approximately US$53 milli…",
+    "source": "PV Tech",
+    "image": null
+  },
+  {
+    "title": "CHINA ROUND-UP: China accelerates integration of AI and new energy, Chinese company signs 600MW international PV project",
+    "link": "https://www.pv-tech.org/china-round-up-china-accelerates-integration-of-ai-and-new-energy-chinese-company-signs-600mw-international-pv-project/",
+    "date": "2025-09-09",
+    "summary": "China has advanced in the integration of AI and new energy, covering areas such as power forecasting, electricity markets, and O&#038;M.…",
+    "source": "PV Tech",
     "image": null
   },
   {
@@ -37,6 +61,22 @@
     "date": "2025-09-09",
     "summary": "The US installed 17.92GW of new capacity in the first half of 2025, with quarterly declines in additions for utility-scale and residential s…",
     "source": "PV Tech",
+    "image": null
+  },
+  {
+    "title": "Mingyang to supply 18MW turbine for Brazil’s first offshore wind pilot",
+    "link": "https://www.windpowermonthly.com/article/1931683/mingyang-supply-18mw-turbine-brazils-first-offshore-wind-pilot",
+    "date": "2025-09-09",
+    "summary": "",
+    "source": "Wind Power News & Analysis RSS Feed",
+    "image": null
+  },
+  {
+    "title": "‘With respect, bullshit’: Trump official slammed over Revolution Wind stop-work order",
+    "link": "https://www.windpowermonthly.com/article/1931673/with-respect-bullshit-trump-official-slammed-revolution-wind-stop-work-order",
+    "date": "2025-09-09",
+    "summary": "A US representative has dismissed the Trump administration’s stop-work order for Ørsted and Skyborn Renewables’ under-construction Revolutio…",
+    "source": "Wind Power News & Analysis RSS Feed",
     "image": null
   },
   {
@@ -752,14 +792,6 @@
     "image": null
   },
   {
-    "title": "ARENA launches AU$150 million second round of Solar Sunshot programme in Australia",
-    "link": "https://www.pv-tech.org/arena-launches-au150-million-second-round-of-solar-sunshot-programme-in-australia/",
-    "date": "2025-09-04",
-    "summary": "ARENA has launched the second funding round of its AU$1 billion Solar Sunshot programme, making AU$150 million available.…",
-    "source": "PV Tech",
-    "image": null
-  },
-  {
     "title": "Nextracker showcasing new trunk connector for solar trackers at RE+",
     "link": "https://www.solarpowerworldonline.com/2025/09/nextracker-showcasing-new-trunk-connector-for-solar-trackers-at-re/",
     "date": "2025-09-04",
@@ -920,14 +952,6 @@
     "image": null
   },
   {
-    "title": "Alight and Neoen power up 100MW PV plant in Sweden",
-    "link": "https://www.pv-tech.org/alight-and-neoen-power-up-100mw-pv-plant-in-sweden/",
-    "date": "2025-09-03",
-    "summary": "Developers Alight Neoen have commissioned the 100MWp Hultsfred Solar Farm in Småland, southern Sweden.…",
-    "source": "PV Tech",
-    "image": null
-  },
-  {
     "title": "Trump looks to scrap SouthCoast Wind approval in latest offshore wind attack",
     "link": "https://www.windpowermonthly.com/article/1930882/trump-looks-scrap-southcoast-wind-approval-latest-offshore-wind-attack",
     "date": "2025-09-03",
@@ -940,14 +964,6 @@
     "link": "https://www.windpowermonthly.com/article/1930415/us-wind-investment-plummets-trump-policies-bite-%E2%80%93-bloombergnef",
     "date": "2025-09-03",
     "summary": "US wind power investment fell to its lowest level since 2014 in the first half of 2025 due to deteriorating policy conditions and growing ta…",
-    "source": "Wind Power News & Analysis RSS Feed",
-    "image": null
-  },
-  {
-    "title": "‘Slow wind growth threatens European competitiveness’ – WindEurope",
-    "link": "https://www.windpowermonthly.com/article/1930802/slow-wind-growth-threatens-european-competitiveness-%E2%80%93-windeurope",
-    "date": "2025-09-03",
-    "summary": "Europe’s slow rate of wind power installations is damaging the continent's industrial competitiveness and putting jobs and growth at risk, W…",
     "source": "Wind Power News & Analysis RSS Feed",
     "image": null
   },
@@ -989,22 +1005,6 @@
     "date": "2025-09-02",
     "summary": "Andrew Early and Ben Echeverria of EPC Burns &#038; McDonnell offer their strategies for navigating the complexities of large-scale battery …",
     "source": "Energy-Storage.News",
-    "image": null
-  },
-  {
-    "title": "HEIT sale ‘proved us right’ about private capital and BESS, Harmony says",
-    "link": "https://www.energy-storage.news/heit-sale-proved-us-right-about-private-capital-and-bess-harmony-says/",
-    "date": "2025-09-02",
-    "summary": "The sale of the UK BESS-holding Harmony Energy Income Trust (HEIT) proved private capital's greater patience and valuation around the asset …",
-    "source": "Energy-Storage.News",
-    "image": null
-  },
-  {
-    "title": "UK floating wind pioneer takes hit as Chinese oil giant drops electrification project",
-    "link": "https://www.windpowermonthly.com/article/1930708/uk-floating-wind-pioneer-takes-hit-chinese-oil-giant-drops-electrification-project",
-    "date": "2025-09-02",
-    "summary": "",
-    "source": "Wind Power News & Analysis RSS Feed",
     "image": null
   },
   {
