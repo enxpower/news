@@ -1,5 +1,21 @@
 [
   {
+    "title": "‘A key technology’: Google to help fund non-lithium LDES projects in Arizona with SRP",
+    "link": "https://www.energy-storage.news/a-key-technology-google-to-help-fund-non-lithium-ldes-projects-in-arizona-with-srp/",
+    "date": "2025-09-10",
+    "summary": "Tech giant Google has announced a partnership with utility SRP to help accelerate the commercialisation of non-lithium long-duration energy …",
+    "source": "Energy-Storage.News",
+    "image": null
+  },
+  {
+    "title": "NextEra and California utility agree BESS offtake deal with protections against future Federal actions and market volatility",
+    "link": "https://www.energy-storage.news/nextera-and-california-utility-agree-bess-offtake-deal-with-protections-against-future-federal-actions-and-market-volatility/",
+    "date": "2025-09-10",
+    "summary": "California community choice aggregator (CCA) Orange County Power Authority (OCPA) and independent power producer NextEra Energy Resources (N…",
+    "source": "Energy-Storage.News",
+    "image": null
+  },
+  {
     "title": "Financial close and RTM deals for major UK BESS projects from Fidra, Elements Green",
     "link": "https://www.energy-storage.news/financial-close-and-rtm-deals-for-major-uk-bess-projects-from-fidra-elements-green/",
     "date": "2025-09-10",
@@ -64,6 +80,14 @@
     "image": null
   },
   {
+    "title": "The Era of Power Scarcity: Strategies to Strengthen Global Energy Security Solutions to meet the global energy security demands of today and tomorrow.",
+    "link": "https://www.solarpowerworldonline.com/2025/09/the-era-of-power-scarcity-strategies-to-strengthen-global-energy-security/",
+    "date": "2025-09-10",
+    "summary": "Securing the Future of Energy Energy security is one of today’s defining challenges—and without changes to the status quo, it’s poised to in…",
+    "source": "Solar Power World",
+    "image": null
+  },
+  {
     "title": "SolarEdge rolls out stackable residential LFP battery at RE+",
     "link": "https://www.solarpowerworldonline.com/2025/09/solaredge-rolls-out-stackable-residential-lfp-battery-at-re/",
     "date": "2025-09-10",
@@ -109,6 +133,22 @@
     "date": "2025-09-10",
     "summary": "Windpower Monthly rounds up the latest patents for wind power technology granted and applied for in the last week.…",
     "source": "Wind Power News & Analysis RSS Feed",
+    "image": null
+  },
+  {
+    "title": "AZZO Announces Launch of Standardized, Scalable Microgrid Solutions",
+    "link": "https://www.powermag.com/azzo-announces-launch-of-standardized-scalable-microgrid-solutions/",
+    "date": "2025-09-10",
+    "summary": "AZZO, a global leader in energy integration and management technologies, announced the launch of a new offering of standardized, scalable mi…",
+    "source": "POWER Magazine",
+    "image": null
+  },
+  {
+    "title": "Nextracker Acquires Origami Solar in $53-Million Deal",
+    "link": "https://www.powermag.com/nextracker-acquires-origami-solar-in-53-million-deal/",
+    "date": "2025-09-10",
+    "summary": "Solar technology major Nextracker announced the company would expand into the solar power frame market with the acquisition of Origami Solar…",
+    "source": "POWER Magazine",
     "image": null
   },
   {
@@ -592,14 +632,6 @@
     "image": null
   },
   {
-    "title": "DNV’s SolarFarmer now integrated into Solesca solar design software",
-    "link": "https://www.solarpowerworldonline.com/2025/09/dnvs-solarfarmer-now-integrated-into-solesca-solar-design-software/",
-    "date": "2025-09-08",
-    "summary": "Solesca has announced the direct integration of DNV’s SolarFarmer power model into Solesca Design. With SolarFarmer energy simulation result…",
-    "source": "Solar Power World",
-    "image": null
-  },
-  {
     "title": "Vestas wind turbines targeted in 'arson attack' in France",
     "link": "https://www.windpowermonthly.com/article/1931492/vestas-wind-turbines-targeted-arson-attack-france",
     "date": "2025-09-08",
@@ -840,22 +872,6 @@
     "image": null
   },
   {
-    "title": "Where Are All the Solar Engineers? How to Ease Utility-Scale Solar’s Technical Bottleneck with Smarter Software",
-    "link": "https://www.powermag.com/where-are-all-the-solar-engineers-how-to-ease-utility-scale-solars-technical-bottleneck-with-smarter-software/",
-    "date": "2025-09-05",
-    "summary": "Solar dominates new energy generation in the U.S., accounting for 69% of new capacity additions in Q1 of 2025. But although most of this add…",
-    "source": "POWER Magazine",
-    "image": null
-  },
-  {
-    "title": "Best Practices in Solar Farm Damage Evaluation",
-    "link": "https://www.powermag.com/best-practices-in-solar-farm-damage-evaluation/",
-    "date": "2025-09-05",
-    "summary": "Utility-scale solar farms are essential players in the energy transition. But with growth comes more exposure, and large solar arrays are pa…",
-    "source": "POWER Magazine",
-    "image": null
-  },
-  {
     "title": "ROHM and Schaeffler Launch Mass Production of SiC-Based High-Voltage Inverter Brick for Next-Generation EVs",
     "link": "https://www.powerelectronicsnews.com/rohm-and-schaeffler-launch-mass-production-of-sic-based-high-voltage-inverter-brick-for-next-generation-evs/",
     "date": "2025-09-05",
@@ -989,22 +1005,6 @@
     "date": "2025-09-04",
     "summary": "In this article, we will examine surge impedance loading and voltage profiles. This is the first article of a 3-part series on long transmis…",
     "source": "EE Power",
-    "image": null
-  },
-  {
-    "title": "Michigan utilities’ US$800 million case over ‘defective’ pumped hydro upgrade goes to trial",
-    "link": "https://www.energy-storage.news/michigan-utilities-us800-million-case-over-defective-pumped-hydro-upgrade-goes-to-trial/",
-    "date": "2025-09-03",
-    "summary": "Consumers Energy and DTE Energy’s case against contractor TAES over work on a pumped hydro energy storage plant will go to court.…",
-    "source": "Energy-Storage.News",
-    "image": null
-  },
-  {
-    "title": "Fire at Arevon Energy’s California solar-plus-storage facility",
-    "link": "https://www.energy-storage.news/fire-at-arevon-energys-california-solar-plus-storage-facility/",
-    "date": "2025-09-03",
-    "summary": "During the morning of 30 August 2025, the California Department of Forestry and Fire Protection (CAL FIRE) responded to a possible vegetatio…",
-    "source": "Energy-Storage.News",
     "image": null
   },
   {
