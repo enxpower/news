@@ -1,5 +1,13 @@
 [
   {
+    "title": "BESS route-to-market deals between Greenvolt and Entrix in Poland, Zelestra and BKW in Italy",
+    "link": "https://www.energy-storage.news/bess-route-to-market-deals-greenvolt-and-entrix-poland-zelestra-and-bkw-italy/",
+    "date": "2025-09-10",
+    "summary": "Major BESS route-to-market (RTM) deals have been announced in Poland, by Greenvolt and Entrix, and in Italy, by Zelestra and BKW.…",
+    "source": "Energy-Storage.News",
+    "image": null
+  },
+  {
     "title": "Tesla expects to have 4.5GW of grid-forming BESS operating in Australia by the end of 2026",
     "link": "https://www.energy-storage.news/tesla-expects-to-have-4-5gw-of-grid-forming-bess-operating-in-australia-by-the-end-of-2026/",
     "date": "2025-09-10",
@@ -37,6 +45,14 @@
     "date": "2025-09-10",
     "summary": "<img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"562\" src=\"https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2…",
     "source": "Power Electronics News",
+    "image": null
+  },
+  {
+    "title": "Low-Energy Use Carbon Capture Method Achieves 95% Purity",
+    "link": "https://eepower.com/market-insights/low-energy-use-carbon-capture-method-achieves-95-purity/",
+    "date": "2025-09-10",
+    "summary": "KAIST and MIT researchers have developed a fiber-based direct air capture system that achieves over 95% carbon dioxide purity using only 3 V…",
+    "source": "EE Power",
     "image": null
   },
   {
@@ -992,14 +1008,6 @@
     "image": null
   },
   {
-    "title": "Chile: Big renewables-plus-storage project progress from Grenergy, AES and Verano",
-    "link": "https://www.energy-storage.news/chile-big-renewables-plus-storage-project-progress-from-grenergy-aes-and-verano/",
-    "date": "2025-09-03",
-    "summary": "Chile is leading Latin America’s wave of energy storage adoption, closely linked to its embrace of solar PV.…",
-    "source": "Energy-Storage.News",
-    "image": null
-  },
-  {
     "title": "Briefs: Changes in Leaders, Wafers, EVs, Batteries and More",
     "link": "https://eepower.com/news/briefs-changes-in-leaders-wafers-evs-batteries-and-more/",
     "date": "2025-09-03",
@@ -1068,14 +1076,6 @@
     "link": "https://eepower.com/technical-articles/pfc-control-methods-overview/",
     "date": "2025-08-25",
     "summary": "Power factor correction (PFC) is needed for AC-DC power supplies with input power greater than 75 W. This article offers an overview of the …",
-    "source": "EE Power",
-    "image": null
-  },
-  {
-    "title": "Costco Builds Off-Grid Microgrid for Warehouse Operations",
-    "link": "https://eepower.com/news/costco-builds-off-grid-microgrid-for-warehouse-operations/",
-    "date": "2025-08-25",
-    "summary": "Costco’s latest move represents a growing trend of commercial and industrial microgrid development.…",
     "source": "EE Power",
     "image": null
   }
