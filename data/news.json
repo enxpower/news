@@ -1,5 +1,13 @@
 [
   {
+    "title": "Primergy, Gridstor, Sunraycer and Plus Power progress large-scale US BESS projects",
+    "link": "https://www.energy-storage.news/primergy-gridstor-sunraycer-and-plus-power-progress-large-scale-us-bess-projects/",
+    "date": "2025-09-11",
+    "summary": "A flurry of large-scale BESS project news in the US from four major developer-operators, coinciding with the country's largest clean energy …",
+    "source": "Energy-Storage.News",
+    "image": null
+  },
+  {
     "title": "Grenergy secures US$270 million financing for 3.5GWh BESS in Oasis de Atacama Phase 6",
     "link": "https://www.energy-storage.news/grenergy-secures-us270-million-financing-for-3-5gwh-bess-in-oasis-de-atacama-phase-6/",
     "date": "2025-09-11",
@@ -29,6 +37,30 @@
     "date": "2025-09-11",
     "summary": "IPP DTEK Group and system integrator Fluence have together put a 200MW/400MWh BESS portfolio in Ukraine into commercial operation, a milesto…",
     "source": "Energy-Storage.News",
+    "image": null
+  },
+  {
+    "title": "Ib vogt inks 70MW solar vPPA in Romania",
+    "link": "https://www.pv-tech.org/ib-vogt-inks-70mw-solar-vppa-romania/",
+    "date": "2025-09-11",
+    "summary": "German renewable energy developer ib vogt has signed a 70MW solar PV virtual power purchase agreement (vPPA) in Romania.…",
+    "source": "PV Tech",
+    "image": null
+  },
+  {
+    "title": "Madison Energy secures US$800 million to expand US clean energy portfolio",
+    "link": "https://www.pv-tech.org/madison-energy-secures-us800-million-to-expand-us-clean-energy-portfolio/",
+    "date": "2025-09-11",
+    "summary": "Madison Energy Infrastructure has raised US$800 million to accelerate the deployment of clean energy assets across the US.…",
+    "source": "PV Tech",
+    "image": null
+  },
+  {
+    "title": "European PEARL project develops flexible perovskite cell with 21.6% conversion efficiency",
+    "link": "https://www.pv-tech.org/pearl-consortium-halfway-point-perovskites-21-6-conversion-efficiency/",
+    "date": "2025-09-11",
+    "summary": "The PEARL Consortium has developed perovskite solar cells with carbon electrodes with a conversion efficiency of 21.6%.…",
+    "source": "PV Tech",
     "image": null
   },
   {
@@ -77,6 +109,22 @@
     "date": "2025-09-11",
     "summary": "PV CellTech USA: US cell manufacturer ES Foundry’s CEO Alex Zhu discusses his company's rapid ascent, strategic technology choices and the c…",
     "source": "PV Tech",
+    "image": null
+  },
+  {
+    "title": "Policy update: How a solar system qualifies for 25D, the 30% Investment Tax Credit",
+    "link": "https://www.solarpowerworldonline.com/2025/09/policy-update-how-a-solar-system-qualifies-for-25d-the-30-investment-tax-credit/",
+    "date": "2025-09-11",
+    "summary": "One of the most confusing aspects of the OBBB involves Section 25D, the 30% homeowner tax credit for solar. The language in the actual bill …",
+    "source": "Solar Power World",
+    "image": null
+  },
+  {
+    "title": "Solar sales: Transparency turns skeptics into customers (research)",
+    "link": "https://www.solarpowerworldonline.com/2025/09/solar-sales-transparency-turns-skeptics-into-customers-research/",
+    "date": "2025-09-11",
+    "summary": "Solar companies are no strangers to challenges. The industry has dealt with everything from high interest rates to oddly named bills. We’ve …",
+    "source": "Solar Power World",
     "image": null
   },
   {
@@ -744,30 +792,6 @@
     "image": null
   },
   {
-    "title": "Georgia Power approves five solar PPAs with capacity of 1GW",
-    "link": "https://www.pv-tech.org/georgia-power-approves-five-solar-ppas-capacity-over-1gw/",
-    "date": "2025-09-08",
-    "summary": "Georgia Power has certified five new solar power purchase agreements (PPAs) within its borders, for a combined capacity of just over 1GW.…",
-    "source": "PV Tech",
-    "image": null
-  },
-  {
-    "title": "Elmya, Atlantica to develop 4GW of utility-scale projects in the US",
-    "link": "https://www.pv-tech.org/elmya-atlantica-to-develop-4gw-of-utility-scale-projects-in-the-us/",
-    "date": "2025-09-08",
-    "summary": "Elmya Energy and Atlantica have formed a joint venture to develop 4GW of utility-scale renewable energy projects in the US.…",
-    "source": "PV Tech",
-    "image": null
-  },
-  {
-    "title": "France awards 971MW of ground-mount solar in latest tender",
-    "link": "https://www.pv-tech.org/france-awards-971mw-ground-mount-solar-latest-tender/",
-    "date": "2025-09-08",
-    "summary": "France has awarded 971MW of ground-mount solar capacity, to 165 projects, in the eighth round of the PPE2 PV tender.…",
-    "source": "PV Tech",
-    "image": null
-  },
-  {
     "title": "SMA to manufacture inverters in the U.S. with help from Create Energy",
     "link": "https://www.solarpowerworldonline.com/2025/09/sma-to-manufacture-inverters-in-the-u-s-with-help-from-create-energy/",
     "date": "2025-09-08",
@@ -804,22 +828,6 @@
     "link": "https://www.solarpowerworldonline.com/2025/09/re-2024-solar-power-worlds-coverage-of-the-industrys-top-tradeshow-2/",
     "date": "2025-09-08",
     "summary": "The solar + storage industries are convening in Las Vegas after major federal changes and pullback from previous support. Solar Power World …",
-    "source": "Solar Power World",
-    "image": null
-  },
-  {
-    "title": "EcoFlow will have new Ocean Pro residential ESS at RE+",
-    "link": "https://www.solarpowerworldonline.com/2025/09/ecoflow-will-have-new-ocean-pro-residential-ess-at-re/",
-    "date": "2025-09-08",
-    "summary": "EcoFlow will have its new Ocean Pro residential energy storage system on display at RE+ this week. EcoFlow Ocean Pro is a fully integrated w…",
-    "source": "Solar Power World",
-    "image": null
-  },
-  {
-    "title": "Fluke debuts latest PV ground fault locator at RE+",
-    "link": "https://www.solarpowerworldonline.com/2025/09/fluke-debuts-latest-pv-ground-fault-locator-at-re/",
-    "date": "2025-09-08",
-    "summary": "Fluke Corporation, an industrial tools and integrated software provider, has launched the Fluke GFL-1500 Ground Fault Locator, a breakthroug…",
     "source": "Solar Power World",
     "image": null
   },
@@ -988,14 +996,6 @@
     "link": "https://www.energy-storage.news/argentina-awards-667mw-in-first-energy-storage-tender/",
     "date": "2025-09-04",
     "summary": "Argentina has awarded 667MW of battery energy storage system (BESS) in its first tender under the AlmaGBA scheme.…",
-    "source": "Energy-Storage.News",
-    "image": null
-  },
-  {
-    "title": "Washington governor delays approval of hybrid BESS proposal from Cypress Creek Renewables",
-    "link": "https://www.energy-storage.news/washington-governor-delays-approval-of-hybrid-bess-proposal-from-cypress-creek-renewables/",
-    "date": "2025-09-04",
-    "summary": "The Governor of Washington State has delayed issuing final approval of a hybrid BESS facility under development by Cypress Creek Renewables.…",
     "source": "Energy-Storage.News",
     "image": null
   },
