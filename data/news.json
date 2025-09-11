@@ -1,5 +1,21 @@
 [
   {
+    "title": "Grenergy secures US$270 million financing for 3.5GWh BESS in Oasis de Atacama Phase 6",
+    "link": "https://www.energy-storage.news/grenergy-secures-us270-million-financing-for-3-5gwh-bess-in-oasis-de-atacama-phase-6/",
+    "date": "2025-09-11",
+    "summary": "Grenergy has secured a senior non-recourse financing agreement worth US$270 million for Phase 6 of its flagship Chilean solar-plus-storage p…",
+    "source": "Energy-Storage.News",
+    "image": null
+  },
+  {
+    "title": "‘The bar is going up and up’: Sodium-ion firm Natron Energy’s closure highlights alternative chemistry challenges",
+    "link": "https://www.energy-storage.news/the-bar-is-going-up-and-up-sodium-ion-firm-natron-energys-closure-highlights-alternative-chemistry-challenges/",
+    "date": "2025-09-11",
+    "summary": "US sodium-ion battery firm Natron Energy has ceased trading, putting an end to its two domestic gigafactories. The news points to the challe…",
+    "source": "Energy-Storage.News",
+    "image": null
+  },
+  {
     "title": "Still too early to see Trump tariffs’ impact on BESS industry finances",
     "link": "https://www.energy-storage.news/still-too-early-to-see-trump-tariffs-impact-on-bess-industry-finances/",
     "date": "2025-09-11",
@@ -13,6 +29,22 @@
     "date": "2025-09-11",
     "summary": "IPP DTEK Group and system integrator Fluence have together put a 200MW/400MWh BESS portfolio in Ukraine into commercial operation, a milesto…",
     "source": "Energy-Storage.News",
+    "image": null
+  },
+  {
+    "title": "Renewable energy among targets of US$634m EBRD climate finance package",
+    "link": "https://www.pv-tech.org/ebrd-launches-new-programme-renewable-energy-green-financing-access/",
+    "date": "2025-09-11",
+    "summary": "The EBRD has launched a new programme to improve access to green financing and support energy investments such as renewable power projects.…",
+    "source": "PV Tech",
+    "image": null
+  },
+  {
+    "title": "Constant Energy secures US$9.4 million for renewable energy expansion",
+    "link": "https://www.pv-tech.org/constant-energy-secures-us9-4-million-for-renewable-energy-expansion/",
+    "date": "2025-09-11",
+    "summary": "Constant Energy has secured THB300 million (US$9.4 million) in green financing from HSBC to expand large-scale solar and battery storage pro…",
+    "source": "PV Tech",
     "image": null
   },
   {
@@ -720,22 +752,6 @@
     "image": null
   },
   {
-    "title": "Nextracker looks to shake up solar electrical balance of system tech with first product launch",
-    "link": "https://www.pv-tech.org/nextracker-looks-to-shake-up-solar-electrical-balance-of-system-tech-with-first-product-launch/",
-    "date": "2025-09-08",
-    "summary": "Analysis: The first new product in Nextracker's eBOS portfolio aims for greater standardisation and speed of installation.…",
-    "source": "PV Tech",
-    "image": null
-  },
-  {
-    "title": "New alert system offers PV operators safeguard against hail damage",
-    "link": "https://www.pv-tech.org/new-alert-system-offers-pv-operators-safeguard-against-hail-damage/",
-    "date": "2025-09-08",
-    "summary": "Vaisala has launched a new hail alert system aimed at solar operators grappling with an increasingly costly problem for PV installations.…",
-    "source": "PV Tech",
-    "image": null
-  },
-  {
     "title": "SMA to manufacture inverters in the U.S. with help from Create Energy",
     "link": "https://www.solarpowerworldonline.com/2025/09/sma-to-manufacture-inverters-in-the-u-s-with-help-from-create-energy/",
     "date": "2025-09-08",
@@ -972,22 +988,6 @@
     "link": "https://www.energy-storage.news/washington-governor-delays-approval-of-hybrid-bess-proposal-from-cypress-creek-renewables/",
     "date": "2025-09-04",
     "summary": "The Governor of Washington State has delayed issuing final approval of a hybrid BESS facility under development by Cypress Creek Renewables.…",
-    "source": "Energy-Storage.News",
-    "image": null
-  },
-  {
-    "title": "Swift Current Energy closes US$242 million financing for Virginia battery storage project",
-    "link": "https://www.energy-storage.news/swift-current-energy-closes-us242-million-financing-for-virginia-battery-storage-project/",
-    "date": "2025-09-04",
-    "summary": "Swift Current Energy has secured US$242 million for what the developer claimed will be the biggest BESS project in the PJM service area.…",
-    "source": "Energy-Storage.News",
-    "image": null
-  },
-  {
-    "title": "Texas: Ormat brings online 120MWh BESS, Engie partners with data centre developer",
-    "link": "https://www.energy-storage.news/texas-ormat-brings-online-120mwh-bess-engie-partners-with-data-centre-developer/",
-    "date": "2025-09-04",
-    "summary": "In a double-hit of Texas news, Ormat is commencing operations at its Lower Rio facility, Engie is partnering with Prometheus Hyperscale to p…",
     "source": "Energy-Storage.News",
     "image": null
   },
