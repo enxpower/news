@@ -104,11 +104,27 @@
     "image": null
   },
   {
+    "title": "Modeling SiC MOSFETs with Neural Networks",
+    "link": "https://www.powerelectronicsnews.com/modeling-sic-mosfets-with-neural-networks/",
+    "date": "2025-09-11",
+    "summary": "<img alt=\"Jaro Corp. introduces new dielectric coating for PCBs.\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"720\" src=\"https://www…",
+    "source": "Power Electronics News",
+    "image": null
+  },
+  {
     "title": "YMIN Launches VHE Series Capacitors for Automotive Thermal Management",
     "link": "https://www.powerelectronicsnews.com/ymin-launches-vhe-series-capacitors-for-automotive-thermal-management/",
     "date": "2025-09-11",
     "summary": "<img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"340\" src=\"https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2…",
     "source": "Power Electronics News",
+    "image": null
+  },
+  {
+    "title": "GaN-Powered Reference Kit Targets Solar Race Cars and EVs",
+    "link": "https://eepower.com/news/gan-powered-reference-kit-targets-solar-race-cars-and-evs/",
+    "date": "2025-09-11",
+    "summary": "Power Integrations has launched a reference design kit integrating its high-efficiency PowiGaN-based InnoSwitch3-AQ IC for lightweight, ther…",
+    "source": "EE Power",
     "image": null
   },
   {
@@ -648,14 +664,6 @@
     "image": null
   },
   {
-    "title": "Power Devices to Elevate UAV Motor Control Performance",
-    "link": "https://www.powerelectronicsnews.com/power-devices-to-elevate-uav-motor-control-performance/",
-    "date": "2025-09-09",
-    "summary": "<img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"398\" src=\"https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2…",
-    "source": "Power Electronics News",
-    "image": null
-  },
-  {
     "title": "Is a Novel Oxide Material the Key to Clean Hydrogen?",
     "link": "https://eepower.com/market-insights/is-a-novel-oxide-material-the-key-to-clean-hydrogen/",
     "date": "2025-09-09",
@@ -1068,14 +1076,6 @@
     "link": "https://eepower.com/market-insights/transformer-supply-chain-woes-persist-as-energy-demand-grows/",
     "date": "2025-08-27",
     "summary": "Wood Mackenzie reports that surging demand and stalled supply chains leave the U.S. short on transformers.…",
-    "source": "EE Power",
-    "image": null
-  },
-  {
-    "title": "PFC Control Methods Overview",
-    "link": "https://eepower.com/technical-articles/pfc-control-methods-overview/",
-    "date": "2025-08-25",
-    "summary": "Power factor correction (PFC) is needed for AC-DC power supplies with input power greater than 75 W. This article offers an overview of the …",
     "source": "EE Power",
     "image": null
   }
