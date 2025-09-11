@@ -1,10 +1,58 @@
 [
   {
+    "title": "Still too early to see Trump tariffs’ impact on BESS industry finances",
+    "link": "https://www.energy-storage.news/still-too-early-to-see-trump-tariffs-impact-on-bess-industry-finances/",
+    "date": "2025-09-11",
+    "summary": "It's still to early to see the financial impact on energy storage suppliers in the wake of Trump's tariffs and legislation, writes Solar Med…",
+    "source": "Energy-Storage.News",
+    "image": null
+  },
+  {
+    "title": "‘Storage as fundamental as generation’: DTEK and Fluence turn on 200MW Ukraine BESS",
+    "link": "https://www.energy-storage.news/storage-as-fundamental-as-generation-dtek-and-fluence-turn-on-200mw-ukraine-bess/",
+    "date": "2025-09-11",
+    "summary": "IPP DTEK Group and system integrator Fluence have together put a 200MW/400MWh BESS portfolio in Ukraine into commercial operation, a milesto…",
+    "source": "Energy-Storage.News",
+    "image": null
+  },
+  {
+    "title": "US cell producer presses on with expansion plans despite policy uncertainty",
+    "link": "https://www.pv-tech.org/us-cell-producer-presses-on-with-expansion-plans-despite-policy-uncertainty/",
+    "date": "2025-09-11",
+    "summary": "US cell manufacturer ES Foundry is proceeding with expansion plans despite a six-month delay due to recent trade and tax credit policy uncer…",
+    "source": "PV Tech",
+    "image": null
+  },
+  {
+    "title": "Italy: ‘Right now, it doesn’t make sense to invest in co-located storage’",
+    "link": "https://www.pv-tech.org/italy-right-now-it-doesnt-make-sense-to-invest-in-co-located-storage/",
+    "date": "2025-09-11",
+    "summary": "The absence of negative pricing in Italy undermines the case for co-located solar storage, the co-founder of Italian IPP Terrawatt has said.…",
+    "source": "PV Tech",
+    "image": null
+  },
+  {
+    "title": "Solar growth in Central European countries outstrips EU average as coal declines",
+    "link": "https://www.pv-tech.org/solar-growth-in-central-european-countries-outstrips-eu-average-as-coal-declines/",
+    "date": "2025-09-11",
+    "summary": "Solar power generation in Central Europe has grown at more than twice the EU average rate since 2019, according to new figures.…",
+    "source": "PV Tech",
+    "image": null
+  },
+  {
     "title": "How US solar manufacturing is weathering the policy storm",
     "link": "https://www.pv-tech.org/how-us-solar-manufacturing-is-weathering-the-policy-storm/",
     "date": "2025-09-11",
     "summary": "PV CellTech USA: US cell manufacturer ES Foundry’s CEO Alex Zhu discusses his company's rapid ascent, strategic technology choices and the c…",
     "source": "PV Tech",
+    "image": null
+  },
+  {
+    "title": "China’s Mingyang partners with Octopus for up to 6GW UK wind buildout",
+    "link": "https://www.windpowermonthly.com/article/1932033/chinas-mingyang-partners-octopus-6gw-uk-wind-buildout",
+    "date": "2025-09-11",
+    "summary": "Utility Octopus Energy plans to use Chinese manufacturer Mingyang Smart Energy’s turbines as it eyes building up to 6GW of wind power capaci…",
+    "source": "Wind Power News & Analysis RSS Feed",
     "image": null
   },
   {
@@ -688,30 +736,6 @@
     "image": null
   },
   {
-    "title": "Vikram Solar secures 336MW module order for Khavda Project",
-    "link": "https://www.pv-tech.org/vikram-solar-secures-336mw-module-order-for-khavda-project/",
-    "date": "2025-09-08",
-    "summary": "Vikram Solar has won a 336MW module supply agreement from L&#038;T Construction for the 2.3GW Khavda solar park in Gujarat.…",
-    "source": "PV Tech",
-    "image": null
-  },
-  {
-    "title": "ClearGen and Davis Hill invest US$150 million in US community and commercial solar",
-    "link": "https://www.pv-tech.org/cleargen-davis-hill-invest-150-million-us-community-commercial-solar/",
-    "date": "2025-09-08",
-    "summary": "ClearGen has entered into a US$150 million partnership with Davis Hill to build 245MW of community and commercial solar projects in the US.…",
-    "source": "PV Tech",
-    "image": null
-  },
-  {
-    "title": "Philippines auction attracts 9.4GW in renewable energy bids",
-    "link": "https://www.pv-tech.org/philippines-auction-attracts-9-4gw-in-renewable-energy-bids/",
-    "date": "2025-09-08",
-    "summary": "A green energy auction in the Philippines has secured 9.4GW of renewable energy capacity subscriptions, of a target of 10.65GW.…",
-    "source": "PV Tech",
-    "image": null
-  },
-  {
     "title": "SMA to manufacture inverters in the U.S. with help from Create Energy",
     "link": "https://www.solarpowerworldonline.com/2025/09/sma-to-manufacture-inverters-in-the-u-s-with-help-from-create-energy/",
     "date": "2025-09-08",
@@ -912,14 +936,6 @@
     "image": null
   },
   {
-    "title": "New podcast: WindEurope’s outgoing CEO goes back to school",
-    "link": "https://www.windpowermonthly.com/article/1931213/new-podcast-windeuropes-outgoing-ceo-goes-back-school",
-    "date": "2025-09-05",
-    "summary": "Giles Dickson, WindEurope’s outgoing CEO, discusses the challenges and achievements of his ten-year tenure leading the trade body, offers so…",
-    "source": "Wind Power News & Analysis RSS Feed",
-    "image": null
-  },
-  {
     "title": "Introducing the Loss Cost Factor: A New Benchmark for Magnetic Material Selection",
     "link": "https://eepower.com/technical-articles/introducing-the-loss-cost-factor-a-new-benchmark-for-magnetic-material-selection/",
     "date": "2025-09-05",
@@ -972,22 +988,6 @@
     "link": "https://www.energy-storage.news/texas-ormat-brings-online-120mwh-bess-engie-partners-with-data-centre-developer/",
     "date": "2025-09-04",
     "summary": "In a double-hit of Texas news, Ormat is commencing operations at its Lower Rio facility, Engie is partnering with Prometheus Hyperscale to p…",
-    "source": "Energy-Storage.News",
-    "image": null
-  },
-  {
-    "title": "South African government’s 11GWh BESS procurement in charts",
-    "link": "https://www.energy-storage.news/south-africa-governments-11gwh-bess-procurement-visualised/",
-    "date": "2025-09-04",
-    "summary": "The government of South Africa has secured nearly 1.7GW/11GWh of grid-scale BESS capacity via various procurement programmes, though questio…",
-    "source": "Energy-Storage.News",
-    "image": null
-  },
-  {
-    "title": "Australia’s CEFC commits record AU$3.8 billion to Victoria-Tasmania Marinus Link interconnector",
-    "link": "https://www.energy-storage.news/australias-cefc-commits-record-au3-8-billion-to-victoria-tasmania-marinus-link-interconnector/",
-    "date": "2025-09-04",
-    "summary": "Australia's Clean Energy Finance Corporation (CEFC) has announced its largest-ever investment commitment, with AU$3.8 billion (US$2.5 billio…",
     "source": "Energy-Storage.News",
     "image": null
   },
