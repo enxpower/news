@@ -88,6 +88,14 @@
     "image": null
   },
   {
+    "title": "RAND PV combiner boxes achieve UL certification",
+    "link": "https://www.solarpowerworldonline.com/2025/09/rand-pv-combiner-boxes-achieve-ul-certification/",
+    "date": "2025-09-15",
+    "summary": "The line of combiner boxes from RAND PV has achieved UL 1741 certification. &#8220;Receiving UL certification is an important milestone for …",
+    "source": "Solar Power World",
+    "image": null
+  },
+  {
     "title": "GreenieRE launches Renewable Energy Surety Program to alleviate development risks",
     "link": "https://www.solarpowerworldonline.com/2025/09/greeniere-launches-renewable-energy-surety-program-to-alleviate-development-risks/",
     "date": "2025-09-15",
@@ -168,11 +176,27 @@
     "image": null
   },
   {
+    "title": "Chinese Officials Look at Converting Old Coal Plants to Nuclear Power Stations",
+    "link": "https://www.powermag.com/chinese-officials-look-at-converting-old-coal-plants-to-nuclear-power-stations/",
+    "date": "2025-09-15",
+    "summary": "A Chinese state-owned energy infrastructure group has proposed a decarbonization plan that would increase the country's use of nuclear power…",
+    "source": "POWER Magazine",
+    "image": null
+  },
+  {
     "title": "AI Reveals Energy Loss Hidden in Magnetic Hysteresis Loops",
     "link": "https://www.powerelectronicsnews.com/ai-reveals-energy-loss-hidden-in-magnetic-hysteresis-loops/",
     "date": "2025-09-15",
     "summary": "<img alt=\"Hysteresis loop for a ferromagnetic material.\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"720\" src=\"https://www.powerele…",
     "source": "Power Electronics News",
+    "image": null
+  },
+  {
+    "title": "Pushing Boundaries in Batteries, Hydrogen and Solar Materials",
+    "link": "https://eepower.com/market-insights/pushing-boundaries-in-batteries-hydrogen-and-solar-materials/",
+    "date": "2025-09-15",
+    "summary": "New research in battery disassembly, hydrogen storage, and perovskite engineering reveals scalable, low-impact solutions for future electrif…",
+    "source": "EE Power",
     "image": null
   },
   {
@@ -760,14 +784,6 @@
     "image": null
   },
   {
-    "title": "FranklinWH launches new home battery setup",
-    "link": "https://www.solarpowerworldonline.com/2025/09/franklinwh-launches-new-home-battery-setup/",
-    "date": "2025-09-10",
-    "summary": "FranklinWH has launched the aPower S home battery, Meter Adapter Controller (MAC) and aHub extension as part of its latest additions to the …",
-    "source": "Solar Power World",
-    "image": null
-  },
-  {
     "title": "Equinor: 'No specific discussions' on merging renewables assets with Ørsted",
     "link": "https://www.windpowermonthly.com/article/1931982/equinor-no-specific-discussions-merging-renewables-assets-orsted",
     "date": "2025-09-10",
@@ -812,14 +828,6 @@
     "link": "https://www.powermag.com/restart-of-indian-point-nuclear-plant-yes-says-holtec-official/",
     "date": "2025-09-10",
     "summary": "A 2-GW nuclear power plant in New York State that was shut down in 2021 could be restarted, an official with Holtec International said. The …",
-    "source": "POWER Magazine",
-    "image": null
-  },
-  {
-    "title": "Magnetar Investment Supports Torus’ Deployment of Modular Power Plants",
-    "link": "https://www.powermag.com/magnetar-investment-supports-torus-deployment-of-modular-power-plants/",
-    "date": "2025-09-10",
-    "summary": "Torus, a full-stack energy platform offering storage, management, security, and generation solutions, on September 9 announced a $200-millio…",
     "source": "POWER Magazine",
     "image": null
   },
@@ -1068,14 +1076,6 @@
     "link": "https://eepower.com/technical-articles/modeling-medium-and-long-transmission-lines-for-power-system-analysis/",
     "date": "2025-08-31",
     "summary": "This second article in the series applies our knowledge about power system modeling to medium and long transmission lines.…",
-    "source": "EE Power",
-    "image": null
-  },
-  {
-    "title": "Is Self-Propelled Ice the Next Renewable Energy Source?",
-    "link": "https://eepower.com/market-insights/is-self-propelled-ice-the-next-renewable-energy-source/",
-    "date": "2025-08-29",
-    "summary": "Virginia Tech engineers have demonstrated a novel method to harvest energy from melting ice.…",
     "source": "EE Power",
     "image": null
   }
