@@ -224,6 +224,14 @@
     "image": null
   },
   {
+    "title": "Using Low-Voltage Devices in High-Voltage Server Power Supplies—Part 3",
+    "link": "https://eepower.com/technical-articles/increasing-power-density-using-low-voltage-egan-fets-in-high-voltage-server-power-supplies-part-3-isop-llc-converter/",
+    "date": "2025-09-15",
+    "summary": "In this third and last part of the series we delve into the Isolated DC-DC converter that follows the PFC.…",
+    "source": "EE Power",
+    "image": null
+  },
+  {
     "title": "Pushing Boundaries in Batteries, Hydrogen and Solar Materials",
     "link": "https://eepower.com/market-insights/pushing-boundaries-in-batteries-hydrogen-and-solar-materials/",
     "date": "2025-09-15",
@@ -1068,14 +1076,6 @@
     "link": "https://eepower.com/market-insights/time-shifting-energy-use-could-shrink-carbon-emissions/",
     "date": "2025-09-01",
     "summary": "University of Texas Dallas engineers have found that coordinating electricity consumption with renewable energy production can substantially…",
-    "source": "EE Power",
-    "image": null
-  },
-  {
-    "title": "Modeling Medium and Long Transmission Lines for Power System Analysis",
-    "link": "https://eepower.com/technical-articles/modeling-medium-and-long-transmission-lines-for-power-system-analysis/",
-    "date": "2025-08-31",
-    "summary": "This second article in the series applies our knowledge about power system modeling to medium and long transmission lines.…",
     "source": "EE Power",
     "image": null
   }
