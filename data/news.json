@@ -1,10 +1,58 @@
 [
   {
+    "title": "Explosion test ‘demonstrates effectiveness’ of BESS safety control system, Wärtsilä says",
+    "link": "https://www.energy-storage.news/explosion-test-demonstrates-effectiveness-of-bess-safety-control-system-wartsila-says/",
+    "date": "2025-09-16",
+    "summary": "A proprietary explosion control system performed effectively in three recent safety tests conducted on Wärtsilä battery storage equipment.…",
+    "source": "Energy-Storage.News",
+    "image": null
+  },
+  {
+    "title": "Ignitis orders 582MWh from Rolls-Royce, Olana takes FID on Lithuania BESS projects",
+    "link": "https://www.energy-storage.news/ignitis-orders-582mwh-from-rolls-royce-olana-takes-fid-on-lithuania-bess-projects/",
+    "date": "2025-09-16",
+    "summary": "Ignitis Group and Olana Energy have progressed BESS projects in Lithuania closer to construction, with the order of equipment and final inve…",
+    "source": "Energy-Storage.News",
+    "image": null
+  },
+  {
     "title": "‘Power even without the sun’: President Marcos Jr inaugurates first ‘solar baseload’ power plant in Philippines",
     "link": "https://www.energy-storage.news/power-even-without-the-sun-president-marcos-jr-inaugurates-first-solar-baseload-power-plant-in-philippines/",
     "date": "2025-09-16",
     "summary": "President of the Philippines, Ferdinand Marcos Jr., was in attendance as the country’s first 'baseload' power plant to combine solar PV and …",
     "source": "Energy-Storage.News",
+    "image": null
+  },
+  {
+    "title": "Philippines commissions country’s first agriPV-plus-storage project",
+    "link": "https://www.pv-tech.org/philippines-commissions-countrys-first-agripv-plus-storage-project/",
+    "date": "2025-09-16",
+    "summary": "The Philippines has commissioned the Batangas 1 project, the country's first to combine agriPV with a battery energy storage system (BESS).…",
+    "source": "PV Tech",
+    "image": null
+  },
+  {
+    "title": "Wisconsin Republicans propose bill to improve access to community solar projects",
+    "link": "https://www.pv-tech.org/wisconsin-republicans-propose-bill-improve-access-community-solar-projects/",
+    "date": "2025-09-16",
+    "summary": "Two Wisconsin Republicans have introduced legislation to open access to community solar projects in the US state.…",
+    "source": "PV Tech",
+    "image": null
+  },
+  {
+    "title": "GE Vernova lands deal to repower German onshore wind project",
+    "link": "https://www.windpowermonthly.com/article/1932527/ge-vernova-lands-deal-repower-german-onshore-wind-project",
+    "date": "2025-09-16",
+    "summary": "",
+    "source": "Wind Power News & Analysis RSS Feed",
+    "image": null
+  },
+  {
+    "title": "Australia delays first offshore wind auction",
+    "link": "https://www.windpowermonthly.com/article/1932525/australia-delays-first-offshore-wind-auction",
+    "date": "2025-09-16",
+    "summary": "Australia has delayed its first offshore wind auction due to concerns from developers around funding and infrastructure.…",
+    "source": "Wind Power News & Analysis RSS Feed",
     "image": null
   },
   {
@@ -800,22 +848,6 @@
     "image": null
   },
   {
-    "title": "Curtailment of Voltalia’s Brazil fleet reaches 14%",
-    "link": "https://www.pv-tech.org/curtailment-of-voltalias-brazil-fleet-reaches-14/",
-    "date": "2025-09-10",
-    "summary": "Voltalia is seeking compensation for the ongoing curtailment of its Brazilian solar and wind fleet, which has exceeded expectations this yea…",
-    "source": "PV Tech",
-    "image": null
-  },
-  {
-    "title": "Toyo Solar ships 1.6GW PV cells in H1 2025 amid shift to US market",
-    "link": "https://www.pv-tech.org/toyo-solar-ships-1-6gw-cells-h1-2025-amid-shift-to-us-market/",
-    "date": "2025-09-10",
-    "summary": "Japanese solar cell manufacturer Toyo Solar has sold 1.6GW of solar PV cells in the first half of 2025, driving revenue of around US$139 mil…",
-    "source": "PV Tech",
-    "image": null
-  },
-  {
     "title": "Equinor: 'No specific discussions' on merging renewables assets with Ørsted",
     "link": "https://www.windpowermonthly.com/article/1931982/equinor-no-specific-discussions-merging-renewables-assets-orsted",
     "date": "2025-09-10",
@@ -928,22 +960,6 @@
     "image": null
   },
   {
-    "title": "China's soaring wind and solar growth displacing fossil fuels – Ember",
-    "link": "https://www.windpowermonthly.com/article/1931708/chinas-soaring-wind-solar-growth-displacing-fossil-fuels-%E2%80%93-ember",
-    "date": "2025-09-09",
-    "summary": "The rapid expansion of wind and solar power China could soon bring about a peak of fossil fuels used for electricity generation in the count…",
-    "source": "Wind Power News & Analysis RSS Feed",
-    "image": null
-  },
-  {
-    "title": "Mingyang to supply 18MW turbine for Brazil’s first offshore wind pilot",
-    "link": "https://www.windpowermonthly.com/article/1931683/mingyang-supply-18mw-turbine-brazils-first-offshore-wind-pilot",
-    "date": "2025-09-09",
-    "summary": "",
-    "source": "Wind Power News & Analysis RSS Feed",
-    "image": null
-  },
-  {
     "title": "Is a Novel Oxide Material the Key to Clean Hydrogen?",
     "link": "https://eepower.com/market-insights/is-a-novel-oxide-material-the-key-to-clean-hydrogen/",
     "date": "2025-09-09",
@@ -964,22 +980,6 @@
     "link": "https://www.energy-storage.news/12gwh-phes-and-1-2gwh-bess-added-to-australias-epbc-act/",
     "date": "2025-09-08",
     "summary": "A 12GWh pumped hydro project and a 1,200MWh battery energy storage system in New South Wales (NSW) have been submitted to Australia’s Enviro…",
-    "source": "Energy-Storage.News",
-    "image": null
-  },
-  {
-    "title": "RE+ 2025: Product launches, showcases and news ahead of the biggest clean energy trade show in the US",
-    "link": "https://www.energy-storage.news/re-2025-product-launches-showcases-and-news-ahead-of-the-biggest-clean-energy-trade-show-in-the-us/",
-    "date": "2025-09-08",
-    "summary": "With RE+ bringing thousands of energy storage professionals to Las Vegas this week, here are some announcements that have hit the Energy-Sto…",
-    "source": "Energy-Storage.News",
-    "image": null
-  },
-  {
-    "title": "California set to cut funding for load-reducing distributed storage programme",
-    "link": "https://www.energy-storage.news/california-set-to-cut-funding-for-load-reducing-distributed-storage-programme/",
-    "date": "2025-09-08",
-    "summary": "Energy-Storage.news Premium speaks with Ryan Hledik, Principal at the Brattle Group, and Lauren Nevitt, Senior Director of Public Policy at …",
     "source": "Energy-Storage.News",
     "image": null
   },
