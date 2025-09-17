@@ -1,5 +1,21 @@
 [
   {
+    "title": "Samsung SDI to start US BESS manufacturing from 2026",
+    "link": "https://www.energy-storage.news/samsung-sdi-to-start-us-bess-manufacturing-from-2026/",
+    "date": "2025-09-17",
+    "summary": "South Korean battery and electronics materials manufacturer Samsung SDI debuted its new battery energy storage system (BESS) products at the…",
+    "source": "Energy-Storage.News",
+    "image": null
+  },
+  {
+    "title": "Arkansas utility seeks approval of 1.4GWh hybrid BESS, with financial support from Google as part of data centre deal",
+    "link": "https://www.energy-storage.news/arkansas-utility-seeks-approval-of-1-4gwh-hybrid-bess-with-financial-support-from-google-as-part-of-data-centre-deal/",
+    "date": "2025-09-17",
+    "summary": "Investor-owned utility (IOU) Entergy is seeking regulatory approval from the Arkansas Public Service Commission (PSC) to construct what coul…",
+    "source": "Energy-Storage.News",
+    "image": null
+  },
+  {
     "title": "Sympower and Suena raise combined €27 million for European BESS optimisation, international expansion",
     "link": "https://www.energy-storage.news/sympower-and-suena-raise-combined-e27-million-for-european-bess-optimisation-international-expansion/",
     "date": "2025-09-17",
@@ -29,6 +45,14 @@
     "date": "2025-09-17",
     "summary": "Australia's Capacity Investment Scheme (CIS) has awarded 4.13GW/15.37GWh of battery storage capacity in its third tender round, exceeding in…",
     "source": "Energy-Storage.News",
+    "image": null
+  },
+  {
+    "title": "Velto acquires 260MW operational solar portfolio in Spain",
+    "link": "https://www.pv-tech.org/velto-acquires-260mw-operational-solar-portfolio-spain/",
+    "date": "2025-09-17",
+    "summary": "Spanish IPP Velto Renewables has acquired a portfolio of 53 operational solar assets in Spain with a combined capacity of 260MW.…",
+    "source": "PV Tech",
     "image": null
   },
   {
@@ -85,6 +109,14 @@
     "date": "2025-09-17",
     "summary": "PV CellTech: Martin Pochtaruk, CEO of North American solar module manufacturer Heliene, says US producers must learn to survive without tax …",
     "source": "PV Tech",
+    "image": null
+  },
+  {
+    "title": "North American VPP market reaches 37.5 GW of flexible capacity",
+    "link": "https://www.solarpowerworldonline.com/2025/09/north-american-vpp-market-reaches-37-5-gw-of-flexible-capacity/",
+    "date": "2025-09-17",
+    "summary": "The virtual power plant (VPP) market grew rapidly over the last year, reaching 37.5 GW of behind-the-meter flexible capacity, according to a…",
+    "source": "Solar Power World",
     "image": null
   },
   {
@@ -536,14 +568,6 @@
     "image": null
   },
   {
-    "title": "Enphase releases 480-V commercial microinverters",
-    "link": "https://www.solarpowerworldonline.com/2025/09/enphase-releases-480-v-commercial-microinverters/",
-    "date": "2025-09-15",
-    "summary": "Enphase Energy announced it has opened U.S. pre-orders for the new IQ9N-3P Commercial Microinverter. This is Enphase’s first microinverter p…",
-    "source": "Solar Power World",
-    "image": null
-  },
-  {
     "title": "German renewables goal in reach despite failing wind targets – report",
     "link": "https://www.windpowermonthly.com/article/1932472/german-renewables-goal-reach-despite-failing-wind-targets-%E2%80%93-report",
     "date": "2025-09-15",
@@ -848,14 +872,6 @@
     "image": null
   },
   {
-    "title": "Madison Energy secures US$800 million to expand US clean energy portfolio",
-    "link": "https://www.pv-tech.org/madison-energy-secures-us800-million-to-expand-us-clean-energy-portfolio/",
-    "date": "2025-09-11",
-    "summary": "Madison Energy Infrastructure has raised US$800 million to accelerate the deployment of clean energy assets across the US.…",
-    "source": "PV Tech",
-    "image": null
-  },
-  {
     "title": "Updated: LM Wind Power CEO resigns",
     "link": "https://www.windpowermonthly.com/article/1932079/updated-lm-wind-power-ceo-resigns",
     "date": "2025-09-11",
@@ -964,22 +980,6 @@
     "link": "https://www.energy-storage.news/tesla-launches-integrated-20mwh-megapack-bess-solution/",
     "date": "2025-09-09",
     "summary": "Tesla announced its new integrated 20MWh battery energy storage system (BESS) solution, the Tesla Megablock, on 8 September in Las Vegas, US…",
-    "source": "Energy-Storage.News",
-    "image": null
-  },
-  {
-    "title": "US energy storage industry ‘has to continue to be aggressive’",
-    "link": "https://www.energy-storage.news/us-energy-storage-industry-has-to-continue-to-be-aggressive/",
-    "date": "2025-09-09",
-    "summary": "“The industry has to continue to be aggressive,” says Luigi Resta, president of US renewable energy and energy storage developer rPlus Energ…",
-    "source": "Energy-Storage.News",
-    "image": null
-  },
-  {
-    "title": "Flatiron Energy proposes 672MWh BESS at former Massachusetts fossil plant, pauses indoor BESS project in Boston",
-    "link": "https://www.energy-storage.news/flatiron-energy-proposes-672mwh-bess-at-former-massachusetts-fossil-plant-pauses-indoor-bess-project-in-boston/",
-    "date": "2025-09-09",
-    "summary": "Flatiron Energy has commenced initial proceedings to construct a 168MW/672MWh BESS at the site of a former coal-fired power plant located in…",
     "source": "Energy-Storage.News",
     "image": null
   },
