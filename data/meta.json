@@ -1,12 +1,12 @@
 {
-  "updated": "2025-09-17 02:12 UTC",
-  "count": 105,
+  "updated": "2025-09-17 03:19 UTC",
+  "count": 135,
   "stats": {
     "total_sources": 19,
-    "used_sources": 6,
+    "used_sources": 7,
     "skipped_stale": 12,
-    "errors": 1,
-    "items_before_dedup": 105
+    "errors": 0,
+    "items_before_dedup": 135
   },
   "config": {
     "stale_days": 30,
