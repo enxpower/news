@@ -1,5 +1,13 @@
 [
   {
+    "title": "National Fire Protection Association releases NFPA 855 ESS safety standard, 2026 edition",
+    "link": "https://www.energy-storage.news/national-fire-protection-association-releases-nfpa-855-ess-safety-standard-2026-edition/",
+    "date": "2025-09-18",
+    "summary": "The US National Fire Protection Association (NFPA) has launched the newest edition of its cornerstone battery storage safety standard, NFPA …",
+    "source": "Energy-Storage.News",
+    "image": null
+  },
+  {
     "title": "When quality slips through the cracks: A procurement guide to hidden BESS risks",
     "link": "https://www.energy-storage.news/when-quality-slips-through-the-cracks-a-procurement-guide-to-hidden-bess-risks/",
     "date": "2025-09-18",
@@ -48,6 +56,14 @@
     "image": null
   },
   {
+    "title": "Canada forecast to add up to 26GW of solar PV by 2035",
+    "link": "https://www.pv-tech.org/canada-forecast-to-add-up-to-26gw-of-solar-pv-by-2035/",
+    "date": "2025-09-18",
+    "summary": "The Canadian Renewable Energy Association (CanREA) has forecast that Canada will add between 17GW and 26GW of solar PV over the next decade.…",
+    "source": "PV Tech",
+    "image": null
+  },
+  {
     "title": "NREL study reveals high UV degradation in n-type modules",
     "link": "https://www.pv-tech.org/nrel-study-reveals-high-uv-degradation-in-n-type-modules/",
     "date": "2025-09-18",
@@ -64,6 +80,14 @@
     "image": null
   },
   {
+    "title": "Intersolar changes Solar Games to point-based system, expands eligibility",
+    "link": "https://www.solarpowerworldonline.com/2025/09/intersolar-changes-solar-games-to-point-based-system-expands-eligibility/",
+    "date": "2025-09-18",
+    "summary": "Intersolar &#38; Energy Storage North America (IESNA) announced the 2026 Solar Games in San Diego, California, will feature two key changes:…",
+    "source": "Solar Power World",
+    "image": null
+  },
+  {
     "title": "OpenSolar 3.0 offers solar design, lead gen and workflow services for free",
     "link": "https://www.solarpowerworldonline.com/2025/09/opensolar-3-0-offers-solar-design-lead-gen-and-workflow-services-for-free/",
     "date": "2025-09-18",
@@ -77,6 +101,14 @@
     "date": "2025-09-18",
     "summary": "Data company 257 has launched Pink, an AI-powered platform for residential energy providers that aims to reduce acquisition costs. “Our miss…",
     "source": "Solar Power World",
+    "image": null
+  },
+  {
+    "title": "Nordex wind turbines to power Mercedes-Benz test track",
+    "link": "https://www.windpowermonthly.com/article/1932878/nordex-wind-turbines-power-mercedes-benz-test-track",
+    "date": "2025-09-18",
+    "summary": "Nordex has signed a wind turbine supply deal with German developer UKA for a project due to power a Mercedes-Benz car testing site.…",
+    "source": "Wind Power News & Analysis RSS Feed",
     "image": null
   },
   {
@@ -688,14 +720,6 @@
     "image": null
   },
   {
-    "title": "Pennsylvania school district offsets all energy costs with solar",
-    "link": "https://www.solarpowerworldonline.com/2025/09/pennsylvania-school-district-offsets-all-energy-costs-with-solar/",
-    "date": "2025-09-15",
-    "summary": "A 1.3-MW solar system built atop the Cornell School District in Coraopolis, Pennsylvania, will offset 100% of its annual energy usage. “I’d …",
-    "source": "Solar Power World",
-    "image": null
-  },
-  {
     "title": "German renewables goal in reach despite failing wind targets – report",
     "link": "https://www.windpowermonthly.com/article/1932472/german-renewables-goal-reach-despite-failing-wind-targets-%E2%80%93-report",
     "date": "2025-09-15",
@@ -864,14 +888,6 @@
     "image": null
   },
   {
-    "title": "BSW-Solar calls for simplified grid access for German solar and storage projects",
-    "link": "https://www.pv-tech.org/bsw-solar-calls-for-simplified-grid-access-for-german-solar-and-storage-projects/",
-    "date": "2025-09-12",
-    "summary": "German trade association BSW-Solar has called the German government for a simplified, standardised and more digitalised grid access for sola…",
-    "source": "PV Tech",
-    "image": null
-  },
-  {
     "title": "Enercon unveils wind power and battery storage system",
     "link": "https://www.windpowermonthly.com/article/1932239/enercon-unveils-wind-power-battery-storage-system",
     "date": "2025-09-12",
@@ -944,14 +960,6 @@
     "image": null
   },
   {
-    "title": "Updated: LM Wind Power CEO resigns",
-    "link": "https://www.windpowermonthly.com/article/1932079/updated-lm-wind-power-ceo-resigns",
-    "date": "2025-09-11",
-    "summary": "The CEO of blade manufacturer LM Wind Power, a subsidiary of US wind turbine giant GE Vernova, has resigned from the company less than two y…",
-    "source": "Wind Power News & Analysis RSS Feed",
-    "image": null
-  },
-  {
     "title": "EPA Streamlines Preconstruction Permitting to Accelerate Power Plants, Data Centers, and Manufacturing Reshoring",
     "link": "https://www.powermag.com/epa-streamlines-preconstruction-permitting-to-accelerate-power-plants-data-centers-and-manufacturing-reshoring/",
     "date": "2025-09-11",
@@ -973,14 +981,6 @@
     "date": "2025-09-11",
     "summary": "Power Integrations has launched a reference design kit integrating its high-efficiency PowiGaN-based InnoSwitch3-AQ IC for lightweight, ther…",
     "source": "EE Power",
-    "image": null
-  },
-  {
-    "title": "‘Made in America’ and energy density race lead  battery storage discussions at RE+ 2025",
-    "link": "https://www.energy-storage.news/made-in-america-and-energy-density-race-lead-battery-storage-discussions-at-re-2025/",
-    "date": "2025-09-10",
-    "summary": "Two energy storage topics appeared to come up in conversation more than any other at the first day of RE+: US domestic content and the race …",
-    "source": "Energy-Storage.News",
     "image": null
   },
   {
