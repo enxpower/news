@@ -1,5 +1,13 @@
 [
   {
+    "title": "How Canada is driving 8-12GW of storage deployments by 2035 – ESC report",
+    "link": "https://www.energy-storage.news/how-canada-is-driving-8-12gw-of-storage-deployments-by-2035-esc-report/",
+    "date": "2025-09-18",
+    "summary": "In a recent report from trade association Energy Storage Canada (ESC), energy storage was cited as “a critical component of future electrici…",
+    "source": "Energy-Storage.News",
+    "image": null
+  },
+  {
     "title": "National Fire Protection Association releases NFPA 855 ESS safety standard, 2026 edition",
     "link": "https://www.energy-storage.news/national-fire-protection-association-releases-nfpa-855-ess-safety-standard-2026-edition/",
     "date": "2025-09-18",
@@ -133,6 +141,14 @@
     "date": "2025-09-18",
     "summary": "<img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"609\" src=\"https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2…",
     "source": "Power Electronics News",
+    "image": null
+  },
+  {
+    "title": "National Grid Pilots World’s First Hydrogen Linear Generator",
+    "link": "https://eepower.com/news/national-grid-pilots-worlds-first-hydrogen-linear-generator/",
+    "date": "2025-09-18",
+    "summary": "National Grid Ventures will install the world’s first 100% green hydrogen-fueled linear generator at its Northport Power Plant in New York.…",
+    "source": "EE Power",
     "image": null
   },
   {
@@ -952,14 +968,6 @@
     "image": null
   },
   {
-    "title": "‘Storage as fundamental as generation’: DTEK and Fluence turn on 200MW Ukraine BESS",
-    "link": "https://www.energy-storage.news/storage-as-fundamental-as-generation-dtek-and-fluence-turn-on-200mw-ukraine-bess/",
-    "date": "2025-09-11",
-    "summary": "IPP DTEK Group and system integrator Fluence have together put a 200MW/400MWh BESS portfolio in Ukraine into commercial operation, a milesto…",
-    "source": "Energy-Storage.News",
-    "image": null
-  },
-  {
     "title": "EPA Streamlines Preconstruction Permitting to Accelerate Power Plants, Data Centers, and Manufacturing Reshoring",
     "link": "https://www.powermag.com/epa-streamlines-preconstruction-permitting-to-accelerate-power-plants-data-centers-and-manufacturing-reshoring/",
     "date": "2025-09-11",
@@ -1068,14 +1076,6 @@
     "link": "https://eepower.com/technical-articles/an-introduction-to-surge-impedance-in-long-distance-power-transmission/",
     "date": "2025-09-04",
     "summary": "In this article, we will examine surge impedance loading and voltage profiles. This is the first article of a 3-part series on long transmis…",
-    "source": "EE Power",
-    "image": null
-  },
-  {
-    "title": "Briefs: Changes in Leaders, Wafers, EVs, Batteries and More",
-    "link": "https://eepower.com/news/briefs-changes-in-leaders-wafers-evs-batteries-and-more/",
-    "date": "2025-09-03",
-    "summary": "Navitas, Toshiba, Porsche, ChargePoint, Richardson Electronics, and Landis+Gyr have made notable shifts in leaders, strategies, partners, an…",
     "source": "EE Power",
     "image": null
   }
