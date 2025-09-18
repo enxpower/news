@@ -176,6 +176,14 @@
     "image": null
   },
   {
+    "title": "An Introduction to Bundled Conductors in Transmission Lines",
+    "link": "https://eepower.com/technical-articles/an-introduction-to-bundled-conductors-in-transmission-lines/",
+    "date": "2025-09-18",
+    "summary": "This article explores the design of bundled conductors for high-voltage transmission lines, highlighting their electrical and mechanical adv…",
+    "source": "EE Power",
+    "image": null
+  },
+  {
     "title": "National Grid Pilots World’s First Hydrogen Linear Generator",
     "link": "https://eepower.com/news/national-grid-pilots-worlds-first-hydrogen-linear-generator/",
     "date": "2025-09-18",
@@ -1068,14 +1076,6 @@
     "link": "https://eepower.com/news/ford-shakes-up-ev-assembly-with-its-universal-platform/",
     "date": "2025-09-05",
     "summary": "Ford claims its innovative electric vehicle assembly line will speed up production, lower costs, and increase worker safety.…",
-    "source": "EE Power",
-    "image": null
-  },
-  {
-    "title": "An Introduction to Surge Impedance in Long-Distance Power Transmission",
-    "link": "https://eepower.com/technical-articles/an-introduction-to-surge-impedance-in-long-distance-power-transmission/",
-    "date": "2025-09-04",
-    "summary": "In this article, we will examine surge impedance loading and voltage profiles. This is the first article of a 3-part series on long transmis…",
     "source": "EE Power",
     "image": null
   }
