@@ -1,5 +1,13 @@
 [
   {
+    "title": "Italy: IPP orders 220MWh from Sungrow as MACSE approaches",
+    "link": "https://www.energy-storage.news/italy-ipp-orders-220mwh-from-sungrow-as-macse-approaches/",
+    "date": "2025-09-19",
+    "summary": "IPP EP Produzione has ordered 220MWh of BESS from inverter and energy storage firm Sungrow in Italy, with a storage-focused capacity auction…",
+    "source": "Energy-Storage.News",
+    "image": null
+  },
+  {
     "title": "Soaring energy storage orders, robust financial performance drive up Chinese ESS cell prices",
     "link": "https://www.energy-storage.news/soaring-energy-storage-orders-robust-financial-performance-drive-up-chinese-ess-cell-prices/",
     "date": "2025-09-19",
@@ -16,11 +24,35 @@
     "image": null
   },
   {
+    "title": "Solar Stewardship Initiative adopts new transparency targets for modules exported to European countries",
+    "link": "https://www.pv-tech.org/solar-stewardship-initiative-adopts-new-transparency-targets-modules-exported-european-countries/",
+    "date": "2025-09-19",
+    "summary": "The Solar Stewardship Initiative (SSI) has adopted a new set of binding targets and reporting requirements for its PV manufacturing members.…",
+    "source": "PV Tech",
+    "image": null
+  },
+  {
     "title": "Australia sets 62-70% emissions reduction target for 2035",
     "link": "https://www.pv-tech.org/australia-sets-62-70-emissions-reduction-target-for-2035/",
     "date": "2025-09-19",
     "summary": "Australia has committed to cutting greenhouse gas emissions by 62-70% below 2005 levels by 2035, Prime Minister Anthony Albanese announced o…",
     "source": "PV Tech",
+    "image": null
+  },
+  {
+    "title": "New Podcast: Ørsted's rights issue | US war on wind | Chinese innovation",
+    "link": "https://www.windpowermonthly.com/article/1932991/new-podcast-orsteds-rights-issue-us-war-wind-chinese-innovation",
+    "date": "2025-09-19",
+    "summary": "Welcome to the Wind Power News Review – hosted by Windpower Monthly's senior reporter, Robyn White, and Windpower Monthly's reporter, Orland…",
+    "source": "Wind Power News & Analysis RSS Feed",
+    "image": null
+  },
+  {
+    "title": "E-Mobility Revolution: Overcoming Design Challenges in Electric Two- and Three-Wheelers",
+    "link": "https://www.powerelectronicsnews.com/e-mobility-revolution-overcoming-design-challenges-in-electric-two-and-three-wheelers/",
+    "date": "2025-09-19",
+    "summary": "<img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"1318\" src=\"https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/…",
+    "source": "Power Electronics News",
     "image": null
   },
   {
@@ -712,14 +744,6 @@
     "image": null
   },
   {
-    "title": "AOS Expands USB Type-C Protection Portfolio with High-Power Sink and Source Switches",
-    "link": "https://www.powerelectronicsnews.com/aos-expands-usb-type-c-protection-portfolio-with-high-power-sink-and-source-switches/",
-    "date": "2025-09-16",
-    "summary": "<img alt=\"AOS Expands USB Type-C Protection Portfolio with High-Power Sink and Source Switches.\" class=\"webfeedsFeaturedVisual wp-post-image…",
-    "source": "Power Electronics News",
-    "image": null
-  },
-  {
     "title": "ReVolt’s Carbon-Free Power Platform Electrifies Movie Sets",
     "link": "https://eepower.com/news/revolts-carbon-free-power-platform-electrifies-movie-sets/",
     "date": "2025-09-16",
@@ -788,14 +812,6 @@
     "link": "https://www.pv-tech.org/australian-start-up-wins-funding-to-commercialise-daylight-solar-inspection-technology/",
     "date": "2025-09-15",
     "summary": "UNSW spin-out company Lab360 Solar has been awarded funding from ARENA to bring its drone-based PV inspection technology to market.…",
-    "source": "PV Tech",
-    "image": null
-  },
-  {
-    "title": "UK charts path to trebling solar by 2030",
-    "link": "https://www.pv-tech.org/uk-charts-path-to-trebling-solar-by-2030/",
-    "date": "2025-09-15",
-    "summary": "The UK government and solar industry have jointly published a long-anticipated roadmap detailing how to maximise the country’s solar potenti…",
     "source": "PV Tech",
     "image": null
   },
@@ -952,14 +968,6 @@
     "image": null
   },
   {
-    "title": "Wind power patents: Goldwind | Nordex | PowerChina | Ventus Engineering",
-    "link": "https://www.windpowermonthly.com/article/1932180/wind-power-patents-goldwind-nordex-powerchina-ventus-engineering",
-    "date": "2025-09-12",
-    "summary": "Windpower Monthly rounds up the latest patents for wind power technology granted and applied for in the last week.…",
-    "source": "Wind Power News & Analysis RSS Feed",
-    "image": null
-  },
-  {
     "title": "Hithium, Storion announce non-lithium BESS advances in US",
     "link": "https://www.energy-storage.news/hithium-storion-announce-non-lithium-bess-advances-in-us/",
     "date": "2025-09-11",
@@ -972,14 +980,6 @@
     "link": "https://www.energy-storage.news/primergy-gridstor-sunraycer-and-plus-power-progress-large-scale-us-bess-projects/",
     "date": "2025-09-11",
     "summary": "A flurry of large-scale BESS project news in the US from four major developer-operators, coinciding with the country's largest clean energy …",
-    "source": "Energy-Storage.News",
-    "image": null
-  },
-  {
-    "title": "Grenergy secures US$270 million financing for 3.5GWh BESS in Oasis de Atacama Phase 6",
-    "link": "https://www.energy-storage.news/grenergy-secures-us270-million-financing-for-3-5gwh-bess-in-oasis-de-atacama-phase-6/",
-    "date": "2025-09-11",
-    "summary": "Grenergy has secured a senior non-recourse financing agreement worth US$270 million for Phase 6 of its flagship Chilean solar-plus-storage p…",
     "source": "Energy-Storage.News",
     "image": null
   },
