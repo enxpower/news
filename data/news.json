@@ -1,5 +1,13 @@
 [
   {
+    "title": "Dominion receives approval to develop 400MWh BESS in Virginia after fire safety concerns alleviated",
+    "link": "https://www.energy-storage.news/dominion-receives-approval-to-develop-400mwh-bess-in-virginia-after-fire-safety-concerns-alleviated/",
+    "date": "2025-09-19",
+    "summary": "Regulated utility Dominion Energy last week received the green light from local officials to develop a 100MW/400MWh BESS in Fauquier County,…",
+    "source": "Energy-Storage.News",
+    "image": null
+  },
+  {
     "title": "Italy: IPP orders 220MWh from Sungrow as MACSE approaches",
     "link": "https://www.energy-storage.news/italy-ipp-orders-220mwh-from-sungrow-as-macse-approaches/",
     "date": "2025-09-19",
@@ -64,6 +72,30 @@
     "image": null
   },
   {
+    "title": "Historic Howard Theatre in D.C. adds 106-kW rooftop solar array",
+    "link": "https://www.solarpowerworldonline.com/2025/09/historic-howard-theatre-in-d-c-adds-106-kw-rooftop-solar-array/",
+    "date": "2025-09-19",
+    "summary": "The historic Howard Theatre in Washington, D.C., has added a new 106.82-kW rooftop solar array paired with storage with help from the DC Gre…",
+    "source": "Solar Power World",
+    "image": null
+  },
+  {
+    "title": "Clean energy jobs grew 3x faster than rest of U.S. economy in 2024",
+    "link": "https://www.solarpowerworldonline.com/2025/09/clean-energy-jobs-grew-3x-faster-than-rest-of-u-s-economy-in-2024/",
+    "date": "2025-09-19",
+    "summary": "Clean energy jobs grew more than three times faster than the rest of the U.S. economy in 2024, adding almost 100,000 new jobs and bringing t…",
+    "source": "Solar Power World",
+    "image": null
+  },
+  {
+    "title": "GE Vernova to supply turbines for Enertrag wind project in Germany",
+    "link": "https://www.windpowermonthly.com/article/1933038/ge-vernova-supply-turbines-enertrag-wind-project-germany",
+    "date": "2025-09-19",
+    "summary": "",
+    "source": "Wind Power News & Analysis RSS Feed",
+    "image": null
+  },
+  {
     "title": "Trump administration continues to review SouthCoast Wind permit",
     "link": "https://www.windpowermonthly.com/article/1933022/trump-administration-continues-review-southcoast-wind-permit",
     "date": "2025-09-19",
@@ -88,7 +120,7 @@
     "image": null
   },
   {
-    "title": "New Podcast: Ørsted's rights issue | US war on wind | Chinese innovation",
+    "title": "New podcast: Ørsted's rights issue | US war on wind | Chinese innovation",
     "link": "https://www.windpowermonthly.com/article/1932991/new-podcast-orsteds-rights-issue-us-war-wind-chinese-innovation",
     "date": "2025-09-19",
     "summary": "Welcome to the Wind Power News Review – hosted by Windpower Monthly's senior reporter, Robyn White, and Windpower Monthly's reporter, Orland…",
@@ -712,14 +744,6 @@
     "image": null
   },
   {
-    "title": "Bila Solar signs panel supply deal with US community solar developer",
-    "link": "https://www.solarpowerworldonline.com/2025/09/bila-solar-signs-panel-supply-deal-with-us-community-solar-developer/",
-    "date": "2025-09-16",
-    "summary": "Indianapolis-based Bila Solar has secured a 10-MW solar panel order from a community solar developer to safe-harbor ahead of the federal dea…",
-    "source": "Solar Power World",
-    "image": null
-  },
-  {
     "title": "Enercon launches new operations modes for E-175 EP5 E1 turbine",
     "link": "https://www.windpowermonthly.com/article/1932539/enercon-launches-new-operations-modes-e-175-ep5-e1-turbine",
     "date": "2025-09-16",
@@ -840,14 +864,6 @@
     "image": null
   },
   {
-    "title": "Wisconsin Republicans introduce bill to start community solar program, localize permitting",
-    "link": "https://www.solarpowerworldonline.com/2025/09/wisconsin-republicans-introduce-bill-to-start-community-solar-program-localize-permitting/",
-    "date": "2025-09-15",
-    "summary": "On Sept. 15, Wisconsin State Senator Pat Testin (R-Stevens Point) and State Representative Scott Krug (R-Rome) — joined by JD Smith, head of…",
-    "source": "Solar Power World",
-    "image": null
-  },
-  {
     "title": "German renewables goal in reach despite failing wind targets – report",
     "link": "https://www.windpowermonthly.com/article/1932472/german-renewables-goal-reach-despite-failing-wind-targets-%E2%80%93-report",
     "date": "2025-09-15",
@@ -884,14 +900,6 @@
     "link": "https://www.windpowermonthly.com/article/1932358/danish-renewables-major-orsted-unveils-details-%E2%82%AC8bn-rights-issue",
     "date": "2025-09-15",
     "summary": "Ørsted unveiled the details of its DKK 60 billion (around €8 billion) rights issue today (15 September) as it prepares to issue more than 9.…",
-    "source": "Wind Power News & Analysis RSS Feed",
-    "image": null
-  },
-  {
-    "title": "US asks court to scrap 2GW offshore wind project approval in new 'devastating assault'",
-    "link": "https://www.windpowermonthly.com/article/1932353/us-asks-court-scrap-2gw-offshore-wind-project-approval-new-devastating-assault",
-    "date": "2025-09-15",
-    "summary": "The US government has asked a federal judge to cancel its approval of a 2GW offshore wind farm currently being developed off the coast of Ma…",
     "source": "Wind Power News & Analysis RSS Feed",
     "image": null
   },
@@ -972,14 +980,6 @@
     "link": "https://www.energy-storage.news/hithium-storion-announce-non-lithium-bess-advances-in-us/",
     "date": "2025-09-11",
     "summary": "Hithium has announced its lithium-ion and sodium-ion battery energy storage system (BESS) for supporting data centres, while Storion Energy …",
-    "source": "Energy-Storage.News",
-    "image": null
-  },
-  {
-    "title": "Primergy, Gridstor, Sunraycer and Plus Power progress large-scale US BESS projects",
-    "link": "https://www.energy-storage.news/primergy-gridstor-sunraycer-and-plus-power-progress-large-scale-us-bess-projects/",
-    "date": "2025-09-11",
-    "summary": "A flurry of large-scale BESS project news in the US from four major developer-operators, coinciding with the country's largest clean energy …",
     "source": "Energy-Storage.News",
     "image": null
   },
