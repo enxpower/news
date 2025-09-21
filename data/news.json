@@ -1,5 +1,13 @@
 [
   {
+    "title": "High-Voltage Testing and Insulation Coordination—Part 1",
+    "link": "https://eepower.com/technical-articles/high-voltage-testing-and-insulation-coordinationpart-1/",
+    "date": "2025-09-21",
+    "summary": "In this article, we explore high-voltage insulation coordination, focusing on the nature of overvoltages, standardized impulse and withstand…",
+    "source": "EE Power",
+    "image": null
+  },
+  {
     "title": "Dominion receives approval to develop 400MWh BESS in Virginia after fire safety concerns alleviated",
     "link": "https://www.energy-storage.news/dominion-receives-approval-to-develop-400mwh-bess-in-virginia-after-fire-safety-concerns-alleviated/",
     "date": "2025-09-19",
@@ -1068,14 +1076,6 @@
     "link": "https://eepower.com/technical-articles/introducing-the-loss-cost-factor-a-new-benchmark-for-magnetic-material-selection/",
     "date": "2025-09-05",
     "summary": "In this article, we introduce a figure of merit called the Loss Cost Factor (LCF), which integrates technical performance and cost factors o…",
-    "source": "EE Power",
-    "image": null
-  },
-  {
-    "title": "Take Our 2025 EETech Engineering Insights Survey",
-    "link": "https://eepower.com/news/take-our-2025-eetech-engineering-insights-survey/",
-    "date": "2025-09-05",
-    "summary": "Join your engineering community peers and take our EETech Engineering Insights Survey 2025. You’ll get a summary of the results once they’re…",
     "source": "EE Power",
     "image": null
   }
