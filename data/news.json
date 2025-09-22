@@ -24,11 +24,43 @@
     "image": null
   },
   {
+    "title": "The Netherlands ceases SolarNL manufacturing programme",
+    "link": "https://www.pv-tech.org/the-netherlands-ceases-solarnl-manufacturing-programme/",
+    "date": "2025-09-22",
+    "summary": "The Dutch government has decided to discontinue the funding of SolarNL, a domestic solar manufacturing programme.…",
+    "source": "PV Tech",
+    "image": null
+  },
+  {
+    "title": "Northern Ireland to launch CfD-style renewables auction",
+    "link": "https://www.windpowermonthly.com/article/1933154/northern-ireland-launch-cfd-style-renewables-auction",
+    "date": "2025-09-22",
+    "summary": "",
+    "source": "Wind Power News & Analysis RSS Feed",
+    "image": null
+  },
+  {
+    "title": "Russian wind operator turns to China to replace western players",
+    "link": "https://www.windpowermonthly.com/article/1933150/russian-wind-operator-turns-china-replace-western-players",
+    "date": "2025-09-22",
+    "summary": "A leading Russian wind farm operator is increasing its purchases of wind power components and equipment from China after western suppliers e…",
+    "source": "Wind Power News & Analysis RSS Feed",
+    "image": null
+  },
+  {
     "title": "Lightfighter Racing, Metis Engineering Partnership Drives Electric Superbike Innovation",
     "link": "https://www.powerelectronicsnews.com/lightfighter-racing-metis-engineering-partnership-drives-electric-superbike-innovation/",
     "date": "2025-09-22",
     "summary": "<img alt=\"The Lightfighter LFR V3 race bike participating in the AFM racing series in Northern California.\" class=\"webfeedsFeaturedVisual wp…",
     "source": "Power Electronics News",
+    "image": null
+  },
+  {
+    "title": "Fueling Fusion With Tritium from Nuclear Waste",
+    "link": "https://eepower.com/market-insights/fueling-fusion-with-tritium-from-nuclear-waste/",
+    "date": "2025-09-22",
+    "summary": "Los Alamos National Laboratory researchers are modeling a system that converts nuclear waste into tritium, a scarce fuel vital for future fu…",
+    "source": "EE Power",
     "image": null
   },
   {
@@ -776,14 +808,6 @@
     "image": null
   },
   {
-    "title": "Wisconsin Republicans propose bill to improve access to community solar projects",
-    "link": "https://www.pv-tech.org/wisconsin-republicans-propose-bill-improve-access-community-solar-projects/",
-    "date": "2025-09-16",
-    "summary": "Two Wisconsin Republicans have introduced legislation to open access to community solar projects in the US state.…",
-    "source": "PV Tech",
-    "image": null
-  },
-  {
     "title": "California bill to remove tax on IRA solar benefits now on governor’s desk",
     "link": "https://www.solarpowerworldonline.com/2025/09/california-bill-to-remove-tax-on-ira-solar-benefits-now-on-governors-desk/",
     "date": "2025-09-16",
@@ -928,22 +952,6 @@
     "image": null
   },
   {
-    "title": "Ørsted warns of Revolution Wind cancellation if stop-work order not lifted",
-    "link": "https://www.windpowermonthly.com/article/1932402/orsted-warns-revolution-wind-cancellation-stop-work-order-not-lifted",
-    "date": "2025-09-15",
-    "summary": "Ørsted has warned that it may be forced to cancel its 704MW Revolution Wind project amid spiralling costs if the Trump administration does n…",
-    "source": "Wind Power News & Analysis RSS Feed",
-    "image": null
-  },
-  {
-    "title": "Danish renewables major Ørsted unveils details of €8bn rights issue",
-    "link": "https://www.windpowermonthly.com/article/1932358/danish-renewables-major-orsted-unveils-details-%E2%82%AC8bn-rights-issue",
-    "date": "2025-09-15",
-    "summary": "Ørsted unveiled the details of its DKK 60 billion (around €8 billion) rights issue today (15 September) as it prepares to issue more than 9.…",
-    "source": "Wind Power News & Analysis RSS Feed",
-    "image": null
-  },
-  {
     "title": "Chinese Officials Look at Converting Old Coal Plants to Nuclear Power Stations",
     "link": "https://www.powermag.com/chinese-officials-look-at-converting-old-coal-plants-to-nuclear-power-stations/",
     "date": "2025-09-15",
@@ -1068,14 +1076,6 @@
     "link": "https://eepower.com/market-insights/ai-creates-better-performing-batteries-at-the-atomic-scale/",
     "date": "2025-09-06",
     "summary": "Argonne National Laboratory and the University of Michigan have collaborated to use AI, machine learning, and supercomputers to evaluate pot…",
-    "source": "EE Power",
-    "image": null
-  },
-  {
-    "title": "Introducing the Loss Cost Factor: A New Benchmark for Magnetic Material Selection",
-    "link": "https://eepower.com/technical-articles/introducing-the-loss-cost-factor-a-new-benchmark-for-magnetic-material-selection/",
-    "date": "2025-09-05",
-    "summary": "In this article, we introduce a figure of merit called the Loss Cost Factor (LCF), which integrates technical performance and cost factors o…",
     "source": "EE Power",
     "image": null
   }
