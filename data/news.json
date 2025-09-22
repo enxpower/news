@@ -1,5 +1,29 @@
 [
   {
+    "title": "GridStor, Flatiron Energy, and Jupiter Power advance US BESS projects totalling 1.6GWh",
+    "link": "https://www.energy-storage.news/gridstor-flatiron-energy-and-jupiter-power-advance-us-bess-projects-totalling-1-6gwh/",
+    "date": "2025-09-22",
+    "summary": "Three US battery energy storage system (BESS) developers, GridStor, Flatiron, and Jupiter Power, have advanced BESS projects totalling 1.6GW…",
+    "source": "Energy-Storage.News",
+    "image": null
+  },
+  {
+    "title": "North American virtual power plants added 4.5GW of new capacity in 2024: Wood Mackenzie",
+    "link": "https://www.energy-storage.news/north-american-virtual-power-plants-added-4-5gw-of-new-capacity-in-2024-wood-mackenzie/",
+    "date": "2025-09-22",
+    "summary": "The capacity of virtual power plants in North America has reached 37.5GW, a 13.7% year-on-year growth, according to Wood Mackenzie.…",
+    "source": "Energy-Storage.News",
+    "image": null
+  },
+  {
+    "title": "LDES could have ‘real market-moving impacts’ on price spreads and other UK flexibility assets",
+    "link": "https://www.energy-storage.news/ldes-could-have-real-market-moving-impacts-on-price-spreads-and-other-uk-flexibility-assets/",
+    "date": "2025-09-22",
+    "summary": "Projects supported by the UK government's long-duration energy storage (LDES) cap-and-floor could significantly dampen price spreads but als…",
+    "source": "Energy-Storage.News",
+    "image": null
+  },
+  {
     "title": "Fluence supplying largest BESS to enter Poland’s capacity market in 2027, for Ukrainian IPP DTEK",
     "link": "https://www.energy-storage.news/fluence-supplying-largest-bess-to-enter-polands-capacity-market-in-2027-for-ukrainian-ipp-dtek/",
     "date": "2025-09-22",
@@ -45,6 +69,22 @@
     "date": "2025-09-22",
     "summary": "The Dutch government has decided to discontinue the funding of SolarNL, a domestic solar manufacturing programme.…",
     "source": "PV Tech",
+    "image": null
+  },
+  {
+    "title": "SunPower acquiring TPO residential solar company Sunder Energy",
+    "link": "https://www.solarpowerworldonline.com/2025/09/sunpower-acquiring-tpo-residential-solar-company-sunder-energy/",
+    "date": "2025-09-22",
+    "summary": "SunPower is acquiring residential solar competitor Sunder Energy, based in South Jordan, Utah. The transaction is scheduled to close this we…",
+    "source": "Solar Power World",
+    "image": null
+  },
+  {
+    "title": "Chemitek releases new solar cleaning solutions designed for agrivoltaic projects",
+    "link": "https://www.solarpowerworldonline.com/2025/09/chemitek-releases-new-solar-cleaning-solutions-designed-for-agrivoltaic-projects/",
+    "date": "2025-09-22",
+    "summary": "Chemitek Solar has announced a new range of cleaning solutions specifically designed for agrivoltaic systems. These systems present unique c…",
+    "source": "Solar Power World",
     "image": null
   },
   {
@@ -832,22 +872,6 @@
     "image": null
   },
   {
-    "title": "Nevada PUC draft order would add mandatory charges, change rules for new solar customers",
-    "link": "https://www.solarpowerworldonline.com/2025/09/nevada-puc-draft-order-would-add-mandatory-charges-change-rules-for-new-solar-customers/",
-    "date": "2025-09-16",
-    "summary": "The Public Utilities Commission of Nevada unanimously approved a draft order that will make rooftop solar more expensive for Nevadans, accor…",
-    "source": "Solar Power World",
-    "image": null
-  },
-  {
-    "title": "Catalyze, CS Energy complete four-project community solar portfolio in NY",
-    "link": "https://www.solarpowerworldonline.com/2025/09/catalyze-cs-energy-complete-four-project-community-solar-portfolio-in-ny/",
-    "date": "2025-09-16",
-    "summary": "Catalyze has completed four community solar projects in central and western New York, developed in partnership with CS Energy. The four proj…",
-    "source": "Solar Power World",
-    "image": null
-  },
-  {
     "title": "Enercon launches new operations modes for E-175 EP5 E1 turbine",
     "link": "https://www.windpowermonthly.com/article/1932539/enercon-launches-new-operations-modes-e-175-ep5-e1-turbine",
     "date": "2025-09-16",
@@ -920,22 +944,6 @@
     "image": null
   },
   {
-    "title": "12.5GWh of grid-scale BESS commissioned in August, including largest single-phase LFP project ever",
-    "link": "https://www.energy-storage.news/12-5gwh-of-grid-scale-bess-commissioned-in-august-including-largest-single-phase-lfp-project-ever/",
-    "date": "2025-09-15",
-    "summary": "China again dominated global battery storage deployments in August, accounting for two-thirds of what came online, but Europe, North America…",
-    "source": "Energy-Storage.News",
-    "image": null
-  },
-  {
-    "title": "Hithium, Fotowatio Renewable Ventures partner for first time with 500MWh grid-forming BESS in Australia",
-    "link": "https://www.energy-storage.news/hithium-fotowatio-renewable-ventures-partner-for-first-time-with-500mwh-grid-forming-bess-in-australia/",
-    "date": "2025-09-15",
-    "summary": "Hithium will supply battery storage and SMA the power conversion systems for a 500MWh grid-forming project in Australia for Fotowatio Renewa…",
-    "source": "Energy-Storage.News",
-    "image": null
-  },
-  {
     "title": "German renewables goal in reach despite failing wind targets – report",
     "link": "https://www.windpowermonthly.com/article/1932472/german-renewables-goal-reach-despite-failing-wind-targets-%E2%80%93-report",
     "date": "2025-09-15",
@@ -997,14 +1005,6 @@
     "date": "2025-09-14",
     "summary": "Learn how to optimize and design a reliable insulation framework for an HVDC network, focusing on aspects like insulation clearance, voltage…",
     "source": "EE Power",
-    "image": null
-  },
-  {
-    "title": "NY local town officials call on moratorium to suspend 1GWh BESS, State representatives issue support for project",
-    "link": "https://www.energy-storage.news/ny-local-town-officials-call-on-moratorium-to-suspend-1gwh-bess-state-representatives-issue-support-for-project/",
-    "date": "2025-09-12",
-    "summary": "The Town of Ulster in New York has received a request from local officials of the neighbouring town of Hurley to temporarily suspend the per…",
-    "source": "Energy-Storage.News",
     "image": null
   },
   {
