@@ -1,5 +1,13 @@
 [
   {
+    "title": "BYD launches 14.5MWh BESS as energy density race continues",
+    "link": "https://www.energy-storage.news/byd-launches-14-5mwh-bess-as-energy-density-race-continues/",
+    "date": "2025-09-23",
+    "summary": "BYD has presented its latest grid-scale BESS product, pushing energy density even further to its limits, while Eve and Sunwoda have progress…",
+    "source": "Energy-Storage.News",
+    "image": null
+  },
+  {
     "title": "Poland’s PGE starts building 981MWh BESS with locally manufactured LG batteries",
     "link": "https://www.energy-storage.news/polands-pge-starts-building-981mwh-bess-with-locally-manufactured-lg-batteries/",
     "date": "2025-09-23",
@@ -48,11 +56,27 @@
     "image": null
   },
   {
+    "title": "Israeli wind developer faces protest over 'support for genocide'",
+    "link": "https://www.windpowermonthly.com/article/1933337/israeli-wind-developer-faces-protest-support-genocide",
+    "date": "2025-09-23",
+    "summary": "Activists in Spain protested at a wind farm owned by Israeli wind power firm Enlight to highlight the company’s links to the Israeli militar…",
+    "source": "Wind Power News & Analysis RSS Feed",
+    "image": null
+  },
+  {
     "title": "Reaction: Revolution Wind restart boosts confidence for US offshore wind",
     "link": "https://www.windpowermonthly.com/article/1933324/reaction-revolution-wind-restart-boosts-confidence-us-offshore-wind",
     "date": "2025-09-23",
     "summary": "The restart of the Revolution Wind project in the US has renewed confidence that fully permitted offshore wind projects in the country are l…",
     "source": "Wind Power News & Analysis RSS Feed",
+    "image": null
+  },
+  {
+    "title": "PowerUP Circuit Lab: From Schematic to PCB – Building a 3-Output Flyback Converter",
+    "link": "https://www.powerelectronicsnews.com/powerup-circuit-lab-from-schematic-to-pcb-building-a-3-output-flyback-converter/",
+    "date": "2025-09-23",
+    "summary": "<img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"1080\" src=\"https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/…",
+    "source": "Power Electronics News",
     "image": null
   },
   {
@@ -69,6 +93,14 @@
     "date": "2025-09-23",
     "summary": "<img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"711\" src=\"https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2…",
     "source": "Power Electronics News",
+    "image": null
+  },
+  {
+    "title": "Solar Device Embraces the Heat for Better Performance",
+    "link": "https://eepower.com/market-insights/solar-device-embraces-the-heat-for-better-performance/",
+    "date": "2025-09-23",
+    "summary": "Researchers found rising temperatures can enhance energy storage in integrated solar devices, turning long-term performance liability into a…",
+    "source": "EE Power",
     "image": null
   },
   {
@@ -864,14 +896,6 @@
     "image": null
   },
   {
-    "title": "Industry Perspective: Why Diamond Could Define the 2030s Power Electronics Era",
-    "link": "https://www.powerelectronicsnews.com/industry-perspective-why-diamond-could-define-the-2030s-power-electronics-era/",
-    "date": "2025-09-17",
-    "summary": "<img alt=\"Industry Perspective: Why Diamond Could Define the 2030s Power Electronics Era.\" class=\"webfeedsFeaturedVisual wp-post-image\" heig…",
-    "source": "Power Electronics News",
-    "image": null
-  },
-  {
     "title": "New Life for Old Batteries: EV Power Becomes Energy Storage",
     "link": "https://eepower.com/news/new-life-for-old-batteries-ev-power-becomes-energy-storage/",
     "date": "2025-09-17",
@@ -896,14 +920,6 @@
     "image": null
   },
   {
-    "title": "Explosion test ‘demonstrates effectiveness’ of BESS safety control system, Wärtsilä says",
-    "link": "https://www.energy-storage.news/explosion-test-demonstrates-effectiveness-of-bess-safety-control-system-wartsila-says/",
-    "date": "2025-09-16",
-    "summary": "A proprietary explosion control system performed effectively in three recent safety tests conducted on Wärtsilä battery storage equipment.…",
-    "source": "Energy-Storage.News",
-    "image": null
-  },
-  {
     "title": "California bill to remove tax on IRA solar benefits now on governor’s desk",
     "link": "https://www.solarpowerworldonline.com/2025/09/california-bill-to-remove-tax-on-ira-solar-benefits-now-on-governors-desk/",
     "date": "2025-09-16",
@@ -924,14 +940,6 @@
     "link": "https://www.windpowermonthly.com/article/1932527/ge-vernova-lands-deal-repower-german-onshore-wind-project",
     "date": "2025-09-16",
     "summary": "",
-    "source": "Wind Power News & Analysis RSS Feed",
-    "image": null
-  },
-  {
-    "title": "Australia delays first offshore wind auction",
-    "link": "https://www.windpowermonthly.com/article/1932525/australia-delays-first-offshore-wind-auction",
-    "date": "2025-09-16",
-    "summary": "Australia has delayed its first offshore wind auction due to concerns from developers around funding and infrastructure.…",
     "source": "Wind Power News & Analysis RSS Feed",
     "image": null
   },
@@ -1068,14 +1076,6 @@
     "link": "https://eepower.com/technical-articles/an-introduction-to-wave-propagation-in-long-distance-power-transmission/",
     "date": "2025-09-07",
     "summary": "In this article, we will examine wave propagation effects. This is the second article of a 3-part series on long transmission line behavior.…",
-    "source": "EE Power",
-    "image": null
-  },
-  {
-    "title": "AI Creates Better-Performing Batteries at the Atomic Scale",
-    "link": "https://eepower.com/market-insights/ai-creates-better-performing-batteries-at-the-atomic-scale/",
-    "date": "2025-09-06",
-    "summary": "Argonne National Laboratory and the University of Michigan have collaborated to use AI, machine learning, and supercomputers to evaluate pot…",
     "source": "EE Power",
     "image": null
   }
