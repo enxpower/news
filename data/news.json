@@ -1,5 +1,21 @@
 [
   {
+    "title": "Poland ‘lacks precise development regulations and a clear long-term plan for energy storage’",
+    "link": "https://www.energy-storage.news/poland-lacks-precise-development-regulations-and-a-clear-long-term-plan-for-energy-storage/",
+    "date": "2025-09-25",
+    "summary": "Although the government in Poland has taken steps to open up its energy storage market, regulatory challenges remain.…",
+    "source": "Energy-Storage.News",
+    "image": null
+  },
+  {
+    "title": "Eni joint venture kicks off LFP battery cell factory development in Italy",
+    "link": "https://www.energy-storage.news/eni-joint-venture-kicks-off-lfp-battery-cell-factory-development-in-italy/",
+    "date": "2025-09-25",
+    "summary": "Italian multinational energy company Eni intends to become a player in battery cell manufacturing for stationary energy storage systems.…",
+    "source": "Energy-Storage.News",
+    "image": null
+  },
+  {
     "title": "Vietnam’s path from zero BESS deployments to meeting ambitious 2030 energy storage targets",
     "link": "https://www.energy-storage.news/vietnams-path-from-zero-bess-deployments-to-meeting-ambitious-2030-energy-storage-targets/",
     "date": "2025-09-25",
@@ -21,6 +37,22 @@
     "date": "2025-09-25",
     "summary": "The Australian government has granted approval for the 1.4GWh Garoo solar-plus-storage project being pursued by Jinko Power Australia.…",
     "source": "Energy-Storage.News",
+    "image": null
+  },
+  {
+    "title": "Inox Solar starts 1.2GW first phase of Indian TOPCon module manufacturing plant",
+    "link": "https://www.pv-tech.org/inox-solar-1-2gw-first-phase-indian-topcon-module-manufacturing-factory/",
+    "date": "2025-09-25",
+    "summary": "Inox Solar has started the first phase of commercial operations at a module manufacturing plant in Bavla, India.…",
+    "source": "PV Tech",
+    "image": null
+  },
+  {
+    "title": "X-Elio commissions its first US solar-plus-storage project, supplying BASF’s Texas operations",
+    "link": "https://www.pv-tech.org/x-elio-commissions-its-first-us-solar-plus-storage-project-supplying-basfs-texas-operations/",
+    "date": "2025-09-25",
+    "summary": "Spanish renewables developer X-Elio has commissioned its first solar-plus-storage project in the US, which comprises of 72MW solar PV.…",
+    "source": "PV Tech",
     "image": null
   },
   {
@@ -824,22 +856,6 @@
     "image": null
   },
   {
-    "title": "How Canada is driving 8-12GW of storage deployments by 2035 – ESC report",
-    "link": "https://www.energy-storage.news/how-canada-is-driving-8-12gw-of-storage-deployments-by-2035-esc-report/",
-    "date": "2025-09-18",
-    "summary": "In a recent report from trade association Energy Storage Canada (ESC), energy storage was cited as “a critical component of future electrici…",
-    "source": "Energy-Storage.News",
-    "image": null
-  },
-  {
-    "title": "National Fire Protection Association releases NFPA 855 ESS safety standard, 2026 edition",
-    "link": "https://www.energy-storage.news/national-fire-protection-association-releases-nfpa-855-ess-safety-standard-2026-edition/",
-    "date": "2025-09-18",
-    "summary": "The US National Fire Protection Association (NFPA) has launched the newest edition of its cornerstone battery storage safety standard, NFPA …",
-    "source": "Energy-Storage.News",
-    "image": null
-  },
-  {
     "title": "CERC to finalise virtual PPA guidelines to boost 40GW of renewable capacity",
     "link": "https://www.pv-tech.org/cerc-to-finalise-virtual-ppa-guidelines-to-boost-40gw-of-renewable-capacity/",
     "date": "2025-09-18",
@@ -860,22 +876,6 @@
     "link": "https://www.pv-tech.org/canada-forecast-to-add-up-to-26gw-of-solar-pv-by-2035/",
     "date": "2025-09-18",
     "summary": "The Canadian Renewable Energy Association (CanREA) has forecast that Canada will add between 17GW and 26GW of solar PV over the next decade.…",
-    "source": "PV Tech",
-    "image": null
-  },
-  {
-    "title": "NREL study reveals high UV degradation in n-type modules",
-    "link": "https://www.pv-tech.org/nrel-study-reveals-high-uv-degradation-in-n-type-modules/",
-    "date": "2025-09-18",
-    "summary": "Researchers have called for enhanced international standards to detect ultraviolet-induced degradation (UVID) in PV modules after identifyin…",
-    "source": "PV Tech",
-    "image": null
-  },
-  {
-    "title": "India’s solar manufacturers applaud ALMM proposal to boost domestic wafer production",
-    "link": "https://www.pv-tech.org/indias-solar-manufacturers-applaud-almm-proposal-boost-domestic-wafer-production/",
-    "date": "2025-09-18",
-    "summary": "Indian PV makers have welcomed the government’s plan to add solar wafers to its ALMM List-III from June 2028.…",
     "source": "PV Tech",
     "image": null
   },
