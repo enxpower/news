@@ -176,6 +176,14 @@
     "image": null
   },
   {
+    "title": "LTO Batteries for Peak Shaving in Mobile and Stationary Applications",
+    "link": "https://eepower.com/technical-articles/lto-batteries-for-peak-shaving-in-mobile-and-stationary-applications/",
+    "date": "2025-09-25",
+    "summary": "This article explains the battery requirements involved and highlights the unique characteristics of Lithium Titanium Oxide (LTO) batteries …",
+    "source": "EE Power",
+    "image": null
+  },
+  {
     "title": "Briefs: Bigger Batteries, Faster Development, and a Stable Grid",
     "link": "https://eepower.com/news/briefs-bigger-batteries-faster-development-and-a-stable-grid/",
     "date": "2025-09-25",
@@ -1068,14 +1076,6 @@
     "link": "https://eepower.com/market-insights/is-a-novel-oxide-material-the-key-to-clean-hydrogen/",
     "date": "2025-09-09",
     "summary": "Researchers at POSTECH and Seoul National University have discovered a class of oxide materials that can efficiently produce hydrogen using …",
-    "source": "EE Power",
-    "image": null
-  },
-  {
-    "title": "Next-Gen SiC MOSFET and Si RC-IGBT Tech Meets E-Mobility Needs",
-    "link": "https://eepower.com/technical-articles/next-gen-sic-mosfet-si-rc-igbt-bare-dies-and-transfer-mold-power-modules-high-power-density-high-efficiency-scalability-for-e-mobility/",
-    "date": "2025-09-08",
-    "summary": "Learn how Mitsubishi’s in-house designed & developed efficient semiconductor bare-dies (SiC MOSFET & Si RC-IGBT) and compact high-reliabilit…",
     "source": "EE Power",
     "image": null
   }
