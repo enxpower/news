@@ -1,5 +1,13 @@
 [
   {
+    "title": "Georgia Power announces 2025 RFP for 500MW of BESS",
+    "link": "https://www.energy-storage.news/georgia-power-announces-2025-rfp-for-500mw-of-bess/",
+    "date": "2025-09-26",
+    "summary": "Utility Georgia Power has announced the open comment period for its 2025 Request for Proposals (RFP) for battery energy storage system (BESS…",
+    "source": "Energy-Storage.News",
+    "image": null
+  },
+  {
     "title": "‘I wouldn’t say it’s business as usual’: Prevalon on the global impacts of the OBBB",
     "link": "https://www.energy-storage.news/i-wouldnt-say-its-business-as-usual-prevalon-on-the-global-impacts-of-the-obbb/",
     "date": "2025-09-26",
@@ -80,6 +88,30 @@
     "image": null
   },
   {
+    "title": "150-MW solar project in rural Missouri to power Microsoft operations",
+    "link": "https://www.solarpowerworldonline.com/2025/09/150-mw-solar-project-in-rural-missouri-to-power-microsoft-operations/",
+    "date": "2025-09-26",
+    "summary": "Local leaders, community groups and landowners joined executives from Qcells and Cordelio Power to celebrate the newly energized Winfield So…",
+    "source": "Solar Power World",
+    "image": null
+  },
+  {
+    "title": "Utility-scale solar project will host row crops underneath through farmland partnership",
+    "link": "https://www.solarpowerworldonline.com/2025/09/utility-scale-solar-project-will-host-row-crops-underneath-through-farmland-partnership/",
+    "date": "2025-09-26",
+    "summary": "Sol Systems has announced completion of the company&#8217;s largest project to date — the 342-MWDC Eldorado Solar project in southeast Illin…",
+    "source": "Solar Power World",
+    "image": null
+  },
+  {
+    "title": "CBP investigating India’s largest solar panel manufacturer for solar tariff evasion",
+    "link": "https://www.solarpowerworldonline.com/2025/09/cbp-investigating-indias-largest-solar-panel-manufacturer-for-solar-tariff-evasion/",
+    "date": "2025-09-26",
+    "summary": "On Sept. 25, U.S. Customs and Border Patrol (CBP) issued a Notice of Initiation of Investigation and Interim Measures in response to a Enfor…",
+    "source": "Solar Power World",
+    "image": null
+  },
+  {
     "title": "Alarm in Sweden as local authorities veto 90% of new wind farms",
     "link": "https://www.windpowermonthly.com/article/1933672/alarm-sweden-local-authorities-veto-90-new-wind-farms",
     "date": "2025-09-26",
@@ -101,6 +133,22 @@
     "date": "2025-09-26",
     "summary": "Construction of Mainstream Renewable Power’s Caman wind farm in southern Chile could restart in the second half of 2026, three years after t…",
     "source": "Wind Power News & Analysis RSS Feed",
+    "image": null
+  },
+  {
+    "title": "Energy Storage Market Has Record Quarterly Deployments",
+    "link": "https://www.powermag.com/energy-storage-market-has-record-quarterly-deployments/",
+    "date": "2025-09-26",
+    "summary": "A new report from the American Clean Power Association (ACP) and Wood Mackenzie shows the U.S. energy storage market set a record for quarte…",
+    "source": "POWER Magazine",
+    "image": null
+  },
+  {
+    "title": "Hybrid Microgrid Combines Hydrogen Fuel Cells with Battery Storage",
+    "link": "https://www.powermag.com/hybrid-microgrid-combines-hydrogen-fuel-cells-with-battery-storage/",
+    "date": "2025-09-26",
+    "summary": "A Switzerland-based energy storage group with U.S. headquarters in California has joined with Pacific Gas &#038; Electric (PG&#038;E) to dep…",
+    "source": "POWER Magazine",
     "image": null
   },
   {
@@ -232,7 +280,7 @@
     "image": null
   },
   {
-    "title": "Solar Servicing acquires Mosaic assets, resumes PV lending",
+    "title": "Solar Servicing acquires Mosaic assets, resumes PV loan servicing",
     "link": "https://www.solarpowerworldonline.com/2025/09/solar-servicing-acquires-mosaic-assets-resumes-pv-lending/",
     "date": "2025-09-25",
     "summary": "Solar Servicing, a wholly owned subsidiary of Forbright Bank, has completed the transaction to acquire the loan servicing operations of fina…",
@@ -696,14 +744,6 @@
     "image": null
   },
   {
-    "title": "New tool from Amperon can predict electricity demand up to 7 months ahead",
-    "link": "https://www.solarpowerworldonline.com/2025/09/new-tool-from-amperon-can-predict-electricity-demand-up-to-7-months-ahead/",
-    "date": "2025-09-23",
-    "summary": "Energy forecasting and analytics provider Amperon has announced the launch of its weather-informed grid demand Mid-Term Forecast (MTF), givi…",
-    "source": "Solar Power World",
-    "image": null
-  },
-  {
     "title": "Major shareholder backs Ørsted rights issue",
     "link": "https://www.windpowermonthly.com/article/1933394/major-shareholder-backs-orsted-rights-issue",
     "date": "2025-09-23",
@@ -784,14 +824,6 @@
     "image": null
   },
   {
-    "title": "Startup Green Gravity to trial gravitational energy storage at a former coal mine in Australia",
-    "link": "https://www.energy-storage.news/startup-green-gravity-to-trial-gravitational-energy-storage-at-a-former-coal-mine-in-australia/",
-    "date": "2025-09-22",
-    "summary": "Green Gravity has signed an agreement with mining company Wollongong Resources to trial its gravitational energy storage in NSW, Australia.…",
-    "source": "Energy-Storage.News",
-    "image": null
-  },
-  {
     "title": "Now is the time for interconnection reform",
     "link": "https://www.pv-tech.org/now-is-the-time-for-interconnection-reform/",
     "date": "2025-09-22",
@@ -837,22 +869,6 @@
     "date": "2025-09-22",
     "summary": "The Dutch government has decided to discontinue the funding of SolarNL, a domestic solar manufacturing programme.…",
     "source": "PV Tech",
-    "image": null
-  },
-  {
-    "title": "Verogy building 6th community solar project for Connecticut state program",
-    "link": "https://www.solarpowerworldonline.com/2025/09/verogy-building-6th-community-solar-project-for-connecticut-state-program/",
-    "date": "2025-09-22",
-    "summary": "Verogy, a solar developer based in Connecticut, has started construction on its sixth solar project under the state’s Shared Clean Energy Fa…",
-    "source": "Solar Power World",
-    "image": null
-  },
-  {
-    "title": "SunPower acquiring TPO residential solar company Sunder Energy",
-    "link": "https://www.solarpowerworldonline.com/2025/09/sunpower-acquiring-tpo-residential-solar-company-sunder-energy/",
-    "date": "2025-09-22",
-    "summary": "SunPower is acquiring residential solar competitor Sunder Energy, based in South Jordan, Utah. The transaction is scheduled to close this we…",
-    "source": "Solar Power World",
     "image": null
   },
   {
@@ -964,22 +980,6 @@
     "link": "https://www.powermag.com/laser-wireless-power-transmission-breakthrough-could-transform-remote-energy-delivery/",
     "date": "2025-09-18",
     "summary": "NTT Inc. and Mitsubishi Heavy Industries Ltd. (MHI) conducted an optical wireless power transmission experiment using a laser beam to wirele…",
-    "source": "POWER Magazine",
-    "image": null
-  },
-  {
-    "title": "Energy Startups Receive Funding from Wells Fargo Technology Program",
-    "link": "https://www.powermag.com/energy-startups-receive-funding-from-wells-fargo-technology-program/",
-    "date": "2025-09-18",
-    "summary": "The Wells Fargo Innovation Incubator (IN2), a $55-million energy technology program funded by Wells Fargo &#038; Company and co-administered…",
-    "source": "POWER Magazine",
-    "image": null
-  },
-  {
-    "title": "Soluna Breaks Ground on 166-MW Texas Wind-Powered Data Center for Crypto and AI",
-    "link": "https://www.powermag.com/soluna-breaks-ground-on-166-mw-texas-wind-powered-data-center-for-crypto-and-ai/",
-    "date": "2025-09-18",
-    "summary": "Soluna Holdings, a developer of data centers powered by renewables, is set to break ground on Project Kati, a 166-MW wind-powered data cente…",
     "source": "POWER Magazine",
     "image": null
   },
