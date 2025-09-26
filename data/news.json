@@ -1,10 +1,50 @@
 [
   {
+    "title": "‘I wouldn’t say it’s business as usual’: Prevalon on the global impacts of the OBBB",
+    "link": "https://www.energy-storage.news/i-wouldnt-say-its-business-as-usual-prevalon-on-the-global-impacts-of-the-obbb/",
+    "date": "2025-09-26",
+    "summary": "Energy-Storage.news Premium speaks with Thomas Cornell, CEO and President of Prevalon Energy, at the RE+ 2025 trade show, about the global c…",
+    "source": "Energy-Storage.News",
+    "image": null
+  },
+  {
+    "title": "DTEK, Ingrid and Triodos expand BESS market footholds in Poland, Sweden and Germany",
+    "link": "https://www.energy-storage.news/dtek-ingrid-and-triodos-expand-bess-market-footholds-in-poland-sweden-and-germany/",
+    "date": "2025-09-26",
+    "summary": "Investment and IPP news from across Europe, with DTEK buying a BESS project in Poland, Ingrid inaugurating one in Sweden and Triodos investi…",
+    "source": "Energy-Storage.News",
+    "image": null
+  },
+  {
     "title": "Hithium signs deal for Eastern Europe BESS projects featuring 587Ah, 1175Ah cells",
     "link": "https://www.energy-storage.news/hithium-signs-deal-for-eastern-europe-bess-projects-featuring-587ah-1175ah-cells/",
     "date": "2025-09-26",
     "summary": "Hithium will supply its latest 6.25MWh DC block products to engineering, procurement and construction (EPC) company Solarpro, for projects i…",
     "source": "Energy-Storage.News",
+    "image": null
+  },
+  {
+    "title": "CALSSA on protecting solar-plus-storage installations in California",
+    "link": "https://www.pv-tech.org/calssa-protecting-solar-plus-storage-installations-california/",
+    "date": "2025-09-26",
+    "summary": "CALSSA's Kevin Luo spoke with PV Tech Premium exclusively on the association’s complaint about slow approval practices in California.…",
+    "source": "PV Tech",
+    "image": null
+  },
+  {
+    "title": "‘100-year-old grids’ are ‘bottleneck’ to solar-plus-storage growth, Global Solar Council says",
+    "link": "https://www.pv-tech.org/100-year-old-grids-are-bottleneck-to-solar-plus-storage-growth-global-solar-council-says/",
+    "date": "2025-09-26",
+    "summary": "Global grids have failed to keep pace with renewable energy technologies and have become the “bottleneck of the energy transition”, accordin…",
+    "source": "PV Tech",
+    "image": null
+  },
+  {
+    "title": "European Energy commissions 90MW hybrid solar-wind plant in Sweden",
+    "link": "https://www.pv-tech.org/european-energy-commissions-90mw-hybrid-solar-wind-plant-in-sweden/",
+    "date": "2025-09-26",
+    "summary": "Danish renewables developer European Energy has powered a 90MW hybrid solar-wind park in Sweden, its first hybrid project.…",
+    "source": "PV Tech",
     "image": null
   },
   {
@@ -712,14 +752,6 @@
     "image": null
   },
   {
-    "title": "AGL, Someva receive approval for 2GWh wind-plus-storage site in New South Wales, Australia",
-    "link": "https://www.energy-storage.news/agl-someva-receive-approval-for-2gwh-wind-plus-storage-site-in-new-south-wales-australia/",
-    "date": "2025-09-22",
-    "summary": "Someva Renewables and AGL Energy have received the federal greenlight to develop a 2GWh wind-plus-storage project in NSW, Australia.…",
-    "source": "Energy-Storage.News",
-    "image": null
-  },
-  {
     "title": "Now is the time for interconnection reform",
     "link": "https://www.pv-tech.org/now-is-the-time-for-interconnection-reform/",
     "date": "2025-09-22",
@@ -848,14 +880,6 @@
     "image": null
   },
   {
-    "title": "Dominion receives approval to develop 400MWh BESS in Virginia after fire safety concerns alleviated",
-    "link": "https://www.energy-storage.news/dominion-receives-approval-to-develop-400mwh-bess-in-virginia-after-fire-safety-concerns-alleviated/",
-    "date": "2025-09-19",
-    "summary": "Regulated utility Dominion Energy last week received the green light from local officials to develop a 100MW/400MWh BESS in Fauquier County,…",
-    "source": "Energy-Storage.News",
-    "image": null
-  },
-  {
     "title": "Avathon launches autonomous AI managing platform for renewables",
     "link": "https://www.pv-tech.org/avathon-launches-autonomous-ai-managing-platform-for-renewables/",
     "date": "2025-09-19",
@@ -876,30 +900,6 @@
     "link": "https://www.pv-tech.org/strategies-for-managing-ageing-solar-assets/",
     "date": "2025-09-19",
     "summary": "Marco Zaniboni and Juanma Fernandez of Sonnedix examine the key considerations in deciding whether to revamp, repower or retrofit.…",
-    "source": "PV Tech",
-    "image": null
-  },
-  {
-    "title": "EdgeMode to build 300MW/1.2GWh solar-plus-storage portfolio for Spanish data centres",
-    "link": "https://www.pv-tech.org/edgemode-build-300mw-1-2gwh-solar-plus-storage-portfolio-spanish-data-centres/",
-    "date": "2025-09-19",
-    "summary": "EdgeMode has acquired a portfolio of data centre assets in Spain, with plans to build a 300MW solar, 1.2GWh storage facility at the sites.…",
-    "source": "PV Tech",
-    "image": null
-  },
-  {
-    "title": "Solar Stewardship Initiative adopts new transparency targets for modules exported to European countries",
-    "link": "https://www.pv-tech.org/solar-stewardship-initiative-adopts-new-transparency-targets-modules-exported-european-countries/",
-    "date": "2025-09-19",
-    "summary": "The Solar Stewardship Initiative (SSI) has adopted a new set of binding targets and reporting requirements for its PV manufacturing members.…",
-    "source": "PV Tech",
-    "image": null
-  },
-  {
-    "title": "Australia sets 62-70% emissions reduction target for 2035",
-    "link": "https://www.pv-tech.org/australia-sets-62-70-emissions-reduction-target-for-2035/",
-    "date": "2025-09-19",
-    "summary": "Australia has committed to cutting greenhouse gas emissions by 62-70% below 2005 levels by 2035, Prime Minister Anthony Albanese announced o…",
     "source": "PV Tech",
     "image": null
   },
