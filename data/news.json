@@ -1,5 +1,13 @@
 [
   {
+    "title": "High-Voltage Testing and Insulation Coordination—Part 2",
+    "link": "https://eepower.com/technical-articles/high-voltage-testing-and-insulation-coordinationpart-2/",
+    "date": "2025-09-28",
+    "summary": "Here, in Part 2, we examine insulation coordination and Basic Insulation Level (BIL) in high-voltage systems for reliability against transie…",
+    "source": "EE Power",
+    "image": null
+  },
+  {
     "title": "Georgia Power announces 2025 RFP for 500MW of BESS",
     "link": "https://www.energy-storage.news/georgia-power-announces-2025-rfp-for-500mw-of-bess/",
     "date": "2025-09-26",
@@ -1068,14 +1076,6 @@
     "link": "https://eepower.com/news/gan-powered-reference-kit-targets-solar-race-cars-and-evs/",
     "date": "2025-09-11",
     "summary": "Power Integrations has launched a reference design kit integrating its high-efficiency PowiGaN-based InnoSwitch3-AQ IC for lightweight, ther…",
-    "source": "EE Power",
-    "image": null
-  },
-  {
-    "title": "Low-Energy Use Carbon Capture Method Achieves 95% Purity",
-    "link": "https://eepower.com/market-insights/low-energy-use-carbon-capture-method-achieves-95-purity/",
-    "date": "2025-09-10",
-    "summary": "KAIST and MIT researchers have developed a fiber-based direct air capture system that achieves over 95% carbon dioxide purity using only 3 V…",
     "source": "EE Power",
     "image": null
   }
