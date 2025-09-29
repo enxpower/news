@@ -184,6 +184,14 @@
     "image": null
   },
   {
+    "title": "2025 Power Electronics News Survey",
+    "link": "https://www.powerelectronicsnews.com/2025-power-electronics-news-survey/",
+    "date": "2025-09-29",
+    "summary": "<img alt=\"2025 Power Electronics Study.\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"300\" src=\"https://www.powerelectronicsnews.com…",
+    "source": "Power Electronics News",
+    "image": null
+  },
+  {
     "title": "Pasquale Pistorio: A Titan of Semiconductors, and a Man Who Never Forgot a Face",
     "link": "https://www.powerelectronicsnews.com/pasquale-pistorio-a-titan-of-semiconductors-and-a-man-who-never-forgot-a-face/",
     "date": "2025-09-29",
@@ -205,6 +213,14 @@
     "date": "2025-09-29",
     "summary": "<img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"719\" src=\"https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2…",
     "source": "Power Electronics News",
+    "image": null
+  },
+  {
+    "title": "Robot Recycler: Project Gives New Life to Old EV Batteries",
+    "link": "https://eepower.com/news/robot-recycler-project-gives-new-life-to-old-ev-batteries/",
+    "date": "2025-09-29",
+    "summary": "The Recirculate project uses AI, machine Learning, and an industrial robot to disassemble electric vehicle batteries for recycling.…",
+    "source": "EE Power",
     "image": null
   },
   {
@@ -672,14 +688,6 @@
     "image": null
   },
   {
-    "title": "GaN Power HEMT Advancements for Integrated Safety and Gate Drive Features",
-    "link": "https://www.powerelectronicsnews.com/gan-power-hemt-advancements-for-integrated-safety-and-gate-drive-features/",
-    "date": "2025-09-25",
-    "summary": "<img alt=\"Functional block diagram of the SolidGaN ISG612x devices.\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"657\" src=\"https://…",
-    "source": "Power Electronics News",
-    "image": null
-  },
-  {
     "title": "LTO Batteries for Peak Shaving in Mobile and Stationary Applications",
     "link": "https://eepower.com/technical-articles/lto-batteries-for-peak-shaving-in-mobile-and-stationary-applications/",
     "date": "2025-09-25",
@@ -1068,14 +1076,6 @@
     "link": "https://eepower.com/technical-articles/insulation-coordination-strategies-for-series-connected-multi-terminal-hvdc-systems/",
     "date": "2025-09-14",
     "summary": "Learn how to optimize and design a reliable insulation framework for an HVDC network, focusing on aspects like insulation clearance, voltage…",
-    "source": "EE Power",
-    "image": null
-  },
-  {
-    "title": "Power Transfer and Angle Stability in Long-Distance Power Transmission",
-    "link": "https://eepower.com/technical-articles/power-transfer-and-angle-stability-in-long-distance-power-transmission/",
-    "date": "2025-09-11",
-    "summary": "In this article, we will examine power transfer and angle stability. This is the final article in a 3-part series on long transmission line …",
     "source": "EE Power",
     "image": null
   }
