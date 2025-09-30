@@ -1,9 +1,17 @@
 [
   {
+    "title": "US annual battery storage installations ‘will not reach 2025 levels again until 2029’: Wood Mac",
+    "link": "https://www.energy-storage.news/us-annual-battery-storage-installations-will-not-reach-2025-levels-again-until-2029-wood-mac/",
+    "date": "2025-09-30",
+    "summary": "According to the Q3 2025 US Energy Storage Monitor from Wood Mackenzie Power &#38; Renewables and the American Clean Power Association (ACP)…",
+    "source": "Energy-Storage.News",
+    "image": null
+  },
+  {
     "title": "Europe continues move to 15-minute power market settlement, increasing value of flexibility",
     "link": "https://www.energy-storage.news/europe-continues-move-to-15-minute-power-market-settlement-increasing-value-of-flexibility/",
     "date": "2025-09-30",
-    "summary": "Europe's power markets complete their shift to 15-minute settlement periods today (30 September), a reform which will increase the revenue o…",
+    "summary": "The power markets of Europe continue their shift to 15-minute settlement periods today (30 September), a reform which could increase the rev…",
     "source": "Energy-Storage.News",
     "image": null
   },
@@ -56,11 +64,43 @@
     "image": null
   },
   {
+    "title": "Tigo to release new energy storage system for Puerto Rico market",
+    "link": "https://www.solarpowerworldonline.com/2025/09/tigo-to-release-new-energy-storage-system-for-puerto-rico-market/",
+    "date": "2025-09-30",
+    "summary": "Tigo Energy announced it will be releasing the Tigo GO Optimized Energy Storage System (ESS) to the Puerto Rican market at the Energy 2025 t…",
+    "source": "Solar Power World",
+    "image": null
+  },
+  {
+    "title": "Connecticut manufacturer works with Budderfly to add 230-kW solar array",
+    "link": "https://www.solarpowerworldonline.com/2025/09/connecticut-manufacturer-works-with-budderfly-to-add-230-kw-solar-array-other-efficiency-measures/",
+    "date": "2025-09-30",
+    "summary": "Budderfly announced it helped Connecticut electrohydraulic controller company OEM Controls with a large-scale energy efficiency partnership …",
+    "source": "Solar Power World",
+    "image": null
+  },
+  {
     "title": "Stiesdal names wind power veteran as new CEO",
     "link": "https://www.windpowermonthly.com/article/1934161/stiesdal-names-wind-power-veteran-new-ceo",
     "date": "2025-09-30",
     "summary": "Wind power veteran Peder Nickelsen has taken the helm as group CEO at Stiesdal – the company formed by wind power pioneer Henrik Stiesdal, w…",
     "source": "Wind Power News & Analysis RSS Feed",
+    "image": null
+  },
+  {
+    "title": "GridBeyond Launches ViewPoint Lens, Supporting Asset Visibility and Control",
+    "link": "https://www.powermag.com/gridbeyond-launches-viewpoint-lens-supporting-asset-visibility-and-control/",
+    "date": "2025-09-30",
+    "summary": "Smart energy company GridBeyond has announced the launch of ViewPoint Lens, an innovative new feature within its flagship platform Point. De…",
+    "source": "POWER Magazine",
+    "image": null
+  },
+  {
+    "title": "Igniting Fusion: The Key to Closing Our Energy Gap and Powering the Future",
+    "link": "https://www.powermag.com/igniting-fusion-the-key-to-closing-our-energy-gap-and-powering-the-future/",
+    "date": "2025-09-30",
+    "summary": "Fusion is the only technology that can deliver continuous, dispatchable power 24/7/365. Not only is fusion clean, sustainable, and cost-effe…",
+    "source": "POWER Magazine",
     "image": null
   },
   {
@@ -77,6 +117,14 @@
     "date": "2025-09-30",
     "summary": "<img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"720\" src=\"https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2…",
     "source": "Power Electronics News",
+    "image": null
+  },
+  {
+    "title": "Supercapacitor Graphene Discovery Closes Gap With Batteries",
+    "link": "https://eepower.com/market-insights/supercapacitor-graphene-discovery-closes-gap-with-batteries/",
+    "date": "2025-09-30",
+    "summary": "The carbon architecture delivered both high energy and power density, overcoming a longstanding trade-off in supercapacitor design.…",
+    "source": "EE Power",
     "image": null
   },
   {
@@ -704,22 +752,6 @@
     "image": null
   },
   {
-    "title": "Solar Servicing acquires Mosaic assets, resumes PV loan servicing",
-    "link": "https://www.solarpowerworldonline.com/2025/09/solar-servicing-acquires-mosaic-assets-resumes-pv-lending/",
-    "date": "2025-09-25",
-    "summary": "Solar Servicing, a wholly owned subsidiary of Forbright Bank, has completed the transaction to acquire the loan servicing operations of fina…",
-    "source": "Solar Power World",
-    "image": null
-  },
-  {
-    "title": "University of Pittsburgh launches new Natural Gas, Renewables and Oil Engineering undergrad degree",
-    "link": "https://www.solarpowerworldonline.com/2025/09/university-of-pittsburgh-launches-new-natural-gas-renewables-and-oil-engineering-undergrad-degree/",
-    "date": "2025-09-25",
-    "summary": "The University of Pittsburgh announced it is launching a new undergraduate degree in Natural Gas, Renewables and Oil Engineering (GRO), desi…",
-    "source": "Solar Power World",
-    "image": null
-  },
-  {
     "title": "Curtailment ‘biggest crisis’ in history of Brazilian wind sector",
     "link": "https://www.windpowermonthly.com/article/1933429/curtailment-biggest-crisis-history-brazilian-wind-sector",
     "date": "2025-09-25",
@@ -756,14 +788,6 @@
     "link": "https://www.powermag.com/highview-powers-two-uk-laes-projects-advance-in-ofgems-cap-and-floor-scheme/",
     "date": "2025-09-25",
     "summary": "Ofgem, the UK’s energy markets regulator, has deemed Highview Power’s proposed 3.2-GWh liquid air energy storage facilities at Hunterston an…",
-    "source": "POWER Magazine",
-    "image": null
-  },
-  {
-    "title": "Japan’s First SOEC Hydrogen Demonstration Launched at Thermal Power Plant",
-    "link": "https://www.powermag.com/japans-first-soec-hydrogen-demonstration-launched-at-thermal-power-plant/",
-    "date": "2025-09-25",
-    "summary": "Japanese utility giant JERA and automotive technology firm DENSO have begun Japan’s first demonstration of hydrogen production using solid o…",
     "source": "POWER Magazine",
     "image": null
   },
@@ -904,14 +928,6 @@
     "image": null
   },
   {
-    "title": "U.S.–UK Nuclear Partnership Spurs Historic Wave of Fuel, SMR, and EPC Deals—Here’s the Rundown",
-    "link": "https://www.powermag.com/u-s-uk-nuclear-partnership-spurs-historic-wave-of-fuel-smr-and-epc-deals-heres-the-rundown/",
-    "date": "2025-09-24",
-    "summary": "The most significant week in transatlantic nuclear cooperation since the 1950s atomic partnership unfolded Sept. 14–24, 2025, as a coordinat…",
-    "source": "POWER Magazine",
-    "image": null
-  },
-  {
     "title": "3 Battery Breakthroughs Tackle Performance and Sustainability",
     "link": "https://eepower.com/market-insights/3-battery-breakthroughs-tackle-performance-and-sustainability/",
     "date": "2025-09-24",
@@ -925,14 +941,6 @@
     "date": "2025-09-24",
     "summary": "Porsche’s one-box wireless charging enables 11 kW inductive charging for Cayenne EVs.…",
     "source": "EE Power",
-    "image": null
-  },
-  {
-    "title": "Capstone, Eurowind file 3.2GWh long-duration BESS project application with California Energy Commission",
-    "link": "https://www.energy-storage.news/capstone-eurowind-file-3-2gwh-long-duration-bess-project-application-with-california-energy-commission/",
-    "date": "2025-09-23",
-    "summary": "Capstone-Eurowind 3.2GWh BESS project is the latest to reach the final stage of the California Energy Commission opt-in process.…",
-    "source": "Energy-Storage.News",
     "image": null
   },
   {
@@ -1068,14 +1076,6 @@
     "link": "https://eepower.com/news/briefs-tech-companies-advance-ai-wind-nuclear-and-more/",
     "date": "2025-09-15",
     "summary": "Wise Integration, Eaton, Xendee, LatWind, Nuclearn, Conflux, and Honeywell are strategically addressing changes in the energy landscape.…",
-    "source": "EE Power",
-    "image": null
-  },
-  {
-    "title": "Insulation Coordination Strategies for Series-Connected Multi-Terminal HVDC Systems",
-    "link": "https://eepower.com/technical-articles/insulation-coordination-strategies-for-series-connected-multi-terminal-hvdc-systems/",
-    "date": "2025-09-14",
-    "summary": "Learn how to optimize and design a reliable insulation framework for an HVDC network, focusing on aspects like insulation clearance, voltage…",
     "source": "EE Power",
     "image": null
   }
