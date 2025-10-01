@@ -1,5 +1,13 @@
 [
   {
+    "title": "September sees 2.5GWh of BESS approved in UK",
+    "link": "https://www.energy-storage.news/september-sees-2-5gwh-of-bess-approved-in-uk/",
+    "date": "2025-10-01",
+    "summary": "Local authorities approved 1,237MW/2,474MWh of grid-scale BESS in the UK, the latest data from our monthly roundup shows.…",
+    "source": "Energy-Storage.News",
+    "image": null
+  },
+  {
     "title": "Japan’s unique challenges offer valuable lessons to energy storage developers across Asia-Pacific",
     "link": "https://www.energy-storage.news/japans-unique-challenges-offer-valuable-lessons-to-energy-storage-developers-across-asia-pacific/",
     "date": "2025-10-01",
@@ -24,6 +32,30 @@
     "image": null
   },
   {
+    "title": "Ember calls for Thailand to add 32GW of new solar capacity",
+    "link": "https://www.pv-tech.org/more-ambitious-solar-storage-targets-thailand-billions-power-generation-costs/",
+    "date": "2025-10-01",
+    "summary": "Adding 32GW of new solar to Thailand’s power generation deployment targets could cut power generation costs by as much as US$1.8 billion.…",
+    "source": "PV Tech",
+    "image": null
+  },
+  {
+    "title": "OBBBA to slow down US community solar installations until 2030",
+    "link": "https://www.pv-tech.org/obbba-to-slow-down-us-community-solar-installations-until-2030/",
+    "date": "2025-10-01",
+    "summary": "The passage of the One Big Beautiful Bill Act (OBBBA) in July 2025 is expected to slow down the pace of US community solar through 2030.…",
+    "source": "PV Tech",
+    "image": null
+  },
+  {
+    "title": "Fortis Energy receives construction permit for Serbia 270MW/72MWh solar-plus-storage project",
+    "link": "https://www.pv-tech.org/fortis-energy-receives-construction-permit-serbia-solar-plus-storage-project/",
+    "date": "2025-10-01",
+    "summary": "Fortis Energy has secured a construction permit for a 270MW PV plant combined with a 72MWh battery energy storage system in Serbia.…",
+    "source": "PV Tech",
+    "image": null
+  },
+  {
     "title": "Engie sees 250MW solar PV power plant registered with AEMO in Australia",
     "link": "https://www.pv-tech.org/engie-sees-250mw-solar-pv-power-plant-registered-with-aemo-in-australia/",
     "date": "2025-10-01",
@@ -32,8 +64,16 @@
     "image": null
   },
   {
-    "title": "Nordex receives type certificate for N175/6.X turbine",
-    "link": "https://www.windpowermonthly.com/article/1934384/nordex-receives-type-certificate-n175-6x-turbine",
+    "title": "Japanese utilities buy into country’s largest offshore wind farm",
+    "link": "https://www.windpowermonthly.com/article/1934399/japanese-utilities-buy-countrys-largest-offshore-wind-farm",
+    "date": "2025-10-01",
+    "summary": "",
+    "source": "Wind Power News & Analysis RSS Feed",
+    "image": null
+  },
+  {
+    "title": "Nordex receives type certificate for N175/6.X wind turbine",
+    "link": "https://www.windpowermonthly.com/article/1934384/nordex-receives-type-certificate-n175-6x-wind-turbine",
     "date": "2025-10-01",
     "summary": "",
     "source": "Wind Power News & Analysis RSS Feed",
@@ -141,6 +181,14 @@
     "date": "2025-10-01",
     "summary": "<img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"976\" src=\"https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2…",
     "source": "Power Electronics News",
+    "image": null
+  },
+  {
+    "title": "3 Advances in Solar Desalination, Electrolytes, and Perovskite",
+    "link": "https://eepower.com/market-insights/3-advances-in-solar-desalination-electrolytes-and-perovskite/",
+    "date": "2025-10-01",
+    "summary": "From universal electrolytes to solar-powered desalination and defect-resistant photovoltaics, researchers push the boundaries of sustainable…",
+    "source": "EE Power",
     "image": null
   },
   {
@@ -848,30 +896,6 @@
     "image": null
   },
   {
-    "title": "Study says EU 30GW solar module manufacturing target is achievable",
-    "link": "https://www.pv-tech.org/study-says-eu-30gw-solar-module-manufacturing-target-is-achievable/",
-    "date": "2025-09-25",
-    "summary": "A Fraunhofer and SolarPower Europe study has concluded that reaching the EU's annual solar module manufacturing target of 30GW is achievable…",
-    "source": "PV Tech",
-    "image": null
-  },
-  {
-    "title": "100MW solar-plus-storage site submitted to Australia’s EPBC Act",
-    "link": "https://www.pv-tech.org/100mw-solar-plus-storage-site-submitted-to-australias-epbc-act/",
-    "date": "2025-09-25",
-    "summary": "Developer ACE Power and Osaka Gas Energy Australia have submitted plans for a 100MW solar-plus-storage project to Australia’s EPBC Act.…",
-    "source": "PV Tech",
-    "image": null
-  },
-  {
-    "title": "Tindo Solar supplies solar PV modules to Micronesia submarine cable project",
-    "link": "https://www.pv-tech.org/tindo-solar-supplies-solar-pv-modules-to-micronesia-submarine-cable-project/",
-    "date": "2025-09-25",
-    "summary": "Australian module manufacturer Tindo Solar has supplied 70 of its 430W N-Type bifacial Walara solar modules to power data cable landing stat…",
-    "source": "PV Tech",
-    "image": null
-  },
-  {
     "title": "Curtailment ‘biggest crisis’ in history of Brazilian wind sector",
     "link": "https://www.windpowermonthly.com/article/1933429/curtailment-biggest-crisis-history-brazilian-wind-sector",
     "date": "2025-09-25",
@@ -936,14 +960,6 @@
     "image": null
   },
   {
-    "title": "Ancillary service prices ‘through the roof’ in Baltics, 20-30% IRRs for BESS first-movers",
-    "link": "https://www.energy-storage.news/ancillary-service-prices-through-the-roof-in-baltics-20-30-irrs-for-bess-first-movers/",
-    "date": "2025-09-24",
-    "summary": "The Baltics is among the most attractive regions in Europe for battery energy storage system (BESS) investment right now, with the recent de…",
-    "source": "Energy-Storage.News",
-    "image": null
-  },
-  {
     "title": "TotalEnergies wins 1.5GW French offshore wind auction as partner RWE pulls out",
     "link": "https://www.windpowermonthly.com/article/1933509/totalenergies-wins-15gw-french-offshore-wind-auction-partner-rwe-pulls",
     "date": "2025-09-24",
@@ -981,14 +997,6 @@
     "date": "2025-09-24",
     "summary": "Porsche’s one-box wireless charging enables 11 kW inductive charging for Cayenne EVs.…",
     "source": "EE Power",
-    "image": null
-  },
-  {
-    "title": "Major shareholder backs Ørsted rights issue",
-    "link": "https://www.windpowermonthly.com/article/1933394/major-shareholder-backs-orsted-rights-issue",
-    "date": "2025-09-23",
-    "summary": "",
-    "source": "Wind Power News & Analysis RSS Feed",
     "image": null
   },
   {
@@ -1068,14 +1076,6 @@
     "link": "https://eepower.com/market-insights/pushing-boundaries-in-batteries-hydrogen-and-solar-materials/",
     "date": "2025-09-15",
     "summary": "New research in battery disassembly, hydrogen storage, and perovskite engineering reveals scalable, low-impact solutions for future electrif…",
-    "source": "EE Power",
-    "image": null
-  },
-  {
-    "title": "Briefs: Tech Companies Advance AI, Wind, Nuclear and More",
-    "link": "https://eepower.com/news/briefs-tech-companies-advance-ai-wind-nuclear-and-more/",
-    "date": "2025-09-15",
-    "summary": "Wise Integration, Eaton, Xendee, LatWind, Nuclearn, Conflux, and Honeywell are strategically addressing changes in the energy landscape.…",
     "source": "EE Power",
     "image": null
   }
