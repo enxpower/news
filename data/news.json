@@ -1,5 +1,29 @@
 [
   {
+    "title": "US utility Duke Energy files Carolinas Resource Plan, including 5.6GWh of energy storage",
+    "link": "https://www.energy-storage.news/us-utility-duke-energy-files-carolinas-resource-plan-including-5-6gwh-of-energy-storage/",
+    "date": "2025-10-02",
+    "summary": "Major US utility company Duke Energy has filed its biennial long-range energy modernisation plan for North and South Carolina, US. The plan …",
+    "source": "Energy-Storage.News",
+    "image": null
+  },
+  {
+    "title": "Canadian Solar enters agreements with Aypa Power for 2.1GWh BESS projects in Ontario",
+    "link": "https://www.energy-storage.news/canadian-solar-enters-agreements-with-aypa-power-for-2-1gwh-bess-projects-in-ontario/",
+    "date": "2025-10-02",
+    "summary": "Solar PV and energy storage firm Canadian Solar has entered into battery storage agreements (BSAs) and long-term services agreements (LTSAs)…",
+    "source": "Energy-Storage.News",
+    "image": null
+  },
+  {
+    "title": "Italy’s ‘exceptionally competitive’ first MACSE energy storage auction concludes, procuring 10GWh",
+    "link": "https://www.energy-storage.news/italys-exceptionally-competitive-first-macse-energy-storage-auction-concludes-procuring-10gwh/",
+    "date": "2025-10-02",
+    "summary": "The TSO of Italy has completed its first MACSE auctions for energy storage, procuring 10GWh of capacity at what the NHOA CEO called 'excepti…",
+    "source": "Energy-Storage.News",
+    "image": null
+  },
+  {
     "title": "Origin, Eku Energy submit 2,200MWh of battery storage applications to Australia’s EPBC Act",
     "link": "https://www.energy-storage.news/origin-eku-energy-submit-2200mwh-battery-storage-australias-epbc-act/",
     "date": "2025-10-02",
@@ -13,6 +37,14 @@
     "date": "2025-10-02",
     "summary": "Quinbrook Infrastructure Partners has completed construction on the first stage of its Supernode battery energy storage system (BESS) in Que…",
     "source": "Energy-Storage.News",
+    "image": null
+  },
+  {
+    "title": "EU to lose 5% of solar workforce in 2025 as ‘job-intensive’ residential market contracts",
+    "link": "https://www.pv-tech.org/eu-to-lose-5-of-solar-workforce-in-2025-as-job-intensive-residential-market-contracts/",
+    "date": "2025-10-02",
+    "summary": "The European solar sector will lose around 5% of its jobs in 2025, the first contraction in employment for the sector in nearly a decade.…",
+    "source": "PV Tech",
     "image": null
   },
   {
@@ -45,6 +77,22 @@
     "date": "2025-10-02",
     "summary": "FRV Australia has announced the completion of its largest solar project to date, the 300MW Walla Walla Solar Farm in New South Wales.…",
     "source": "PV Tech",
+    "image": null
+  },
+  {
+    "title": "MLB minor league team replaces aging solar system with new American polysilicon panels",
+    "link": "https://www.solarpowerworldonline.com/2025/10/mlb-minor-league-team-replaces-aging-solar-system-with-new-american-polysilicon-panels/",
+    "date": "2025-10-02",
+    "summary": "The Great Lakes Loons, the minor league baseball team supporting the Los Angeles Dodgers, has replaced an existing 20-year-old solar system …",
+    "source": "Solar Power World",
+    "image": null
+  },
+  {
+    "title": "The Solar Policy Scoop: October 2025",
+    "link": "https://www.solarpowerworldonline.com/2025/10/the-solar-policy-scoop-october-2025/",
+    "date": "2025-10-02",
+    "summary": "Arizona governor signs executive order in support of solar development Phoenix, Arizona Arizona Gov. Katie Hobbs signed an executive order i…",
+    "source": "Solar Power World",
     "image": null
   },
   {
@@ -728,22 +776,6 @@
     "image": null
   },
   {
-    "title": "Solar array to meet 70% of Southern Ohio car dealership’s electricity needs",
-    "link": "https://www.solarpowerworldonline.com/2025/09/solar-array-to-meet-70-of-southern-ohio-car-dealerships-electricity-needs/",
-    "date": "2025-09-29",
-    "summary": "Mark Porter Auto Group in Southern Ohio recently celebrated the completion of a 196.7-kW solar array at its Pomeroy location. The system, de…",
-    "source": "Solar Power World",
-    "image": null
-  },
-  {
-    "title": "Building a resilient solar supply chain: Why U.S. energy security depends on diversification",
-    "link": "https://www.solarpowerworldonline.com/2025/09/building-a-resilient-solar-supply-chain-why-u-s-energy-security-depends-on-diversification/",
-    "date": "2025-09-29",
-    "summary": "The U.S. solar industry is on an extraordinary trajectory. In 2024, the country added a record 40 GW of new solar capacity, a 55% jump from …",
-    "source": "Solar Power World",
-    "image": null
-  },
-  {
     "title": "Australian mining giant Fortescue acquires self-lifting wind tower firm",
     "link": "https://www.windpowermonthly.com/article/1933997/australian-mining-giant-fortescue-acquires-self-lifting-wind-tower-firm",
     "date": "2025-09-29",
@@ -880,14 +912,6 @@
     "image": null
   },
   {
-    "title": "CALSSA on protecting solar-plus-storage installations in California",
-    "link": "https://www.pv-tech.org/calssa-protecting-solar-plus-storage-installations-california/",
-    "date": "2025-09-26",
-    "summary": "CALSSA's Kevin Luo spoke with PV Tech Premium exclusively on the association’s complaint about slow approval practices in California.…",
-    "source": "PV Tech",
-    "image": null
-  },
-  {
     "title": "Alarm in Sweden as local authorities veto 90% of new wind farms",
     "link": "https://www.windpowermonthly.com/article/1933672/alarm-sweden-local-authorities-veto-90-new-wind-farms",
     "date": "2025-09-26",
@@ -932,30 +956,6 @@
     "link": "https://www.energy-storage.news/microsoft-among-members-of-schneider-electric-led-us-resilient-community-energy-initiative/",
     "date": "2025-09-25",
     "summary": "Microsoft, Sunrock, Zurich, and AlphaStruxure are among 20 participants joining Schneider Electric to deploy community-based energy systems …",
-    "source": "Energy-Storage.News",
-    "image": null
-  },
-  {
-    "title": "Poland ‘lacks precise development regulations and a clear long-term plan for energy storage’",
-    "link": "https://www.energy-storage.news/poland-lacks-precise-development-regulations-and-a-clear-long-term-plan-for-energy-storage/",
-    "date": "2025-09-25",
-    "summary": "Although the government in Poland has taken steps to open up its energy storage market, regulatory challenges remain.…",
-    "source": "Energy-Storage.News",
-    "image": null
-  },
-  {
-    "title": "Eni joint venture kicks off LFP battery cell factory development in Italy",
-    "link": "https://www.energy-storage.news/eni-joint-venture-kicks-off-lfp-battery-cell-factory-development-in-italy/",
-    "date": "2025-09-25",
-    "summary": "Italian multinational energy company Eni intends to become a player in battery cell manufacturing for stationary energy storage systems.…",
-    "source": "Energy-Storage.News",
-    "image": null
-  },
-  {
-    "title": "Vietnam’s path from zero BESS deployments to meeting ambitious 2030 energy storage targets",
-    "link": "https://www.energy-storage.news/vietnams-path-from-zero-bess-deployments-to-meeting-ambitious-2030-energy-storage-targets/",
-    "date": "2025-09-25",
-    "summary": "Climate and energy transition consultant Sunita Dubey reflects on the work done to put Vietnam on the global energy storage industry map and…",
     "source": "Energy-Storage.News",
     "image": null
   },
