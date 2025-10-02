@@ -16,6 +16,14 @@
     "image": null
   },
   {
+    "title": "Perovskite-based PV technologies could dominate within a decade, says Qcells CTO",
+    "link": "https://www.pv-tech.org/perovskite-based-pv-technologies-could-dominate-within-a-decade-says-qcells-cto/",
+    "date": "2025-10-02",
+    "summary": "PV products using perovskite technology could assume a dominant position within the next ten years, according to module producer Qcells' CTO…",
+    "source": "PV Tech",
+    "image": null
+  },
+  {
     "title": "India launches antidumping investigation on solar encapsulants from South Korea, Vietnam and Thailand",
     "link": "https://www.pv-tech.org/india-launches-antidumping-investigation-on-solar-encapsulants-from-south-korea-vietnam-and-thailand/",
     "date": "2025-10-02",
@@ -61,6 +69,14 @@
     "date": "2025-10-02",
     "summary": "<img alt=\"NREL’s ULIS power module.\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"720\" src=\"https://www.powerelectronicsnews.com/wp-…",
     "source": "Power Electronics News",
+    "image": null
+  },
+  {
+    "title": "Briefs: Innovations Improve Hydrogen, Wind, EVs, and Batteries",
+    "link": "https://eepower.com/news/briefs-innovations-improve-hydrogen-wind-evs-and-batteries/",
+    "date": "2025-10-02",
+    "summary": "Polytec Energy, 24M Technologies, ZX Lidars, Landis+Gyr, and XCMG have advanced technologies for renewable energy, electric vehicles, and en…",
+    "source": "EE Power",
     "image": null
   },
   {
@@ -872,14 +888,6 @@
     "image": null
   },
   {
-    "title": "‘100-year-old grids’ are ‘bottleneck’ to solar-plus-storage growth, Global Solar Council says",
-    "link": "https://www.pv-tech.org/100-year-old-grids-are-bottleneck-to-solar-plus-storage-growth-global-solar-council-says/",
-    "date": "2025-09-26",
-    "summary": "Global grids have failed to keep pace with renewable energy technologies and have become the “bottleneck of the energy transition”, accordin…",
-    "source": "PV Tech",
-    "image": null
-  },
-  {
     "title": "Alarm in Sweden as local authorities veto 90% of new wind farms",
     "link": "https://www.windpowermonthly.com/article/1933672/alarm-sweden-local-authorities-veto-90-new-wind-farms",
     "date": "2025-09-26",
@@ -1068,14 +1076,6 @@
     "link": "https://eepower.com/news/revolts-carbon-free-power-platform-electrifies-movie-sets/",
     "date": "2025-09-16",
     "summary": "The battery-electric mobile power platforms use high-density DC-DC modules and can replace diesel gensets on movie locations to reduce noise…",
-    "source": "EE Power",
-    "image": null
-  },
-  {
-    "title": "Using Low-Voltage Devices in High-Voltage Server Power Supplies—Part 3",
-    "link": "https://eepower.com/technical-articles/increasing-power-density-using-low-voltage-egan-fets-in-high-voltage-server-power-supplies-part-3-isop-llc-converter/",
-    "date": "2025-09-15",
-    "summary": "In this third and last part of the series we delve into the Isolated DC-DC converter that follows the PFC.…",
     "source": "EE Power",
     "image": null
   }
