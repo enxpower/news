@@ -1,5 +1,13 @@
 [
   {
+    "title": "EDF, Enlight advance solar-plus-storage projects in Southwestern US",
+    "link": "https://www.energy-storage.news/edf-enlight-advance-solar-plus-storage-projects-in-southwestern-us/",
+    "date": "2025-10-03",
+    "summary": "EDF Renewables has brought its 300MWh Milagro project online in New Mexico, while Enlight Renewable Energy has secured US$340 million in tax…",
+    "source": "Energy-Storage.News",
+    "image": null
+  },
+  {
     "title": "Sungrow and Engie complete first half of 200MW/800MW Belgium BESS",
     "link": "https://www.energy-storage.news/sungrow-and-engie-complete-first-half-of-200mw-800mw-belgium-bess/",
     "date": "2025-10-03",
@@ -24,6 +32,22 @@
     "image": null
   },
   {
+    "title": "EDF and Enlight advance solar-plus-storage projects in the US",
+    "link": "https://www.pv-tech.org/edf-enlight-advance-solar-plus-storage-projects-us/",
+    "date": "2025-10-03",
+    "summary": "EDF Renewables and Enlight Renewable Energy have advanced solar-plus-storage projects in New Mexico and Arizona.…",
+    "source": "PV Tech",
+    "image": null
+  },
+  {
+    "title": "SunStrong raises US$900 million to refinance SunPower residential portfolio",
+    "link": "https://www.pv-tech.org/sunstrong-raises-900-million-refinance-sunpower-residential-portfolio/",
+    "date": "2025-10-03",
+    "summary": "SunStrong Management has raised US$900 million to refinance a 'large portfolio' of residential solar assets developed by SunPower.…",
+    "source": "PV Tech",
+    "image": null
+  },
+  {
     "title": "US solar manufacturing under the microscope at PV CellTech 2025",
     "link": "https://www.pv-tech.org/us-solar-manufacturing-under-the-microscope-at-pv-celltech-2025/",
     "date": "2025-10-03",
@@ -40,11 +64,35 @@
     "image": null
   },
   {
+    "title": "Madison Energy Infrastructure acquires NextEra Energy Resource’s distributed generation business",
+    "link": "https://www.solarpowerworldonline.com/2025/10/madison-energy-infrastructure-acquires-nextera-energy-resources-distributed-generation-business/",
+    "date": "2025-10-03",
+    "summary": "Madison Energy Infrastructure, a renewable energy developer, completed the acquisition of NextEra Energy Resources&#8216; distributed genera…",
+    "source": "Solar Power World",
+    "image": null
+  },
+  {
     "title": "Iberian blackout ‘not a renewables issue’ – report",
     "link": "https://www.windpowermonthly.com/article/1934779/iberian-blackout-not-renewables-issue-%E2%80%93-report",
     "date": "2025-10-03",
     "summary": "Over-voltage “cascades” in the Spanish grid system were the primary cause of the unprecedented blackout that struck mainland Spain and Portu…",
     "source": "Wind Power News & Analysis RSS Feed",
+    "image": null
+  },
+  {
+    "title": "Entergy Will Power $4-Billion Google Data Center in Arkansas",
+    "link": "https://www.powermag.com/entergy-will-power-4-billion-google-data-center-in-arkansas/",
+    "date": "2025-10-03",
+    "summary": "Google announced the first phase of a $4-billion data center project in West Memphis, Arkansas, an initiative that state officials have call…",
+    "source": "POWER Magazine",
+    "image": null
+  },
+  {
+    "title": "2025 Power Electronics News Survey, Automotive Power Distribution Advances, ULIS SiC Module: Power Electronics Week Insights",
+    "link": "https://www.powerelectronicsnews.com/2025-power-electronics-news-survey-automotive-power-distribution-advances-ulis-sic-module-power-electronics-week-insights/",
+    "date": "2025-10-03",
+    "summary": "<img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"1669\" src=\"https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/…",
+    "source": "Power Electronics News",
     "image": null
   },
   {
@@ -512,14 +560,6 @@
     "image": null
   },
   {
-    "title": "How Utilities Need to Prepare for a Landscape Driven by Regulatory Shifts",
-    "link": "https://www.powermag.com/how-utilities-need-to-prepare-for-a-landscape-driven-by-regulatory-shifts/",
-    "date": "2025-10-01",
-    "summary": "As utility leaders look to manage the ever-growing volatility in the industry, they also need to prepare for a shifting regulatory landscape…",
-    "source": "POWER Magazine",
-    "image": null
-  },
-  {
     "title": "Infineon Unveils Industry-First TLVR Power Module to Boost Efficiency in AI Data Centers",
     "link": "https://www.powerelectronicsnews.com/infineon-unveils-industry-first-tlvr-power-module-to-boost-efficiency-in-ai-data-centers/",
     "date": "2025-10-01",
@@ -712,14 +752,6 @@
     "image": null
   },
   {
-    "title": "Tigo to release new energy storage system for Puerto Rico market",
-    "link": "https://www.solarpowerworldonline.com/2025/09/tigo-to-release-new-energy-storage-system-for-puerto-rico-market/",
-    "date": "2025-09-30",
-    "summary": "Tigo Energy announced it will be releasing the Tigo GO Optimized Energy Storage System (ESS) to the Puerto Rican market at the Energy 2025 t…",
-    "source": "Solar Power World",
-    "image": null
-  },
-  {
     "title": "Dongfang in talks to build Turkish wind turbine factory",
     "link": "https://www.windpowermonthly.com/article/1934193/dongfang-talks-build-turkish-wind-turbine-factory",
     "date": "2025-09-30",
@@ -764,14 +796,6 @@
     "link": "https://www.powerelectronicsnews.com/wide-bandgap-monthly-insights-september-2025/",
     "date": "2025-09-30",
     "summary": "<img alt=\"Wide Bandgap Monthly Insights\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"667\" src=\"https://www.powerelectronicsnews.com…",
-    "source": "Power Electronics News",
-    "image": null
-  },
-  {
-    "title": "Polar Semiconductor: Building a Trusted U.S. Foundry for Power and WBG Technologies",
-    "link": "https://www.powerelectronicsnews.com/polar-semiconductor-building-a-trusted-u-s-foundry-for-power-and-wbg-technologies/",
-    "date": "2025-09-30",
-    "summary": "<img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"623\" src=\"https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2…",
     "source": "Power Electronics News",
     "image": null
   },
@@ -864,22 +888,6 @@
     "image": null
   },
   {
-    "title": "Voltage Energy Group unveils IBEX PLUS and new LYNX at RE+ 2025: dual innovations redefining PV EBOS solutions",
-    "link": "https://www.pv-tech.org/voltage-energy-group-ibex-plus-new-lynx-re-2025-dual-innovations-pv-ebos-solutions/",
-    "date": "2025-09-29",
-    "summary": "Voltage Energy has launched two new wiring solutions, IBEX PLUS and new LYNX, for different current capacity ranges in utility-scale solar.…",
-    "source": "PV Tech",
-    "image": null
-  },
-  {
-    "title": "Fortescue signs solar module supply agreement with China’s LONGi",
-    "link": "https://www.pv-tech.org/fortescue-signs-solar-module-supply-agreement-with-chinas-longi/",
-    "date": "2025-09-29",
-    "summary": "Fortescue has established a strategic partnership with Chinese solar manufacturing giant LONGi to supply solar PV modules as part of its ‘Re…",
-    "source": "PV Tech",
-    "image": null
-  },
-  {
     "title": "Australian mining giant Fortescue acquires self-lifting wind tower firm",
     "link": "https://www.windpowermonthly.com/article/1933997/australian-mining-giant-fortescue-acquires-self-lifting-wind-tower-firm",
     "date": "2025-09-29",
@@ -948,14 +956,6 @@
     "link": "https://www.energy-storage.news/georgia-power-announces-2025-rfp-for-500mw-of-bess/",
     "date": "2025-09-26",
     "summary": "Utility Georgia Power has announced the open comment period for its 2025 Request for Proposals (RFP) for battery energy storage system (BESS…",
-    "source": "Energy-Storage.News",
-    "image": null
-  },
-  {
-    "title": "‘I wouldn’t say it’s business as usual’: Prevalon on the global impacts of the OBBB",
-    "link": "https://www.energy-storage.news/i-wouldnt-say-its-business-as-usual-prevalon-on-the-global-impacts-of-the-obbb/",
-    "date": "2025-09-26",
-    "summary": "Energy-Storage.news Premium speaks with Thomas Cornell, CEO and President of Prevalon Energy, at the RE+ 2025 trade show, about the global c…",
     "source": "Energy-Storage.News",
     "image": null
   },
