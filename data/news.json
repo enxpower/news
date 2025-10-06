@@ -1,5 +1,13 @@
 [
   {
+    "title": "Rajasthan launches 2GWh standalone BESS tender after India relaxes VGF guidelines",
+    "link": "https://www.energy-storage.news/rajasthan-launches-2gwh-standalone-bess-tender-after-india-relaxes-vgf-guidelines/",
+    "date": "2025-10-06",
+    "summary": "Following the recent notification, the Rajasthan government will develop 500MW/2,000MWh of standalone battery energy storage systems (BESS) …",
+    "source": "Energy-Storage.News",
+    "image": null
+  },
+  {
     "title": "Hithium’s Hong Kong IPO lapses with CATL lawsuit looming",
     "link": "https://www.energy-storage.news/hithiums-hong-kong-ipo-lapses-with-catl-lawsuit-looming/",
     "date": "2025-10-06",
@@ -13,6 +21,38 @@
     "date": "2025-10-06",
     "summary": "Energy-Storage.news proudly presents our sponsored webinar with TWAICE, on the role of analytics in helping first-time battery energy storag…",
     "source": "Energy-Storage.News",
+    "image": null
+  },
+  {
+    "title": "SMA Solar to cut 350 more jobs",
+    "link": "https://www.pv-tech.org/sma-solar-solar-inverter-350-job-cuts/",
+    "date": "2025-10-06",
+    "summary": "German solar inverter manufacturer SMA Solar will cut 350 jobs in 2026 as it adapts to the “weak” residential PV market.…",
+    "source": "PV Tech",
+    "image": null
+  },
+  {
+    "title": "Over-voltage triggered Iberian blackout – report",
+    "link": "https://www.pv-tech.org/over-voltage-triggered-iberian-blackout-report/",
+    "date": "2025-10-06",
+    "summary": "An expert panel has identified a series of grid failures that led to April's unprecedented power outage in Spain and Portugal, ruling out re…",
+    "source": "PV Tech",
+    "image": null
+  },
+  {
+    "title": "Burned by the federal government, solar advocates turn focus to state policy",
+    "link": "https://www.solarpowerworldonline.com/2025/10/burned-by-the-federal-government-solar-advocates-turn-focus-to-state-policy/",
+    "date": "2025-10-06",
+    "summary": "The Trump Administration’s attack on renewables has rocked the solar industry this year. The full impact of anti-solar legislation and execu…",
+    "source": "Solar Power World",
+    "image": null
+  },
+  {
+    "title": "SouthCoast Wind developer attacks Trump's 'bad faith lawfare tactics'",
+    "link": "https://www.windpowermonthly.com/article/1934967/southcoast-wind-developer-attacks-trumps-bad-faith-lawfare-tactics",
+    "date": "2025-10-06",
+    "summary": "Ocean Winds has blasted the Trump administration's attempt to delay a lawsuit against its planned SouthCoast Wind project off Massachusetts …",
+    "source": "Wind Power News & Analysis RSS Feed",
     "image": null
   },
   {
@@ -840,14 +880,6 @@
     "image": null
   },
   {
-    "title": "Watch now: Documentary exploring solar on Colorado farmland drops online",
-    "link": "https://www.solarpowerworldonline.com/2025/09/watch-now-documentary-exploring-solar-on-colorado-farmland-drops-online/",
-    "date": "2025-09-30",
-    "summary": "A documentary film on the benefits of co-habiting solar and farmland can now be watched for free on YouTube. The film, Save the Farm, Save t…",
-    "source": "Solar Power World",
-    "image": null
-  },
-  {
     "title": "Dongfang in talks to build Turkish wind turbine factory",
     "link": "https://www.windpowermonthly.com/article/1934193/dongfang-talks-build-turkish-wind-turbine-factory",
     "date": "2025-09-30",
@@ -912,14 +944,6 @@
     "image": null
   },
   {
-    "title": "VIDEO: Exploring C&I ESS technologies for flexibility and resilience with Honeywell",
-    "link": "https://www.energy-storage.news/video-exploring-ci-ess-technologies-for-flexibility-and-resilience-with-honeywell/",
-    "date": "2025-09-29",
-    "summary": "Energy-Storage.news proudly presents our sponsored webinar with Honeywell, on adapting to the grid with flexible and resilient commercial an…",
-    "source": "Energy-Storage.News",
-    "image": null
-  },
-  {
     "title": "ABO Energy considers move to IPP model and public share offering",
     "link": "https://www.pv-tech.org/abo-energy-considers-move-to-ipp-model-and-public-share-offering/",
     "date": "2025-09-29",
@@ -932,22 +956,6 @@
     "link": "https://www.pv-tech.org/is-the-outlook-still-bullish-for-us-renewables/",
     "date": "2025-09-29",
     "summary": "Burns &#038; McDonnell examines the outlook of the utility-scale solar sector amidst the latest policy and tariff changes.…",
-    "source": "PV Tech",
-    "image": null
-  },
-  {
-    "title": "SunPower continues revival with Sunder acquisition",
-    "link": "https://www.pv-tech.org/sunpower-continues-revival-with-sunder-acquisition/",
-    "date": "2025-09-29",
-    "summary": "US solar installer SunPower has taken the next step in its rehabilitation with the acquisition of residential installer Sunder.…",
-    "source": "PV Tech",
-    "image": null
-  },
-  {
-    "title": "Waaree dismisses US tariff evasion allegations, ‘actively working’ with CBP",
-    "link": "https://www.pv-tech.org/waaree-ad-cvd-tariff-solar-cells-us-customs/",
-    "date": "2025-09-29",
-    "summary": "Indian solar manufacturer Waaree has said it does not expect to pay additional duties on its solar cell imports to the US, following the sta…",
     "source": "PV Tech",
     "image": null
   },
@@ -970,14 +978,6 @@
   {
     "title": "Ørsted in talks to sell 50% Hornsea 3 stake – media reports",
     "link": "https://www.windpowermonthly.com/article/1933969/orsted-talks-sell-50-hornsea-3-stake-%E2%80%93-media-reports",
-    "date": "2025-09-29",
-    "summary": "",
-    "source": "Wind Power News & Analysis RSS Feed",
-    "image": null
-  },
-  {
-    "title": "German developer ABO Energy considers expanding wind power role",
-    "link": "https://www.windpowermonthly.com/article/1933957/german-developer-abo-energy-considers-expanding-wind-power-role",
     "date": "2025-09-29",
     "summary": "",
     "source": "Wind Power News & Analysis RSS Feed",
