@@ -1,5 +1,13 @@
 [
   {
+    "title": "Philippines regulator’s ESS market rules will be ‘a watershed moment’",
+    "link": "https://www.energy-storage.news/philippines-regulators-ess-market-rules-will-be-a-watershed-moment/",
+    "date": "2025-10-07",
+    "summary": "The Philippines needs to establish clearly defined rules for the market participation of energy storage systems (ESS), the chair of the coun…",
+    "source": "Energy-Storage.News",
+    "image": null
+  },
+  {
     "title": "Virtual battery tolls explained: Revenue certainty in a volatile market",
     "link": "https://www.energy-storage.news/virtual-battery-tolls-explained-revenue-certainty-in-a-volatile-market/",
     "date": "2025-10-07",
@@ -13,6 +21,22 @@
     "date": "2025-10-07",
     "summary": "ESN Premium speaks with Fluence's Matt Grover about the need for sophisticated software solutions to enhance battery trading.…",
     "source": "Energy-Storage.News",
+    "image": null
+  },
+  {
+    "title": "Solar PV to drive 80% of global renewables growth by 2030, IEA says",
+    "link": "https://www.pv-tech.org/solar-pv-to-drive-80-of-global-renewables-growth-by-2030-iea-says/",
+    "date": "2025-10-07",
+    "summary": "Solar PV will account for almost 80% of the 4.6TW of new renewable power expected to be added by 2030, according to the International Energy…",
+    "source": "PV Tech",
+    "image": null
+  },
+  {
+    "title": "OpenSolar raises US$13.1 million to advance AI platform",
+    "link": "https://www.pv-tech.org/opensolar-raises-us13-1-million-to-advance-ai-platform/",
+    "date": "2025-10-07",
+    "summary": "OpenSolar has secured US$13.1 million in equity financing from technology investors, including Titanium Ventures, Google and others.…",
+    "source": "PV Tech",
     "image": null
   },
   {
@@ -45,6 +69,30 @@
     "date": "2025-10-07",
     "summary": "The government of Victoria, Australia, has launched the an incentive scheme to encourage businesses to install rooftop solar installations.…",
     "source": "PV Tech",
+    "image": null
+  },
+  {
+    "title": "Could we run out of critical minerals for solar panel production?",
+    "link": "https://www.solarpowerworldonline.com/2025/10/could-we-run-out-of-critical-minerals-for-solar-panel-production/",
+    "date": "2025-10-07",
+    "summary": "The topic of critical minerals is common in the news lately, especially when parsing the latest escalations in the U.S.-China trade war. Whe…",
+    "source": "Solar Power World",
+    "image": null
+  },
+  {
+    "title": "If community solar programs are successful, why not try community storage?",
+    "link": "https://www.solarpowerworldonline.com/2025/10/if-community-solar-programs-are-successful-why-not-try-community-storage/",
+    "date": "2025-10-07",
+    "summary": "Since the dawn of the solar industry, people have been trying to figure out how to make solar panels accessible to low-income and historical…",
+    "source": "Solar Power World",
+    "image": null
+  },
+  {
+    "title": "‘Shrinking margin for error’: Oil tanker narrowly avoids wind farm collision",
+    "link": "https://www.windpowermonthly.com/article/1935114/shrinking-margin-error-oil-tanker-narrowly-avoids-wind-farm-collision",
+    "date": "2025-10-07",
+    "summary": "An oil tanker in the Dutch North Sea was rescued from disaster after an engine failure sent it drifting towards the turbines of Vattenfall’s…",
+    "source": "Wind Power News & Analysis RSS Feed",
     "image": null
   },
   {
@@ -752,38 +800,6 @@
     "image": null
   },
   {
-    "title": "Ember calls for Thailand to add 32GW of new solar capacity",
-    "link": "https://www.pv-tech.org/more-ambitious-solar-storage-targets-thailand-billions-power-generation-costs/",
-    "date": "2025-10-01",
-    "summary": "Adding 32GW of new solar to Thailand’s power generation deployment targets could cut power generation costs by as much as US$1.8 billion.…",
-    "source": "PV Tech",
-    "image": null
-  },
-  {
-    "title": "OBBBA to slow down US community solar installations until 2030",
-    "link": "https://www.pv-tech.org/obbba-to-slow-down-us-community-solar-installations-until-2030/",
-    "date": "2025-10-01",
-    "summary": "The passage of the One Big Beautiful Bill Act (OBBBA) in July 2025 is expected to slow down the pace of US community solar through 2030.…",
-    "source": "PV Tech",
-    "image": null
-  },
-  {
-    "title": "Virginia report finds 16% of resi solar projects that begin permitting process are abandoned",
-    "link": "https://www.solarpowerworldonline.com/2025/10/virginia-report-finds-16-of-resi-solar-projects-that-begin-permitting-process-are-abandoned/",
-    "date": "2025-10-01",
-    "summary": "The Environment Virginia Research &#38; Policy Center released a new report, &#8220;A 21st-Century Permitting Regime for Rooftop Solar and H…",
-    "source": "Solar Power World",
-    "image": null
-  },
-  {
-    "title": "Chest physicians say climate change is bad for lung health, so they install solar on HQ",
-    "link": "https://www.solarpowerworldonline.com/2025/10/chest-physicians-say-climate-change-is-bad-for-lung-health-so-they-install-solar-on-hq/",
-    "date": "2025-10-01",
-    "summary": "Hardt Electric has completed an installation of Maxeon Solar panels at the American College of Chest Physicians (CHEST) headquarters in Glen…",
-    "source": "Solar Power World",
-    "image": null
-  },
-  {
     "title": "Japanese utilities buy into country’s largest offshore wind farm",
     "link": "https://www.windpowermonthly.com/article/1934399/japanese-utilities-buy-countrys-largest-offshore-wind-farm",
     "date": "2025-10-01",
@@ -936,14 +952,6 @@
     "image": null
   },
   {
-    "title": "State-owned Stanwell reaches halfway mark on 1,200MWh BESS project in Queensland, Australia",
-    "link": "https://www.energy-storage.news/state-owned-stanwell-reaches-halfway-mark-on-1200mwh-bess-project-in-queensland-australia/",
-    "date": "2025-09-30",
-    "summary": "The 300MW/1,200MWh Stanwell battery energy storage system (BESS) in Queensland, Australia, has reached its halfway construction milestone wi…",
-    "source": "Energy-Storage.News",
-    "image": null
-  },
-  {
     "title": "Dongfang in talks to build Turkish wind turbine factory",
     "link": "https://www.windpowermonthly.com/article/1934193/dongfang-talks-build-turkish-wind-turbine-factory",
     "date": "2025-09-30",
@@ -980,14 +988,6 @@
     "link": "https://www.windpowermonthly.com/article/1933997/australian-mining-giant-fortescue-acquires-self-lifting-wind-tower-firm",
     "date": "2025-09-29",
     "summary": "Australian mining billionaire Andrew Forrest's Fortescue has completed its acquisition of Spanish engineering firm Nabrawind, which is devel…",
-    "source": "Wind Power News & Analysis RSS Feed",
-    "image": null
-  },
-  {
-    "title": "Mingyang names Europe CEO to take wind turbine maker ‘to the next level’",
-    "link": "https://www.windpowermonthly.com/article/1933993/mingyang-names-europe-ceo-wind-turbine-maker-to-next-level",
-    "date": "2025-09-29",
-    "summary": "Chinese wind turbine manufacturer Mingyang Smart Energy has appointed a new CEO of its European subsidiary, Mingyang Europe, as it looks to …",
     "source": "Wind Power News & Analysis RSS Feed",
     "image": null
   },
