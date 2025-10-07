@@ -1,7 +1,7 @@
 [
   {
-    "title": "Virtual battery tolls explained: Revenue vertainty in a volatile market",
-    "link": "https://www.energy-storage.news/virtual-battery-tolls-explained-revenue-vertainty-in-a-volatile-market/",
+    "title": "Virtual battery tolls explained: Revenue certainty in a volatile market",
+    "link": "https://www.energy-storage.news/virtual-battery-tolls-explained-revenue-certainty-in-a-volatile-market/",
     "date": "2025-10-07",
     "summary": "Matt Szwec, an energy trading analyst at Fluence, discusses virtual battery toll agreements and how they operate in Australia.…",
     "source": "Energy-Storage.News",
@@ -16,11 +16,43 @@
     "image": null
   },
   {
+    "title": "Doral secures offtake agreement for 430MW Texas solar-plus-storage project",
+    "link": "https://www.pv-tech.org/doral-secures-offtake-agreement-430mw-texas-solar-plus-storage-project/",
+    "date": "2025-10-07",
+    "summary": "Doral Renewables has secured a PPA with an unnamed 'corporate buyer' for its 430MW Cold Creek solar-plus-storage project in Texas.…",
+    "source": "PV Tech",
+    "image": null
+  },
+  {
+    "title": "Arevon powers 264MW Indiana PV portfolio with Meta PPA",
+    "link": "https://www.pv-tech.org/arevon-powers-264mw-indiana-pv-portfolio-with-meta-ppa/",
+    "date": "2025-10-07",
+    "summary": "US independent power producer (IPP) Arevon has begun operations at two utility-scale solar projects in Indiana.…",
+    "source": "PV Tech",
+    "image": null
+  },
+  {
+    "title": "Australia: Queensland solar PV power plants top the utility performance rankings",
+    "link": "https://www.pv-tech.org/australia-queensland-solar-pv-power-plants-top-the-utility-performance-rankings/",
+    "date": "2025-10-07",
+    "summary": "Rystad Energy has said that Queensland’s utility-solar assets were the best-performing solar PV power plants in September 2025.…",
+    "source": "PV Tech",
+    "image": null
+  },
+  {
     "title": "Victoria launches incentive program for C&I rooftop solar",
     "link": "https://www.pv-tech.org/victoria-launches-incentive-program-for-ci-rooftop-solar/",
     "date": "2025-10-07",
     "summary": "The government of Victoria, Australia, has launched the an incentive scheme to encourage businesses to install rooftop solar installations.…",
     "source": "PV Tech",
+    "image": null
+  },
+  {
+    "title": "Ørsted raises €8bn with rights issue – but still faces 'high political risk'",
+    "link": "https://www.windpowermonthly.com/article/1935102/orsted-raises-%E2%82%AC8bn-rights-issue-%E2%80%93-faces-high-political-risk",
+    "date": "2025-10-07",
+    "summary": "Danish renewables major Ørsted has lauded an improved financial outlook after announcing its success in raising around DKK 60 billion (€8 bi…",
+    "source": "Wind Power News & Analysis RSS Feed",
     "image": null
   },
   {
@@ -736,22 +768,6 @@
     "image": null
   },
   {
-    "title": "Fortis Energy receives construction permit for Serbia 270MW/72MWh solar-plus-storage project",
-    "link": "https://www.pv-tech.org/fortis-energy-receives-construction-permit-serbia-solar-plus-storage-project/",
-    "date": "2025-10-01",
-    "summary": "Fortis Energy has secured a construction permit for a 270MW PV plant combined with a 72MWh battery energy storage system in Serbia.…",
-    "source": "PV Tech",
-    "image": null
-  },
-  {
-    "title": "Engie sees 250MW solar PV power plant registered with AEMO in Australia",
-    "link": "https://www.pv-tech.org/engie-sees-250mw-solar-pv-power-plant-registered-with-aemo-in-australia/",
-    "date": "2025-10-01",
-    "summary": "Engie Australia's 250MW Goorambat East Solar Farm has registered with AEMO, marking the project’s readiness for the commissioning phase.…",
-    "source": "PV Tech",
-    "image": null
-  },
-  {
     "title": "Virginia report finds 16% of resi solar projects that begin permitting process are abandoned",
     "link": "https://www.solarpowerworldonline.com/2025/10/virginia-report-finds-16-of-resi-solar-projects-that-begin-permitting-process-are-abandoned/",
     "date": "2025-10-01",
@@ -928,14 +944,6 @@
     "image": null
   },
   {
-    "title": "Solar led EU electricity generation in Q2 2025",
-    "link": "https://www.pv-tech.org/solar-led-eu-electricity-generation-in-q2-2025/",
-    "date": "2025-09-30",
-    "summary": "Solar PV was the leading source of electricity generation in the EU in the second quarter of 2025, according to the statistical office of th…",
-    "source": "PV Tech",
-    "image": null
-  },
-  {
     "title": "Dongfang in talks to build Turkish wind turbine factory",
     "link": "https://www.windpowermonthly.com/article/1934193/dongfang-talks-build-turkish-wind-turbine-factory",
     "date": "2025-09-30",
@@ -980,14 +988,6 @@
     "link": "https://www.windpowermonthly.com/article/1933993/mingyang-names-europe-ceo-wind-turbine-maker-to-next-level",
     "date": "2025-09-29",
     "summary": "Chinese wind turbine manufacturer Mingyang Smart Energy has appointed a new CEO of its European subsidiary, Mingyang Europe, as it looks to …",
-    "source": "Wind Power News & Analysis RSS Feed",
-    "image": null
-  },
-  {
-    "title": "Ørsted in talks to sell 50% Hornsea 3 stake – media reports",
-    "link": "https://www.windpowermonthly.com/article/1933969/orsted-talks-sell-50-hornsea-3-stake-%E2%80%93-media-reports",
-    "date": "2025-09-29",
-    "summary": "",
     "source": "Wind Power News & Analysis RSS Feed",
     "image": null
   },
