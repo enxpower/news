@@ -1,5 +1,13 @@
 [
   {
+    "title": "Huawei signs MoU with GoldenPeaks for 500MWh of European grid-forming BESS",
+    "link": "https://www.energy-storage.news/huawei-signs-mou-with-goldenpeaks-for-500mwh-of-european-grid-forming-bess/",
+    "date": "2025-10-09",
+    "summary": "GoldenPeaks Capital (GPC) and Huawei Polska have signed a Memorandum of Understanding (MoU) on a Battery Energy Storage System (BESS) cooper…",
+    "source": "Energy-Storage.News",
+    "image": null
+  },
+  {
     "title": "Sungrow files Hong Kong IPO prospectus; strong financials but ‘global trade policy’ risk looms",
     "link": "https://www.energy-storage.news/sungrow-files-hong-kong-ipo-prospectus-strong-financials-but-global-trade-policy-risk-looms/",
     "date": "2025-10-09",
@@ -29,6 +37,30 @@
     "date": "2025-10-09",
     "summary": "Battery energy storage revenues in Australia's National Electricity Market (NEM) fell 61% in September 2025 to AU$85,000/MW (US$56,712/MW) a…",
     "source": "Energy-Storage.News",
+    "image": null
+  },
+  {
+    "title": "Low prices, fierce competition in Germany’s latest solar-plus-storage auction",
+    "link": "https://www.pv-tech.org/germany-solar-energy-storage-auction-low-prices-competitive/",
+    "date": "2025-10-09",
+    "summary": "Germany has awarded contracts to 490MW of solar-plus-storage projects in its latest “innovation” auction for co-located renewables.…",
+    "source": "PV Tech",
+    "image": null
+  },
+  {
+    "title": "Pause on ‘billions of dollars’ of retroactive US solar duties granted pending appeal",
+    "link": "https://www.pv-tech.org/pause-on-billions-of-dollars-of-retroactive-us-solar-duties-granted-pending-appeal/",
+    "date": "2025-10-09",
+    "summary": "The retroactive collection of duties on historical solar imports to the US has been temporarily paused pending the outcome of an appeal.…",
+    "source": "PV Tech",
+    "image": null
+  },
+  {
+    "title": "Ørsted to cut 2,000 jobs in drive for 'competitiveness'",
+    "link": "https://www.windpowermonthly.com/article/1935467/orsted-cut-2000-jobs-drive-competitiveness",
+    "date": "2025-10-09",
+    "summary": "Ørsted plans to slash approximately 2,000 jobs by the end of 2027 – around a quarter of its global workforce – in a bid to become more compe…",
+    "source": "Wind Power News & Analysis RSS Feed",
     "image": null
   },
   {
@@ -1064,22 +1096,6 @@
     "image": null
   },
   {
-    "title": "SunStrong raises US$900 million to refinance SunPower residential portfolio",
-    "link": "https://www.pv-tech.org/sunstrong-raises-900-million-refinance-sunpower-residential-portfolio/",
-    "date": "2025-10-03",
-    "summary": "SunStrong Management has raised US$900 million to refinance a 'large portfolio' of residential solar assets developed by SunPower.…",
-    "source": "PV Tech",
-    "image": null
-  },
-  {
-    "title": "US solar manufacturing under the microscope at PV CellTech 2025",
-    "link": "https://www.pv-tech.org/us-solar-manufacturing-under-the-microscope-at-pv-celltech-2025/",
-    "date": "2025-10-03",
-    "summary": "The US solar manufacturing industry is feeling bullish, despite the policy whiplash inflicted over the summer and the increased pressure on …",
-    "source": "PV Tech",
-    "image": null
-  },
-  {
     "title": "Iberian blackout ‘not a renewables issue’ – report",
     "link": "https://www.windpowermonthly.com/article/1934779/iberian-blackout-not-renewables-issue-%E2%80%93-report",
     "date": "2025-10-03",
@@ -1168,26 +1184,10 @@
     "image": null
   },
   {
-    "title": "Quinbrook completes the 560MWh first stage of the Supernode BESS in Australia",
-    "link": "https://www.energy-storage.news/quinbrook-completes-the-560mwh-first-stage-of-the-supernode-bess-in-australia/",
-    "date": "2025-10-02",
-    "summary": "Quinbrook Infrastructure Partners has completed construction on the first stage of its Supernode battery energy storage system (BESS) in Que…",
-    "source": "Energy-Storage.News",
-    "image": null
-  },
-  {
     "title": "Trump targets another Equinor US offshore wind project",
     "link": "https://www.windpowermonthly.com/article/1934680/trump-targets-equinor-us-offshore-wind-project",
     "date": "2025-10-02",
     "summary": "The Bureau of Ocean Energy Management (BOEM) plans to reconsider a key approval for Equinor's 1.26GW Empire Wind 2 project off New Jersey an…",
-    "source": "Wind Power News & Analysis RSS Feed",
-    "image": null
-  },
-  {
-    "title": "Goldwind achieves ‘huge leap’ with 16MW wind turbine installed on floating platform",
-    "link": "https://www.windpowermonthly.com/article/1934664/goldwind-achieves-huge-leap-16mw-wind-turbine-installed-floating-platform",
-    "date": "2025-10-02",
-    "summary": "Chinese wind turbine manufacturer Goldwind has installed a 16MW wind turbine on a floating platform, claiming a new world record in the proc…",
     "source": "Wind Power News & Analysis RSS Feed",
     "image": null
   },
