@@ -1,5 +1,29 @@
 [
   {
+    "title": "US ROUNDUP: Cross-industry collaborations target energy storage growth and accessibility",
+    "link": "https://www.energy-storage.news/us-roundup-cross-industry-collaborations-target-energy-storage-growth-and-accessibility/",
+    "date": "2025-10-10",
+    "summary": "Honeywell, LS Electric, esVolta, Sitetracker, PairedPower, PHNXX, and Energy Toolbase are collaborating on new initiatives to advance energy…",
+    "source": "Energy-Storage.News",
+    "image": null
+  },
+  {
+    "title": "UK BESS asset management has moved to ‘disciplined, systems-level approach’",
+    "link": "https://www.energy-storage.news/uk-bess-asset-management-has-moved-to-disciplined-systems-level-approach/",
+    "date": "2025-10-10",
+    "summary": "BESS asset management in the UK has moved beyond the rudimentary 'project delivery and basic O&#038;M' approach, a speaker at the upcoming B…",
+    "source": "Energy-Storage.News",
+    "image": null
+  },
+  {
+    "title": "India’s H1 energy storage installations plunge 74% year-on-year to 49MWh: Mercom",
+    "link": "https://www.energy-storage.news/indias-h1-energy-storage-installations-plunge-74-year-on-year-to-49mwh-mercom/",
+    "date": "2025-10-10",
+    "summary": "According to the latest report by clean energy market research firm Mercom India, India achieved a cumulative energy storage capacity of 490…",
+    "source": "Energy-Storage.News",
+    "image": null
+  },
+  {
     "title": "Texas utility signs 200MWh BESS offtake agreement with Jupiter Power to combat ERCOT duck curve",
     "link": "https://www.energy-storage.news/texas-utility-signs-200mwh-bess-offtake-agreement-with-jupiter-power-to-combat-ercot-duck-curve/",
     "date": "2025-10-10",
@@ -21,6 +45,14 @@
     "date": "2025-10-10",
     "summary": "The New South Wales Independent Planning Commission has approved ACEnergy's 250MW/1,100MWh Yanco battery energy storage system in Australia.…",
     "source": "Energy-Storage.News",
+    "image": null
+  },
+  {
+    "title": "‘The industry is producing more than it can install,’ says Gaëtan Masson as world exceeds 2.2TW of solar",
+    "link": "https://www.pv-tech.org/the-industry-is-producing-more-than-it-can-install-gaetan-masson-world-exceeds-2-2tw-solar/",
+    "date": "2025-10-10",
+    "summary": "Gaëtan Masson of IEA PVPS warns of overcapacity, collapsing prices and slipping module quality in the new Trends in PV Applications report.…",
+    "source": "PV Tech",
     "image": null
   },
   {
@@ -85,6 +117,14 @@
     "date": "2025-10-10",
     "summary": "Windpower Monthly rounds up the latest patents for wind power technology granted and applied for in the last week.…",
     "source": "Wind Power News & Analysis RSS Feed",
+    "image": null
+  },
+  {
+    "title": "Enchanted Rock Introduces ERT500 and RockBlock Advanced Onsite Power Generation Technologies",
+    "link": "https://www.powermag.com/enchanted-rock-introduces-ert500-and-rockblock-advanced-onsite-power-generation-technologies/",
+    "date": "2025-10-10",
+    "summary": "Enchanted Rock, the recognized leader in power resiliency, recently unveiled its next-generation dispatchable natural gas systems built to h…",
+    "source": "POWER Magazine",
     "image": null
   },
   {
@@ -712,14 +752,6 @@
     "image": null
   },
   {
-    "title": "Victoria launches incentive program for C&I rooftop solar",
-    "link": "https://www.pv-tech.org/victoria-launches-incentive-program-for-ci-rooftop-solar/",
-    "date": "2025-10-07",
-    "summary": "The government of Victoria, Australia, has launched the an incentive scheme to encourage businesses to install rooftop solar installations.…",
-    "source": "PV Tech",
-    "image": null
-  },
-  {
     "title": "GameChange Solar introduces rivet mounting option for Genius Tracker",
     "link": "https://www.solarpowerworldonline.com/2025/10/gamechange-solar-introduces-rivet-mounting-option-for-genius-tracker/",
     "date": "2025-10-07",
@@ -936,30 +968,6 @@
     "image": null
   },
   {
-    "title": "Sungrow and Engie complete first half of 200MW/800MW Belgium BESS",
-    "link": "https://www.energy-storage.news/sungrow-and-engie-complete-first-half-of-200mw-800mw-belgium-bess/",
-    "date": "2025-10-03",
-    "summary": "BESS provider Sungrow and power firm Engie have connected the first phase of a 400MW/800MWh project, one of the largest in Europe, to the gr…",
-    "source": "Energy-Storage.News",
-    "image": null
-  },
-  {
-    "title": "Tesla, LG ES Vertech join US Energy Storage Coalition to represent industry",
-    "link": "https://www.energy-storage.news/tesla-lg-es-vertech-join-us-energy-storage-coalition-to-represent-industry/",
-    "date": "2025-10-03",
-    "summary": "More than 30 stakeholder organisations in the US energy storage value chain have formed a new association to represent common interests.…",
-    "source": "Energy-Storage.News",
-    "image": null
-  },
-  {
-    "title": "WaterNSW picks pumped hydro sites with potential to support Australian state’s renewable energy objectives",
-    "link": "https://www.energy-storage.news/waternsw-picks-pumped-hydro-sites-with-potential-to-support-australian-states-renewable-energy-objectives/",
-    "date": "2025-10-03",
-    "summary": "WaterNSW, the state-owned water supplier to New South Wales, Australia, has selected three dams as suitable sites for pumped hydro energy st…",
-    "source": "Energy-Storage.News",
-    "image": null
-  },
-  {
     "title": "Entergy Will Power $4-Billion Google Data Center in Arkansas",
     "link": "https://www.powermag.com/entergy-will-power-4-billion-google-data-center-in-arkansas/",
     "date": "2025-10-03",
@@ -980,14 +988,6 @@
     "link": "https://www.powermag.com/duke-energy-plan-includes-new-gas-fired-plants-nuclear-additions-delayed-coal-retirements/",
     "date": "2025-10-02",
     "summary": "Duke Energy announced plans to build more natural gas-fired generation capacity and look at nuclear power in order to meet the increased dem…",
-    "source": "POWER Magazine",
-    "image": null
-  },
-  {
-    "title": "Hitachi Energy, Grid United Advance North Plains Connector to Link Eastern and Western Grids",
-    "link": "https://www.powermag.com/hitachi-energy-grid-united-advance-north-plains-connector-to-link-eastern-and-western-grids/",
-    "date": "2025-10-02",
-    "summary": "Hitachi Energy and high-voltage interregional infrastructure developer Grid United have launched the next phase of a collaboration to streng…",
     "source": "POWER Magazine",
     "image": null
   },
