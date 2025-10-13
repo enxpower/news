@@ -1,5 +1,13 @@
 [
   {
+    "title": "Global grid-scale BESS deployments up 36% in first nine months of 2025",
+    "link": "https://www.energy-storage.news/global-grid-scale-bess-deployments-up-36-first-nine-months-of-2025/",
+    "date": "2025-10-13",
+    "summary": "A total of 49.4GW/136.5GWh of grid-scale BESS came online in the first nine months of the year, up 36% compared to the same period in 2024.…",
+    "source": "Energy-Storage.News",
+    "image": null
+  },
+  {
     "title": "Akaysha Energy’s Waratah Super Battery discharges its first full output to Australia’s NEM",
     "link": "https://www.energy-storage.news/akaysha-energys-waratah-super-battery-discharges-its-first-full-output-to-australias-nem/",
     "date": "2025-10-13",
@@ -24,6 +32,22 @@
     "image": null
   },
   {
+    "title": "PowerChina and Energy China sign Saudi PV and wind contracts totalling 7GW",
+    "link": "https://www.pv-tech.org/powerchina-energychina-epc-contracts-solar-saudi-arabia/",
+    "date": "2025-10-13",
+    "summary": "Two Chinese state-owned energy enterprises have signed cooperation agreements on PV and wind power projects with Saudi companies, with the t…",
+    "source": "PV Tech",
+    "image": null
+  },
+  {
+    "title": "Grenergy breaks ground on 340MW solar, 960MWh BESS project under Chile’s Central Oasis platform",
+    "link": "https://www.pv-tech.org/grenergy-breaks-ground-on-340mw-960mwh-project-in-chiles/",
+    "date": "2025-10-13",
+    "summary": "Grenergy has begun construction on a 340MW solar project with 960MWh of energy storage in El Cabrero, located in Chile’s Biobío region.…",
+    "source": "PV Tech",
+    "image": null
+  },
+  {
     "title": "SEIA wins approval for US solar transparency standard",
     "link": "https://www.pv-tech.org/seia-transparency-standard-us-solar-supply-chain/",
     "date": "2025-10-13",
@@ -40,10 +64,26 @@
     "image": null
   },
   {
+    "title": "Ocean Winds sells stake in Lithuania's first offshore wind farm",
+    "link": "https://www.windpowermonthly.com/article/1935848/ocean-winds-sells-stake-lithuanias-first-offshore-wind-farm",
+    "date": "2025-10-13",
+    "summary": "",
+    "source": "Wind Power News & Analysis RSS Feed",
+    "image": null
+  },
+  {
     "title": "Mingyang to build major wind turbine factory in Scotland",
     "link": "https://www.windpowermonthly.com/article/1935842/mingyang-build-major-wind-turbine-factory-scotland",
     "date": "2025-10-13",
     "summary": "Chinese company Mingyang Smart Energy has confirmed plans to build a major wind turbine factory in the north of the UK as it seeks to expand…",
+    "source": "Wind Power News & Analysis RSS Feed",
+    "image": null
+  },
+  {
+    "title": "Greenpeace UK threatens to sue Crown Estate over offshore wind fees",
+    "link": "https://www.windpowermonthly.com/article/1935834/greenpeace-uk-threatens-sue-crown-estate-offshore-wind-fees",
+    "date": "2025-10-13",
+    "summary": "Environmental activist group Greenpeace UK is threatening to sue the Crown Estate over what it describes as its “monopoly profiteering” of t…",
     "source": "Wind Power News & Analysis RSS Feed",
     "image": null
   },
@@ -840,22 +880,6 @@
     "image": null
   },
   {
-    "title": "OpenSolar raises US$20 million to advance AI platform",
-    "link": "https://www.pv-tech.org/opensolar-raises-us13-1-million-to-advance-ai-platform/",
-    "date": "2025-10-07",
-    "summary": "OpenSolar has secured US$13.1 million in equity financing from technology investors, including Titanium Ventures, Google and others.…",
-    "source": "PV Tech",
-    "image": null
-  },
-  {
-    "title": "Doral secures offtake agreement for 430MW Texas solar-plus-storage project",
-    "link": "https://www.pv-tech.org/doral-secures-offtake-agreement-430mw-texas-solar-plus-storage-project/",
-    "date": "2025-10-07",
-    "summary": "Doral Renewables has secured a PPA with an unnamed 'corporate buyer' for its 430MW Cold Creek solar-plus-storage project in Texas.…",
-    "source": "PV Tech",
-    "image": null
-  },
-  {
     "title": "GameChange Solar introduces rivet mounting option for Genius Tracker",
     "link": "https://www.solarpowerworldonline.com/2025/10/gamechange-solar-introduces-rivet-mounting-option-for-genius-tracker/",
     "date": "2025-10-07",
@@ -892,14 +916,6 @@
     "link": "https://www.windpowermonthly.com/article/1935114/shrinking-margin-error-oil-tanker-narrowly-avoids-wind-farm-collision",
     "date": "2025-10-07",
     "summary": "An oil tanker in the Dutch North Sea was rescued from disaster after an engine failure sent it drifting towards the turbines of Vattenfall’s…",
-    "source": "Wind Power News & Analysis RSS Feed",
-    "image": null
-  },
-  {
-    "title": "Ørsted raises €8bn with rights issue – but still faces 'high political risk'",
-    "link": "https://www.windpowermonthly.com/article/1935102/orsted-raises-%E2%82%AC8bn-rights-issue-%E2%80%93-faces-high-political-risk",
-    "date": "2025-10-07",
-    "summary": "Danish renewables major Ørsted has lauded an improved financial outlook after announcing its success in raising around DKK 60 billion (€8 bi…",
     "source": "Wind Power News & Analysis RSS Feed",
     "image": null
   },
@@ -941,22 +957,6 @@
     "date": "2025-10-06",
     "summary": "Asset manager AIP Management has bought a 49% stake in a 2.4GWh UK portfolio from global BESS investment platform BW ESS for a deal in exces…",
     "source": "Energy-Storage.News",
-    "image": null
-  },
-  {
-    "title": "Rajasthan launches 2GWh standalone BESS tender after India relaxes VGF guidelines",
-    "link": "https://www.energy-storage.news/rajasthan-launches-2gwh-standalone-bess-tender-after-india-relaxes-vgf-guidelines/",
-    "date": "2025-10-06",
-    "summary": "Following the recent notification, the Rajasthan government will develop 500MW/2,000MWh of standalone battery energy storage systems (BESS) …",
-    "source": "Energy-Storage.News",
-    "image": null
-  },
-  {
-    "title": "SouthCoast Wind developer attacks Trump's 'bad faith lawfare tactics'",
-    "link": "https://www.windpowermonthly.com/article/1934967/southcoast-wind-developer-attacks-trumps-bad-faith-lawfare-tactics",
-    "date": "2025-10-06",
-    "summary": "Ocean Winds has blasted the Trump administration's attempt to delay a lawsuit against its planned SouthCoast Wind project off Massachusetts …",
-    "source": "Wind Power News & Analysis RSS Feed",
     "image": null
   },
   {
