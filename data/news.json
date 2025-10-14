@@ -1,5 +1,21 @@
 [
   {
+    "title": "PJM area faces urgent energy storage need, US Energy Storage Coalition reports",
+    "link": "https://www.energy-storage.news/pjm-area-faces-urgent-energy-storage-need-us-energy-storage-coalition-reports/",
+    "date": "2025-10-14",
+    "summary": "According to a new report from the US Energy Storage Coalition (ESC), PJM faces an urgent near-term requirement for affordable capacity to a…",
+    "source": "Energy-Storage.News",
+    "image": null
+  },
+  {
+    "title": "Eolian secures US$463 million for 1.7GWh Texas BESS complex",
+    "link": "https://www.energy-storage.news/eolian-secures-us463-million-for-1-7gwh-texas-bess-complex/",
+    "date": "2025-10-14",
+    "summary": "IPP Eolian has closed a US$463 million financing package to support the continued construction of Padua 2 and Padua 3, two battery energy st…",
+    "source": "Energy-Storage.News",
+    "image": null
+  },
+  {
     "title": "Germany BESS platform Terra One: ‘The delta between merchant and tolling is big’",
     "link": "https://www.energy-storage.news/germany-bess-platform-terra-one-the-delta-between-merchant-and-tolling-is-big/",
     "date": "2025-10-14",
@@ -40,6 +56,14 @@
     "image": null
   },
   {
+    "title": "PV CellTech USA takeaways: Perovskite, manufacturing bottlenecks and tariffs dominate discussions",
+    "link": "https://www.pv-tech.org/pv-celltech-usa-takeaways-perovskite-manufacturing-bottlenecks-tariffs-dominate-discussions/",
+    "date": "2025-10-14",
+    "summary": "Perovskite, tariffs, Section 232 and FEOC were among the key topics discussed at PV CellTech USA this year in San Francisco.…",
+    "source": "PV Tech",
+    "image": null
+  },
+  {
     "title": "German IPP wpd starts construction at 140MW French solar project",
     "link": "https://www.pv-tech.org/german-ipp-wpd-starts-construction-140mw-french-solar-project/",
     "date": "2025-10-14",
@@ -69,6 +93,30 @@
     "date": "2025-10-14",
     "summary": "Apple will support 650MW of projects as part of a major expansion of its renewable energy investments in Europe, aimed at reducing its carbo…",
     "source": "PV Tech",
+    "image": null
+  },
+  {
+    "title": "New guide aims to help clean energy developers build equitable partnerships with Tribal Nations",
+    "link": "https://www.solarpowerworldonline.com/2025/10/new-guide-aims-to-help-clean-energy-developers-build-equitable-partnerships-with-tribal-nations/",
+    "date": "2025-10-14",
+    "summary": "SEIA and the Alliance for Tribal Clean Energy have announced a new initiative called &#8220;Pathways to Trust: A Learning Journey Toward Equ…",
+    "source": "Solar Power World",
+    "image": null
+  },
+  {
+    "title": "Wallbox bidirectional EV charger available to American Kia EV9 owners",
+    "link": "https://www.solarpowerworldonline.com/2025/10/wallbox-bidirectional-ev-charger-available-to-american-kia-ev9-owners/",
+    "date": "2025-10-14",
+    "summary": "Wallbox has completed its first installation of its Quasar 2 bidirectional EV charger in the United States. American households can power th…",
+    "source": "Solar Power World",
+    "image": null
+  },
+  {
+    "title": "Equity Solar Illinois completes 6-MW community solar project that will benefit environmental nonprofit",
+    "link": "https://www.solarpowerworldonline.com/2025/10/equity-solar-illinois-completes-new-6-mw-community-solar-project-that-will-benefit-environmental-nonprofit/",
+    "date": "2025-10-14",
+    "summary": "Equity Solar Illinois (ESI) announced the completion of its second community solar project in the state. The 6.07-MWDC project, known as Ori…",
+    "source": "Solar Power World",
     "image": null
   },
   {
@@ -104,6 +152,14 @@
     "image": null
   },
   {
+    "title": "Analog Devices Unveils ADI Power Studio to Streamline Power Management Design",
+    "link": "https://www.powerelectronicsnews.com/analog-devices-unveils-adi-power-studio-to-streamline-power-management-design/",
+    "date": "2025-10-14",
+    "summary": "<img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"627\" src=\"https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2…",
+    "source": "Power Electronics News",
+    "image": null
+  },
+  {
     "title": "PEN eBook October 2025 – Engineering Tomorrow: GaN, SiC, and the Future of Sustainable Energy Systems",
     "link": "https://www.powerelectronicsnews.com/pen-ebook-october-2025-engineering-tomorrow-gan-sic-and-the-future-of-sustainable-energy-systems/",
     "date": "2025-10-14",
@@ -117,6 +173,86 @@
     "date": "2025-10-14",
     "summary": "A study found that machine learning, dynamic cryptography, and forensic analysis can harden industrial control systems against sophisticated…",
     "source": "EE Power",
+    "image": null
+  },
+  {
+    "title": "UAE rises as data centre hub amid $562 bn EMEA development boom",
+    "link": "https://www.constructionweekonline.com/business/insights/uae-data-centre-hub-emea",
+    "date": "2025-10-14",
+    "summary": "<figure><img alt=\"UAE data centre EMEA\" class=\"attachment-medium size-medium wp-post-image\" height=\"563\" src=\"https://www.constructionweekon…",
+    "source": "Construction Week Online",
+    "image": null
+  },
+  {
+    "title": "Saudi Arabia: IHCC’s Sultan Batterjee on delivering high-performance buildings in the region",
+    "link": "https://www.constructionweekonline.com/business/insights/saudi-arabia-ihcc-sultan-batterjee",
+    "date": "2025-10-14",
+    "summary": "<figure><img alt=\"Saudi Arabia: IHCC\" class=\"attachment-medium size-medium wp-post-image\" height=\"667\" src=\"https://www.constructionweekonli…",
+    "source": "Construction Week Online",
+    "image": null
+  },
+  {
+    "title": "Gitex Global 2025: Robots walking among humans. Is this the new normal?",
+    "link": "https://www.constructionweekonline.com/news/gitex-global-2025robots",
+    "date": "2025-10-14",
+    "summary": "<figure><img alt=\"Gitex\" class=\"attachment-medium size-medium wp-post-image\" height=\"631\" src=\"https://www.constructionweekonline.com/cloud/…",
+    "source": "Construction Week Online",
+    "image": null
+  },
+  {
+    "title": "Construction Voices Ep 42: SOL Properties, building on a 50-year legacy in Dubai",
+    "link": "https://www.constructionweekonline.com/multimedia/construction-voices-ep-42-sol-properties-building-on-a-50-year-legacy-in-dubai",
+    "date": "2025-10-14",
+    "summary": "<figure><img alt=\"Construction Voices Ep 42: SOL Properties, building on a 50-year legacy in Dubai\" class=\"attachment-medium size-medium wp-…",
+    "source": "Construction Week Online",
+    "image": null
+  },
+  {
+    "title": "London Gate and Franck Muller celebrate key construction milestones as partnership grows",
+    "link": "https://www.constructionweekonline.com/news/london-gate-franck-muller",
+    "date": "2025-10-14",
+    "summary": "<figure><img alt=\"Franck Muller\" class=\"attachment-medium size-medium wp-post-image\" height=\"563\" src=\"https://www.constructionweekonline.co…",
+    "source": "Construction Week Online",
+    "image": null
+  },
+  {
+    "title": "Gitex Global 2025: Dubai Taxi Company (DTC) to launch new electric taxi",
+    "link": "https://www.constructionweekonline.com/news/gitex-2025-dubai-taxi-company",
+    "date": "2025-10-14",
+    "summary": "<figure><img alt=\"Gitex\" class=\"attachment-medium size-medium wp-post-image\" height=\"634\" src=\"https://www.constructionweekonline.com/cloud/…",
+    "source": "Construction Week Online",
+    "image": null
+  },
+  {
+    "title": "Season 3 of Casa Milano’s Design Duels celebrated UAE’s design industry with sports and networking",
+    "link": "https://www.constructionweekonline.com/news/casa-milano-design-duels",
+    "date": "2025-10-14",
+    "summary": "<figure><img alt=\"Casa Milano\" class=\"attachment-medium size-medium wp-post-image\" height=\"667\" src=\"https://www.constructionweekonline.com/…",
+    "source": "Construction Week Online",
+    "image": null
+  },
+  {
+    "title": "Dubai Metro reinforces commuter etiquette with new fines",
+    "link": "https://www.constructionweekonline.com/news/dubai-metro-new-fines-news",
+    "date": "2025-10-14",
+    "summary": "<figure><img alt=\"Dubai Metro reinforces commuter etiquette with new fines\" class=\"attachment-medium size-medium wp-post-image\" height=\"667\"…",
+    "source": "Construction Week Online",
+    "image": null
+  },
+  {
+    "title": "The green standard : How Centurion Properties is transforming the Middle East’s skyline",
+    "link": "https://www.constructionweekonline.com/features/centurion-properties",
+    "date": "2025-10-14",
+    "summary": "<figure><img alt=\"Centurion Properties\" class=\"attachment-medium size-medium wp-post-image\" height=\"625\" src=\"https://www.constructionweekon…",
+    "source": "Construction Week Online",
+    "image": null
+  },
+  {
+    "title": "Etihad Rail: Travel times announced",
+    "link": "https://www.constructionweekonline.com/news/etihad-rail-travel-times",
+    "date": "2025-10-14",
+    "summary": "<figure><img alt=\"Etihad Rail\" class=\"attachment-medium size-medium wp-post-image\" height=\"750\" src=\"https://www.constructionweekonline.com/…",
+    "source": "Construction Week Online",
     "image": null
   },
   {
@@ -280,6 +416,22 @@
     "image": null
   },
   {
+    "title": "FirstEnergy Plan Calls for New Gas-Fired Plant, Continued Coal-Fired Generation",
+    "link": "https://www.powermag.com/firstenergy-plan-calls-for-new-gas-fired-plant-continued-coal-fired-generation/",
+    "date": "2025-10-13",
+    "summary": "FirstEnergy Corp. has submitted a plan to build a new 1,200-MW natural gas-fired combined-cycle power plant to serve customers in West Virgi…",
+    "source": "POWER Magazine",
+    "image": null
+  },
+  {
+    "title": "Energy: The Most Critical 7% of America’s GDP",
+    "link": "https://www.powermag.com/energy-the-most-critical-7-of-americas-gdp/",
+    "date": "2025-10-13",
+    "summary": "The true engine of America’s economy might surprise you. It’s not tech. It’s not artificial intelligence, finance, or manufacturing. It’s en…",
+    "source": "POWER Magazine",
+    "image": null
+  },
+  {
     "title": "AOS Empowers NVIDIA’s 800VDC AI Data Center Vision with Advanced SiC and GaN Power Solutions",
     "link": "https://www.powerelectronicsnews.com/aos-empowers-nvidias-800vdc-ai-data-center-vision-with-advanced-sic-and-gan-power-solutions/",
     "date": "2025-10-13",
@@ -344,14 +496,6 @@
     "image": null
   },
   {
-    "title": "Imec Launches 300-mm GaN Development Program for Advanced Power Electronics",
-    "link": "https://www.powerelectronicsnews.com/imec-launches-300-mm-gan-development-program-for-advanced-power-electronics/",
-    "date": "2025-10-13",
-    "summary": "<img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"1000\" src=\"https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/…",
-    "source": "Power Electronics News",
-    "image": null
-  },
-  {
     "title": "Reports of Silicon’s Death Have Been Greatly Exaggerated",
     "link": "https://eepower.com/technical-articles/reports-of-silicons-death-have-been-greatly-exaggerated/",
     "date": "2025-10-13",
@@ -368,11 +512,115 @@
     "image": null
   },
   {
+    "title": "Emrill awarded FM contract for The Royal Stables in Abu Dhabi",
+    "link": "https://www.constructionweekonline.com/people/appointments/emrill-royal-stables-abu-dhabi",
+    "date": "2025-10-13",
+    "summary": "<figure><img alt=\"Emrill awarded FM contract for The Royal Stables in Abu Dhabi\" class=\"attachment-medium size-medium wp-post-image\" height=…",
+    "source": "Construction Week Online",
+    "image": null
+  },
+  {
+    "title": "Bentley Systems welcomes Cate Lochead as Chief Marketing Officer",
+    "link": "https://www.constructionweekonline.com/people/appointments/bentley-systems-appointment",
+    "date": "2025-10-13",
+    "summary": "<figure><img alt=\"Bentley Systems\" class=\"attachment-medium size-medium wp-post-image\" height=\"588\" src=\"https://www.constructionweekonline.…",
+    "source": "Construction Week Online",
+    "image": null
+  },
+  {
+    "title": "The sustainability challenge facing Middle East data centres",
+    "link": "https://www.constructionweekonline.com/business/insights/sustainability-data-centres",
+    "date": "2025-10-13",
+    "summary": "<figure><img alt=\"The sustainability challenge facing Middle East data centres\" class=\"attachment-medium size-medium wp-post-image\" height=\"…",
+    "source": "Construction Week Online",
+    "image": null
+  },
+  {
+    "title": "Tarrad Development launches 3 new residential projects in Dubai",
+    "link": "https://www.constructionweekonline.com/projects-tenders/tarrad-development-dubai",
+    "date": "2025-10-13",
+    "summary": "<figure><img alt=\"Tarrad Development launches 3 new residential projects in Dubai\" class=\"attachment-medium size-medium wp-post-image\" heigh…",
+    "source": "Construction Week Online",
+    "image": null
+  },
+  {
+    "title": "Dubai Healthcare City Authority unveils $354 mn development plan",
+    "link": "https://www.constructionweekonline.com/projects-tenders/dubai-healthcare-city-authority",
+    "date": "2025-10-13",
+    "summary": "<figure><img alt=\"Dubai Healthcare\" class=\"attachment-medium size-medium wp-post-image\" height=\"563\" src=\"https://www.constructionweekonline…",
+    "source": "Construction Week Online",
+    "image": null
+  },
+  {
+    "title": "Al Ghurair launches Wedyan — Kengo Kuma’s first UAE project",
+    "link": "https://www.constructionweekonline.com/projects-tenders/al-ghurair-wedyan-kengo-kuma",
+    "date": "2025-10-13",
+    "summary": "<figure><img alt=\"Al Ghurair Kengo Kuma\" class=\"attachment-medium size-medium wp-post-image\" height=\"750\" src=\"https://www.constructionweeko…",
+    "source": "Construction Week Online",
+    "image": null
+  },
+  {
+    "title": "The Red Sea EDITION opens as the first hotel on Shura Island",
+    "link": "https://www.constructionweekonline.com/gigaprojects/red-sea/red-sea-edition-shura-island",
+    "date": "2025-10-13",
+    "summary": "<figure><img alt=\"Red Sea\" class=\"attachment-medium size-medium wp-post-image\" height=\"667\" src=\"https://www.constructionweekonline.com/clou…",
+    "source": "Construction Week Online",
+    "image": null
+  },
+  {
+    "title": "Emaar Hospitality Group, Alef Group to launch Palace Residences Al Mamsha in Sharjah",
+    "link": "https://www.constructionweekonline.com/projects-tenders/emaar-group-alef-group",
+    "date": "2025-10-13",
+    "summary": "<figure><img alt=\"emaar\" class=\"attachment-medium size-medium wp-post-image\" height=\"667\" src=\"https://www.constructionweekonline.com/cloud/…",
+    "source": "Construction Week Online",
+    "image": null
+  },
+  {
+    "title": "How Aark Developers’ SORA Beach Residences is redefining RAK’s luxury real estate scene",
+    "link": "https://www.constructionweekonline.com/features/aark-developers-rak-real-estate",
+    "date": "2025-10-13",
+    "summary": "<figure><img alt=\"RAK\" class=\"attachment-medium size-medium wp-post-image\" height=\"588\" src=\"https://www.constructionweekonline.com/cloud/20…",
+    "source": "Construction Week Online",
+    "image": null
+  },
+  {
+    "title": "The human AI alliance: How AtkinsRéalis is using AI-powered tools to crowdsource innovation",
+    "link": "https://www.constructionweekonline.com/business/insights/ai-atkinsrealis-innovation",
+    "date": "2025-10-13",
+    "summary": "<figure><img alt=\"The human AI alliance: How AtkinsRéalis is using AI-powered tools to crowdsource innovation\" class=\"attachment-medium size…",
+    "source": "Construction Week Online",
+    "image": null
+  },
+  {
+    "title": "Vision 2030: PIF acquires EA. What does this mean for Qiddiya?",
+    "link": "https://www.constructionweekonline.com/business/insights/vision-2030-pif-acquires-ea-what-does-this-mean-for-qiddiya",
+    "date": "2025-10-13",
+    "summary": "<figure><img alt=\"Vision 2030: PIF acquires EA. What does this mean for Qiddiya?\" class=\"attachment-medium size-medium wp-post-image\" height…",
+    "source": "Construction Week Online",
+    "image": null
+  },
+  {
     "title": "High-Voltage Testing and Insulation Coordination—Part 4",
     "link": "https://eepower.com/technical-articles/high-voltage-testing-and-insulation-coordinationpart-4/",
     "date": "2025-10-12",
     "summary": "In this article, learn methods for mitigating lightning- and switching-induced overvoltages in high-voltage networks through surge arresters…",
     "source": "EE Power",
+    "image": null
+  },
+  {
+    "title": "The rise of ‘Whycations’, is among Hilton’s leading travel trends for KSA residents",
+    "link": "https://www.constructionweekonline.com/business/insights/whycations-hilton-ksa-residents",
+    "date": "2025-10-12",
+    "summary": "<figure><img alt=\"The rise of ‘Whycations’, is among Hilton’s leading travel trends for KSA residents\" class=\"attachment-medium size-medium …",
+    "source": "Construction Week Online",
+    "image": null
+  },
+  {
+    "title": "Biophilic design: Why gardened residences drive higher ROI, tenant loyalty in the GCC",
+    "link": "https://www.constructionweekonline.com/business/insights/biophilic-design-gcc-op-ed",
+    "date": "2025-10-11",
+    "summary": "<figure><img alt=\"Biophilic design\" class=\"attachment-medium size-medium wp-post-image\" height=\"667\" src=\"https://www.constructionweekonline…",
+    "source": "Construction Week Online",
     "image": null
   },
   {
@@ -520,11 +768,67 @@
     "image": null
   },
   {
+    "title": "State Leaders Work to Advance U.S. Nuclear Energy Projects",
+    "link": "https://www.powermag.com/state-leaders-work-to-advance-u-s-nuclear-energy-projects/",
+    "date": "2025-10-10",
+    "summary": "Governors from 11 states, working through the National Association of State Energy Officials (NASEO), have launched the Advanced Nuclear Fir…",
+    "source": "POWER Magazine",
+    "image": null
+  },
+  {
+    "title": "Enchanted Rock Introduces ERT500 and RockBlock Advanced Onsite Power Generation Technologies",
+    "link": "https://www.powermag.com/enchanted-rock-introduces-ert500-and-rockblock-advanced-onsite-power-generation-technologies/",
+    "date": "2025-10-10",
+    "summary": "Enchanted Rock, the recognized leader in power resiliency, recently unveiled its next-generation dispatchable natural gas systems built to h…",
+    "source": "POWER Magazine",
+    "image": null
+  },
+  {
     "title": "VPPs Are Growing, but Not Fast Enough for Demand",
     "link": "https://eepower.com/market-insights/vpps-are-growing-but-not-fast-enough-for-demand/",
     "date": "2025-10-10",
     "summary": "VPP deployments jumped 33% in 2024, but new capacity remains muted.…",
     "source": "EE Power",
+    "image": null
+  },
+  {
+    "title": "Saudi Water Authority extends registration for 2nd edition of “Miyahthon”",
+    "link": "https://www.constructionweekonline.com/events/saudi-water-authority-miyahthon",
+    "date": "2025-10-10",
+    "summary": "<figure><img alt=\"Saudi Water Authority Extends Registration for Second Global “Miyahthon” Hackathon\" class=\"attachment-medium size-medium w…",
+    "source": "Construction Week Online",
+    "image": null
+  },
+  {
+    "title": "How OPTIMA, an allied practice of KEO, is reshaping FM in the Middle East",
+    "link": "https://www.constructionweekonline.com/features/optima-keo-fm-middle-east",
+    "date": "2025-10-10",
+    "summary": "<figure><img alt=\"KEO\" class=\"attachment-medium size-medium wp-post-image\" height=\"594\" src=\"https://www.constructionweekonline.com/cloud/20…",
+    "source": "Construction Week Online",
+    "image": null
+  },
+  {
+    "title": "The future of comfort is clean and smart, says Ariston’s Alberto Torner",
+    "link": "https://www.constructionweekonline.com/business/insights/ariston-the-future-of-comfort-is-clean-and-smart",
+    "date": "2025-10-10",
+    "summary": "<figure><img alt=\"The future of comfort is clean and smart, says Ariston&#039;s Alberto Torner\" class=\"attachment-medium size-medium wp-post…",
+    "source": "Construction Week Online",
+    "image": null
+  },
+  {
+    "title": "Red Sea Global’s John Pagano granted Saudi citizenship",
+    "link": "https://www.constructionweekonline.com/news/red-sea-global-john-pagano",
+    "date": "2025-10-10",
+    "summary": "<figure><img alt=\"Red sea global john pagano\" class=\"attachment-medium size-medium wp-post-image\" height=\"750\" src=\"https://www.construction…",
+    "source": "Construction Week Online",
+    "image": null
+  },
+  {
+    "title": "From Guinness glory to global vision: BIDllc is charting a bold course",
+    "link": "https://www.constructionweekonline.com/features/guinness-global-vision-bidllc",
+    "date": "2025-10-10",
+    "summary": "<figure><img alt=\"Guinness BIDllc\" class=\"attachment-medium size-medium wp-post-image\" height=\"667\" src=\"https://www.constructionweekonline.…",
+    "source": "Construction Week Online",
     "image": null
   },
   {
@@ -736,6 +1040,14 @@
     "image": null
   },
   {
+    "title": "Investor-Owned Utilities to Spend $1.1T in Grid Boost as Power Demand Spirals",
+    "link": "https://www.powermag.com/investor-owned-utilities-to-spend-1-1t-in-grid-boost-as-power-demand-spirals/",
+    "date": "2025-10-09",
+    "summary": "America’s investor-owned electric companies are poised to deploy record-setting investment to launch one of the most aggressive infrastructu…",
+    "source": "POWER Magazine",
+    "image": null
+  },
+  {
     "title": "Field Failures in Power Modules—Potential Root Causes and How to Avoid Them",
     "link": "https://eepower.com/technical-articles/field-failures-in-power-modules-potential-root-causes-and-approaches-how-to-avoid-them/",
     "date": "2025-10-09",
@@ -749,6 +1061,22 @@
     "date": "2025-10-09",
     "summary": "Tesla, Siemens, Honeywell, LS Electric, and a French microreactor manufacturer are planning for future energy needs.…",
     "source": "EE Power",
+    "image": null
+  },
+  {
+    "title": "Downtown UAQ | Sobha Realty sells over 50% of launch inventory",
+    "link": "https://www.constructionweekonline.com/news/downtown-uaq-sobha-realty",
+    "date": "2025-10-09",
+    "summary": "<figure><img alt=\"Sobha\" class=\"attachment-medium size-medium wp-post-image\" height=\"727\" src=\"https://www.constructionweekonline.com/cloud/…",
+    "source": "Construction Week Online",
+    "image": null
+  },
+  {
+    "title": "Al Majal Al Arabi Group, MAN Enterprise sign $245 mn deal for Diriyah Grand Mosque",
+    "link": "https://www.constructionweekonline.com/people/appointments/grand-mosque-project-diriyah",
+    "date": "2025-10-09",
+    "summary": "<figure><img alt=\"Diriyah \" class=\"attachment-medium size-medium wp-post-image\" height=\"666\" src=\"https://www.constructionweekonline.com/clo…",
+    "source": "Construction Week Online",
     "image": null
   },
   {
@@ -784,14 +1112,6 @@
     "image": null
   },
   {
-    "title": "Potentia’s 500MW solar-plus-storage site in Australia receives NSW approval",
-    "link": "https://www.energy-storage.news/potentias-500mw-solar-plus-storage-site-in-australia-receives-nsw-approval/",
-    "date": "2025-10-08",
-    "summary": "The NSW Independent Planning Commission has granted planning approval for Potentia Energy's 500MW Tallawang solar-plus-storage project.…",
-    "source": "Energy-Storage.News",
-    "image": null
-  },
-  {
     "title": "Potentia Energy bags NSW approval for 500MW solar-plus-storage site in Australia",
     "link": "https://www.pv-tech.org/potentia-energy-bags-nsw-approval-for-500mw-solar-plus-storage-site-in-australia/",
     "date": "2025-10-08",
@@ -813,38 +1133,6 @@
     "date": "2025-10-08",
     "summary": "Despite policy headwinds on the federal level, there is optimism for the future of the US solar and storage sector.…",
     "source": "PV Tech",
-    "image": null
-  },
-  {
-    "title": "How 35 years of solar evolution in Australia created the ‘world’s most sophisticated grid’",
-    "link": "https://www.pv-tech.org/how-35-years-of-solar-evolution-in-australia-created-the-worlds-most-sophisticated-grid/",
-    "date": "2025-10-08",
-    "summary": "PV Talk: Smart Energy Council's Nigel Morris reflects on how Australia has become a global testbed for distributed solar and storage innovat…",
-    "source": "PV Tech",
-    "image": null
-  },
-  {
-    "title": "DOE adds hundreds more energy projects to termination list",
-    "link": "https://www.solarpowerworldonline.com/2025/10/doe-adds-hundreds-more-energy-projects-to-termination-list/",
-    "date": "2025-10-08",
-    "summary": "The Dept. of Energy is circulating a new list of energy project grant cancelations just a week after it announced plans to cancel 300+ grant…",
-    "source": "Solar Power World",
-    "image": null
-  },
-  {
-    "title": "Sunstone Credit unveils commercial loan for standalone storage",
-    "link": "https://www.solarpowerworldonline.com/2025/10/sunstone-credit-unveils-commercial-loan-for-standalone-storage/",
-    "date": "2025-10-08",
-    "summary": "Commercial lending platform Sunstone Credit has released a new loan designed specifically for standalone commercial energy storage: SOL. Sun…",
-    "source": "Solar Power World",
-    "image": null
-  },
-  {
-    "title": "Paired Power and PHNXX develop assembly-free deployable solar microgrid",
-    "link": "https://www.solarpowerworldonline.com/2025/10/paired-power-and-phnxx-develop-assembly-free-deployable-solar-microgrid/",
-    "date": "2025-10-08",
-    "summary": "Paired Power, a solar-powered microgrid systems and software manufacturer, has partnered with PHNXX, an Australia-based designer and manufac…",
-    "source": "Solar Power World",
     "image": null
   },
   {
@@ -880,6 +1168,38 @@
     "image": null
   },
   {
+    "title": "EPA Extends Steam-Electric Wastewater Deadlines to 2034, Citing Grid Reliability and Rising Power Demand",
+    "link": "https://www.powermag.com/epa-extends-steam-electric-wastewater-deadlines-to-2034-citing-grid-reliability-and-rising-power-demand/",
+    "date": "2025-10-08",
+    "summary": "The U.S. Environmental Protection Agency (EPA) has moved to shift capital planning and permitting timelines for the nation’s remaining coal-…",
+    "source": "POWER Magazine",
+    "image": null
+  },
+  {
+    "title": "India Invests in More Coal-Fired Power to Support Increased Need for Electricity",
+    "link": "https://www.powermag.com/india-invests-in-more-coal-fired-power-to-support-increased-need-for-electricity/",
+    "date": "2025-10-08",
+    "summary": "Regional areas of India are withdrawing incentives for renewable energy projects and instead signing long-term contracts to buy more coal-fi…",
+    "source": "POWER Magazine",
+    "image": null
+  },
+  {
+    "title": "Why This Summer’s Heat Proved the Case for a Smarter Grid",
+    "link": "https://www.powermag.com/why-this-summers-heat-proved-the-case-for-a-smarter-grid/",
+    "date": "2025-10-08",
+    "summary": "The summer of 2025 pushed the U.S. electric grid to its limits. A brutal heat dome swept across the East Coast, while a powerful derecho tor…",
+    "source": "POWER Magazine",
+    "image": null
+  },
+  {
+    "title": "GE Vernova Group, Samsung C&T Form Alliance to Advance BWRX-300 SMR",
+    "link": "https://www.powermag.com/ge-vernova-group-samsung-ct-form-alliance-to-advance-bwrx-300-smr/",
+    "date": "2025-10-08",
+    "summary": "GE Vernova Hitachi Nuclear Energy (GVH) and Samsung C&#38;T, a leading construction and engineering company, announced a strategic alliance …",
+    "source": "POWER Magazine",
+    "image": null
+  },
+  {
     "title": "Green Gravity Tests Energy Storage in Australian Mine Shaft",
     "link": "https://eepower.com/news/green-gravity-tests-energy-storage-in-australian-mine-shaft/",
     "date": "2025-10-08",
@@ -896,19 +1216,19 @@
     "image": null
   },
   {
-    "title": "BSW-Solar calls for 100GWh of German storage deployments by 2030",
-    "link": "https://www.energy-storage.news/bsw-solar-calls-for-100gwh-german-storage-deployments-2030/",
-    "date": "2025-10-07",
-    "summary": "BSW-Solar has called on the German government to impose a target of 100GWh of cumulative operational BESS by 2030.…",
-    "source": "Energy-Storage.News",
-    "image": null
-  },
-  {
     "title": "Enercon partners with Canadian firm for 'feather-based' turbine noise reduction",
     "link": "https://www.windpowermonthly.com/article/1935214/enercon-partners-canadian-firm-feather-based-turbine-noise-reduction",
     "date": "2025-10-07",
     "summary": "",
     "source": "Wind Power News & Analysis RSS Feed",
+    "image": null
+  },
+  {
+    "title": "Continuing Innovation: The Second Century of Russia’s VVER Nuclear Technology",
+    "link": "https://www.powermag.com/continuing-innovation-the-second-century-of-russias-vver-nuclear-technology/",
+    "date": "2025-10-07",
+    "summary": "The VVER (water-water energetic reactor) technology was born during the time of the Soviet Union. In its main features (light water under pr…",
+    "source": "POWER Magazine",
     "image": null
   },
   {
