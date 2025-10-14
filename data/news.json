@@ -1,5 +1,13 @@
 [
   {
+    "title": "Germany BESS platform Terra One: ‘The delta between merchant and tolling is big’",
+    "link": "https://www.energy-storage.news/germany-bess-platform-terra-one-the-delta-between-merchant-and-tolling-is-big/",
+    "date": "2025-10-14",
+    "summary": "We catch up with the CFO and co-founder of German BESS own-operate platform Terra One, after its €150 million (US$173 million) mezzanine fin…",
+    "source": "Energy-Storage.News",
+    "image": null
+  },
+  {
     "title": "Kyoto Group’s 56MWh thermal energy storage system replaces natural gas at corn processing plant in Hungary",
     "link": "https://www.energy-storage.news/kyoto-groups-56mwh-thermal-energy-storage-system-replaces-natural-gas-at-corn-processing-plant-in-hungary/",
     "date": "2025-10-14",
@@ -64,6 +72,22 @@
     "image": null
   },
   {
+    "title": "California passes battery storage safety standards after Moss Landing fire",
+    "link": "https://www.solarpowerworldonline.com/2025/10/california-passes-battery-storage-safety-standards-after-moss-landing-fire/",
+    "date": "2025-10-14",
+    "summary": "California Gov. Gavin Newsom signed Senate Bill 283, authored by state Sen. John Laird (D-Santa Cruz), into law last week. The bill, sponsor…",
+    "source": "Solar Power World",
+    "image": null
+  },
+  {
+    "title": "T1 buys minority stake in under-development Talon PV",
+    "link": "https://www.solarpowerworldonline.com/2025/10/t1-buys-minority-stake-in-under-development-talon-pv/",
+    "date": "2025-10-14",
+    "summary": "T1 Energy now has a minority equity stake in rival U.S. silicon solar cell developer Talon PV. T1 operates Trina Solar&#8217;s former solar …",
+    "source": "Solar Power World",
+    "image": null
+  },
+  {
     "title": "RWE scraps 2GW Australian offshore wind farm",
     "link": "https://www.windpowermonthly.com/article/1935969/rwe-scraps-2gw-australian-offshore-wind-farm",
     "date": "2025-10-14",
@@ -85,6 +109,14 @@
     "date": "2025-10-14",
     "summary": "<img alt=\"Cover of PEN eBook October 2025 on GaN and SiC technologies featuring innovations in sustainable energy systems, electric mobility…",
     "source": "Power Electronics News",
+    "image": null
+  },
+  {
+    "title": "Machine Learning Detects and Prevents Grid Cyberattacks",
+    "link": "https://eepower.com/market-insights/machine-learning-detects-and-prevents-grid-cyberattacks/",
+    "date": "2025-10-14",
+    "summary": "A study found that machine learning, dynamic cryptography, and forensic analysis can harden industrial control systems against sophisticated…",
+    "source": "EE Power",
     "image": null
   },
   {
@@ -816,22 +848,6 @@
     "image": null
   },
   {
-    "title": "Dominion Energy seeks new solar and storage projects in Virginia and North Carolina",
-    "link": "https://www.solarpowerworldonline.com/2025/10/dominion-energy-seeks-new-solar-and-storage-projects-in-virginia-and-north-carolina/",
-    "date": "2025-10-08",
-    "summary": "In their annual RFPs, Dominion Energy Virginia (DEV) and Dominion Energy North Carolina (DENC) announced they are seeking proposals for new …",
-    "source": "Solar Power World",
-    "image": null
-  },
-  {
-    "title": "SEIA launches website to match solar developers with recycling partners",
-    "link": "https://www.solarpowerworldonline.com/2025/10/seia-launches-website-to-help-match-solar-developers-with-recycling-partners/",
-    "date": "2025-10-08",
-    "summary": "SEIA announced it is launching SolarRecycle.org, a new platform to strengthen the long-term sustainability of solar and storage and connect …",
-    "source": "Solar Power World",
-    "image": null
-  },
-  {
     "title": "Equinor reveals $400 million hit on Ørsted shares",
     "link": "https://www.windpowermonthly.com/article/1935402/equinor-reveals-400-million-hit-orsted-shares",
     "date": "2025-10-08",
@@ -884,14 +900,6 @@
     "link": "https://www.energy-storage.news/bsw-solar-calls-for-100gwh-german-storage-deployments-2030/",
     "date": "2025-10-07",
     "summary": "BSW-Solar has called on the German government to impose a target of 100GWh of cumulative operational BESS by 2030.…",
-    "source": "Energy-Storage.News",
-    "image": null
-  },
-  {
-    "title": "‘The industry must do a better job of putting BESS safety in perspective’: Prevalon and Honeywell on addressing BESS fire safety",
-    "link": "https://www.energy-storage.news/the-industry-must-do-a-better-job-of-putting-bess-safety-in-perspective-prevalon-and-honeywell-on-addressing-bess-fire-safety/",
-    "date": "2025-10-07",
-    "summary": "Energy-Storage.news Premium hears from a representative from Honeywell and Alejandro Schnakofsky, CTO of Prevalon, on fire safety in the bat…",
     "source": "Energy-Storage.News",
     "image": null
   },
@@ -988,14 +996,6 @@
     "link": "https://eepower.com/news/robot-recycler-project-gives-new-life-to-old-ev-batteries/",
     "date": "2025-09-29",
     "summary": "The Recirculate project uses AI, machine Learning, and an industrial robot to disassemble electric vehicle batteries for recycling.…",
-    "source": "EE Power",
-    "image": null
-  },
-  {
-    "title": "US Lab Research Boosts Batteries, Power Modules, Grid Security",
-    "link": "https://eepower.com/market-insights/u.s-lab-research-boosts-batteries-power-modules-grid-security/",
-    "date": "2025-09-29",
-    "summary": "National laboratories have discovered solutions for solid-state batteries, smart power modules, and grid cybersecurity.…",
     "source": "EE Power",
     "image": null
   }
