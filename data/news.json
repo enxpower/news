@@ -1,5 +1,13 @@
 [
   {
+    "title": "US ROUNDUP: ESS Inc LDES pilot, investments in Energy Vault, NineDot",
+    "link": "https://www.energy-storage.news/us-roundup-ess-inc-ldes-pilot-investments-in-energy-vault-ninedot/",
+    "date": "2025-10-15",
+    "summary": "Energy storage developers are securing significant capital and strategic partnerships, with ESS Inc launching a 50MWh iron flow battery pilo…",
+    "source": "Energy-Storage.News",
+    "image": null
+  },
+  {
     "title": "Long-term risk, KPIs and the value of developers and optimisers in BESS asset management",
     "link": "https://www.energy-storage.news/long-term-risk-kpis-and-the-value-of-developers-and-optimisers-in-bess-asset-management/",
     "date": "2025-10-15",
@@ -104,6 +112,22 @@
     "image": null
   },
   {
+    "title": "EDP Renewables empowers Texas community with 180-MW solar project",
+    "link": "https://www.solarpowerworldonline.com/2025/10/edp-renewables-empowers-texas-community-with-solar-project/",
+    "date": "2025-10-15",
+    "summary": "EDP Renewables North America (EDPR NA) completed the 180-MW Azalea Springs Solar project in Angelina County, Texas. Azalea Springs Solar wil…",
+    "source": "Solar Power World",
+    "image": null
+  },
+  {
+    "title": "Winchester solar + storage project on the books in Arizona",
+    "link": "https://www.solarpowerworldonline.com/2025/10/winchester-solar-storage-project-on-the-books-in-arizona/",
+    "date": "2025-10-15",
+    "summary": "Torch Clean Energy will build the Winchester solar + storage project in Cochise County, Arizona. The twin 80-MW solar projects will be suppo…",
+    "source": "Solar Power World",
+    "image": null
+  },
+  {
     "title": "Renewable energy advocates urge Illinois legislature to pass grid overhaul bill",
     "link": "https://www.solarpowerworldonline.com/2025/10/renewable-energy-advocates-urge-illinois-legislature-to-pass-grid-overhaul-bill/",
     "date": "2025-10-15",
@@ -173,14 +197,6 @@
     "date": "2025-10-15",
     "summary": "Around 150 workers producing monopiles for Ørsted's Hornsea 3 offshore wind project are on strike today (15 October) after last ditch talks …",
     "source": "Wind Power News & Analysis RSS Feed",
-    "image": null
-  },
-  {
-    "title": "Amazon Unveils ‘Cascade’—Energy Northwest’s Xe-100 SMR Project, Targeting Construction by 2030",
-    "link": "https://www.powermag.com/amazon-unveils-cascade-energy-northwests-xe-100-smr-project-targeting-construction-by-2030/",
-    "date": "2025-10-15",
-    "summary": "Amazon has unveiled detailed plans and renderings for the Cascade Advanced Energy Facility, an initial 320-MW small modular reactor (SMR) co…",
-    "source": "POWER Magazine",
     "image": null
   },
   {
@@ -348,22 +364,6 @@
     "link": "https://www.solarpowerworldonline.com/2025/10/sunstone-credit-gives-bankable-title-to-helioscope-from-aurora-solar/",
     "date": "2025-10-14",
     "summary": "Commercial lender Sunstone Credit has deemed the HelioScope solar design platform from Aurora Solar as &#8220;bankable&#8221; and a trustwor…",
-    "source": "Solar Power World",
-    "image": null
-  },
-  {
-    "title": "Ciel & Terre unveils honeycomb-shaped floating solar racking",
-    "link": "https://www.solarpowerworldonline.com/2025/10/ciel-terre-unveils-honeycomb-shaped-floating-solar-racking/",
-    "date": "2025-10-14",
-    "summary": "Floating solar racking company Ciel &#38; Terre has released Fusio, a new floating racking with a triangular design inspired by the principl…",
-    "source": "Solar Power World",
-    "image": null
-  },
-  {
-    "title": "Solar Spotlight: Building a domestic content strategy",
-    "link": "https://www.solarpowerworldonline.com/2025/10/solar-spotlight-building-a-domestic-content-strategy/",
-    "date": "2025-10-14",
-    "summary": "The Trump Administration has reversed Inflation Reduction Act tax incentives that have bolstered solar’s domestic manufacturing and installa…",
     "source": "Solar Power World",
     "image": null
   },
@@ -848,14 +848,6 @@
     "image": null
   },
   {
-    "title": "Australia’s Capacity Investment Scheme Tender 4 sees 11.4GWh of solar-plus-storage awarded",
-    "link": "https://www.energy-storage.news/australias-capacity-investment-scheme-tender-4-sees-11-4gwh-of-solar-plus-storage-awarded/",
-    "date": "2025-10-09",
-    "summary": "Australia has announced the results of the fourth Capacity Investment Scheme tender, with 11.4GWh of solar-plus-storage contracts awarded.…",
-    "source": "Energy-Storage.News",
-    "image": null
-  },
-  {
     "title": "Australia’s Capacity Investment Scheme Tender 4 sees 6.6GW of renewables awarded",
     "link": "https://www.pv-tech.org/australias-capacity-investment-scheme-tender-4-sees-6-6gw-of-renewables-awarded/",
     "date": "2025-10-09",
@@ -980,6 +972,14 @@
     "link": "https://www.powermag.com/why-this-summers-heat-proved-the-case-for-a-smarter-grid/",
     "date": "2025-10-08",
     "summary": "The summer of 2025 pushed the U.S. electric grid to its limits. A brutal heat dome swept across the East Coast, while a powerful derecho tor…",
+    "source": "POWER Magazine",
+    "image": null
+  },
+  {
+    "title": "GE Vernova Group, Samsung C&T Form Alliance to Advance BWRX-300 SMR",
+    "link": "https://www.powermag.com/ge-vernova-group-samsung-ct-form-alliance-to-advance-bwrx-300-smr/",
+    "date": "2025-10-08",
+    "summary": "GE Vernova Hitachi Nuclear Energy (GVH) and Samsung C&#38;T, a leading construction and engineering company, announced a strategic alliance …",
     "source": "POWER Magazine",
     "image": null
   },
