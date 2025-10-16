@@ -1,5 +1,13 @@
 [
   {
+    "title": "SB Energy receives CEC grant to purchase Fluence batteries for portion of 1.6GWh Riverside County BESS",
+    "link": "https://www.energy-storage.news/sb-energy-receives-cec-grant-to-purchase-fluence-batteries-for-portion-of-1-6gwh-riverside-county-bess/",
+    "date": "2025-10-16",
+    "summary": "Utility-scale developer SB Energy has received a US$25 million grant from the California Energy Commission (CEC) to purchase BESS units for …",
+    "source": "Energy-Storage.News",
+    "image": null
+  },
+  {
     "title": "Fluence supplies US-made BESS solution to 640MWh project in Arizona",
     "link": "https://www.energy-storage.news/fluence-supplies-us-made-bess-solution-to-640mwh-project-in-arizona/",
     "date": "2025-10-16",
@@ -19,7 +27,7 @@
     "title": "Chile to reach 2050 energy storage target within next two years, says energy minister",
     "link": "https://www.energy-storage.news/chile-to-reach-2050-energy-storage-target-within-next-two-years-says-energy-minister/",
     "date": "2025-10-16",
-    "summary": "Diego Pardow added that by January, Chile will have installed 2GW of BESS, which represents the target set by 2030 for the country.…",
+    "summary": "During the opening address of Energy Storage Summit Latin America 2025, in Santiago, Chile, the Chilean Minister of Energy Diego Pardow Lore…",
     "source": "Energy-Storage.News",
     "image": null
   },
@@ -45,6 +53,22 @@
     "date": "2025-10-16",
     "summary": "Spanish utility Iberdrola has acquired the 270MW/1,080MWh Tungkillo battery energy storage system (BESS) in South Australia from RES Group.…",
     "source": "Energy-Storage.News",
+    "image": null
+  },
+  {
+    "title": "Masdar, Turkey near US$1 billion deal for 1.1GW hybrid project",
+    "link": "https://www.pv-tech.org/masdar-turkey-near-us1-billion-deal-for-1-1gw-hybrid-project/",
+    "date": "2025-10-16",
+    "summary": "Masdar and Turkey have entered the final stage of US$1 billion agreement to develop the 1.1GW plant in Bor, Niğde Province, central Turkey.…",
+    "source": "PV Tech",
+    "image": null
+  },
+  {
+    "title": "Nextracker to supply steel module frames for T1 Energy’s Dallas module manufacturing facility",
+    "link": "https://www.pv-tech.org/nextracker-supply-steel-module-frames-t1-energys-dallas-module-manufacturing-facility/",
+    "date": "2025-10-16",
+    "summary": "T1 Energy and Nextracker have agreed to use the latter’s steel module frames at the former’s new 5GW module manufacturing facility in Dallas…",
+    "source": "PV Tech",
     "image": null
   },
   {
@@ -77,6 +101,22 @@
     "date": "2025-10-16",
     "summary": "Off-grid solar company Sun King has revealed plans to set up manufacturing operations in Kenya and Nigeria.…",
     "source": "PV Tech",
+    "image": null
+  },
+  {
+    "title": "Fortress Power releases 16-kWh eBoost ESS",
+    "link": "https://www.solarpowerworldonline.com/2025/10/fortress-power-release-16-kwh-eboost-ess/",
+    "date": "2025-10-16",
+    "summary": "Fortress Power has released its new energy storage system, the eBoost. Sixteen of the 16-kWh units can be connected in parallel for up to 25…",
+    "source": "Solar Power World",
+    "image": null
+  },
+  {
+    "title": "New report finds states working to make up for loss of federal solar incentives",
+    "link": "https://www.solarpowerworldonline.com/2025/10/new-report-finds-states-working-to-make-up-for-loss-of-federal-solar-incentives/",
+    "date": "2025-10-16",
+    "summary": "The NC Clean Energy Technology Center (NCCETC) released its Q3 2025 edition of &#8220;The 50 States of Solar.&#8221; The quarterly series pr…",
+    "source": "Solar Power World",
     "image": null
   },
   {
@@ -536,22 +576,6 @@
     "image": null
   },
   {
-    "title": "Alsym Energy ready to scale Massachusetts-developed sodium-ion battery cell",
-    "link": "https://www.solarpowerworldonline.com/2025/10/alsym-energy-ready-to-scale-massachusetts-developed-sodium-ion-battery-cell/",
-    "date": "2025-10-14",
-    "summary": "American battery cell company Alsym Energy has launched its Na-Series. The sodium-ion battery cells purpose-built for energy storage applica…",
-    "source": "Solar Power World",
-    "image": null
-  },
-  {
-    "title": "Donated Got Electric solar panels help Habitat for Humanity in community efforts",
-    "link": "https://www.solarpowerworldonline.com/2025/10/donated-got-electric-solar-panels-help-habitat-for-humanity-in-community-efforts/",
-    "date": "2025-10-14",
-    "summary": "Maryland-based solar contractor Got Electric recently donated 127 surplus solar panels to Habitat for Humanity through the organization&#821…",
-    "source": "Solar Power World",
-    "image": null
-  },
-  {
     "title": "German wind developer-manufacturer files for insolvency",
     "link": "https://www.windpowermonthly.com/article/1936054/german-wind-developer-manufacturer-files-insolvency",
     "date": "2025-10-14",
@@ -845,30 +869,6 @@
     "date": "2025-10-10",
     "summary": "According to the latest report by clean energy market research firm Mercom India, India achieved a cumulative energy storage capacity of 490…",
     "source": "Energy-Storage.News",
-    "image": null
-  },
-  {
-    "title": "Texas utility signs 200MWh BESS offtake agreement with Jupiter Power to combat ERCOT duck curve",
-    "link": "https://www.energy-storage.news/texas-utility-signs-200mwh-bess-offtake-agreement-with-jupiter-power-to-combat-ercot-duck-curve/",
-    "date": "2025-10-10",
-    "summary": "Community-owned public power utility Denton Municipal Electric (DME) has signed a power purchase agreement (PPA) with Jupiter Power covering…",
-    "source": "Energy-Storage.News",
-    "image": null
-  },
-  {
-    "title": "‘The industry is producing more than it can install,’ says Gaëtan Masson as world exceeds 2.2TW of solar",
-    "link": "https://www.pv-tech.org/the-industry-is-producing-more-than-it-can-install-gaetan-masson-world-exceeds-2-2tw-solar/",
-    "date": "2025-10-10",
-    "summary": "Gaëtan Masson of IEA PVPS warns of overcapacity, collapsing prices and slipping module quality in the new Trends in PV Applications report.…",
-    "source": "PV Tech",
-    "image": null
-  },
-  {
-    "title": "European solar module market reaches supply and price ‘equilibrium’",
-    "link": "https://www.pv-tech.org/european-solar-module-market-reaches-supply-and-price-equilibrium/",
-    "date": "2025-10-10",
-    "summary": "The European solar module market has reached a “state of equilibrium” in recent weeks, with stable prices and regular demand.…",
-    "source": "PV Tech",
     "image": null
   },
   {
