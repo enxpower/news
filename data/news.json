@@ -40,6 +40,14 @@
     "image": null
   },
   {
+    "title": "US utility PV up 56% in 2024, accounting for 54% of all new capacity – LNBL",
+    "link": "https://www.pv-tech.org/us-utility-pv-up-56-in-2024-accounting-for-54-of-all-new-capacity-lnbl/",
+    "date": "2025-10-16",
+    "summary": "US utility-scale solar additions grew by 56% in 2024, reaching 30GW from 2023’s 19GW and representing over 54% of all new electricity genera…",
+    "source": "PV Tech",
+    "image": null
+  },
+  {
     "title": "Solar, wind and electrification the ‘main tools’ to improve EU energy security – Ember",
     "link": "https://www.pv-tech.org/solar-wind-electrification-main-tools-improve-eu-energy-security-ember/",
     "date": "2025-10-16",
@@ -64,6 +72,14 @@
     "image": null
   },
   {
+    "title": "Greentech Renewables to host solar panel recycling drop-off sites in Florida",
+    "link": "https://www.solarpowerworldonline.com/2025/10/greentech-renewables-to-host-solar-panel-recycling-drop-off-sites-in-florida/",
+    "date": "2025-10-16",
+    "summary": "Qcells&#8217;s new recycling division, EcoRecycle by Qcells, is partnering with distributor Greentech Renewables to establish solar panel co…",
+    "source": "Solar Power World",
+    "image": null
+  },
+  {
     "title": "Commercial solar racking goes beyond steel and aluminum",
     "link": "https://www.solarpowerworldonline.com/2025/10/commercial-solar-racking-goes-beyond-steel-and-aluminum/",
     "date": "2025-10-16",
@@ -77,6 +93,22 @@
     "date": "2025-10-16",
     "summary": "",
     "source": "Wind Power News & Analysis RSS Feed",
+    "image": null
+  },
+  {
+    "title": "Analysis: Which country is next in the EU's renewable energy rule crackdown?",
+    "link": "https://www.windpowermonthly.com/article/1936285/analysis-country-next-eus-renewable-energy-rule-crackdown",
+    "date": "2025-10-16",
+    "summary": "The European Commission is suing Sweden for failing to implement new rules designed to speed up permitting for renewable energy projects on …",
+    "source": "Wind Power News & Analysis RSS Feed",
+    "image": null
+  },
+  {
+    "title": "22 kW Servo Drive with Real-Time Connectivity and SIL 2 Safety Functions",
+    "link": "https://www.powerelectronicsnews.com/22-kw-servo-drive-with-real-time-connectivity-and-sil-2-safety-functions/",
+    "date": "2025-10-16",
+    "summary": "<img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"2800\" src=\"https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/…",
+    "source": "Power Electronics News",
     "image": null
   },
   {
@@ -320,6 +352,14 @@
     "image": null
   },
   {
+    "title": "Amazon Unveils ‘Cascade’—Energy Northwest’s Xe-100 SMR Project, Targeting Construction by 2030",
+    "link": "https://www.powermag.com/amazon-unveils-cascade-energy-northwests-xe-100-smr-project-targeting-construction-by-2030/",
+    "date": "2025-10-15",
+    "summary": "Amazon has unveiled detailed plans and renderings for the Cascade Advanced Energy Facility, an initial 320-MW small modular reactor (SMR) co…",
+    "source": "POWER Magazine",
+    "image": null
+  },
+  {
     "title": "Infineon Accelerates GaN Leadership with Launch of Automotive-Qualified CoolGaN™ Transistor Family",
     "link": "https://www.powerelectronicsnews.com/infineon-accelerates-gan-leadership-with-launch-of-automotive-qualified-coolgan-transistor-family/",
     "date": "2025-10-15",
@@ -500,14 +540,6 @@
     "link": "https://www.solarpowerworldonline.com/2025/10/donated-got-electric-solar-panels-help-habitat-for-humanity-in-community-efforts/",
     "date": "2025-10-14",
     "summary": "Maryland-based solar contractor Got Electric recently donated 127 surplus solar panels to Habitat for Humanity through the organization&#821…",
-    "source": "Solar Power World",
-    "image": null
-  },
-  {
-    "title": "Wärtsilä launches GEMS Pulse predictive analytics for BESS projects",
-    "link": "https://www.solarpowerworldonline.com/2025/10/wartsila-launches-gems-pulse-predictive-analytics-for-bess-projects/",
-    "date": "2025-10-14",
-    "summary": "Technology group Wärtsilä has launched GEMS Pulse, a predictive analytics solution designed to increase the financial and performance output…",
     "source": "Solar Power World",
     "image": null
   },
@@ -760,14 +792,6 @@
     "image": null
   },
   {
-    "title": "EPC Unveils GaN-Based 800V Converter to Power the Next Generation of AI Data Centers",
-    "link": "https://www.powerelectronicsnews.com/epc-unveils-gan-based-800v-converter-to-power-the-next-generation-of-ai-data-centers/",
-    "date": "2025-10-13",
-    "summary": "<img alt=\"EPC Unveils GaN-Based 800V Converter to Power the Next Generation of AI Data Centers.\" class=\"webfeedsFeaturedVisual wp-post-image…",
-    "source": "Power Electronics News",
-    "image": null
-  },
-  {
     "title": "Reports of Silicon’s Death Have Been Greatly Exaggerated",
     "link": "https://eepower.com/technical-articles/reports-of-silicons-death-have-been-greatly-exaggerated/",
     "date": "2025-10-13",
@@ -844,14 +868,6 @@
     "link": "https://www.pv-tech.org/european-solar-module-market-reaches-supply-and-price-equilibrium/",
     "date": "2025-10-10",
     "summary": "The European solar module market has reached a “state of equilibrium” in recent weeks, with stable prices and regular demand.…",
-    "source": "PV Tech",
-    "image": null
-  },
-  {
-    "title": "Solar recycling firm OnePlanet awarded R2v3 traceability standard",
-    "link": "https://www.pv-tech.org/solar-recycling-firm-oneplanet-awarded-r2v3-traceability-standard/",
-    "date": "2025-10-10",
-    "summary": "US solar recycling firm OnePlanet has achieved the R2v3 certification from electronics sustainability non-profit SERI, which represents the …",
     "source": "PV Tech",
     "image": null
   },
@@ -944,14 +960,6 @@
     "image": null
   },
   {
-    "title": "Vestas CTO Anders Nielsen on turbine sizes, skills and retirement",
-    "link": "https://www.windpowermonthly.com/article/1935385/vestas-cto-anders-nielsen-turbine-sizes-skills-retirement",
-    "date": "2025-10-09",
-    "summary": "Vestas’ outgoing chief technology and operations officer, Anders Nielsen, talks about why the wind industry is reaching the end of the line …",
-    "source": "Wind Power News & Analysis RSS Feed",
-    "image": null
-  },
-  {
     "title": "Investor-Owned Utilities to Spend $1.1T in Grid Boost as Power Demand Spirals",
     "link": "https://www.powermag.com/investor-owned-utilities-to-spend-1-1t-in-grid-boost-as-power-demand-spirals/",
     "date": "2025-10-09",
@@ -988,14 +996,6 @@
     "link": "https://www.powermag.com/india-invests-in-more-coal-fired-power-to-support-increased-need-for-electricity/",
     "date": "2025-10-08",
     "summary": "Regional areas of India are withdrawing incentives for renewable energy projects and instead signing long-term contracts to buy more coal-fi…",
-    "source": "POWER Magazine",
-    "image": null
-  },
-  {
-    "title": "Why This Summer’s Heat Proved the Case for a Smarter Grid",
-    "link": "https://www.powermag.com/why-this-summers-heat-proved-the-case-for-a-smarter-grid/",
-    "date": "2025-10-08",
-    "summary": "The summer of 2025 pushed the U.S. electric grid to its limits. A brutal heat dome swept across the East Coast, while a powerful derecho tor…",
     "source": "POWER Magazine",
     "image": null
   },
