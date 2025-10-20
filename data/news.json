@@ -24,6 +24,14 @@
     "image": null
   },
   {
+    "title": "Mind the gap",
+    "link": "https://www.pv-tech.org/mind-the-gap/",
+    "date": "2025-10-20",
+    "summary": "New data suggests the traditional assumptions behind hail stow modelling may be underestimating the likelihood of damage to a PV system.…",
+    "source": "PV Tech",
+    "image": null
+  },
+  {
     "title": "Atlas Renewable Energy secures US$475 million for 357MW/320MW solar-plus-storage project in Chile",
     "link": "https://www.pv-tech.org/atlas-renewable-energy-secures-us475-million-for-357mw-320mw-solar-plus-storage-project-in-chile/",
     "date": "2025-10-20",
@@ -104,6 +112,22 @@
     "image": null
   },
   {
+    "title": "Pathfinding PDKs:  The Missing Link Between Academia And Industry In The Race Beyond 2nm Semiconductor Innovation",
+    "link": "https://www.powerelectronicsnews.com/pathfinding-pdks-the-missing-link-between-academia-and-industry-in-the-race-beyond-2nm-semiconductor-innovation/",
+    "date": "2025-10-20",
+    "summary": "<img alt=\"Pathfinding PDKs: The Missing Link Between Academia And Industry In The Race Beyond 2nm Semiconductor Innovation.\" class=\"webfeeds…",
+    "source": "Power Electronics News",
+    "image": null
+  },
+  {
+    "title": "How ReVolt Leverages Vicor Technology for Carbon-Neutral Film Production",
+    "link": "https://www.powerelectronicsnews.com/how-revolt-leverages-vicor-technology-for-carbon-neutral-film-production/",
+    "date": "2025-10-20",
+    "summary": "<img alt=\"ReVolt’s WeVolt mobile power solution.\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"1023\" src=\"https://www.powerelectroni…",
+    "source": "Power Electronics News",
+    "image": null
+  },
+  {
     "title": "Datacenter Power Delivery Options and Challenges in AI-Driven Embedded Systems",
     "link": "https://www.powerelectronicsnews.com/datacenter-power-delivery-options-and-challenges-in-ai-driven-embedded-systems/",
     "date": "2025-10-20",
@@ -115,7 +139,7 @@
     "title": "Infineon GaN Leadership and Innovation",
     "link": "https://www.powerelectronicsnews.com/infineon-gan-leadership-and-innovation/",
     "date": "2025-10-20",
-    "summary": "Infineon Technologies is advancing its high-voltage CoolGaN while expanding medium-voltage solutions. The post <a href=\"https://www.powerele…",
+    "summary": "<img alt=\"Comparison of GaN transistor structures.\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"577\" src=\"https://www.powerelectron…",
     "source": "Power Electronics News",
     "image": null
   },
@@ -528,14 +552,6 @@
     "image": null
   },
   {
-    "title": "22 kW Servo Drive with Real-Time Connectivity and SIL 2 Safety Functions",
-    "link": "https://www.powerelectronicsnews.com/22-kw-servo-drive-with-real-time-connectivity-and-sil-2-safety-functions/",
-    "date": "2025-10-16",
-    "summary": "<img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"2800\" src=\"https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/…",
-    "source": "Power Electronics News",
-    "image": null
-  },
-  {
     "title": "High-Voltage Testing and Insulation Coordination—Part 5",
     "link": "https://eepower.com/technical-articles/high-voltage-testing-and-insulation-coordinationpart-5/",
     "date": "2025-10-16",
@@ -736,14 +752,6 @@
     "image": null
   },
   {
-    "title": "Infineon Accelerates GaN Leadership with Launch of Automotive-Qualified CoolGaN™ Transistor Family",
-    "link": "https://www.powerelectronicsnews.com/infineon-accelerates-gan-leadership-with-launch-of-automotive-qualified-coolgan-transistor-family/",
-    "date": "2025-10-15",
-    "summary": "<img alt=\"Infineon Accelerates GaN Leadership with Launch of Automotive-Qualified CoolGaN™ Transistor Family.\" class=\"webfeedsFeaturedVisual…",
-    "source": "Power Electronics News",
-    "image": null
-  },
-  {
     "title": "Research Explores Safer Battery Energy Storage System Options",
     "link": "https://eepower.com/market-insights/research-explores-safer-battery-energy-storage-system-options/",
     "date": "2025-10-15",
@@ -917,14 +925,6 @@
     "date": "2025-10-13",
     "summary": "Residential energy storage startup Base Power has raised US$1 billion in Series C financing from venture capital fund Addition.…",
     "source": "Energy-Storage.News",
-    "image": null
-  },
-  {
-    "title": "Engie and Masdar win bid for 1.5GW Abu Dhabi PV project",
-    "link": "https://www.pv-tech.org/engie-masdar-1-5gw-khazna-ewec-uae/",
-    "date": "2025-10-13",
-    "summary": "France’s Engie and the UAE’s Masdar have been chosen to jointly develop a 1.5GW PV power plant near Abu Dhabi.…",
-    "source": "PV Tech",
     "image": null
   },
   {
