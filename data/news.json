@@ -1,10 +1,26 @@
 [
   {
+    "title": "Jigar Shah chairs new US virtual power plant advisory group",
+    "link": "https://www.energy-storage.news/jigar-shah-chairs-new-us-virtual-power-plant-advisory-group/",
+    "date": "2025-10-20",
+    "summary": "The non-profit Energy Policy Design Institute (EPDI) has launched the Virtual Power Plant (VPP) Convergence Project, with an advisory group …",
+    "source": "Energy-Storage.News",
+    "image": null
+  },
+  {
     "title": "First ‘Made in Europe’ BESS factory opens in Bulgaria, Lyten closes Northvolt Poland acquisition",
     "link": "https://www.energy-storage.news/first-made-in-europe-bess-factory-opens-in-bulgaria-lyten-closes-northvolt-poland-acquisition/",
     "date": "2025-10-20",
     "summary": "Production has begun at a battery energy storage system (BESS) factory designated as a project of strategic importance by the European Commi…",
     "source": "Energy-Storage.News",
+    "image": null
+  },
+  {
+    "title": "US policies to ‘cloud’ renewable project deployment and costs, batteries and solar to be hit hardest",
+    "link": "https://www.pv-tech.org/us-policies-cloud-renewable-project-development-costs-batteries-solar-hit-hardest/",
+    "date": "2025-10-20",
+    "summary": "New federal policies in the US will 'cloud' the country’s renewable energy sector, according to a webinar hosted by Wood Mackenzie.…",
+    "source": "PV Tech",
     "image": null
   },
   {
@@ -44,6 +60,14 @@
     "link": "https://www.windpowermonthly.com/article/1936635/canada-opens-first-pre-qualification-round-offshore-wind",
     "date": "2025-10-20",
     "summary": "",
+    "source": "Wind Power News & Analysis RSS Feed",
+    "image": null
+  },
+  {
+    "title": "Wind turbine destroyed in arson attack in Northern Ireland",
+    "link": "https://www.windpowermonthly.com/article/1936613/wind-turbine-destroyed-arson-attack-northern-ireland",
+    "date": "2025-10-20",
+    "summary": "A wind turbine was set on fire and “completely destroyed” by an arson attack in Northern Ireland on Thursday, according to the region’s poli…",
     "source": "Wind Power News & Analysis RSS Feed",
     "image": null
   },
@@ -1128,14 +1152,6 @@
     "image": null
   },
   {
-    "title": "Global grid-scale BESS deployments up 36% in first nine months of 2025",
-    "link": "https://www.energy-storage.news/global-grid-scale-bess-deployments-up-36-first-nine-months-of-2025/",
-    "date": "2025-10-13",
-    "summary": "A total of 49.4GW/136.5GWh of grid-scale BESS came online in the first nine months of the year, up 36% compared to the same period in 2024.…",
-    "source": "Energy-Storage.News",
-    "image": null
-  },
-  {
     "title": "Engie and Masdar win bid for 1.5GW Abu Dhabi PV project",
     "link": "https://www.pv-tech.org/engie-masdar-1-5gw-khazna-ewec-uae/",
     "date": "2025-10-13",
@@ -1148,14 +1164,6 @@
     "link": "https://www.pv-tech.org/slashing-utility-scale-grading-costs-hidden-lever-optimising-roi/",
     "date": "2025-10-13",
     "summary": "Brett Beattie of Castillo Engineering looks at some of the key land grading work that can make multimillion-dollar differences to projects.…",
-    "source": "PV Tech",
-    "image": null
-  },
-  {
-    "title": "OCI Holdings eyeing US market with 65% stake in 2.7GW Vietnamese solar wafer plant",
-    "link": "https://www.pv-tech.org/oci-holdings-eyeing-us-market-with-65-stake-in-2-7gw-vietnamese-solar-wafer-plant/",
-    "date": "2025-10-13",
-    "summary": "Korean chemical production firm OCI Holdings has acquired a 65% stake in a Vietnamese solar wafer production plant, intending to export sola…",
     "source": "PV Tech",
     "image": null
   },
@@ -1229,14 +1237,6 @@
     "date": "2025-10-12",
     "summary": "In this article, learn methods for mitigating lightning- and switching-induced overvoltages in high-voltage networks through surge arresters…",
     "source": "EE Power",
-    "image": null
-  },
-  {
-    "title": "First power from US’s largest offshore wind farm ‘due within six months’",
-    "link": "https://www.windpowermonthly.com/article/1935731/first-power-uss-largest-offshore-wind-farm-due-within-six-months",
-    "date": "2025-10-10",
-    "summary": "",
-    "source": "Wind Power News & Analysis RSS Feed",
     "image": null
   },
   {
