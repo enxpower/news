@@ -1,10 +1,34 @@
 [
   {
+    "title": "First ‘Made in Europe’ BESS factory opens in Bulgaria, Lyten closes Northvolt Poland acquisition",
+    "link": "https://www.energy-storage.news/first-made-in-europe-bess-factory-opens-in-bulgaria-lyten-closes-northvolt-poland-acquisition/",
+    "date": "2025-10-20",
+    "summary": "Production has begun at a battery energy storage system (BESS) factory designated as a project of strategic importance by the European Commi…",
+    "source": "Energy-Storage.News",
+    "image": null
+  },
+  {
+    "title": "Vestas halts Poland turbine factory amid low offshore demand in Europe",
+    "link": "https://www.windpowermonthly.com/article/1936588/vestas-halts-poland-turbine-factory-amid-low-offshore-demand-europe",
+    "date": "2025-10-20",
+    "summary": "Vestas has halted plans for a wind turbine blade factory in Poland due to “lower than projected demand” for offshore wind in Europe.…",
+    "source": "Wind Power News & Analysis RSS Feed",
+    "image": null
+  },
+  {
     "title": "Infineon GaN Leadership and Innovation",
     "link": "https://www.powerelectronicsnews.com/infineon-gan-leadership-and-innovation/",
     "date": "2025-10-20",
     "summary": "Infineon Technologies is advancing its high-voltage CoolGaN while expanding medium-voltage solutions. The post <a href=\"https://www.powerele…",
     "source": "Power Electronics News",
+    "image": null
+  },
+  {
+    "title": "Triple-Junction Perovskite Solar Cell Breaks Efficiency Record",
+    "link": "https://eepower.com/market-insights/triple-junction-perovskite-solar-cell-breaks-efficiency-record/",
+    "date": "2025-10-20",
+    "summary": "A University of Sydney team has created a 23.3%-efficient, 16 cm2 tandem solar cell with world-first stability metrics.…",
+    "source": "EE Power",
     "image": null
   },
   {
@@ -832,14 +856,6 @@
     "image": null
   },
   {
-    "title": "Akaysha Energy’s Waratah Super Battery discharges its first full output to Australia’s NEM",
-    "link": "https://www.energy-storage.news/akaysha-energys-waratah-super-battery-discharges-its-first-full-output-to-australias-nem/",
-    "date": "2025-10-13",
-    "summary": "Australia’s most powerful BESS, the 850MW Waratah Super Battery, achieved its first full discharge to the NEM last week.…",
-    "source": "Energy-Storage.News",
-    "image": null
-  },
-  {
     "title": "Engie and Masdar win bid for 1.5GW Abu Dhabi PV project",
     "link": "https://www.pv-tech.org/engie-masdar-1-5gw-khazna-ewec-uae/",
     "date": "2025-10-13",
@@ -1008,14 +1024,6 @@
     "image": null
   },
   {
-    "title": "EU sues Sweden for failing to implement renewable energy rules",
-    "link": "https://www.windpowermonthly.com/article/1935562/eu-sues-sweden-failing-implement-renewable-energy-rules",
-    "date": "2025-10-09",
-    "summary": "The European Commission is taking Sweden to court for failing to implement new EU rules designed to speed up permitting for renewable energy…",
-    "source": "Wind Power News & Analysis RSS Feed",
-    "image": null
-  },
-  {
     "title": "Field Failures in Power Modules—Potential Root Causes and How to Avoid Them",
     "link": "https://eepower.com/technical-articles/field-failures-in-power-modules-potential-root-causes-and-approaches-how-to-avoid-them/",
     "date": "2025-10-09",
@@ -1068,14 +1076,6 @@
     "link": "https://eepower.com/technical-articles/high-voltage-testing-and-insulation-coordinationpart-3/",
     "date": "2025-10-05",
     "summary": "In this article, we’ll teach you about lightning, switching, and temporary overvoltages in high-voltage systems, detailing their origins, ch…",
-    "source": "EE Power",
-    "image": null
-  },
-  {
-    "title": "Less Power Loss Through Optimized Design",
-    "link": "https://eepower.com/technical-articles/less-power-loss-through-optimized-design-mersen-specifically-improves-the-eco-balance-of-its-products/",
-    "date": "2025-10-04",
-    "summary": "Learn how Mersen analyzed the eco-balance of its passive components, finding that weight reduction can impact energy efficiency and sometime…",
     "source": "EE Power",
     "image": null
   }
