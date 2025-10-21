@@ -1,5 +1,13 @@
 [
   {
+    "title": "Wärtsilä opts for in-house control over battery storage data analytics",
+    "link": "https://www.energy-storage.news/wartsila-opts-for-in-house-control-over-battery-storage-data-analytics/",
+    "date": "2025-10-21",
+    "summary": "Wärtsilä Energy Storage’s new battery data analytics software platform aims to bring in-house what has until now been the domain of third-pa…",
+    "source": "Energy-Storage.News",
+    "image": null
+  },
+  {
     "title": "VIDEO: Taking on the UK’s LT2029 tender and the future of grid stability services, with Envision",
     "link": "https://www.energy-storage.news/video-taking-on-the-uks-lt2029-tender-and-the-future-of-grid-stability-services-with-envision/",
     "date": "2025-10-21",
@@ -13,6 +21,14 @@
     "date": "2025-10-21",
     "summary": "Developer Eku Energy has submitted its 400MW/1,600MWh Monduran battery energy storage system (BESS) project for environmental assessment und…",
     "source": "Energy-Storage.News",
+    "image": null
+  },
+  {
+    "title": "Cypress Creek Renewables reaches financial close on Colorado solar-plus-storage project",
+    "link": "https://www.pv-tech.org/cypress-creek-renewables-financial-close-colorado-solar-plus-storage-project/",
+    "date": "2025-10-21",
+    "summary": "Cypress Creek Renewables has achieved financial close on its 75MW Sundance solar-plus-storage project in Elbert County, Colorado.…",
+    "source": "PV Tech",
     "image": null
   },
   {
@@ -37,6 +53,22 @@
     "date": "2025-10-21",
     "summary": "An independent panel has granted resource consents for the 179MW Glorit Solar Farm in Auckland, New Zealand.…",
     "source": "PV Tech",
+    "image": null
+  },
+  {
+    "title": "Mingyang working on 50MW floating offshore wind platform",
+    "link": "https://www.windpowermonthly.com/article/1936772/mingyang-working-50mw-floating-offshore-wind-platform",
+    "date": "2025-10-21",
+    "summary": "Chinese wind turbine manufacturer Mingyang Smart Energy has announced plans to launch a record-breaking 50MW floating offshore wind turbine …",
+    "source": "Wind Power News & Analysis RSS Feed",
+    "image": null
+  },
+  {
+    "title": "BP puts US offshore wind activities on hold",
+    "link": "https://www.windpowermonthly.com/article/1936770/bp-puts-us-offshore-wind-activities-hold",
+    "date": "2025-10-21",
+    "summary": "Jera Nex BP plans to reduce its activities in the US to a minimum after the joint venture concluded there is “no viable path” forward for it…",
+    "source": "Wind Power News & Analysis RSS Feed",
     "image": null
   },
   {
@@ -848,14 +880,6 @@
     "image": null
   },
   {
-    "title": "Epic Energy brings 200MWh Mannum battery storage system online in South Australia",
-    "link": "https://www.energy-storage.news/epic-energy-brings-200mwh-mannum-battery-storage-system-online-in-south-australia/",
-    "date": "2025-10-14",
-    "summary": "Developer Epic Energy has commenced commercial operations at its 100MW/200MWh Mannum battery energy storage system (BESS) in South Australia…",
-    "source": "Energy-Storage.News",
-    "image": null
-  },
-  {
     "title": "Solar PV curtailment in Chile keeps growing in 2025 – ACERA",
     "link": "https://www.pv-tech.org/solar-pv-curtailment-in-chile-keeps-growing-in-2025-acera/",
     "date": "2025-10-14",
@@ -876,14 +900,6 @@
     "link": "https://www.pv-tech.org/pv-celltech-usa-takeaways-perovskite-manufacturing-bottlenecks-tariffs-dominate-discussions/",
     "date": "2025-10-14",
     "summary": "Perovskite, tariffs, Section 232 and FEOC were among the key topics discussed at PV CellTech USA this year in San Francisco.…",
-    "source": "PV Tech",
-    "image": null
-  },
-  {
-    "title": "German IPP wpd starts construction at 140MW French solar project",
-    "link": "https://www.pv-tech.org/german-ipp-wpd-starts-construction-140mw-french-solar-project/",
-    "date": "2025-10-14",
-    "summary": "German IPP wpd has started construction at its 140.6MW Marcy solar park in the Nièvre department of central France.…",
     "source": "PV Tech",
     "image": null
   },
@@ -948,22 +964,6 @@
     "link": "https://www.windpowermonthly.com/article/1935848/ocean-winds-sells-stake-lithuanias-first-offshore-wind-farm",
     "date": "2025-10-13",
     "summary": "",
-    "source": "Wind Power News & Analysis RSS Feed",
-    "image": null
-  },
-  {
-    "title": "Mingyang to build major wind turbine factory in Scotland",
-    "link": "https://www.windpowermonthly.com/article/1935842/mingyang-build-major-wind-turbine-factory-scotland",
-    "date": "2025-10-13",
-    "summary": "Chinese company Mingyang Smart Energy has confirmed plans to build a major wind turbine factory in the north of the UK as it seeks to expand…",
-    "source": "Wind Power News & Analysis RSS Feed",
-    "image": null
-  },
-  {
-    "title": "Updated: Greenpeace UK threatens to sue Crown Estate over offshore wind fees",
-    "link": "https://www.windpowermonthly.com/article/1935834/updated-greenpeace-uk-threatens-sue-crown-estate-offshore-wind-fees",
-    "date": "2025-10-13",
-    "summary": "Environmental activist group Greenpeace UK is threatening to sue the Crown Estate over what it describes as its “monopoly profiteering” of t…",
     "source": "Wind Power News & Analysis RSS Feed",
     "image": null
   },
