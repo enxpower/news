@@ -1,5 +1,29 @@
 [
   {
+    "title": "EU Roundup: Big BESS project news in Greece, Germany, Romania and Portugal",
+    "link": "https://www.energy-storage.news/eu-roundup-big-bess-project-news-in-greece-germany-romania-and-portugal/",
+    "date": "2025-10-22",
+    "summary": "A roundup of large-scale European BESS project news, with Principia completing a project in Greece, Repono buying one in Romania, Kyon choos…",
+    "source": "Energy-Storage.News",
+    "image": null
+  },
+  {
+    "title": "‘Developers don’t want geopolitical risks’: Fluence talks up US domestic content strategy",
+    "link": "https://www.energy-storage.news/developers-dont-want-geopolitical-risks-fluence-talks-up-us-domestic-content-strategy/",
+    "date": "2025-10-22",
+    "summary": "John Zahurancik, Americas president at Fluence, discussed industry trends and policy directions with ESN Premium at this year’s RE+.…",
+    "source": "Energy-Storage.News",
+    "image": null
+  },
+  {
+    "title": "US thermal energy storage startup Rondo deploys 100MWh industrial ‘Heat Battery’",
+    "link": "https://www.energy-storage.news/us-thermal-energy-storage-startup-rondo-deploys-100mwh-industrial-heat-battery/",
+    "date": "2025-10-22",
+    "summary": "What is claimed to be the world’s largest industrial thermal energy storage ‘heat battery’ has gone into operation in California, US.…",
+    "source": "Energy-Storage.News",
+    "image": null
+  },
+  {
     "title": "South Australia launches first capacity tender for 700MW of long-duration energy storage",
     "link": "https://www.energy-storage.news/south-australia-launches-first-capacity-tender-for-700mw-of-long-duration-energy-storage/",
     "date": "2025-10-22",
@@ -8,11 +32,43 @@
     "image": null
   },
   {
+    "title": "SEIA CEO, Abigail Ross Hopper, to step down in January 2026",
+    "link": "https://www.pv-tech.org/seia-ceo-abigail-ross-hopper-to-step-down-in-january-2026/",
+    "date": "2025-10-22",
+    "summary": "Abigail Ross Hopper, the president and CEO of US trade association the Solar Energy Industries Association (SEIA), has decided to step down …",
+    "source": "PV Tech",
+    "image": null
+  },
+  {
+    "title": "‘A much stronger focus on storage integration’",
+    "link": "https://www.pv-tech.org/a-much-stronger-focus-storage-integration-ingeteams-mauro-rivola-state-solar-plus-storage-southern-europe/",
+    "date": "2025-10-22",
+    "summary": "Ingeteam’s Mauro Rivola discusses the rapidly growing appetite for co-located solar and storage in Southern Europe.…",
+    "source": "PV Tech",
+    "image": null
+  },
+  {
     "title": "Australia: Queensland councils receive new toolkit for navigating renewable energy project assessments",
     "link": "https://www.pv-tech.org/australia-queensland-councils-receive-new-toolkit-for-navigating-renewable-energy-project-assessments/",
     "date": "2025-10-22",
     "summary": "The Queensland government has launched the Social Licence in Renewable Energy Toolkit, providing local councils in Australia with resources …",
     "source": "PV Tech",
+    "image": null
+  },
+  {
+    "title": "Empire Wind vessel dispute set for arbitration",
+    "link": "https://www.windpowermonthly.com/article/1936934/empire-wind-vessel-dispute-set-arbitration",
+    "date": "2025-10-22",
+    "summary": "",
+    "source": "Wind Power News & Analysis RSS Feed",
+    "image": null
+  },
+  {
+    "title": "Mexico plans return to wind by fast-tracking 2GW projects",
+    "link": "https://www.windpowermonthly.com/article/1936919/mexico-plans-return-wind-fast-tracking-2gw-projects",
+    "date": "2025-10-22",
+    "summary": "Mexico is seeking developers to invest in nearly 2.2GW of wind farms set to be fast-tracked through the permitting process after a slowdown …",
+    "source": "Wind Power News & Analysis RSS Feed",
     "image": null
   },
   {
@@ -29,6 +85,62 @@
     "date": "2025-10-22",
     "summary": "<img alt=\"Example of a good and bad practice for selecting the source and storage combinations for a boost PMIC used in an ambient IoT syste…",
     "source": "Power Electronics News",
+    "image": null
+  },
+  {
+    "title": "Motor City gets new Géant UAE store",
+    "link": "https://www.constructionweekonline.com/news/motor-city-geant-uae-store",
+    "date": "2025-10-22",
+    "summary": "<figure><img alt=\"Motor City Géant UAE\" class=\"attachment-medium size-medium wp-post-image\" height=\"750\" src=\"https://www.constructionweekon…",
+    "source": "Construction Week Online",
+    "image": null
+  },
+  {
+    "title": "Beyond the hard hat: Diverse paths for women in construction",
+    "link": "https://www.constructionweekonline.com/business/insights/women-in-construction-op-ed",
+    "date": "2025-10-22",
+    "summary": "<figure><img alt=\"women in construction\" class=\"attachment-medium size-medium wp-post-image\" height=\"668\" src=\"https://www.constructionweeko…",
+    "source": "Construction Week Online",
+    "image": null
+  },
+  {
+    "title": "Makkah: Riyad Capital and SAR launch a real estate fund word $1.6 bn",
+    "link": "https://www.constructionweekonline.com/projects-tenders/makkah-riyad-capital-sar",
+    "date": "2025-10-22",
+    "summary": "<figure><img alt=\"Makkah\" class=\"attachment-medium size-medium wp-post-image\" height=\"667\" src=\"https://www.constructionweekonline.com/cloud…",
+    "source": "Construction Week Online",
+    "image": null
+  },
+  {
+    "title": "Bloom Living: Redefining community living in Abu Dhabi",
+    "link": "https://www.constructionweekonline.com/features/bloom-living-abu-dhabi",
+    "date": "2025-10-22",
+    "summary": "<figure><img alt=\"\" class=\"attachment-medium size-medium wp-post-image\" height=\"750\" src=\"https://www.constructionweekonline.com/cloud/2025/…",
+    "source": "Construction Week Online",
+    "image": null
+  },
+  {
+    "title": "Orlinski Realty Group launches in the Middle East",
+    "link": "https://www.constructionweekonline.com/projects-tenders/orlinski-realty-group-me",
+    "date": "2025-10-22",
+    "summary": "<figure><img alt=\"Orlinski\" class=\"attachment-medium size-medium wp-post-image\" height=\"572\" src=\"https://www.constructionweekonline.com/clo…",
+    "source": "Construction Week Online",
+    "image": null
+  },
+  {
+    "title": "Downtown UAQ: Sobha Realty introduces Sobha AquaCrest",
+    "link": "https://www.constructionweekonline.com/projects-tenders/uaq-sobha-realty",
+    "date": "2025-10-22",
+    "summary": "<figure><img alt=\"Sobha Realty\" class=\"attachment-medium size-medium wp-post-image\" height=\"707\" src=\"https://www.constructionweekonline.com…",
+    "source": "Construction Week Online",
+    "image": null
+  },
+  {
+    "title": "Grundfos unveils next-gen TPE3 pump at Engineering Day 2025 in Saudi Arabia",
+    "link": "https://www.constructionweekonline.com/features/grundfos-saudi-arabia",
+    "date": "2025-10-22",
+    "summary": "<figure><img alt=\"Grundfos\" class=\"attachment-medium size-medium wp-post-image\" height=\"667\" src=\"https://www.constructionweekonline.com/clo…",
+    "source": "Construction Week Online",
     "image": null
   },
   {
@@ -256,6 +368,38 @@
     "image": null
   },
   {
+    "title": "REEF breaks ground on $81.7mn residential project in Al Furjan",
+    "link": "https://www.constructionweekonline.com/news/reef-breaks-ground-on-81-7mn-residential-project-in-al-furjan",
+    "date": "2025-10-21",
+    "summary": "<figure><img alt=\"REEF breaks ground on $81.7mn residential project in Al Furjan\" class=\"attachment-medium size-medium wp-post-image\" height…",
+    "source": "Construction Week Online",
+    "image": null
+  },
+  {
+    "title": "Alef Group launches Phase 2 of $680mn Olfah community in Sharjah",
+    "link": "https://www.constructionweekonline.com/news/alef-group-launches-phase-2-of-680mn-olfah-community-in-sharjah",
+    "date": "2025-10-21",
+    "summary": "<figure><img alt=\"Alef Group launches Phase 2 of $680mn Olfah community in Sharjah\" class=\"attachment-medium size-medium wp-post-image\" heig…",
+    "source": "Construction Week Online",
+    "image": null
+  },
+  {
+    "title": "Bahrain to build 150MW solar power plant, cutting 100,000 tonnes of CO₂ each year",
+    "link": "https://www.constructionweekonline.com/news/bahrain-to-build-150mw-solar-power-plant-cutting-100000-tonnes-of-co%e2%82%82-each-year",
+    "date": "2025-10-21",
+    "summary": "<figure><img alt=\"Bahrain to build 150MW solar power plant, cutting 100,000 tonnes of CO₂ each year\" class=\"attachment-medium size-medium wp…",
+    "source": "Construction Week Online",
+    "image": null
+  },
+  {
+    "title": "Construction advancing on Seef Downtown, Bahrain’s new business and leisure hub",
+    "link": "https://www.constructionweekonline.com/news/construction-advancing-on-seef-downtown-bahrains-new-business-and-leisure-hub",
+    "date": "2025-10-21",
+    "summary": "<figure><img alt=\"Construction advancing on Seef Downtown, Bahrain’s new business and leisure hub\" class=\"attachment-medium size-medium wp-p…",
+    "source": "Construction Week Online",
+    "image": null
+  },
+  {
     "title": "Data centre loads and domestic content policy define US battery storage market’s future, law firm says",
     "link": "https://www.energy-storage.news/data-centre-loads-and-domestic-content-policy-define-us-battery-storage-markets-future-law-firm-says/",
     "date": "2025-10-20",
@@ -416,11 +560,99 @@
     "image": null
   },
   {
+    "title": "Wadan Developments, Autolink Contracting break ground on Nuvana, Dubai Islands",
+    "link": "https://www.constructionweekonline.com/projects-tenders/wadan-developments-autolink-contracting-break-ground-on-nuvana-dubai-islands",
+    "date": "2025-10-20",
+    "summary": "<figure><img alt=\"Wadan Developments, Autolink Contracting break ground on Nuvana, Dubai Islands\" class=\"attachment-medium size-medium wp-po…",
+    "source": "Construction Week Online",
+    "image": null
+  },
+  {
+    "title": "Dubai real estate: Azizi Developments launches new premium residence in Al Jaddaf",
+    "link": "https://www.constructionweekonline.com/news/dubai-real-estate-azizi-developments-launches-new-premium-residence-in-al-jaddaf",
+    "date": "2025-10-20",
+    "summary": "<figure><img alt=\"Dubai real estate: Azizi Developments launches new premium residence in Al Jaddaf\" class=\"attachment-medium size-medium wp…",
+    "source": "Construction Week Online",
+    "image": null
+  },
+  {
+    "title": "CW Awards 2025: Middle East – Secure your seat at the region’s biggest night in construction",
+    "link": "https://www.constructionweekonline.com/awards/cw-awards-2025-middle-east-secure-your-seat-at-the-regions-biggest-night-in-construction",
+    "date": "2025-10-20",
+    "summary": "<figure><img alt=\"CW Awards 2025: Middle East – Secure your seat at the region’s biggest night in construction\" class=\"attachment-medium siz…",
+    "source": "Construction Week Online",
+    "image": null
+  },
+  {
+    "title": "Ellington awards $272mn contract for its Mercer House project in Uptown Dubai",
+    "link": "https://www.constructionweekonline.com/projects-tenders/ellington-awards-272mn-contract-for-its-mercer-house-project-in-uptown-dubai",
+    "date": "2025-10-20",
+    "summary": "<figure><img alt=\"Ellington awards $272mn contract for its Mercer House project in Uptown Dubai\" class=\"attachment-medium size-medium wp-pos…",
+    "source": "Construction Week Online",
+    "image": null
+  },
+  {
+    "title": "From Al Marjan to the Mainland: Richmind shapes the next chapter of RAK living",
+    "link": "https://www.constructionweekonline.com/features/richmind-rak-living",
+    "date": "2025-10-20",
+    "summary": "<figure><img alt=\"RAK\" class=\"attachment-medium size-medium wp-post-image\" height=\"563\" src=\"https://www.constructionweekonline.com/cloud/20…",
+    "source": "Construction Week Online",
+    "image": null
+  },
+  {
+    "title": "BNW Developments redefines urban living across Ras Al Khaimah",
+    "link": "https://www.constructionweekonline.com/features/bnw-developments-ras-al-khaimah",
+    "date": "2025-10-20",
+    "summary": "<figure><img alt=\"BNW Developments redefines urban living across Ras Al Khaimah\" class=\"attachment-medium size-medium wp-post-image\" height=…",
+    "source": "Construction Week Online",
+    "image": null
+  },
+  {
+    "title": "Sultan Batterjee of IHCC on high-performance buildings driving Saudi Arabia’s sustainable future",
+    "link": "https://www.constructionweekonline.com/multimedia/sultan-batterjee-of-ihcc-on-high-performance-buildings-driving-saudi-arabias-sustainable-future",
+    "date": "2025-10-20",
+    "summary": "<figure><img alt=\"Sultan Batterjee of IHCC on high-performance buildings driving Saudi Arabia’s sustainable future\" class=\"attachment-medium…",
+    "source": "Construction Week Online",
+    "image": null
+  },
+  {
+    "title": "From bubble warnings to Birmingham: Why UAE investors are pivoting to UK property in 2026",
+    "link": "https://www.constructionweekonline.com/business/insights/from-bubble-warnings-to-birmingham-why-uae-investors-are-pivoting-to-uk-property-in-2026",
+    "date": "2025-10-20",
+    "summary": "<figure><img alt=\"From bubble warnings to Birmingham: Why UAE investors are pivoting to UK property in 2026\" class=\"attachment-medium size-m…",
+    "source": "Construction Week Online",
+    "image": null
+  },
+  {
+    "title": "Reed Smith expands footprint in the Middle East with Riyadh office opening",
+    "link": "https://www.constructionweekonline.com/news/reed-smith-expands-footprint-in-the-middle-east-with-riyadh-office-opening",
+    "date": "2025-10-20",
+    "summary": "<figure><img alt=\"Reed Smith expands footprint in the Middle East with Riyadh office opening\" class=\"attachment-medium size-medium wp-post-i…",
+    "source": "Construction Week Online",
+    "image": null
+  },
+  {
+    "title": "Dubai’s property oversupply is a myth: How villa demand is fuelling the market",
+    "link": "https://www.constructionweekonline.com/business/insights/dubai-property-oversupply-op-ed",
+    "date": "2025-10-20",
+    "summary": "<figure><img alt=\"Dubai property\" class=\"attachment-medium size-medium wp-post-image\" height=\"563\" src=\"https://www.constructionweekonline.c…",
+    "source": "Construction Week Online",
+    "image": null
+  },
+  {
     "title": "Understanding the Role of Substations Along the Transmission Path",
     "link": "https://eepower.com/technical-articles/understanding-the-role-of-substations-along-the-transmission-path/",
     "date": "2025-10-19",
     "summary": "This article examines the functions of four different types of substations within the electrical grid: step-up, step-down, transmission, and…",
     "source": "EE Power",
+    "image": null
+  },
+  {
+    "title": "Defining architectural identity in the age of the invisible asset",
+    "link": "https://www.constructionweekonline.com/business/insights/defining-architectural-identity",
+    "date": "2025-10-19",
+    "summary": "<figure><img alt=\"architectural identity\" class=\"attachment-medium size-medium wp-post-image\" height=\"667\" src=\"https://www.constructionweek…",
+    "source": "Construction Week Online",
     "image": null
   },
   {
@@ -565,6 +797,62 @@
     "date": "2025-10-17",
     "summary": "The Tennessee Valley Authority and Type One Energy are working to install a nuclear fusion power plant by the mid-2030s.…",
     "source": "EE Power",
+    "image": null
+  },
+  {
+    "title": "Ardee: Powering Ras Al Khaimah’s rise as a luxury hub",
+    "link": "https://www.constructionweekonline.com/analysis/ardee-powering-ras-al-khaimahs-rise-as-a-luxury-hub",
+    "date": "2025-10-17",
+    "summary": "<figure><img alt=\"Ardee: Powering Ras Al Khaimah’s rise as a luxury hub\" class=\"attachment-medium size-medium wp-post-image\" height=\"562\" sr…",
+    "source": "Construction Week Online",
+    "image": null
+  },
+  {
+    "title": "RRS International on why Ras Al Khaimah is the UAE’s next hotspot",
+    "link": "https://www.constructionweekonline.com/analysis/rrs-international-on-why-ras-al-khaimah-is-the-uaes-next-hotspot",
+    "date": "2025-10-17",
+    "summary": "<figure><img alt=\"RRS International on why Ras Al Khaimah is the UAE’s next hotspot\" class=\"attachment-medium size-medium wp-post-image\" hei…",
+    "source": "Construction Week Online",
+    "image": null
+  },
+  {
+    "title": "SHORTLIST REVEALED: CW Awards Middle East 2025",
+    "link": "https://www.constructionweekonline.com/awards/cw-awards-middle-east-2025-4",
+    "date": "2025-10-17",
+    "summary": "<figure><img alt=\"SHORTLIST REVEALED: CW Awards Middle East 2025\" class=\"attachment-medium size-medium wp-post-image\" height=\"667\" src=\"http…",
+    "source": "Construction Week Online",
+    "image": null
+  },
+  {
+    "title": "Al Marwan Developments drives UAE’s diversification with District 11 Smart City",
+    "link": "https://www.constructionweekonline.com/features/al-marwan-developments-district-11-smart-city",
+    "date": "2025-10-17",
+    "summary": "<figure><img alt=\"Smart City\" class=\"attachment-medium size-medium wp-post-image\" height=\"567\" src=\"https://www.constructionweekonline.com/c…",
+    "source": "Construction Week Online",
+    "image": null
+  },
+  {
+    "title": "Handover delays: How developers can prevent them",
+    "link": "https://www.constructionweekonline.com/business/insights/handovers-developers-op-ed-holm",
+    "date": "2025-10-17",
+    "summary": "<figure><img alt=\"Handover delays: How developers can prevent them\" class=\"attachment-medium size-medium wp-post-image\" height=\"667\" src=\"ht…",
+    "source": "Construction Week Online",
+    "image": null
+  },
+  {
+    "title": "Abu Dhabi real estate transaction value doubles over summer 2025",
+    "link": "https://www.constructionweekonline.com/business/insights/abu-dhabi-real-estate-2025",
+    "date": "2025-10-17",
+    "summary": "<figure><img alt=\"Abu Dhabi\" class=\"attachment-medium size-medium wp-post-image\" height=\"433\" src=\"https://www.constructionweekonline.com/cl…",
+    "source": "Construction Week Online",
+    "image": null
+  },
+  {
+    "title": "LME Live spotlights UAE’s EV commercial future",
+    "link": "https://www.constructionweekonline.com/news/lme-live-spotlights-uaes-ev-commercial-future",
+    "date": "2025-10-17",
+    "summary": "<figure><img alt=\"LME Live spotlights UAE’s EV commercial future\" class=\"attachment-medium size-medium wp-post-image\" height=\"667\" src=\"http…",
+    "source": "Construction Week Online",
     "image": null
   },
   {
@@ -760,6 +1048,14 @@
     "image": null
   },
   {
+    "title": "6 real estate trends booming in Dubai right now",
+    "link": "https://www.constructionweekonline.com/business/insights/real-estate-trends-in-dubai",
+    "date": "2025-10-16",
+    "summary": "<figure><img alt=\"real estate\" class=\"attachment-medium size-medium wp-post-image\" height=\"667\" src=\"https://www.constructionweekonline.com/…",
+    "source": "Construction Week Online",
+    "image": null
+  },
+  {
     "title": "US ROUNDUP: ESS Inc LDES pilot, investments in Energy Vault, NineDot",
     "link": "https://www.energy-storage.news/us-roundup-ess-inc-ldes-pilot-investments-in-energy-vault-ninedot/",
     "date": "2025-10-15",
@@ -780,30 +1076,6 @@
     "link": "https://www.energy-storage.news/us-energy-storage-industry-sees-data-centre-load-growth-as-bridge-to-low-carbon-energy-transition/",
     "date": "2025-10-15",
     "summary": "The US administration has a clear distaste for climate issues, but economics and data centres can still drive a clean energy transition.…",
-    "source": "Energy-Storage.News",
-    "image": null
-  },
-  {
-    "title": "BESS projects totalling over 1.5GWh progress in Bulgaria, Romania, Finland and Greece",
-    "link": "https://www.energy-storage.news/bess-projects-totalling-over-1-5gwh-progress-in-bulgaria-romania-finland-and-greece/",
-    "date": "2025-10-15",
-    "summary": "A flurry of grid-scale BESS project progress totalling more than a combined 1.5GWh in the past week, from Renalfa in Bulgaria, Engie in Roma…",
-    "source": "Energy-Storage.News",
-    "image": null
-  },
-  {
-    "title": "SINEXCEL’s Silicon Carbide Edge: A Decade of US Market Experience Meets Next-Generation Power Electronics",
-    "link": "https://www.energy-storage.news/sinexcel-silicon-carbide-edge-a-decade-of-us-market-experience-meets-next-generation-power-electronics/",
-    "date": "2025-10-15",
-    "summary": "At RE+ 2025, the Chinese energy solution provider discusses modular design innovations, efficiency gains, and navigating an uncertain policy…",
-    "source": "Energy-Storage.News",
-    "image": null
-  },
-  {
-    "title": "Chile to hit 2030 energy storage target early, Argentina entices investors: Energy Storage Summit Latin America Day 1",
-    "link": "https://www.energy-storage.news/chile-to-hit-2030-energy-storage-target-early-argentina-entices-investors-energy-storage-summit-latin-america-day-1/",
-    "date": "2025-10-15",
-    "summary": "Takeaways from the first day of Energy Storage Summit Latin America 2025, including the Chilean and Argentinian markets.…",
     "source": "Energy-Storage.News",
     "image": null
   },
@@ -852,22 +1124,6 @@
     "link": "https://www.pv-tech.org/saatvik-green-energy-receives-module-orders-worth-us78-million/",
     "date": "2025-10-15",
     "summary": "Indian module manufacturer Saatvik Green Energy, through its subsidiary Saatvik Solar Industries, has secured solar PV module orders worth I…",
-    "source": "PV Tech",
-    "image": null
-  },
-  {
-    "title": "Australian government approves 141MW solar PV power plant in just 19 days",
-    "link": "https://www.pv-tech.org/australian-government-approves-141mw-solar-pv-power-plant-in-just-19-days/",
-    "date": "2025-10-15",
-    "summary": "The Australian government has approved the 141MW Forbes Solar Farm Project in New South Wales in just 19 days, marking one of the fastest en…",
-    "source": "PV Tech",
-    "image": null
-  },
-  {
-    "title": "Australia opens Capacity Investment Scheme Tender 7, seeking 5GW of renewables",
-    "link": "https://www.pv-tech.org/australia-opens-capacity-investment-scheme-tender-7-seeking-5gw-of-renewables/",
-    "date": "2025-10-15",
-    "summary": "Australia has opened registrations for Capacity Investment Scheme (CIS) Tender 7, which targets 5GW of renewable energy generation capacity …",
     "source": "PV Tech",
     "image": null
   },
@@ -965,22 +1221,6 @@
     "date": "2025-10-14",
     "summary": "A study found that machine learning, dynamic cryptography, and forensic analysis can harden industrial control systems against sophisticated…",
     "source": "EE Power",
-    "image": null
-  },
-  {
-    "title": "Envision lands 500MW order for Indian projects",
-    "link": "https://www.windpowermonthly.com/article/1935900/envision-lands-500mw-order-indian-projects",
-    "date": "2025-10-13",
-    "summary": "",
-    "source": "Wind Power News & Analysis RSS Feed",
-    "image": null
-  },
-  {
-    "title": "Ocean Winds sells stake in Lithuania's first offshore wind farm",
-    "link": "https://www.windpowermonthly.com/article/1935848/ocean-winds-sells-stake-lithuanias-first-offshore-wind-farm",
-    "date": "2025-10-13",
-    "summary": "",
-    "source": "Wind Power News & Analysis RSS Feed",
     "image": null
   },
   {
