@@ -1,5 +1,21 @@
 [
   {
+    "title": "US battery materials and BESS firm Redwood raises US$350 million Series E",
+    "link": "https://www.energy-storage.news/us-battery-materials-and-bess-firm-redwood-raises-us350-million-series-e/",
+    "date": "2025-10-24",
+    "summary": "Redwood Materials has closed a US$350 million Series E funding round to scale up its critical battery materials and energy storage businesse…",
+    "source": "Energy-Storage.News",
+    "image": null
+  },
+  {
+    "title": "California utility renegotiates purchase agreement with RWE for 476MWh BESS after regulator rejects initial proposal",
+    "link": "https://www.energy-storage.news/california-utility-renegotiates-purchase-agreement-with-rwe-for-476mwh-bess-after-regulator-rejects-initial-proposal/",
+    "date": "2025-10-24",
+    "summary": "San Diego Gas &#038; Electric (SDG&#038;E) is seeking regulatory approval to acquire an operational portion of a BESS facility located in Im…",
+    "source": "Energy-Storage.News",
+    "image": null
+  },
+  {
     "title": "Price falls have enabled ‘zero-capex’ co-located BESS business model in Spain, company says",
     "link": "https://www.energy-storage.news/price-falls-have-enabled-zero-capex-co-located-bess-business-model-in-spain-company-says/",
     "date": "2025-10-24",
@@ -29,6 +45,22 @@
     "date": "2025-10-24",
     "summary": "Samsung C&#038;T Renewable Energy Australia is seeking federal approval for a 200MW battery energy storage system (BESS) project located nea…",
     "source": "Energy-Storage.News",
+    "image": null
+  },
+  {
+    "title": "Masdar breaks ground on ‘world’s largest’ 5.2GW/19GWh solar-plus-storage project",
+    "link": "https://www.pv-tech.org/masdar-breaks-ground-on-worlds-largest-5-2gw-19gwh-solar-plus-storage-project/",
+    "date": "2025-10-24",
+    "summary": "The Saudi state-owned renewables developer Masdar has begun construction on a giant solar-plus-storage project in Abu Dhabi.…",
+    "source": "PV Tech",
+    "image": null
+  },
+  {
+    "title": "Siemens Gamesa scraps plans for offshore wind nacelle factory",
+    "link": "https://www.windpowermonthly.com/article/1937229/siemens-gamesa-scraps-plans-offshore-wind-nacelle-factory",
+    "date": "2025-10-24",
+    "summary": "Siemens Gamesa has halted plans to build a wind turbine nacelle factory in the Danish port of Esbjerg.…",
+    "source": "Wind Power News & Analysis RSS Feed",
     "image": null
   },
   {
@@ -896,30 +928,6 @@
     "image": null
   },
   {
-    "title": "Naturgy launches construction on first portion of ten-site, 160MW BESS portfolio in Spain",
-    "link": "https://www.energy-storage.news/naturgy-launches-construction-on-first-portion-of-ten-site-160mw-bess-portfolio-in-spain/",
-    "date": "2025-10-17",
-    "summary": "Utility and power firm Naturgy has started building its first BESS projects in Spain, at four solar PV plants in Almeria and the Canary Isla…",
-    "source": "Energy-Storage.News",
-    "image": null
-  },
-  {
-    "title": "EASE rebrands as Energy Storage Europe Association for era of ‘unprecedented growth’",
-    "link": "https://www.energy-storage.news/ease-rebrands-as-energy-storage-europe-association-for-era-of-unprecedented-growth/",
-    "date": "2025-10-17",
-    "summary": "European Association for Storage of Energy (EASE), which represents 70 member organisations across the industry value chain, has undergone a…",
-    "source": "Energy-Storage.News",
-    "image": null
-  },
-  {
-    "title": "How political and economic disruption is causing a rethink in solar and storage financing",
-    "link": "https://www.pv-tech.org/how-political-economic-disruption-causing-rethink-solar-storage-financing/",
-    "date": "2025-10-17",
-    "summary": "According to Ronak Maheshwari of CRC-IB, there has been a struggle for US renewable power projects to secure necessary equity .…",
-    "source": "PV Tech",
-    "image": null
-  },
-  {
     "title": "GE Vernova secures turbine deal for Romanian wind farm",
     "link": "https://www.windpowermonthly.com/article/1936458/ge-vernova-secures-turbine-deal-romanian-wind-farm",
     "date": "2025-10-17",
@@ -997,14 +1005,6 @@
     "date": "2025-10-16",
     "summary": "GM, Hive Energy, Hyting, Energy Vault, and PG&amp;E are addressing hydrogen’s varied advantages and challenges.…",
     "source": "EE Power",
-    "image": null
-  },
-  {
-    "title": "Eversource Energy to take $75 million charge over Revolution Wind",
-    "link": "https://www.windpowermonthly.com/article/1936204/eversource-energy-75-million-charge-revolution-wind",
-    "date": "2025-10-15",
-    "summary": "US utility Eversource Energy will record a $75 million charge against its third quarter earnings this year because of cost overruns from the…",
-    "source": "Wind Power News & Analysis RSS Feed",
     "image": null
   },
   {
