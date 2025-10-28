@@ -184,6 +184,14 @@
     "image": null
   },
   {
+    "title": "Data Centers Are Turning to Gas Generators for Prime Power to Eliminate Long Lead Times for Grid Connections",
+    "link": "https://www.powermag.com/data-centers-are-turning-to-gas-generators-for-prime-power-to-eliminate-long-lead-times-for-grid-connections/",
+    "date": "2025-10-28",
+    "summary": "Backup generators are gaining a new lease on life in data centers. For decades, they have been a rarely used part of the infrastructure, exi…",
+    "source": "POWER Magazine",
+    "image": null
+  },
+  {
     "title": "Fusion Energy Group Hits Construction Milestone at Massachusetts Campus",
     "link": "https://www.powermag.com/fusion-energy-group-hits-construction-milestone-at-massachusetts-campus/",
     "date": "2025-10-28",
@@ -205,6 +213,14 @@
     "date": "2025-10-28",
     "summary": "<img alt=\"Tokamak schematic showing superconducting magnets in blue.\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"720\" src=\"https:/…",
     "source": "Power Electronics News",
+    "image": null
+  },
+  {
+    "title": "Lossless Current Sensing in Motor Drive Applications",
+    "link": "https://eepower.com/technical-articles/lossless-current-sensing-in-motor-drive-applications/",
+    "date": "2025-10-28",
+    "summary": "Quite often, low-side current sensing is considered to be the most cost-effective method to provide feedback to the controller in motor driv…",
+    "source": "EE Power",
     "image": null
   },
   {
@@ -832,14 +848,6 @@
     "image": null
   },
   {
-    "title": "Entergy Mississippi Adding Third Gas-Fired Power Plant to ‘Superpower’ Strategy",
-    "link": "https://www.powermag.com/entergy-mississippi-adding-third-gas-fired-power-plant-to-superpower-strategy/",
-    "date": "2025-10-23",
-    "summary": "Entergy Mississippi announced plans to build a 754-MW combined-cycle natural gas-fired power plant in Vicksburg. The $1.2-billion Vicksburg …",
-    "source": "POWER Magazine",
-    "image": null
-  },
-  {
     "title": "Hexagem: Pioneering GaN Innovation Within the Nordic Ecosystem",
     "link": "https://www.powerelectronicsnews.com/hexagem-pioneering-gan-innovation-within-the-nordic-ecosystem/",
     "date": "2025-10-23",
@@ -1068,14 +1076,6 @@
     "link": "https://eepower.com/news/briefs-hydrogen-for-fuel-storage-systems-and-microgrids/",
     "date": "2025-10-16",
     "summary": "GM, Hive Energy, Hyting, Energy Vault, and PG&amp;E are addressing hydrogen’s varied advantages and challenges.…",
-    "source": "EE Power",
-    "image": null
-  },
-  {
-    "title": "Research Explores Safer Battery Energy Storage System Options",
-    "link": "https://eepower.com/market-insights/research-explores-safer-battery-energy-storage-system-options/",
-    "date": "2025-10-15",
-    "summary": "Three studies promise safer, more sustainable, and higher-performance alternatives to today’s lithium-ion battery technology.…",
     "source": "EE Power",
     "image": null
   }
