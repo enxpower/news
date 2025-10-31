@@ -1,5 +1,37 @@
 [
   {
+    "title": "Eku Energy, LP Renewables propose 1,600MWh Belah BESS in Queensland, Australia",
+    "link": "https://www.energy-storage.news/eku-energy-lp-renewables-propose-1600mwh-belah-bess-in-queensland-australia/",
+    "date": "2025-10-31",
+    "summary": "Developer Eku Energy and LP Renewables have announced plans for the 400MW/1,600MWh Belah battery energy storage system in Queensland, Austra…",
+    "source": "Energy-Storage.News",
+    "image": null
+  },
+  {
+    "title": "Australia’s EPBC Act overhaul promises streamlined approvals as industry voices mixed support",
+    "link": "https://www.energy-storage.news/australias-epbc-act-overhaul-promises-streamlined-approvals-as-industry-voices-mixed-support/",
+    "date": "2025-10-31",
+    "summary": "The Australian Parliament has received the Environment Protection and Biodiversity Conservation (EPBC) Act reform bills, marking the governm…",
+    "source": "Energy-Storage.News",
+    "image": null
+  },
+  {
+    "title": "Australia’s solar PV and storage sectors drive record Q3 2025 performance",
+    "link": "https://www.pv-tech.org/australias-solar-pv-and-storage-sectors-drive-record-q3-2025-performance/",
+    "date": "2025-10-31",
+    "summary": "Australia's solar and energy storage sectors delivered transformative performance during the third quarter of 2025, with grid-scale solar ge…",
+    "source": "PV Tech",
+    "image": null
+  },
+  {
+    "title": "Acen Australia commits to recycling one million modules from 400MW solar PV power plant",
+    "link": "https://www.pv-tech.org/acen-australia-commits-to-recycling-one-million-modules-from-400mw-solar-pv-power-plant/",
+    "date": "2025-10-31",
+    "summary": "Acen Australia has committed to recycling around one million solar modules from its 400MW Stubbo solar PV power plant in New South Wales.…",
+    "source": "PV Tech",
+    "image": null
+  },
+  {
     "title": "Genera PR begins construction on 52MW BESS in Puerto Rico",
     "link": "https://www.energy-storage.news/genera-pr-begins-construction-on-52mw-bess-in-puerto-rico/",
     "date": "2025-10-30",
@@ -920,42 +952,10 @@
     "image": null
   },
   {
-    "title": "South Korean government investment in US BESS developer ‘reflects shared commitment to reliable, affordable power’",
-    "link": "https://www.energy-storage.news/south-korean-government-investment-in-us-bess-developer-reflects-shared-commitment-to-reliable-affordable-power/",
-    "date": "2025-10-24",
-    "summary": "Peregrine Energy Solutions has secured US$130 million from investors including the South Korean Ministry of Environment.…",
-    "source": "Energy-Storage.News",
-    "image": null
-  },
-  {
-    "title": "VIDEO: Demystifying the BESS metrics that matter most, from SoC and SoH to cell imbalance and RTE",
-    "link": "https://www.energy-storage.news/video-demystifying-the-bess-metrics-that-matter-most-from-soc-and-soh-to-cell-imbalance-and-rte/",
-    "date": "2025-10-24",
-    "summary": "Energy-Storage.news proudly presents our sponsored webinar with Wärtsilä, demystifying the BESS metrics that matter most.…",
-    "source": "Energy-Storage.News",
-    "image": null
-  },
-  {
     "title": "From energy yield to real-time performance: a new metric for PV project success",
     "link": "https://www.pv-tech.org/from-energy-yield-real-time-performance-new-metric-pv-project-success/",
     "date": "2025-10-24",
     "summary": "Marcel Suri explores the datasets that will help improve the accuracy of PV output estimation and drive better performance.…",
-    "source": "PV Tech",
-    "image": null
-  },
-  {
-    "title": "Nextracker forms JV in Saudi Arabia, raises FY guidance",
-    "link": "https://www.pv-tech.org/nextracker-forms-jv-in-saudi-arabia-raises-fy-guidance/",
-    "date": "2025-10-24",
-    "summary": "US solar tracker manufacturer Nextracker and Saudi-based energy company Abunayyan Holding have formed a joint venture (JV) in Saudi Arabia.…",
-    "source": "PV Tech",
-    "image": null
-  },
-  {
-    "title": "Masdar breaks ground on ‘world’s largest’ 5.2GW/19GWh solar-plus-storage project",
-    "link": "https://www.pv-tech.org/masdar-breaks-ground-on-worlds-largest-5-2gw-19gwh-solar-plus-storage-project/",
-    "date": "2025-10-24",
-    "summary": "The Emirati state-owned renewables developer Masdar has begun construction on a giant solar-plus-storage project in Abu Dhabi.…",
     "source": "PV Tech",
     "image": null
   },
