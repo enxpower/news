@@ -1,5 +1,13 @@
 [
   {
+    "title": "Drax buys 260MW of in-development UK BESS projects",
+    "link": "https://www.energy-storage.news/drax-buys-260mw-of-in-development-uk-bess-projects/",
+    "date": "2025-11-04",
+    "summary": "UK power generator Drax is set to acquire three BESS projects from York-based developer Apatura, with a combined capacity of 260MW.…",
+    "source": "Energy-Storage.News",
+    "image": null
+  },
+  {
     "title": "Baltic Storage Platform secures finance for Estonia BESS, Lithuanian scheme oversubscribed",
     "link": "https://www.energy-storage.news/baltic-storage-platform-secures-finance-for-estonia-bess-lithuanian-scheme-oversubscribed/",
     "date": "2025-11-04",
@@ -37,6 +45,22 @@
     "date": "2025-11-04",
     "summary": "Marie Cullen, head of procurement at Fluence Australia, explains how social licensing could become a key component for the future of energy …",
     "source": "Energy-Storage.News",
+    "image": null
+  },
+  {
+    "title": "Pioneering the future of bifacial back contact solar technology",
+    "link": "https://www.pv-tech.org/pioneering-future-bifacial-back-contact-solar-technology/",
+    "date": "2025-11-04",
+    "summary": "Radovan Kopecek and Christian Peter look ahead to an event in Yiwu, China, later this month, where the wider commercialisation of high-effic…",
+    "source": "PV Tech",
+    "image": null
+  },
+  {
+    "title": "GCL expands Indonesian footprint with 200MW solar project agreements",
+    "link": "https://www.pv-tech.org/gcl-expands-indonesian-footprint-with-200mw-solar-project-agreements/",
+    "date": "2025-11-04",
+    "summary": "GCL Intelligent Energy, a subsidiary of Chinese polysilicon producer GCL Technology, has signed shareholder agreements for two clean energy …",
+    "source": "PV Tech",
     "image": null
   },
   {
@@ -88,6 +112,14 @@
     "image": null
   },
   {
+    "title": "Wind power patents: Aker Solutions | Vestas | SenseWind | Nordex",
+    "link": "https://www.windpowermonthly.com/article/1938419/wind-power-patents-aker-solutions-vestas-sensewind-nordex",
+    "date": "2025-11-04",
+    "summary": "Windpower Monthly rounds up the latest patents for wind power technology granted and applied for in the last week.…",
+    "source": "Wind Power News & Analysis RSS Feed",
+    "image": null
+  },
+  {
     "title": "Ørsted agrees to sell half of giant offshore wind farm",
     "link": "https://www.windpowermonthly.com/article/1938358/orsted-agrees-sell-half-giant-offshore-wind-farm",
     "date": "2025-11-04",
@@ -104,8 +136,8 @@
     "image": null
   },
   {
-    "title": "Nordex CEO hails 'strong execution' as wind turbine maker's profits surge",
-    "link": "https://www.windpowermonthly.com/article/1938345/nordex-ceo-hails-strong-execution-wind-turbine-makers-profits-surge",
+    "title": "Updated: Nordex CEO hails 'strong execution' as wind turbine maker's profits surge",
+    "link": "https://www.windpowermonthly.com/article/1938345/updated-nordex-ceo-hails-strong-execution-wind-turbine-makers-profits-surge",
     "date": "2025-11-04",
     "summary": "German wind turbine manufacturer Nordex hailed an improving financial performance in its third quarter results after reporting soaring profi…",
     "source": "Wind Power News & Analysis RSS Feed",
@@ -880,14 +912,6 @@
     "image": null
   },
   {
-    "title": "Russia launches ‘deliberate campaign’ of wind farm attacks in Ukraine",
-    "link": "https://www.windpowermonthly.com/article/1937582/russia-launches-deliberate-campaign-wind-farm-attacks-ukraine",
-    "date": "2025-10-29",
-    "summary": "Russian forces have attacked turbines in the east of Ukraine three times in the last week as part of what observers have called a “deliberat…",
-    "source": "Wind Power News & Analysis RSS Feed",
-    "image": null
-  },
-  {
     "title": "Denmark Group: Old Coal-Fired Plants Can Be Converted to Thermal Energy Storage Facilities",
     "link": "https://www.powermag.com/denmark-group-old-coal-fired-plants-can-be-converted-to-thermal-energy-storage-facilities/",
     "date": "2025-10-29",
@@ -920,34 +944,10 @@
     "image": null
   },
   {
-    "title": "Tesla reports record energy storage deployments and profit ahead of vote on Musk’s monster pay proposal",
-    "link": "https://www.energy-storage.news/tesla-reports-record-energy-storage-deployments-and-profit-ahead-of-vote-on-musks-monster-pay-proposal/",
-    "date": "2025-10-28",
-    "summary": "Tesla reported record energy storage deployments and business segment profits in Q3 2025, just ahead of a shareholder vote on CEO Elon Musk’…",
-    "source": "Energy-Storage.News",
-    "image": null
-  },
-  {
     "title": "GreenYellow to invest US$116 million in C&I solar-plus-storage in Poland",
     "link": "https://www.pv-tech.org/greenyellow-to-invest-us116-million-in-ci-solar-plus-storage-in-poland/",
     "date": "2025-10-28",
     "summary": "GreenYellow plans to invest US$116 million in Poland over the next three years to expand its installed capacity and customer base.…",
-    "source": "PV Tech",
-    "image": null
-  },
-  {
-    "title": "‘Everyone is talking about’ co-located solar and storage PPAs in Europe",
-    "link": "https://www.pv-tech.org/everyone-talking-about-co-located-solar-storage-europe/",
-    "date": "2025-10-28",
-    "summary": "BESS are 'the new player that everyone is talking about,' in Europe’s power purchase agreement (PPA) space, according to LevelTen.…",
-    "source": "PV Tech",
-    "image": null
-  },
-  {
-    "title": "GoldenPeaks Capital secures US$132 million financing for Polish PV portfolio",
-    "link": "https://www.pv-tech.org/goldenpeaks-capital-secures-us132-million-financing-for-polish-pv-portfolio/",
-    "date": "2025-10-28",
-    "summary": "GoldenPeaks Capital secures EUR114 million (US$132 million) financing package for two solar PV Portfolio in Poland.…",
     "source": "PV Tech",
     "image": null
   },
