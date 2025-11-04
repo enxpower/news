@@ -104,6 +104,14 @@
     "image": null
   },
   {
+    "title": "Washington state public utility signs PPA for 260-MW solar + storage project",
+    "link": "https://www.solarpowerworldonline.com/2025/11/washington-state-public-utility-signs-ppa-for-260-mw-solar-storage-project/",
+    "date": "2025-11-04",
+    "summary": "Clearway Energy Group announced that it signed a 20-year PPA and a 20-year energy storage agreement with the Public Utility District No. 2 o…",
+    "source": "Solar Power World",
+    "image": null
+  },
+  {
     "title": "Powering the future: Sungrow’s liquid-cooled ST Series for community and C&I energy storage",
     "link": "https://www.solarpowerworldonline.com/2025/11/powering-the-future-sungrows-liquid-cooled-st-series-for-community-and-ci-energy-storage/",
     "date": "2025-11-04",
@@ -144,6 +152,14 @@
     "image": null
   },
   {
+    "title": "Power Quality in the AI Era: Solving for Subharmonics",
+    "link": "https://www.powermag.com/power-quality-in-the-ai-era-solving-for-subharmonics/",
+    "date": "2025-11-04",
+    "summary": "Data center operators are keenly aware that securing access to the grid is job number one on their to-do list. But the extraordinary demand …",
+    "source": "POWER Magazine",
+    "image": null
+  },
+  {
     "title": "GridBeyond Launches Designer in SPP to Optimize Project Planning and Operations",
     "link": "https://www.powermag.com/gridbeyond-launches-designer-in-spp-to-optimize-project-planning-and-operations/",
     "date": "2025-11-04",
@@ -157,6 +173,14 @@
     "date": "2025-11-04",
     "summary": "<img alt=\"Conflux Advances Additive Manufacturing for Airbus’ ZEROe Hydrogen Aircraft Program.\" class=\"webfeedsFeaturedVisual wp-post-image\"…",
     "source": "Power Electronics News",
+    "image": null
+  },
+  {
+    "title": "‘Honeycomb’ Floating Solar Panels To Lead PV Project in France",
+    "link": "https://eepower.com/market-insights/honeycomb-floating-solar-panels-to-lead-pv-project-in-france/",
+    "date": "2025-11-04",
+    "summary": "Floating solar panels will become part of a hybrid photovoltaic project in France, continuing a growing trend for renewable energy in tight …",
+    "source": "EE Power",
     "image": null
   },
   {
@@ -712,14 +736,6 @@
     "image": null
   },
   {
-    "title": "Building tomorrow’s data center today Automation platforms help hyperscalers integrate renewables into their energy mix.",
-    "link": "https://www.solarpowerworldonline.com/2025/10/building-tomorrows-data-center-today/",
-    "date": "2025-10-30",
-    "summary": "As AI drives explosive growth in computing demand, the data center industry stands at a crossroads between scale and sustainability. Forward…",
-    "source": "Solar Power World",
-    "image": null
-  },
-  {
     "title": "Dutch offshore wind auction fails amid cost pressures",
     "link": "https://www.windpowermonthly.com/article/1937942/dutch-offshore-wind-auction-fails-amid-cost-pressures",
     "date": "2025-10-30",
@@ -1000,14 +1016,6 @@
     "image": null
   },
   {
-    "title": "Curtiss-Wright Awarded $2.9M Contract to Modernize Recirculating Feed Water Control Systems for Commercial Nuclear Power Plant in Japan",
-    "link": "https://www.powermag.com/curtiss-wright-awarded-2-9m-contract-to-modernize-recirculating-feed-water-control-systems-for-commercial-nuclear-power-plant-in-japan/",
-    "date": "2025-10-27",
-    "summary": "Curtiss-Wright on October 27 announced it has been awarded a $2.9 million contract by a commercial nuclear power facility in Japan to modern…",
-    "source": "POWER Magazine",
-    "image": null
-  },
-  {
     "title": "Why True Per-Cell ADC Architecture Matters in BMS",
     "link": "https://eepower.com/technical-articles/breaking-through-the-limits-why-true-per-cell-adc-architecture-matters-in-bms/",
     "date": "2025-10-27",
@@ -1068,14 +1076,6 @@
     "link": "https://eepower.com/technical-articles/pcb-layout-considerations-for-ultra-low-rdson-15-v-40-v-gan-power-transistors/",
     "date": "2025-10-23",
     "summary": "This article will examine various layout strategies for GaN FETs, analyzing how different PCB configurations affect added resistance for eac…",
-    "source": "EE Power",
-    "image": null
-  },
-  {
-    "title": "Briefs: Tech Leaders Strategize in Batteries, Power, and Fusion",
-    "link": "https://eepower.com/news/briefs-tech-leaders-strategize-in-batteries-power-and-fusion/",
-    "date": "2025-10-23",
-    "summary": "Toyota, Mitsubishi Electric, and Infineon have launched projects, while two government agencies—the State of California and the U.S. Departm…",
     "source": "EE Power",
     "image": null
   }
