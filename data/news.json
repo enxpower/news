@@ -1,5 +1,29 @@
 [
   {
+    "title": "Baltic Storage Platform secures finance for Estonia BESS, Lithuanian scheme oversubscribed",
+    "link": "https://www.energy-storage.news/baltic-storage-platform-secures-finance-for-estonia-bess-lithuanian-scheme-oversubscribed/",
+    "date": "2025-11-04",
+    "summary": "A double header of Baltic BESS news, with financing secured for two large-scale BESS projects in Estonia and Lithuania's capex support schem…",
+    "source": "Energy-Storage.News",
+    "image": null
+  },
+  {
+    "title": "Cold beer, hot bricks: Heineken signs deals for 100MWh thermal energy storage system",
+    "link": "https://www.energy-storage.news/cold-beer-hot-bricks-heineken-signs-deals-for-100mwh-thermal-energy-storage-system/",
+    "date": "2025-11-04",
+    "summary": "Thermal energy storage (TES) startup Rondo Energy has announced its second 100MWh project within a matter of weeks, at a brewery in Portugal…",
+    "source": "Energy-Storage.News",
+    "image": null
+  },
+  {
+    "title": "‘Collaboration, not isolation’: India’s path to becoming a global energy storage supply hub",
+    "link": "https://www.energy-storage.news/collaboration-not-isolation-indias-path-to-becoming-a-global-energy-storage-supply-hub/",
+    "date": "2025-11-04",
+    "summary": "Partnerships will determine whether India can emerge as a global hub for battery manufacturing and energy storage.…",
+    "source": "Energy-Storage.News",
+    "image": null
+  },
+  {
     "title": "Samsung SDI ramps ESS battery manufacturing in US to 30GWh, Tesla deal talks reported",
     "link": "https://www.energy-storage.news/samsung-sdi-ramps-ess-battery-manufacturing-in-us-to-30gwh-tesla-deal-talks-reported/",
     "date": "2025-11-04",
@@ -16,6 +40,14 @@
     "image": null
   },
   {
+    "title": "Lack of pricing consensus slows down European PPA deals – Pexapark",
+    "link": "https://www.pv-tech.org/lack-of-pricing-consensus-slows-down-european-ppa-deals-pexapark/",
+    "date": "2025-11-04",
+    "summary": "Average renewable energy PPA deal price fell marginally to €46.37/MWh (US$53.36/MWh) in Europe in the last week of October, per Pexapark.…",
+    "source": "PV Tech",
+    "image": null
+  },
+  {
     "title": "Acen Australia’s 400MW Stubbo Solar project reaches full commercial operation",
     "link": "https://www.pv-tech.org/acen-australias-400mw-stubbo-solar-project-reaches-full-commercial-operation/",
     "date": "2025-11-04",
@@ -29,6 +61,22 @@
     "date": "2025-11-04",
     "summary": "The Australia government will require energy retailers to provide free solar electricity to households during peak daytime generation period…",
     "source": "PV Tech",
+    "image": null
+  },
+  {
+    "title": "Ørsted agrees to sell half of giant offshore wind farm",
+    "link": "https://www.windpowermonthly.com/article/1938358/orsted-agrees-sell-half-giant-offshore-wind-farm",
+    "date": "2025-11-04",
+    "summary": "Danish renewable energy major Ørsted has agreed to sell a 50% stake in the Hornsea 3 offshore wind farm being planned for a site in the UK N…",
+    "source": "Wind Power News & Analysis RSS Feed",
+    "image": null
+  },
+  {
+    "title": "France awards 950MW-plus in latest onshore wind tender",
+    "link": "https://www.windpowermonthly.com/article/1938352/france-awards-950mw-plus-latest-onshore-wind-tender",
+    "date": "2025-11-04",
+    "summary": "France has awarded power deals for more than 950MW of onshore wind capacity in its latest auction, while prices were comparable to recent te…",
+    "source": "Wind Power News & Analysis RSS Feed",
     "image": null
   },
   {
@@ -856,30 +904,6 @@
     "image": null
   },
   {
-    "title": "Zinc battery storage startup Eos to invest US$353 million in manufacturing and HQ move to Pennsylvania",
-    "link": "https://www.energy-storage.news/zinc-battery-storage-startup-eos-to-invest-us353-million-in-manufacturing-and-hq-move-to-pennsylvania/",
-    "date": "2025-10-28",
-    "summary": "Eos announced its move to Pennsylvania, US, as well as agreements for energy storage projects with Talen Energy and MN8 Energy.…",
-    "source": "Energy-Storage.News",
-    "image": null
-  },
-  {
-    "title": "Driving change: Volvo Penta’s battery systems for BESS applications in construction",
-    "link": "https://www.energy-storage.news/driving-change-volvo-pentas-battery-systems-for-bess-applications-in-construction/",
-    "date": "2025-10-28",
-    "summary": "Industrial power solutions manufacturer Volvo Penta discusses its battery systems for BESS with a focus on the heavy industry and constructi…",
-    "source": "Energy-Storage.News",
-    "image": null
-  },
-  {
-    "title": "‘Terna is the big winner’: Taking stock of Italy’s MACSE auction",
-    "link": "https://www.energy-storage.news/terna-is-the-big-winner-taking-stock-of-italys-macse-auction/",
-    "date": "2025-10-28",
-    "summary": "We gather the industry reaction to the MACSE auction in Italy, which saw TSO Terna procure 10GWh of long-term capacity at what most agreed a…",
-    "source": "Energy-Storage.News",
-    "image": null
-  },
-  {
     "title": "GreenYellow to invest US$116 million in C&I solar-plus-storage in Poland",
     "link": "https://www.pv-tech.org/greenyellow-to-invest-us116-million-in-ci-solar-plus-storage-in-poland/",
     "date": "2025-10-28",
@@ -917,30 +941,6 @@
     "date": "2025-10-28",
     "summary": "PV projects operate close to technical and financial limits, meaning that inaccurate inputs can have performance and profitability impacts.…",
     "source": "PV Tech",
-    "image": null
-  },
-  {
-    "title": "GoodWe launches C&I string inverter for European market",
-    "link": "https://www.pv-tech.org/goodwe-europe-solar-inverter-ci/",
-    "date": "2025-10-28",
-    "summary": "Chinese solar inverter producer GoodWe has launched a new “low noise, low weight” string inverter for the European corporate &#038; industri…",
-    "source": "PV Tech",
-    "image": null
-  },
-  {
-    "title": "Equinor wins Empire Wind court battle with Trump backing",
-    "link": "https://www.windpowermonthly.com/article/1937609/equinor-wins-empire-wind-court-battle-trump-backing",
-    "date": "2025-10-28",
-    "summary": "",
-    "source": "Wind Power News & Analysis RSS Feed",
-    "image": null
-  },
-  {
-    "title": "Wind turbine maker Nordex raises outlook as early Q3 figures provide boost",
-    "link": "https://www.windpowermonthly.com/article/1937512/wind-turbine-maker-nordex-raises-outlook-early-q3-figures-provide-boost",
-    "date": "2025-10-28",
-    "summary": "German wind turbine manufacturer Nordex has raised its guidance for its full-year financial performance ahead of announcing better-than-expe…",
-    "source": "Wind Power News & Analysis RSS Feed",
     "image": null
   },
   {
