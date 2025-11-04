@@ -40,6 +40,22 @@
     "image": null
   },
   {
+    "title": "Syncarpha completes construction at solar-plus-storage project at former chemical manufacturing site",
+    "link": "https://www.pv-tech.org/syncarpha-completes-construction-solar-plus-storage-project-former-chemical-manufacturing-site/",
+    "date": "2025-11-04",
+    "summary": "Syncarpha Capital has completed construction work at the 7.1MW Acton solar-plus-storage project in the US state of Massachusetts.…",
+    "source": "PV Tech",
+    "image": null
+  },
+  {
+    "title": "Enlight bags US$150 million tax equity for 128MW New Mexico solar project",
+    "link": "https://www.pv-tech.org/enlight-bags-us150-million-tax-equity-for-128mw-new-mexico-solar-project/",
+    "date": "2025-11-04",
+    "summary": "Israel-headquartered IPP Enlight has secured US$150 million in financing to support a solar-plus-storage project in the US.…",
+    "source": "PV Tech",
+    "image": null
+  },
+  {
     "title": "Lack of pricing consensus slows down European PPA deals – Pexapark",
     "link": "https://www.pv-tech.org/lack-of-pricing-consensus-slows-down-european-ppa-deals-pexapark/",
     "date": "2025-11-04",
@@ -93,6 +109,14 @@
     "date": "2025-11-04",
     "summary": "<img alt=\"Conflux Advances Additive Manufacturing for Airbus’ ZEROe Hydrogen Aircraft Program.\" class=\"webfeedsFeaturedVisual wp-post-image\"…",
     "source": "Power Electronics News",
+    "image": null
+  },
+  {
+    "title": "Smart Grids Spot Cyberattacks Without Exposing User Data",
+    "link": "https://eepower.com/market-insights/smart-grids-spot-cyberattacks-without-exposing-user-data/",
+    "date": "2025-11-04",
+    "summary": "Researchers have developed a federated learning framework to help smart grids detect DDoS attacks without exposing users' energy profiles, p…",
+    "source": "EE Power",
     "image": null
   },
   {
@@ -317,6 +341,14 @@
     "date": "2025-11-02",
     "summary": "This article explores the essential role of instrument transformers (CTs and VTs) in substations, their construction, accuracy factors, and …",
     "source": "EE Power",
+    "image": null
+  },
+  {
+    "title": "The Era of Power Scarcity: Strategies to Strengthen Global Energy Security Solutions to meet the global energy security demands of today and tomorrow.",
+    "link": "https://www.solarpowerworldonline.com/2025/11/the-era-of-power-scarcity-strategies-to-strengthen-global-energy-security/",
+    "date": "2025-11-01",
+    "summary": "Securing the Future of Energy Energy security is one of today’s defining challenges—and without changes to the status quo, it’s poised to in…",
+    "source": "Solar Power World",
     "image": null
   },
   {
@@ -832,14 +864,6 @@
     "image": null
   },
   {
-    "title": "NovaSource opens solar and storage O&M training center in Arizona",
-    "link": "https://www.solarpowerworldonline.com/2025/10/novasource-opens-solar-and-storage-om-training-center-in-arizona/",
-    "date": "2025-10-29",
-    "summary": "Utility-scale solar and storage O&#38;M provider NovaSource Power Services has opened NovaAcademy, a dedicated training center and curriculu…",
-    "source": "Solar Power World",
-    "image": null
-  },
-  {
     "title": "Wind and solar best bet for cheap electricity – but world climate goals slipping away",
     "link": "https://www.windpowermonthly.com/article/1937670/wind-solar-best-bet-cheap-electricity-%E2%80%93-world-climate-goals-slipping-away",
     "date": "2025-10-29",
@@ -924,22 +948,6 @@
     "link": "https://www.pv-tech.org/goldenpeaks-capital-secures-us132-million-financing-for-polish-pv-portfolio/",
     "date": "2025-10-28",
     "summary": "GoldenPeaks Capital secures EUR114 million (US$132 million) financing package for two solar PV Portfolio in Poland.…",
-    "source": "PV Tech",
-    "image": null
-  },
-  {
-    "title": "Navigating shifting module costs and falling power prices at PV ModuleTech Europe 2025",
-    "link": "https://www.pv-tech.org/navigating-shifting-module-costs-falling-power-prices-pv-moduletech-europe-2025/",
-    "date": "2025-10-28",
-    "summary": "Navigating module procurement in this financial environment will be a key topic of conversation at the PV ModuleTech Europe 2025 event.…",
-    "source": "PV Tech",
-    "image": null
-  },
-  {
-    "title": "Best practices for choosing a PV consultant and data provider",
-    "link": "https://www.pv-tech.org/best-practices-choosing-pv-consultant-data-provider/",
-    "date": "2025-10-28",
-    "summary": "PV projects operate close to technical and financial limits, meaning that inaccurate inputs can have performance and profitability impacts.…",
     "source": "PV Tech",
     "image": null
   },
@@ -1068,14 +1076,6 @@
     "link": "https://eepower.com/news/briefs-tech-leaders-strategize-in-batteries-power-and-fusion/",
     "date": "2025-10-23",
     "summary": "Toyota, Mitsubishi Electric, and Infineon have launched projects, while two government agencies—the State of California and the U.S. Departm…",
-    "source": "EE Power",
-    "image": null
-  },
-  {
-    "title": "Utilities Upgrade Grid Infrastructure as Energy Demand Surges",
-    "link": "https://eepower.com/news/utilities-upgrade-grid-infrastructure-as-energy-demand-surges/",
-    "date": "2025-10-22",
-    "summary": "PG&amp;E and Entergy Mississippi have begun major grid infrastructure improvements to handle increasing energy demand.…",
     "source": "EE Power",
     "image": null
   }
