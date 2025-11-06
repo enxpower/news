@@ -120,6 +120,14 @@
     "image": null
   },
   {
+    "title": "Tigo goes all-digital for MLPE install manuals",
+    "link": "https://www.solarpowerworldonline.com/2025/11/tigo-goes-all-digital-for-mlpe-install-manuals/",
+    "date": "2025-11-06",
+    "summary": "Beginning this month, Tigo announced that new TS4 Flex MLPE product shipments will replace printed installation manuals with digital documen…",
+    "source": "Solar Power World",
+    "image": null
+  },
+  {
     "title": "D3Energy completes largest floating solar array in Florida",
     "link": "https://www.solarpowerworldonline.com/2025/11/d3energy-completes-largest-floating-solar-array-in-florida/",
     "date": "2025-11-06",
@@ -173,6 +181,14 @@
     "date": "2025-11-06",
     "summary": "<img alt=\"Examples of a towable RV (left) and a motorized RV (right).\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"720\" src=\"https:…",
     "source": "Power Electronics News",
+    "image": null
+  },
+  {
+    "title": "Substation Components—Part 3:&nbsp; Circuit Breakers",
+    "link": "https://eepower.com/technical-articles/substation-componentspart-3-circuit-breakers/",
+    "date": "2025-11-06",
+    "summary": "This article explores the crucial role of circuit breakers in substations, covering their fundamental functions, interruption processes, and…",
+    "source": "EE Power",
     "image": null
   },
   {
@@ -760,14 +776,6 @@
     "image": null
   },
   {
-    "title": "DEI completes solar project on Superfund site in Massachusetts",
-    "link": "https://www.solarpowerworldonline.com/2025/11/dei-completes-solar-project-on-superfund-site-in-massachusetts/",
-    "date": "2025-11-03",
-    "summary": "Distributed Energy Infrastructure (DEI) has completed a 7.1-MW solar + 4-MW battery storage project in Acton, Massachusetts, on a Superfund …",
-    "source": "Solar Power World",
-    "image": null
-  },
-  {
     "title": "Shell formally withdraws from Atlantic Shores offshore wind project",
     "link": "https://www.windpowermonthly.com/article/1938214/shell-formally-withdraws-atlantic-shores-offshore-wind-project",
     "date": "2025-11-03",
@@ -1068,14 +1076,6 @@
     "link": "https://eepower.com/technical-articles/the-importance-of-ruggedness-littelfuse-polar-mosfets/",
     "date": "2025-10-25",
     "summary": "Learn how Littelfuse addresses the planar MOSFET gap with its Polar MOSFET portfolio, offering rugged and thermally reliable products that a…",
-    "source": "EE Power",
-    "image": null
-  },
-  {
-    "title": "Building Coupled Thermal-Electrical Models for High Voltage Power Modules",
-    "link": "https://eepower.com/technical-articles/building-coupled-thermal-electrical-models-for-high-voltage-power-modules/",
-    "date": "2025-10-24",
-    "summary": "Learn how to model and manage heat in 4-6.5 kV IGBT and SiC modules using coupled electro-thermal simulations for accurate cooling and relia…",
     "source": "EE Power",
     "image": null
   }
