@@ -32,6 +32,30 @@
     "image": null
   },
   {
+    "title": "Saatvik Green Energy secures solar PV module orders worth INR2.99 billion",
+    "link": "https://www.pv-tech.org/saatvik-green-energy-secures-solar-pv-module-orders-worth-inr2-99-billion/",
+    "date": "2025-11-07",
+    "summary": "Saatvik Green Energy, through its subsidiary Saatvik Solar Industries, secured solar PV module orders worth INR2.99 billion (US$33.7 million…",
+    "source": "PV Tech",
+    "image": null
+  },
+  {
+    "title": "US includes silicon, tellurium on list of critical minerals",
+    "link": "https://www.pv-tech.org/us-includes-silicon-tellurium-on-list-of-critical-minerals/",
+    "date": "2025-11-07",
+    "summary": "The US Geological Survey (USGS) has released the 2025 List of Critical Minerals, which includes silicon and tellurium.…",
+    "source": "PV Tech",
+    "image": null
+  },
+  {
+    "title": "Lawmakers call for EU-wide Chinese inverter restrictions, decry ‘energy security risks’",
+    "link": "https://www.pv-tech.org/lawmakers-call-for-eu-wide-chinese-inverter-restrictions/",
+    "date": "2025-11-07",
+    "summary": "Members of the European Parliament are urging the European Commission to restrict Chinese solar inverter manufacturers’ access to the bloc’s…",
+    "source": "PV Tech",
+    "image": null
+  },
+  {
     "title": "Alantra Solar bags €355 million for Italy PV portfolio",
     "link": "https://www.pv-tech.org/alantra-solar-bags-e355-million-for-italy-pv-portfolio/",
     "date": "2025-11-07",
@@ -61,6 +85,22 @@
     "date": "2025-11-07",
     "summary": "Australian energy retailer Flow Power has secured an offtake agreement from the 400MW Stubbo Solar project in New South Wales to underpin th…",
     "source": "PV Tech",
+    "image": null
+  },
+  {
+    "title": "French renewables developer Valorem names next CEO",
+    "link": "https://www.windpowermonthly.com/article/1938892/french-renewables-developer-valorem-names-next-ceo",
+    "date": "2025-11-07",
+    "summary": "French renewables developer Valorem has named a veteran of the country’s wind power sector as its incoming CEO.…",
+    "source": "Wind Power News & Analysis RSS Feed",
+    "image": null
+  },
+  {
+    "title": "100 MW Brick Battery Uses Solar To Power Oil Production",
+    "link": "https://eepower.com/news/100-mw-brick-battery-uses-solar-to-power-oil-production/",
+    "date": "2025-11-07",
+    "summary": "The world’s first and largest industrial heat battery is operational at an oil production facility in California.…",
+    "source": "EE Power",
     "image": null
   },
   {
@@ -848,22 +888,6 @@
     "image": null
   },
   {
-    "title": "Runergy develops 26.55% efficient M10 TOPCon solar cell",
-    "link": "https://www.pv-tech.org/runergy-develops-26-55-efficient-m10-topcon-solar-cell/",
-    "date": "2025-11-03",
-    "summary": "Runergy has reported that its latest n-type TOPCon solar cell has achieved a conversion efficiency of 26.55%.…",
-    "source": "PV Tech",
-    "image": null
-  },
-  {
-    "title": "The Solar PV industry needs to step up to face major challenges in sourcing and transparency",
-    "link": "https://www.pv-tech.org/solar-pv-industry-step-up-face-major-challenges-sourcing-transparency/",
-    "date": "2025-11-03",
-    "summary": "Dr KT Tan, CTO at Viridian Solar, chronicles how the expansion of solar raises questions about supply chain transparency and ethical sourcin…",
-    "source": "PV Tech",
-    "image": null
-  },
-  {
     "title": "Equity Solar Illinois checks off first community solar + storage project in ComEd territory",
     "link": "https://www.solarpowerworldonline.com/2025/11/equity-solar-illinois-checks-off-first-community-solar-storage-project-in-comed-territory/",
     "date": "2025-11-03",
@@ -952,14 +976,6 @@
     "image": null
   },
   {
-    "title": "What does the upcoming Section 232 on polysilicon need to answer?",
-    "link": "https://www.pv-tech.org/what-does-the-upcoming-section-232-on-polysilicon-need-to-answer/",
-    "date": "2025-10-31",
-    "summary": "Solar Media Market Research looks into the the Section 232 ruling in the US, tackling the questions that need to be understood.…",
-    "source": "PV Tech",
-    "image": null
-  },
-  {
     "title": "Trump defunds US offshore wind whale impact research",
     "link": "https://www.windpowermonthly.com/article/1938022/trump-defunds-us-offshore-wind-whale-impact-research",
     "date": "2025-10-31",
@@ -972,14 +988,6 @@
     "link": "https://www.windpowermonthly.com/article/1937996/pivotal-moment-japans-kansai-buys-majority-stake-simply-blue-energy",
     "date": "2025-10-31",
     "summary": "",
-    "source": "Wind Power News & Analysis RSS Feed",
-    "image": null
-  },
-  {
-    "title": "Kennedy orders human health probe in new US offshore wind attack",
-    "link": "https://www.windpowermonthly.com/article/1937994/kennedy-orders-human-health-probe-new-us-offshore-wind-attack",
-    "date": "2025-10-31",
-    "summary": "In the latest assault on US offshore wind, staff at the Centers for Disease Control and Prevention (CDC) have been told to investigate the a…",
     "source": "Wind Power News & Analysis RSS Feed",
     "image": null
   },
@@ -1068,14 +1076,6 @@
     "link": "https://eepower.com/technical-articles/substation-componentspart-1-power-transformers/",
     "date": "2025-10-26",
     "summary": "This article explores the role of power transformers in substations, highlighting their design, configurations, cooling methods, tap-changin…",
-    "source": "EE Power",
-    "image": null
-  },
-  {
-    "title": "The Importance of Ruggedness: Littelfuse Polar MOSFETs",
-    "link": "https://eepower.com/technical-articles/the-importance-of-ruggedness-littelfuse-polar-mosfets/",
-    "date": "2025-10-25",
-    "summary": "Learn how Littelfuse addresses the planar MOSFET gap with its Polar MOSFET portfolio, offering rugged and thermally reliable products that a…",
     "source": "EE Power",
     "image": null
   }
