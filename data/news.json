@@ -1,5 +1,53 @@
 [
   {
+    "title": "UK’s approved BESS pipeline grows to 162GWh, nearly 22GWh under construction",
+    "link": "https://www.energy-storage.news/uks-approved-bess-pipeline-grows-to-162gwh-nearly-22gwh-under-construction/",
+    "date": "2025-11-07",
+    "summary": "UK BESS projects totalling nearly 4GWh awarded planning consent in October, there is now nearly 22GWh under construction.…",
+    "source": "Energy-Storage.News",
+    "image": null
+  },
+  {
+    "title": "VIDEO: Stop the 20% BESS revenue leak with warranty-grade data",
+    "link": "https://www.energy-storage.news/video-stop-the-20-bess-revenue-leak-with-warranty-grade-data/",
+    "date": "2025-11-07",
+    "summary": "Energy-Storage.news proudly presents our sponsored webinar with Cellect, on how to protect your battery storage project from 'revenue leaks.…",
+    "source": "Energy-Storage.News",
+    "image": null
+  },
+  {
+    "title": "Eco Stor launches construction on ‘milestone’ 700MWh Germany BESS project",
+    "link": "https://www.energy-storage.news/eco-stor-launches-construction-on-milestone-700mwh-germany-bess-project/",
+    "date": "2025-11-07",
+    "summary": "BESS platform Eco Stor has marked the start of construction on a 300MW/700MWh BESS project in Germany, just days after RWE did the same.…",
+    "source": "Energy-Storage.News",
+    "image": null
+  },
+  {
+    "title": "Trina Storage signs 5GWh battery storage supply agreement with Pacific Green Energy",
+    "link": "https://www.energy-storage.news/trina-storage-signs-5gwh-battery-storage-supply-agreement-with-pacific-green-energy/",
+    "date": "2025-11-07",
+    "summary": "Trina Storage has signed a memorandum of understanding (MoU) with Pacific Green Energy Group to supply up to 5GWh of battery energy storage …",
+    "source": "Energy-Storage.News",
+    "image": null
+  },
+  {
+    "title": "Apple’s inaugural Australian solar deal covers 108MW Victorian project",
+    "link": "https://www.pv-tech.org/apples-inaugural-australian-solar-deal-covers-108mw-victorian-project/",
+    "date": "2025-11-07",
+    "summary": "Apple has signed a power purchase agreement (PPA) with Danish developer European Energy for renewable electricity from the 108MW Lancaster s…",
+    "source": "PV Tech",
+    "image": null
+  },
+  {
+    "title": "Energy retailer Flow Power signs offtake deal with 400MW Stubbo Solar project in Australia",
+    "link": "https://www.pv-tech.org/energy-retailer-flow-power-signs-offtake-deal-with-400mw-stubbo-solar-project-in-australia/",
+    "date": "2025-11-07",
+    "summary": "Australian energy retailer Flow Power has secured an offtake agreement from the 400MW Stubbo Solar project in New South Wales to underpin th…",
+    "source": "PV Tech",
+    "image": null
+  },
+  {
     "title": "GridStor’s 440MWh Texas BESS begins operations",
     "link": "https://www.energy-storage.news/gridstors-440mwh-texas-bess-begins-operations/",
     "date": "2025-11-06",
@@ -880,38 +928,6 @@
     "image": null
   },
   {
-    "title": "Flatiron Energy upsizes credit facility to US$250 million for BESS portfolio",
-    "link": "https://www.energy-storage.news/flatiron-energy-upsizes-credit-facility-to-us250-million-for-bess-portfolio/",
-    "date": "2025-10-31",
-    "summary": "Developer Flatiron Energy has increased its US$125 million credit facility with certain funds and accounts managed by HPS Investment Partner…",
-    "source": "Energy-Storage.News",
-    "image": null
-  },
-  {
-    "title": "Wisconsin utilities opt for solar-plus-storage project acquisitions over ‘debt-like PPAs’",
-    "link": "https://www.energy-storage.news/wisconsin-utilities-seek-regulatory-approval-775-million-hybrid-bess-acquisition-ranger-power/",
-    "date": "2025-10-31",
-    "summary": "Two investor-owned utilities (IOUs) are seeking regulatory approval to acquire an under-development solar and storage project located in Wau…",
-    "source": "Energy-Storage.News",
-    "image": null
-  },
-  {
-    "title": "Envision launches modular ‘Gen 8’ BESS equipped with 750Ah-plus cells",
-    "link": "https://www.energy-storage.news/envision-launches-modular-gen-8-bess-equipped-with-750ah-plus-cells/",
-    "date": "2025-10-31",
-    "summary": "Lithium-ion OEM Envision Energy has launched its latest grid-scale BESS solution, a 10-foot modular DC block which can be combined into conf…",
-    "source": "Energy-Storage.News",
-    "image": null
-  },
-  {
-    "title": "EBRD provides US$142 million for Uzbekistan’s first gigawatt-scale solar PV and energy storage portfolio",
-    "link": "https://www.energy-storage.news/ebrd-provides-us142-million-for-uzbekistans-first-gigawatt-scale-solar-pv-and-energy-storage-portfolio/",
-    "date": "2025-10-31",
-    "summary": "The European Bank for Reconstruction and Development (EBRD) has provided US$142 million in financing for the construction of a 1GW solar and…",
-    "source": "Energy-Storage.News",
-    "image": null
-  },
-  {
     "title": "What does the upcoming Section 232 on polysilicon need to answer?",
     "link": "https://www.pv-tech.org/what-does-the-upcoming-section-232-on-polysilicon-need-to-answer/",
     "date": "2025-10-31",
@@ -932,22 +948,6 @@
     "link": "https://www.pv-tech.org/first-solar-to-open-new-3-7gw-us-manufacturing-plant-in-2026/",
     "date": "2025-10-31",
     "summary": "US thin-film module manufacturer First Solar has unveiled plans to build a new 3.7GW manufacturing plant in the US in 2026.…",
-    "source": "PV Tech",
-    "image": null
-  },
-  {
-    "title": "Australia’s solar PV and storage sectors drive record Q3 2025 performance",
-    "link": "https://www.pv-tech.org/australias-solar-pv-and-storage-sectors-drive-record-q3-2025-performance/",
-    "date": "2025-10-31",
-    "summary": "Australia's solar and energy storage sectors delivered transformative performance during the third quarter of 2025, with grid-scale solar ge…",
-    "source": "PV Tech",
-    "image": null
-  },
-  {
-    "title": "Acen Australia commits to recycling one million modules from 400MW solar PV power plant",
-    "link": "https://www.pv-tech.org/acen-australia-commits-to-recycling-one-million-modules-from-400mw-solar-pv-power-plant/",
-    "date": "2025-10-31",
-    "summary": "Acen Australia has committed to recycling around one million solar modules from its 400MW Stubbo solar PV power plant in New South Wales.…",
     "source": "PV Tech",
     "image": null
   },
