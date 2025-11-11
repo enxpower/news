@@ -16,6 +16,14 @@
     "image": null
   },
   {
+    "title": "Hassan Allam, Infinity Power to develop 1.2GW solar, 720MWh energy storage projects in Egypt",
+    "link": "https://www.pv-tech.org/hassan-allam-infinity-power-to-develop-1-2gw-solar-720mwh-energy-storage-projects-in-egypt/",
+    "date": "2025-11-11",
+    "summary": "Hassan Allam Utilities Energy Platform and Infinity Power have signed agreements to develop two renewable energy projects in the country.…",
+    "source": "PV Tech",
+    "image": null
+  },
+  {
     "title": "Pacific Energy, Horizon Power sign 20-year PPA for solar hybrid in Western Australia",
     "link": "https://www.pv-tech.org/pacific-energy-horizon-power-sign-20-year-ppa-for-solar-hybrid-in-western-australia/",
     "date": "2025-11-11",
@@ -197,6 +205,54 @@
     "date": "2025-11-10",
     "summary": "Solar Power World is proud to present the second-annual SPW Rising Stars. These solar industry workers are improving the industry and inspir…",
     "source": "Solar Power World",
+    "image": null
+  },
+  {
+    "title": "Shell exits two Scottish wind farms amid 'strategic review'",
+    "link": "https://www.windpowermonthly.com/article/1939204/shell-exits-two-scottish-wind-farms-amid-strategic-review",
+    "date": "2025-11-10",
+    "summary": "Oil major Shell has pulled out of the gigawatt-scale MarramWind and CampionWind projects off the coast of Scotland following a “strategic re…",
+    "source": "Wind Power News & Analysis RSS Feed",
+    "image": null
+  },
+  {
+    "title": "Wind turbine blade falls into cranberry bog",
+    "link": "https://www.windpowermonthly.com/article/1939178/wind-turbine-blade-falls-cranberry-bog",
+    "date": "2025-11-10",
+    "summary": "A rotor blade has fallen off a wind turbine into a remote cranberry bog in Massachusetts.…",
+    "source": "Wind Power News & Analysis RSS Feed",
+    "image": null
+  },
+  {
+    "title": "Denmark adjusts offshore wind tender terms amid 'severe pressure'",
+    "link": "https://www.windpowermonthly.com/article/1939165/denmark-adjusts-offshore-wind-tender-terms-amid-severe-pressure",
+    "date": "2025-11-10",
+    "summary": "Denmark has adjusted the terms of its upcoming offshore wind tender, redistributing its DKK 55.2 billion (€7.4 billion) contracts for differ…",
+    "source": "Wind Power News & Analysis RSS Feed",
+    "image": null
+  },
+  {
+    "title": "Analysis: Data centre boom presents opportunities and challenges for wind power",
+    "link": "https://www.windpowermonthly.com/article/1938053/analysis-data-centre-boom-presents-opportunities-challenges-wind-power",
+    "date": "2025-11-10",
+    "summary": "Data centres are set to drive massive increases in power demand across the world with the surging needs of processing power and storage link…",
+    "source": "Wind Power News & Analysis RSS Feed",
+    "image": null
+  },
+  {
+    "title": "Key Mingyang offshore wind turbine component set for UK tests",
+    "link": "https://www.windpowermonthly.com/article/1939133/key-mingyang-offshore-wind-turbine-component-set-uk-tests",
+    "date": "2025-11-10",
+    "summary": "",
+    "source": "Wind Power News & Analysis RSS Feed",
+    "image": null
+  },
+  {
+    "title": "Brazil seeks investors for offshore wind demonstrator",
+    "link": "https://www.windpowermonthly.com/article/1939109/brazil-seeks-investors-offshore-wind-demonstrator",
+    "date": "2025-11-10",
+    "summary": "",
+    "source": "Wind Power News & Analysis RSS Feed",
     "image": null
   },
   {
@@ -512,6 +568,14 @@
     "image": null
   },
   {
+    "title": "French renewables developer Valorem names next CEO",
+    "link": "https://www.windpowermonthly.com/article/1938892/french-renewables-developer-valorem-names-next-ceo",
+    "date": "2025-11-07",
+    "summary": "French renewables developer Valorem has named a veteran of the country’s wind power sector as its incoming CEO.…",
+    "source": "Wind Power News & Analysis RSS Feed",
+    "image": null
+  },
+  {
     "title": "Nuclear, Natural Gas Power Generation Planned for Massive New Mexico Data Center Site",
     "link": "https://www.powermag.com/nuclear-natural-gas-power-generation-planned-for-massive-new-mexico-data-center-site/",
     "date": "2025-11-07",
@@ -733,6 +797,30 @@
     "date": "2025-11-06",
     "summary": "PV Talk: Owen Schelenz of GE Vernova explains why silicon carbide power conversion technology is once again on the agenda for utility solar.…",
     "source": "PV Tech",
+    "image": null
+  },
+  {
+    "title": "Kremlin-backed firm plans Russian wind turbine factory",
+    "link": "https://www.windpowermonthly.com/article/1938716/kremlin-backed-firm-plans-russian-wind-turbine-factory",
+    "date": "2025-11-06",
+    "summary": "Kremlin-controlled Forward Energo is looking for a contractor to build a factory in Russia, which is due to be the country’s first Russian-c…",
+    "source": "Wind Power News & Analysis RSS Feed",
+    "image": null
+  },
+  {
+    "title": "New podcast: China's new designs | Arson attacks | Offshore factories",
+    "link": "https://www.windpowermonthly.com/article/1938718/new-podcast-chinas-new-designs-arson-attacks-offshore-factories",
+    "date": "2025-11-06",
+    "summary": "Welcome to the Wind Power News Review – hosted by Windpower Monthly's senior reporter, Robyn White, and Windpower Monthly's reporter, Orland…",
+    "source": "Wind Power News & Analysis RSS Feed",
+    "image": null
+  },
+  {
+    "title": "Analysis: Offshore wind factory plans reveal contrasting positions for European and Chinese OEMs",
+    "link": "https://www.windpowermonthly.com/article/1938045/analysis-offshore-wind-factory-plans-reveal-contrasting-positions-european-chinese-oems",
+    "date": "2025-11-06",
+    "summary": "As two of Europe’s biggest turbine makers, Vestas and Siemens Gamesa, pause plans for new offshore wind factories in Denmark and Poland, Chi…",
+    "source": "Wind Power News & Analysis RSS Feed",
     "image": null
   },
   {
@@ -976,11 +1064,35 @@
     "image": null
   },
   {
-    "title": "Spain passes decree strengthening grid resilience and boosting energy storage",
-    "link": "https://www.pv-tech.org/spain-passes-decree-strengthening-grid-resilience-and-boosting-energy-storage/",
+    "title": "Updated: US allowed to scrap key permit for SouthCoast Wind",
+    "link": "https://www.windpowermonthly.com/article/1938598/updated-us-allowed-scrap-key-permit-southcoast-wind",
     "date": "2025-11-05",
-    "summary": "The Spanish government has approved a royal decree aimed at strengthening the power grid's resilience, robustness and stability in response …",
-    "source": "PV Tech",
+    "summary": "A federal district court judge has ruled that the US interior department can scrap the approval of the construction and operations plan (COP…",
+    "source": "Wind Power News & Analysis RSS Feed",
+    "image": null
+  },
+  {
+    "title": "Saudi Arabia to use 10MW Chinese turbines for low-price gigawatt-scale wind farms",
+    "link": "https://www.windpowermonthly.com/article/1938525/saudi-arabia-use-10mw-chinese-turbines-low-price-gigawatt-scale-wind-farms",
+    "date": "2025-11-05",
+    "summary": "Goldwind will supply hundreds of its 10MW turbines for a 3GW Saudi wind cluster a trio of Saudi developers is building at power prices among…",
+    "source": "Wind Power News & Analysis RSS Feed",
+    "image": null
+  },
+  {
+    "title": "Updated: Ørsted CEO hails progress despite Q3 profits plunge",
+    "link": "https://www.windpowermonthly.com/article/1938509/updated-orsted-ceo-hails-progress-despite-q3-profits-plunge",
+    "date": "2025-11-05",
+    "summary": "Danish renewable energy major Ørsted reported plunging earnings and profits in its third quarter results today (5 November) but its CEO said…",
+    "source": "Wind Power News & Analysis RSS Feed",
+    "image": null
+  },
+  {
+    "title": "Wind turbine maker Vestas doubles profits and narrows 2025 guidance",
+    "link": "https://www.windpowermonthly.com/article/1938507/wind-turbine-maker-vestas-doubles-profits-narrows-2025-guidance",
+    "date": "2025-11-05",
+    "summary": "Vestas more than doubled its net profit in the third quarter of 2025 due to improved onshore project performance and higher deliveries, whil…",
+    "source": "Wind Power News & Analysis RSS Feed",
     "image": null
   },
   {
@@ -1056,6 +1168,38 @@
     "image": null
   },
   {
+    "title": "Wind power patents: Aker Solutions | Vestas | SenseWind | Nordex",
+    "link": "https://www.windpowermonthly.com/article/1938419/wind-power-patents-aker-solutions-vestas-sensewind-nordex",
+    "date": "2025-11-04",
+    "summary": "Windpower Monthly rounds up the latest patents for wind power technology granted and applied for in the last week.…",
+    "source": "Wind Power News & Analysis RSS Feed",
+    "image": null
+  },
+  {
+    "title": "Ørsted agrees to sell half of giant offshore wind farm",
+    "link": "https://www.windpowermonthly.com/article/1938358/orsted-agrees-sell-half-giant-offshore-wind-farm",
+    "date": "2025-11-04",
+    "summary": "Danish renewable energy major Ørsted has agreed to sell a 50% stake in the Hornsea 3 offshore wind farm being planned for a site in the UK N…",
+    "source": "Wind Power News & Analysis RSS Feed",
+    "image": null
+  },
+  {
+    "title": "France awards 950MW-plus in latest onshore wind tender",
+    "link": "https://www.windpowermonthly.com/article/1938352/france-awards-950mw-plus-latest-onshore-wind-tender",
+    "date": "2025-11-04",
+    "summary": "France has awarded power deals for more than 950MW of onshore wind capacity in its latest auction, while prices were comparable to recent te…",
+    "source": "Wind Power News & Analysis RSS Feed",
+    "image": null
+  },
+  {
+    "title": "Updated: Nordex CEO hails 'strong execution' as wind turbine maker's profits surge",
+    "link": "https://www.windpowermonthly.com/article/1938345/updated-nordex-ceo-hails-strong-execution-wind-turbine-makers-profits-surge",
+    "date": "2025-11-04",
+    "summary": "German wind turbine manufacturer Nordex hailed an improving financial performance in its third quarter results after reporting soaring profi…",
+    "source": "Wind Power News & Analysis RSS Feed",
+    "image": null
+  },
+  {
     "title": "‘Honeycomb’ Floating Solar Panels To Lead PV Project in France",
     "link": "https://eepower.com/market-insights/honeycomb-floating-solar-panels-to-lead-pv-project-in-france/",
     "date": "2025-11-04",
@@ -1069,6 +1213,22 @@
     "date": "2025-11-04",
     "summary": "Researchers have developed a federated learning framework to help smart grids detect DDoS attacks without exposing users' energy profiles, p…",
     "source": "EE Power",
+    "image": null
+  },
+  {
+    "title": "Shell formally withdraws from Atlantic Shores offshore wind project",
+    "link": "https://www.windpowermonthly.com/article/1938214/shell-formally-withdraws-atlantic-shores-offshore-wind-project",
+    "date": "2025-11-03",
+    "summary": "",
+    "source": "Wind Power News & Analysis RSS Feed",
+    "image": null
+  },
+  {
+    "title": "Mayor warns against ‘unsubstantiated claims’ after Nordex turbine collapse",
+    "link": "https://www.windpowermonthly.com/article/1938187/mayor-warns-against-unsubstantiated-claims-nordex-turbine-collapse",
+    "date": "2025-11-03",
+    "summary": "A Nordex turbine collapsed at a wind farm in north-west Germany, prompting the local mayor to warn against wind power opponents making “unsu…",
+    "source": "Wind Power News & Analysis RSS Feed",
     "image": null
   },
   {
