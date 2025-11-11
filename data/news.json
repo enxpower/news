@@ -16,6 +16,14 @@
     "image": null
   },
   {
+    "title": "Sunrun’s ‘storage-first’ strategy sees green shoots in Q3",
+    "link": "https://www.pv-tech.org/sunrun-revenue-hits-724-6-million-q3-2025/",
+    "date": "2025-11-11",
+    "summary": "Sunrun has posted revenue of US$724.6 million in the third quarter of this year, marking the third consecutive quarter of growth this year.…",
+    "source": "PV Tech",
+    "image": null
+  },
+  {
     "title": "Hassan Allam, Infinity Power to develop 1.2GW solar, 720MWh energy storage projects in Egypt",
     "link": "https://www.pv-tech.org/hassan-allam-infinity-power-to-develop-1-2gw-solar-720mwh-energy-storage-projects-in-egypt/",
     "date": "2025-11-11",
@@ -37,6 +45,14 @@
     "date": "2025-11-11",
     "summary": "The Australian Renewable Energy Agency (ARENA) has committed AU$25.3 million (US$16.53 million) in funding to support PV cell technology sta…",
     "source": "PV Tech",
+    "image": null
+  },
+  {
+    "title": "5 lessons learned scaling a solar operation from 0 to 2,000 installs a month",
+    "link": "https://www.solarpowerworldonline.com/2025/11/5-lessons-learned-scaling-a-solar-operation-from-0-to-2000-installs-a-month/",
+    "date": "2025-11-11",
+    "summary": "By Mikey Heinz, CEO of Bright Ops In solar, growth is often measured in sales volume. But scaling a solar operation — going from a handful o…",
+    "source": "Solar Power World",
     "image": null
   },
   {
@@ -312,99 +328,11 @@
     "image": null
   },
   {
-    "title": "H.H. Sheikh Mohamed Bin Zayed names 2026 ‘Year Of Family’",
-    "link": "https://www.constructionweekonline.com/news/sheikh-mohamed-bin-zayed-2026-theme",
-    "date": "2025-11-10",
-    "summary": "<figure><img alt=\"Sheikh Mohamed\" class=\"attachment-medium size-medium wp-post-image\" height=\"699\" src=\"https://www.constructionweekonline.c…",
-    "source": "Construction Week Online",
-    "image": null
-  },
-  {
-    "title": "Siemens unveils Velaro high-speed train at TransMEA 2025 in Cairo",
-    "link": "https://www.constructionweekonline.com/news/siemens-velaro-transmea-cairo",
-    "date": "2025-11-10",
-    "summary": "<figure><img alt=\"Cairo\" class=\"attachment-medium size-medium wp-post-image\" height=\"667\" src=\"https://www.constructionweekonline.com/cloud/…",
-    "source": "Construction Week Online",
-    "image": null
-  },
-  {
-    "title": "Sobha Realty unveils The Mirage following $953 mn sales milestone",
-    "link": "https://www.constructionweekonline.com/projects-tenders/sobha-realty-the-mirage-sales",
-    "date": "2025-11-10",
-    "summary": "<figure><img alt=\"The Mirage at Sobha Central\" class=\"attachment-medium size-medium wp-post-image\" height=\"563\" src=\"https://www.constructio…",
-    "source": "Construction Week Online",
-    "image": null
-  },
-  {
-    "title": "AECOM joint venture to provide design consultancy for New Murabba’s The Mukaab",
-    "link": "https://www.constructionweekonline.com/people/appointments/aecom-new-murabba-the-mukaab",
-    "date": "2025-11-10",
-    "summary": "<figure><img alt=\"New Murabba\" class=\"attachment-medium size-medium wp-post-image\" height=\"557\" src=\"https://www.constructionweekonline.com/…",
-    "source": "Construction Week Online",
-    "image": null
-  },
-  {
-    "title": "Wynn Resorts x Marjan announce second joint venture, Janu Al Marjan Island",
-    "link": "https://www.constructionweekonline.com/news/wynn-janu-al-marjan-island",
-    "date": "2025-11-10",
-    "summary": "<figure><img alt=\"wynn\" class=\"attachment-medium size-medium wp-post-image\" height=\"1\" src=\"https://www.constructionweekonline.com/cloud/202…",
-    "source": "Construction Week Online",
-    "image": null
-  },
-  {
-    "title": "Ducorr: The science of staying rust free",
-    "link": "https://www.constructionweekonline.com/features/ducorr-the-science-of-staying-rust-free",
-    "date": "2025-11-10",
-    "summary": "<figure><img alt=\"Ducorr\" class=\"attachment-medium size-medium wp-post-image\" height=\"563\" src=\"https://www.constructionweekonline.com/cloud…",
-    "source": "Construction Week Online",
-    "image": null
-  },
-  {
-    "title": "EXCLUSIVE: NEOM’s role in solving the global energy ‘trilemma’",
-    "link": "https://www.constructionweekonline.com/business/insights/neom-global-energy-trilemma",
-    "date": "2025-11-10",
-    "summary": "<figure><img alt=\"NEOM\" class=\"attachment-medium size-medium wp-post-image\" height=\"667\" src=\"https://www.constructionweekonline.com/cloud/2…",
-    "source": "Construction Week Online",
-    "image": null
-  },
-  {
-    "title": "Fastmarkets Middle East Iron & Steel: Steel powers MENA’s $3 tn industrial transformation",
-    "link": "https://www.constructionweekonline.com/business/insights/fastmarkets-me-iron-steel",
-    "date": "2025-11-10",
-    "summary": "<figure><img alt=\"Steel\" class=\"attachment-medium size-medium wp-post-image\" height=\"667\" src=\"https://www.constructionweekonline.com/cloud/…",
-    "source": "Construction Week Online",
-    "image": null
-  },
-  {
-    "title": "Dubai Metro Blue Line reaches 10% completion milestone",
-    "link": "https://www.constructionweekonline.com/news/dubai-metro-blue-line-rta-2",
-    "date": "2025-11-10",
-    "summary": "<figure><img alt=\"RTA Dubai Metro update: Parsons appointed as Project Management Consultant for Blue Line Project\" class=\"attachment-medium…",
-    "source": "Construction Week Online",
-    "image": null
-  },
-  {
     "title": "Substation Components—Part 4: Isolators",
     "link": "https://eepower.com/technical-articles/substation-componentspart-4-isolators/",
     "date": "2025-11-09",
     "summary": "This article explains the role of substation isolators, covering their purpose in visible isolation and safe operating sequences with breake…",
     "source": "EE Power",
-    "image": null
-  },
-  {
-    "title": "Cityscape Global 2025 to reimagine the future of living through human-centric design",
-    "link": "https://www.constructionweekonline.com/news/cityscape-2025-human-centric",
-    "date": "2025-11-09",
-    "summary": "<figure><img alt=\"\" class=\"attachment-medium size-medium wp-post-image\" height=\"667\" src=\"https://www.constructionweekonline.com/cloud/2025/…",
-    "source": "Construction Week Online",
-    "image": null
-  },
-  {
-    "title": "Rethinking pay: Inside the UAE construction industry’s digital payroll revolution",
-    "link": "https://www.constructionweekonline.com/news/press-release/uae-construction-digital-payrol",
-    "date": "2025-11-08",
-    "summary": "<figure><img alt=\"uae\" class=\"attachment-medium size-medium wp-post-image\" height=\"750\" src=\"https://www.constructionweekonline.com/cloud/20…",
-    "source": "Construction Week Online",
     "image": null
   },
   {
@@ -560,14 +488,6 @@
     "image": null
   },
   {
-    "title": "Pine Gate Renewables files for bankruptcy, selling solar business and project portfolio",
-    "link": "https://www.solarpowerworldonline.com/2025/11/pine-gate-renewables-files-for-bankruptcy-selling-solar-business-and-project-portfolio/",
-    "date": "2025-11-07",
-    "summary": "National solar developer Pine Gate Renewables is filing for Chapter 11 bankruptcy and selling its solar and energy storage project portfolio…",
-    "source": "Solar Power World",
-    "image": null
-  },
-  {
     "title": "French renewables developer Valorem names next CEO",
     "link": "https://www.windpowermonthly.com/article/1938892/french-renewables-developer-valorem-names-next-ceo",
     "date": "2025-11-07",
@@ -621,62 +541,6 @@
     "date": "2025-11-07",
     "summary": "The world’s first and largest industrial heat battery is operational at an oil production facility in California.…",
     "source": "EE Power",
-    "image": null
-  },
-  {
-    "title": "Qatar’s rental market surges 25% as real estate hits new highs",
-    "link": "https://www.constructionweekonline.com/news/qatar-rental-market-surge",
-    "date": "2025-11-07",
-    "summary": "<figure><img alt=\"qatar\" class=\"attachment-medium size-medium wp-post-image\" height=\"667\" src=\"https://www.constructionweekonline.com/cloud/…",
-    "source": "Construction Week Online",
-    "image": null
-  },
-  {
-    "title": "Here are Dubai’s Top 5 prime villa communities for 2025",
-    "link": "https://www.constructionweekonline.com/news/press-release/dubai-top-villa-communities",
-    "date": "2025-11-07",
-    "summary": "<figure><img alt=\"villa\" class=\"attachment-medium size-medium wp-post-image\" height=\"629\" src=\"https://www.constructionweekonline.com/cloud/…",
-    "source": "Construction Week Online",
-    "image": null
-  },
-  {
-    "title": "BEYOND takes business to new heights with ‘31 Above’ at Dubai Maritime city",
-    "link": "https://www.constructionweekonline.com/news/press-release/beyond-new-dubai-maritime",
-    "date": "2025-11-07",
-    "summary": "<figure><img alt=\"beyond\" class=\"attachment-medium size-medium wp-post-image\" height=\"667\" src=\"https://www.constructionweekonline.com/cloud…",
-    "source": "Construction Week Online",
-    "image": null
-  },
-  {
-    "title": "Sharjah’s Arada awards $40mn contract for new sports park in Aljada megaproject",
-    "link": "https://www.constructionweekonline.com/news/press-release/sharjah-arada-contract-aljada",
-    "date": "2025-11-07",
-    "summary": "<figure><img alt=\"aljada\" class=\"attachment-medium size-medium wp-post-image\" height=\"561\" src=\"https://www.constructionweekonline.com/cloud…",
-    "source": "Construction Week Online",
-    "image": null
-  },
-  {
-    "title": "New in Al Jaddaf: Azizi’s Farishta II brings Creek views and modern luxury",
-    "link": "https://www.constructionweekonline.com/news/press-release/al-jaddaf-azizi-farishta-ii",
-    "date": "2025-11-07",
-    "summary": "<figure><img alt=\"al jaddaf\" class=\"attachment-medium size-medium wp-post-image\" height=\"750\" src=\"https://www.constructionweekonline.com/cl…",
-    "source": "Construction Week Online",
-    "image": null
-  },
-  {
-    "title": "Emaar’s record-breaking year: AED 52.9bn sales and a 49% profit jump",
-    "link": "https://www.constructionweekonline.com/news/press-release/emaar-49-profit-jump",
-    "date": "2025-11-07",
-    "summary": "<figure><img alt=\"emaar\" class=\"attachment-medium size-medium wp-post-image\" height=\"750\" src=\"https://www.constructionweekonline.com/cloud/…",
-    "source": "Construction Week Online",
-    "image": null
-  },
-  {
-    "title": "GJ Properties expands Ajman’s real estate with new projects and a digital-first strategy",
-    "link": "https://www.constructionweekonline.com/news/press-release/gj-projects-digital-ajman",
-    "date": "2025-11-07",
-    "summary": "<figure><img alt=\"ajman\" class=\"attachment-medium size-medium wp-post-image\" height=\"700\" src=\"https://www.constructionweekonline.com/cloud/…",
-    "source": "Construction Week Online",
     "image": null
   },
   {
@@ -880,102 +744,6 @@
     "image": null
   },
   {
-    "title": "UCC Holding-led consortium signs $5bn deal to build eight power plants in Syria",
-    "link": "https://www.constructionweekonline.com/news/ucc-holding-led-consortium-signs-5bn-deal-to-build-eight-power-plants-in-syria",
-    "date": "2025-11-06",
-    "summary": "<figure><img alt=\"UCC-led consortium signs $5bn deal to build eight power plants in Syria\" class=\"attachment-medium size-medium wp-post-imag…",
-    "source": "Construction Week Online",
-    "image": null
-  },
-  {
-    "title": "ROSHN expands with major projects and new offerings ahead of Cityscape Global",
-    "link": "https://www.constructionweekonline.com/news/press-release/roshn-major-projects-cityscape",
-    "date": "2025-11-06",
-    "summary": "<figure><img alt=\"roshn\" class=\"attachment-medium size-medium wp-post-image\" height=\"563\" src=\"https://www.constructionweekonline.com/cloud/…",
-    "source": "Construction Week Online",
-    "image": null
-  },
-  {
-    "title": "Last chance to secure early bird tickets for CW Awards 2025: Middle East",
-    "link": "https://www.constructionweekonline.com/awards/last-chance-to-secure-early-bird-tickets-for-cw-awards-2025-middle-east",
-    "date": "2025-11-06",
-    "summary": "<figure><img alt=\"Last chance to secure early bird tickets for CW Awards 2025: Middle East\" class=\"attachment-medium size-medium wp-post-ima…",
-    "source": "Construction Week Online",
-    "image": null
-  },
-  {
-    "title": "IN PICTURES: Construction Week Saudi Awards 2025",
-    "link": "https://www.constructionweekonline.com/gallery/cw-awards-saudi-2025-photos",
-    "date": "2025-11-06",
-    "summary": "<figure><img alt=\"\" class=\"attachment-medium size-medium wp-post-image\" height=\"750\" src=\"https://www.constructionweekonline.com/cloud/2025/…",
-    "source": "Construction Week Online",
-    "image": null
-  },
-  {
-    "title": "REVEALED: All winners and highly commended from the Construction Week Saudi Awards 2025",
-    "link": "https://www.constructionweekonline.com/awards/revealed-all-winners-and-highly-commended-from-the-construction-week-saudi-awards-2025",
-    "date": "2025-11-06",
-    "summary": "<figure><img alt=\"\" class=\"attachment-medium size-medium wp-post-image\" height=\"667\" src=\"https://www.constructionweekonline.com/cloud/2025/…",
-    "source": "Construction Week Online",
-    "image": null
-  },
-  {
-    "title": "Inside DAMAC’s Cavalli Tower with Ali Sajwani: “We’ll keep surprising Dubai”",
-    "link": "https://www.constructionweekonline.com/people/inside-damacs-cavalli-tower-with-ali-sajwani",
-    "date": "2025-11-06",
-    "summary": "<figure><img alt=\"Inside DAMAC’s Cavalli Tower with Ali Sajwani: “We’ll keep surprising Dubai”\" class=\"attachment-medium size-medium wp-post…",
-    "source": "Construction Week Online",
-    "image": null
-  },
-  {
-    "title": "Lifestyle Developers celebrates milestone as The VUE luxury project reaches completion",
-    "link": "https://www.constructionweekonline.com/news/press-release/lifestyle-developers-vue-project",
-    "date": "2025-11-06",
-    "summary": "<figure><img alt=\"Lifestyle Developers celebrates milestone as The VUE luxury project reaches completion\" class=\"attachment-medium size-medi…",
-    "source": "Construction Week Online",
-    "image": null
-  },
-  {
-    "title": "From local talent to global icons: Dubai Design Week 2025 lights up d3",
-    "link": "https://www.constructionweekonline.com/news/press-release/dubai-design-week-d3",
-    "date": "2025-11-06",
-    "summary": "<figure><img alt=\"dubai design week d3\" class=\"attachment-medium size-medium wp-post-image\" height=\"667\" src=\"https://www.constructionweekon…",
-    "source": "Construction Week Online",
-    "image": null
-  },
-  {
-    "title": "GF’s Big 5 Global 2025 plan: Expanding innovation and influence across MENA",
-    "link": "https://www.constructionweekonline.com/news/press-release/gf-big-5-global-plan",
-    "date": "2025-11-06",
-    "summary": "<figure><img alt=\"Big 5\" class=\"attachment-medium size-medium wp-post-image\" height=\"461\" src=\"https://www.constructionweekonline.com/cloud/…",
-    "source": "Construction Week Online",
-    "image": null
-  },
-  {
-    "title": "A new era for UAE furniture? Sobha’s big reveal at Downtown Design 2025",
-    "link": "https://www.constructionweekonline.com/news/press-release/furniture-sobha-downtown-design",
-    "date": "2025-11-06",
-    "summary": "<figure><img alt=\"sobha\" class=\"attachment-medium size-medium wp-post-image\" height=\"667\" src=\"https://www.constructionweekonline.com/cloud/…",
-    "source": "Construction Week Online",
-    "image": null
-  },
-  {
-    "title": "Deyaar jumps profit by 24% to Dh406 million as development accelerates",
-    "link": "https://www.constructionweekonline.com/news/deyaar-jumps-profit-24",
-    "date": "2025-11-06",
-    "summary": "<figure><img alt=\"Deyaar\" class=\"attachment-medium size-medium wp-post-image\" height=\"563\" src=\"https://www.constructionweekonline.com/cloud…",
-    "source": "Construction Week Online",
-    "image": null
-  },
-  {
-    "title": "Top 24 project launches in Oct 2025: Emaar, Nakheel, MAF, Meraas, Sobha, DAMAC, OMNIYAT and more",
-    "link": "https://www.constructionweekonline.com/projects-tenders/project-launches-oct-25-emaar",
-    "date": "2025-11-06",
-    "summary": "<figure><img alt=\"Top 24 project launches in Oct 2025: Emaar, Nakheel, MAF, Meraas, Sobha, DAMAC and more\" class=\"attachment-medium size-med…",
-    "source": "Construction Week Online",
-    "image": null
-  },
-  {
     "title": "Aggressive pricing and emerging C&I models reshape India’s energy storage outlook",
     "link": "https://www.energy-storage.news/aggressive-pricing-and-emerging-ci-models-reshape-indias-energy-storage-outlook/",
     "date": "2025-11-05",
@@ -1052,14 +820,6 @@
     "link": "https://www.pv-tech.org/voltec-solar-signs-solar-pv-cell-supply-deal-toyo-solar/",
     "date": "2025-11-05",
     "summary": "Voltec Solar has signed a supply deal to use solar cells produced by Toyo Solar in its solar modules produced in France.…",
-    "source": "PV Tech",
-    "image": null
-  },
-  {
-    "title": "Solv Energy to build 209MW Texas solar project for Sol Systems",
-    "link": "https://www.pv-tech.org/solv-energy-build-209mw-texas-solar-project-for-sol-systems/",
-    "date": "2025-11-05",
-    "summary": "IPP Sol Systems has selected Solv Energy as the EPC services provider for a 209MW solar PV plant in Texas, US.…",
     "source": "PV Tech",
     "image": null
   },
