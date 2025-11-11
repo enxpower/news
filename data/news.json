@@ -16,6 +16,14 @@
     "image": null
   },
   {
+    "title": "Philippines awards over 6GW of solar capacity, over 1GW of solar-plus-storage, in latest auction",
+    "link": "https://www.pv-tech.org/philippines-awards-over-6gw-solar-capacity-over-1gw-solar-plus-storage-latest-auction/",
+    "date": "2025-11-11",
+    "summary": "The Philippines has awarded 10.19GW of new energy capacity in its fourth auction round, with solar accounting for more than 6GW of capacity.…",
+    "source": "PV Tech",
+    "image": null
+  },
+  {
     "title": "Sunrun’s ‘storage-first’ strategy sees green shoots in Q3",
     "link": "https://www.pv-tech.org/sunrun-revenue-hits-724-6-million-q3-2025/",
     "date": "2025-11-11",
@@ -48,6 +56,14 @@
     "image": null
   },
   {
+    "title": "CleanCapital completes construction on two community solar projects on Superfund sites",
+    "link": "https://www.solarpowerworldonline.com/2025/11/cleancapital-completes-construction-on-two-community-solar-projects-on-superfund-sites/",
+    "date": "2025-11-11",
+    "summary": "CleanCapital announced the upcoming completion of two brownfield solar development projects — Yeoman Solar in Waukegan, Illinois, and Little…",
+    "source": "Solar Power World",
+    "image": null
+  },
+  {
     "title": "5 lessons learned scaling a solar operation from 0 to 2,000 installs a month",
     "link": "https://www.solarpowerworldonline.com/2025/11/5-lessons-learned-scaling-a-solar-operation-from-0-to-2000-installs-a-month/",
     "date": "2025-11-11",
@@ -56,11 +72,27 @@
     "image": null
   },
   {
+    "title": "'Growing confidence' – Philippines awards 2.5GW of new onshore wind",
+    "link": "https://www.windpowermonthly.com/article/1939301/growing-confidence-%E2%80%93-philippines-awards-25gw-new-onshore-wind",
+    "date": "2025-11-11",
+    "summary": "The Philippines has awarded power deals for 2.5GW of new onshore wind projects in the country’s latest renewable energy auction, GEA-4.…",
+    "source": "Wind Power News & Analysis RSS Feed",
+    "image": null
+  },
+  {
     "title": "Ferroelectric Innovation Shatters Performance Barriers in GaN Power Electronics",
     "link": "https://www.powerelectronicsnews.com/ferroelectric-innovation-shatters-performance-barriers-in-gan-power-electronics/",
     "date": "2025-11-11",
     "summary": "<img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"667\" src=\"https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2…",
     "source": "Power Electronics News",
+    "image": null
+  },
+  {
+    "title": "Reports: Energy Transition + Data Centers = Opportunity",
+    "link": "https://eepower.com/market-insights/reports-energy-transition-data-centers-opportunity/",
+    "date": "2025-11-11",
+    "summary": "Two reports compiled by Ducker Carlisle indicate abundant opportunities for electrical engineers, manufacturers, and distributors in the com…",
+    "source": "EE Power",
     "image": null
   },
   {
@@ -480,14 +512,6 @@
     "image": null
   },
   {
-    "title": "290-MWh Redwood energy storage portfolio now online in California",
-    "link": "https://www.solarpowerworldonline.com/2025/11/290-mwh-redwood-energy-storage-portfolio-now-online-in-california/",
-    "date": "2025-11-07",
-    "summary": "Fullmark Energy has reached commercial operations of its 65-MW/130-MWh San Jacinto storage project in Banning, California. The milestone mar…",
-    "source": "Solar Power World",
-    "image": null
-  },
-  {
     "title": "French renewables developer Valorem names next CEO",
     "link": "https://www.windpowermonthly.com/article/1938892/french-renewables-developer-valorem-names-next-ceo",
     "date": "2025-11-07",
@@ -816,14 +840,6 @@
     "image": null
   },
   {
-    "title": "Voltec Solar and Toyo ink TOPCon PV cell supply deal",
-    "link": "https://www.pv-tech.org/voltec-solar-signs-solar-pv-cell-supply-deal-toyo-solar/",
-    "date": "2025-11-05",
-    "summary": "Voltec Solar has signed a supply deal to use solar cells produced by Toyo Solar in its solar modules produced in France.…",
-    "source": "PV Tech",
-    "image": null
-  },
-  {
     "title": "Updated: US allowed to scrap key permit for SouthCoast Wind",
     "link": "https://www.windpowermonthly.com/article/1938598/updated-us-allowed-scrap-key-permit-southcoast-wind",
     "date": "2025-11-05",
@@ -984,14 +1000,6 @@
     "image": null
   },
   {
-    "title": "Mayor warns against ‘unsubstantiated claims’ after Nordex turbine collapse",
-    "link": "https://www.windpowermonthly.com/article/1938187/mayor-warns-against-unsubstantiated-claims-nordex-turbine-collapse",
-    "date": "2025-11-03",
-    "summary": "A Nordex turbine collapsed at a wind farm in north-west Germany, prompting the local mayor to warn against wind power opponents making “unsu…",
-    "source": "Wind Power News & Analysis RSS Feed",
-    "image": null
-  },
-  {
     "title": "PCER Method Could Produce Carbon-Free Hydrogen from Ammonia",
     "link": "https://eepower.com/market-insights/pcer-method-could-produce-carbon-free-hydrogen-from-ammonia/",
     "date": "2025-11-03",
@@ -1068,14 +1076,6 @@
     "link": "https://eepower.com/news/offshore-wind-farm-will-be-largest-renewable-project-in-france/",
     "date": "2025-10-28",
     "summary": "TotalEnergies will develop Centre Manche 2, a 1.5 GW offshore wind farm off the coast of Normandy, France.…",
-    "source": "EE Power",
-    "image": null
-  },
-  {
-    "title": "Why True Per-Cell ADC Architecture Matters in BMS",
-    "link": "https://eepower.com/technical-articles/breaking-through-the-limits-why-true-per-cell-adc-architecture-matters-in-bms/",
-    "date": "2025-10-27",
-    "summary": "Learn how ADCs can be made small, efficient, and cost-effective enough to scale to make a difference in a battery management system (BMS).…",
     "source": "EE Power",
     "image": null
   }
