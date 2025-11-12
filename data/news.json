@@ -264,6 +264,14 @@
     "image": null
   },
   {
+    "title": "Substation Components—Part 5: Busbar Configurations",
+    "link": "https://eepower.com/technical-articles/substation-componentspart-5-busbar-configurations/",
+    "date": "2025-11-12",
+    "summary": "Here, we provide an overview of common substation busbar configurations—Single Bus, Main and Transfer, Double Breaker/Double Bus, Ring Bus/R…",
+    "source": "EE Power",
+    "image": null
+  },
+  {
     "title": "Egypt’s government, TSO sign agreements for Hassan Allam, Infinity Power’s solar-plus-storage",
     "link": "https://www.energy-storage.news/egypts-government-tso-sign-agreements-for-hassan-allam-infinity-powers-solar-plus-storage/",
     "date": "2025-11-11",
@@ -1068,14 +1076,6 @@
     "link": "https://eepower.com/technical-articles/lossless-current-sensing-in-motor-drive-applications/",
     "date": "2025-10-28",
     "summary": "Quite often, low-side current sensing is considered to be the most cost-effective method to provide feedback to the controller in motor driv…",
-    "source": "EE Power",
-    "image": null
-  },
-  {
-    "title": "Offshore Wind Farm Will Be Largest Renewable Project in France",
-    "link": "https://eepower.com/news/offshore-wind-farm-will-be-largest-renewable-project-in-france/",
-    "date": "2025-10-28",
-    "summary": "TotalEnergies will develop Centre Manche 2, a 1.5 GW offshore wind farm off the coast of Normandy, France.…",
     "source": "EE Power",
     "image": null
   }
