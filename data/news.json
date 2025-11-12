@@ -1,5 +1,13 @@
 [
   {
+    "title": "India: Adani makes ‘strategic entry’ into battery storage with 3.5GWh project",
+    "link": "https://www.energy-storage.news/india-adani-makes-strategic-entry-into-battery-storage-with-3-5gwh-project/",
+    "date": "2025-11-12",
+    "summary": "India’s Adani Group has made its first entry into the battery storage market, announcing a ‘flagship deployment’ that will be the country’s …",
+    "source": "Energy-Storage.News",
+    "image": null
+  },
+  {
     "title": "71% of Americans surveyed support energy storage, but ‘vocal minority’ kill or delay projects",
     "link": "https://www.energy-storage.news/71-of-americans-surveyed-support-energy-storage-but-vocal-minority-kill-or-delay-projects/",
     "date": "2025-11-12",
@@ -96,6 +104,14 @@
     "image": null
   },
   {
+    "title": "Google inks PPA for 49-MW solar project to power Ohio data center operations",
+    "link": "https://www.solarpowerworldonline.com/2025/11/google-inks-ppa-for-49-mw-solar-project-to-power-ohio-data-center-operations/",
+    "date": "2025-11-12",
+    "summary": "Google has signed a 15-year PPA with TotalEnergies for energy from its 49-MW Montpelier solar farm in Ohio. The solar facility, nearing comp…",
+    "source": "Solar Power World",
+    "image": null
+  },
+  {
     "title": "Ascend Elements ready to put recycled lithium carbonate supply on market",
     "link": "https://www.solarpowerworldonline.com/2025/11/ascend-elements-ready-to-put-recycled-lithium-carbonate-supply-on-market/",
     "date": "2025-11-12",
@@ -136,11 +152,91 @@
     "image": null
   },
   {
+    "title": "POWER Interview: CyrusOne Expert on How AI Is Reshaping the Data Center–Utility Relationship",
+    "link": "https://www.powermag.com/power-interview-cyrusone-expert-on-how-ai-is-reshaping-the-data-center-utility-relationship/",
+    "date": "2025-11-12",
+    "summary": "CyrusOne’s Jim Roche details how AI-driven workloads, high-density racks, and liquid cooling are transforming the data center–utility relati…",
+    "source": "POWER Magazine",
+    "image": null
+  },
+  {
     "title": "Understanding Energy Loss Mechanisms in Soft Magnetic Materials",
     "link": "https://www.powerelectronicsnews.com/understanding-energy-loss-mechanisms-in-soft-magnetic-materials/",
     "date": "2025-11-12",
     "summary": "<img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"952\" src=\"https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2…",
     "source": "Power Electronics News",
+    "image": null
+  },
+  {
+    "title": "Big 5 Global connects international brands with over 2,800 exhibitors",
+    "link": "https://www.constructionweekonline.com/events/big-5-global",
+    "date": "2025-11-12",
+    "summary": "<figure><img alt=\"Big 5 Global\" class=\"attachment-medium size-medium wp-post-image\" height=\"667\" src=\"https://www.constructionweekonline.com…",
+    "source": "Construction Week Online",
+    "image": null
+  },
+  {
+    "title": "Egypt: Hitachi Rail wins contract to deliver rail systems of first modern tramway",
+    "link": "https://www.constructionweekonline.com/people/appointments/egypt-hitachi-rail-tramway",
+    "date": "2025-11-12",
+    "summary": "<figure><img alt=\"Egypt\" class=\"attachment-medium size-medium wp-post-image\" height=\"563\" src=\"https://www.constructionweekonline.com/cloud/…",
+    "source": "Construction Week Online",
+    "image": null
+  },
+  {
+    "title": "IMTIAZ and Zaha Hadid Architects set the stage for Dubai’s next ultra-luxury landmark",
+    "link": "https://www.constructionweekonline.com/people/appointments/imtiaz-zaha-hadid-architects",
+    "date": "2025-11-12",
+    "summary": "<figure><img alt=\"Zaha Hadid\" class=\"attachment-medium size-medium wp-post-image\" height=\"667\" src=\"https://www.constructionweekonline.com/c…",
+    "source": "Construction Week Online",
+    "image": null
+  },
+  {
+    "title": "Arada launches its flagship Fulton & Fifth development’s final phase at Wembley Park in London",
+    "link": "https://www.constructionweekonline.com/projects-tenders/arada-wembley-park-london",
+    "date": "2025-11-12",
+    "summary": "<figure><img alt=\"Arada\" class=\"attachment-medium size-medium wp-post-image\" height=\"704\" src=\"https://www.constructionweekonline.com/cloud/…",
+    "source": "Construction Week Online",
+    "image": null
+  },
+  {
+    "title": "In a digital FM world, compassion remains the ultimate differentiator",
+    "link": "https://www.constructionweekonline.com/news/digital-fm-compassion-oped",
+    "date": "2025-11-12",
+    "summary": "<figure><img alt=\"FM\" class=\"attachment-medium size-medium wp-post-image\" height=\"325\" src=\"https://www.constructionweekonline.com/cloud/202…",
+    "source": "Construction Week Online",
+    "image": null
+  },
+  {
+    "title": "Engineering Day 2025 in Riyadh unites global leaders for a sustainable tomorrow",
+    "link": "https://www.constructionweekonline.com/events/engineering-day-2025-riyadh",
+    "date": "2025-11-12",
+    "summary": "<figure><img alt=\"Engineering Day 2025\" class=\"attachment-medium size-medium wp-post-image\" height=\"666\" src=\"https://www.constructionweekon…",
+    "source": "Construction Week Online",
+    "image": null
+  },
+  {
+    "title": "Dubai’s Atlantis The Royal is opening in the Maldives",
+    "link": "https://www.constructionweekonline.com/news/atlantis-the-royal-maldives",
+    "date": "2025-11-12",
+    "summary": "<figure><img alt=\"Atlantis The Royal Maldives\" class=\"attachment-medium size-medium wp-post-image\" height=\"563\" src=\"https://www.constructio…",
+    "source": "Construction Week Online",
+    "image": null
+  },
+  {
+    "title": "Will Etihad Rail connect to Dubai’s Al Maktoum International Airport?",
+    "link": "https://www.constructionweekonline.com/news/etihad-rail-al-maktoum-airport",
+    "date": "2025-11-12",
+    "summary": "<figure><img alt=\"Etihad Rail\" class=\"attachment-medium size-medium wp-post-image\" height=\"561\" src=\"https://www.constructionweekonline.com/…",
+    "source": "Construction Week Online",
+    "image": null
+  },
+  {
+    "title": "Euro Systems: Where technology, craft and vision converge",
+    "link": "https://www.constructionweekonline.com/features/euro-systems",
+    "date": "2025-11-12",
+    "summary": "<figure><img alt=\"Euro Systems\" class=\"attachment-medium size-medium wp-post-image\" height=\"667\" src=\"https://www.constructionweekonline.com…",
+    "source": "Construction Week Online",
     "image": null
   },
   {
@@ -304,6 +400,54 @@
     "image": null
   },
   {
+    "title": "Red Sea Global announces the opening of AMAALA",
+    "link": "https://www.constructionweekonline.com/projects-tenders/red-sea-global-amaala-3",
+    "date": "2025-11-11",
+    "summary": "<figure><img alt=\"AMAALA\" class=\"attachment-medium size-medium wp-post-image\" height=\"562\" src=\"https://www.constructionweekonline.com/cloud…",
+    "source": "Construction Week Online",
+    "image": null
+  },
+  {
+    "title": "How AtkinsRéalis is shaping Saudi Arabia’s future through bold urban design",
+    "link": "https://www.constructionweekonline.com/features/atkinsrealis-saudi-arabia",
+    "date": "2025-11-11",
+    "summary": "<figure><img alt=\"AtkinsRéalis\" class=\"attachment-medium size-medium wp-post-image\" height=\"557\" src=\"https://www.constructionweekonline.com…",
+    "source": "Construction Week Online",
+    "image": null
+  },
+  {
+    "title": "HOUSE of WELL on Dubai Islands ushers in a new era of clubhouse living and wellness-centric design",
+    "link": "https://www.constructionweekonline.com/projects-tenders/house-of-well-dubai-islands",
+    "date": "2025-11-11",
+    "summary": "<figure><img alt=\"dubai islands\" class=\"attachment-medium size-medium wp-post-image\" height=\"625\" src=\"https://www.constructionweekonline.co…",
+    "source": "Construction Week Online",
+    "image": null
+  },
+  {
+    "title": "Casa Vista Debuts with $95 mn project, Aquora, at Dubai Islands",
+    "link": "https://www.constructionweekonline.com/projects-tenders/casa-vista-aquora-dubai-islands",
+    "date": "2025-11-11",
+    "summary": "<figure><img alt=\"Dubai Islands\" class=\"attachment-medium size-medium wp-post-image\" height=\"667\" src=\"https://www.constructionweekonline.co…",
+    "source": "Construction Week Online",
+    "image": null
+  },
+  {
+    "title": "Lessons for young professionals: Dentons, Pinsent Masons, Colliers Project Leaders ME",
+    "link": "https://www.constructionweekonline.com/people/careers/lessons-for-young-professionals-dentons-pinsent-masons-colliers-project-leaders-me",
+    "date": "2025-11-11",
+    "summary": "<figure><img alt=\"lessons, dentons pinsent masons, colliers\" class=\"attachment-medium size-medium wp-post-image\" height=\"667\" src=\"https://w…",
+    "source": "Construction Week Online",
+    "image": null
+  },
+  {
+    "title": "Designing for longevity: How SHA is shaping the future of lifestyle developments",
+    "link": "https://www.constructionweekonline.com/business/insights/designing-for-longevity-sha",
+    "date": "2025-11-11",
+    "summary": "<figure><img alt=\"SHA\" class=\"attachment-medium size-medium wp-post-image\" height=\"555\" src=\"https://www.constructionweekonline.com/cloud/20…",
+    "source": "Construction Week Online",
+    "image": null
+  },
+  {
     "title": "US ROUNDUP: Fullmark California portfolio, Habitat-Ørsted Texas optimisation, flow battery player Quino secures funding",
     "link": "https://www.energy-storage.news/us-roundup-fullmark-california-portfolio-habitat-orsted-texas-optimisation-flow-battery-player-quino-secures-funding/",
     "date": "2025-11-10",
@@ -456,14 +600,6 @@
     "image": null
   },
   {
-    "title": "2025 Rising Star: Lindsay Bourgoine, ReVision Energy",
-    "link": "https://www.solarpowerworldonline.com/2025/11/rising-star-lindsay-bourgoine-revision-energy/",
-    "date": "2025-11-10",
-    "summary": "Solar Power World is proud to present the second-annual SPW Rising Stars. These solar industry workers are improving the industry and inspir…",
-    "source": "Solar Power World",
-    "image": null
-  },
-  {
     "title": "Shell exits two Scottish wind farms amid 'strategic review'",
     "link": "https://www.windpowermonthly.com/article/1939204/shell-exits-two-scottish-wind-farms-amid-strategic-review",
     "date": "2025-11-10",
@@ -568,11 +704,107 @@
     "image": null
   },
   {
+    "title": "Building AlUla’s future on heritage and sustainability",
+    "link": "https://www.constructionweekonline.com/gigaprojects/al-ula/alula-heritage-sustainability",
+    "date": "2025-11-10",
+    "summary": "<figure><img alt=\"AlUla’s\" class=\"attachment-medium size-medium wp-post-image\" height=\"666\" src=\"https://www.constructionweekonline.com/clou…",
+    "source": "Construction Week Online",
+    "image": null
+  },
+  {
+    "title": "H.H. Sheikh Mohamed Bin Zayed names 2026 ‘Year Of Family’",
+    "link": "https://www.constructionweekonline.com/news/sheikh-mohamed-bin-zayed-2026-theme",
+    "date": "2025-11-10",
+    "summary": "<figure><img alt=\"Sheikh Mohamed\" class=\"attachment-medium size-medium wp-post-image\" height=\"699\" src=\"https://www.constructionweekonline.c…",
+    "source": "Construction Week Online",
+    "image": null
+  },
+  {
+    "title": "Siemens unveils Velaro high-speed train at TransMEA 2025 in Cairo",
+    "link": "https://www.constructionweekonline.com/news/siemens-velaro-transmea-cairo",
+    "date": "2025-11-10",
+    "summary": "<figure><img alt=\"Cairo\" class=\"attachment-medium size-medium wp-post-image\" height=\"667\" src=\"https://www.constructionweekonline.com/cloud/…",
+    "source": "Construction Week Online",
+    "image": null
+  },
+  {
+    "title": "Sobha Realty unveils The Mirage following $953 mn sales milestone",
+    "link": "https://www.constructionweekonline.com/projects-tenders/sobha-realty-the-mirage-sales",
+    "date": "2025-11-10",
+    "summary": "<figure><img alt=\"The Mirage at Sobha Central\" class=\"attachment-medium size-medium wp-post-image\" height=\"563\" src=\"https://www.constructio…",
+    "source": "Construction Week Online",
+    "image": null
+  },
+  {
+    "title": "AECOM joint venture to provide design consultancy for New Murabba’s The Mukaab",
+    "link": "https://www.constructionweekonline.com/people/appointments/aecom-new-murabba-the-mukaab",
+    "date": "2025-11-10",
+    "summary": "<figure><img alt=\"New Murabba\" class=\"attachment-medium size-medium wp-post-image\" height=\"557\" src=\"https://www.constructionweekonline.com/…",
+    "source": "Construction Week Online",
+    "image": null
+  },
+  {
+    "title": "Wynn Resorts x Marjan announce second joint venture, Janu Al Marjan Island",
+    "link": "https://www.constructionweekonline.com/news/wynn-janu-al-marjan-island",
+    "date": "2025-11-10",
+    "summary": "<figure><img alt=\"wynn\" class=\"attachment-medium size-medium wp-post-image\" height=\"1\" src=\"https://www.constructionweekonline.com/cloud/202…",
+    "source": "Construction Week Online",
+    "image": null
+  },
+  {
+    "title": "Ducorr: The science of staying rust free",
+    "link": "https://www.constructionweekonline.com/features/ducorr-the-science-of-staying-rust-free",
+    "date": "2025-11-10",
+    "summary": "<figure><img alt=\"Ducorr\" class=\"attachment-medium size-medium wp-post-image\" height=\"563\" src=\"https://www.constructionweekonline.com/cloud…",
+    "source": "Construction Week Online",
+    "image": null
+  },
+  {
+    "title": "EXCLUSIVE: NEOM’s role in solving the global energy ‘trilemma’",
+    "link": "https://www.constructionweekonline.com/business/insights/neom-global-energy-trilemma",
+    "date": "2025-11-10",
+    "summary": "<figure><img alt=\"NEOM\" class=\"attachment-medium size-medium wp-post-image\" height=\"667\" src=\"https://www.constructionweekonline.com/cloud/2…",
+    "source": "Construction Week Online",
+    "image": null
+  },
+  {
+    "title": "Fastmarkets Middle East Iron & Steel: Steel powers MENA’s $3 tn industrial transformation",
+    "link": "https://www.constructionweekonline.com/business/insights/fastmarkets-me-iron-steel",
+    "date": "2025-11-10",
+    "summary": "<figure><img alt=\"Steel\" class=\"attachment-medium size-medium wp-post-image\" height=\"667\" src=\"https://www.constructionweekonline.com/cloud/…",
+    "source": "Construction Week Online",
+    "image": null
+  },
+  {
+    "title": "Dubai Metro Blue Line reaches 10% completion milestone",
+    "link": "https://www.constructionweekonline.com/news/dubai-metro-blue-line-rta-2",
+    "date": "2025-11-10",
+    "summary": "<figure><img alt=\"RTA Dubai Metro update: Parsons appointed as Project Management Consultant for Blue Line Project\" class=\"attachment-medium…",
+    "source": "Construction Week Online",
+    "image": null
+  },
+  {
     "title": "Substation Components—Part 4: Isolators",
     "link": "https://eepower.com/technical-articles/substation-componentspart-4-isolators/",
     "date": "2025-11-09",
     "summary": "This article explains the role of substation isolators, covering their purpose in visible isolation and safe operating sequences with breake…",
     "source": "EE Power",
+    "image": null
+  },
+  {
+    "title": "Cityscape Global 2025 to reimagine the future of living through human-centric design",
+    "link": "https://www.constructionweekonline.com/news/cityscape-2025-human-centric",
+    "date": "2025-11-09",
+    "summary": "<figure><img alt=\"\" class=\"attachment-medium size-medium wp-post-image\" height=\"667\" src=\"https://www.constructionweekonline.com/cloud/2025/…",
+    "source": "Construction Week Online",
+    "image": null
+  },
+  {
+    "title": "Rethinking pay: Inside the UAE construction industry’s digital payroll revolution",
+    "link": "https://www.constructionweekonline.com/news/press-release/uae-construction-digital-payrol",
+    "date": "2025-11-08",
+    "summary": "<figure><img alt=\"uae\" class=\"attachment-medium size-medium wp-post-image\" height=\"750\" src=\"https://www.constructionweekonline.com/cloud/20…",
+    "source": "Construction Week Online",
     "image": null
   },
   {
@@ -752,6 +984,30 @@
     "image": null
   },
   {
+    "title": "Qatar’s rental market surges 25% as real estate hits new highs",
+    "link": "https://www.constructionweekonline.com/news/qatar-rental-market-surge",
+    "date": "2025-11-07",
+    "summary": "<figure><img alt=\"qatar\" class=\"attachment-medium size-medium wp-post-image\" height=\"667\" src=\"https://www.constructionweekonline.com/cloud/…",
+    "source": "Construction Week Online",
+    "image": null
+  },
+  {
+    "title": "Here are Dubai’s Top 5 prime villa communities for 2025",
+    "link": "https://www.constructionweekonline.com/news/press-release/dubai-top-villa-communities",
+    "date": "2025-11-07",
+    "summary": "<figure><img alt=\"villa\" class=\"attachment-medium size-medium wp-post-image\" height=\"629\" src=\"https://www.constructionweekonline.com/cloud/…",
+    "source": "Construction Week Online",
+    "image": null
+  },
+  {
+    "title": "BEYOND takes business to new heights with ‘31 Above’ at Dubai Maritime city",
+    "link": "https://www.constructionweekonline.com/news/press-release/beyond-new-dubai-maritime",
+    "date": "2025-11-07",
+    "summary": "<figure><img alt=\"beyond\" class=\"attachment-medium size-medium wp-post-image\" height=\"667\" src=\"https://www.constructionweekonline.com/cloud…",
+    "source": "Construction Week Online",
+    "image": null
+  },
+  {
     "title": "GridStor’s 440MWh Texas BESS begins operations",
     "link": "https://www.energy-storage.news/gridstors-440mwh-texas-bess-begins-operations/",
     "date": "2025-11-06",
@@ -856,14 +1112,6 @@
     "image": null
   },
   {
-    "title": "OUC Opens One of the Largest Floating Solar Arrays in the U.S.",
-    "link": "https://www.powermag.com/ouc-opens-one-of-the-largest-floating-solar-arrays-in-the-u-s/",
-    "date": "2025-11-06",
-    "summary": "Utility Uses Innovative Method to Deploy More than 3,400 Panels Orlando, Fla. – OUC—The Reliable One has launched one of the largest floatin…",
-    "source": "POWER Magazine",
-    "image": null
-  },
-  {
     "title": "ROHM’s EcoGaN™ Power Stage IC Powers Next-Generation MSI Gaming Laptop Adapters Through Collaboration With Delta Electronics",
     "link": "https://www.powerelectronicsnews.com/rohms-ecogan-power-stage-ic-powers-next-generation-msi-gaming-laptop-adapters-through-collaboration-with-delta-electronics/",
     "date": "2025-11-06",
@@ -900,14 +1148,6 @@
     "link": "https://www.energy-storage.news/aggressive-pricing-and-emerging-ci-models-reshape-indias-energy-storage-outlook/",
     "date": "2025-11-05",
     "summary": "India’s energy storage industry is at a turning point as developers, financiers, and policymakers work to define viable business models for …",
-    "source": "Energy-Storage.News",
-    "image": null
-  },
-  {
-    "title": "Xcel Energy plans 600MW ‘US Midwest’s largest BESS project’ in Minnesota",
-    "link": "https://www.energy-storage.news/xcel-energy-plans-600mw-us-midwests-largest-bess-project-in-minnesota/",
-    "date": "2025-11-05",
-    "summary": "US utility Xcel Energy plans to build the Midwest’s largest battery energy system (BESS) facility at the Sherco Energy Hub in central Minnes…",
     "source": "Energy-Storage.News",
     "image": null
   },
