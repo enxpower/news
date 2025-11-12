@@ -1,5 +1,13 @@
 [
   {
+    "title": "How important is cell-to-ESS vertical integration?",
+    "link": "https://www.energy-storage.news/how-important-is-cell-to-ess-vertical-integration/",
+    "date": "2025-11-12",
+    "summary": "Although vertically integrated ESS-cell suppliers retain more control over their supply chain, system integrators’ flexibility may help them…",
+    "source": "Energy-Storage.News",
+    "image": null
+  },
+  {
     "title": "Three battery projects totalling 720MW enter Australia’s federal environmental assessment",
     "link": "https://www.energy-storage.news/three-battery-projects-totalling-720mw-enter-australias-federal-environmental-assessment/",
     "date": "2025-11-12",
@@ -13,6 +21,14 @@
     "date": "2025-11-12",
     "summary": "Queensland Investment Corporation (QIC) and EDP Renewables Australia have signed an exclusivity agreement to develop the Punchs Creek Renewa…",
     "source": "Energy-Storage.News",
+    "image": null
+  },
+  {
+    "title": "EBRD boosts equity in Infinity to US$141.5m to expand renewable capacity across Africa",
+    "link": "https://www.pv-tech.org/ebrd-boosts-equity-in-infinity-to-us141-5m-to-expand-renewable-capacity-across-africa/",
+    "date": "2025-11-12",
+    "summary": "The European Bank for Reconstruction and Development (EBRD) has increased its equity stake in Infinity by US$40 million.…",
+    "source": "PV Tech",
     "image": null
   },
   {
@@ -379,7 +395,7 @@
     "title": "Wind turbine blade falls into cranberry bog",
     "link": "https://www.windpowermonthly.com/article/1939178/wind-turbine-blade-falls-cranberry-bog",
     "date": "2025-11-10",
-    "summary": "A rotor blade has fallen off a wind turbine into a remote cranberry bog in Massachusetts.…",
+    "summary": "A rotor blade has fallen off a Siemens Gamesa wind turbine into a remote cranberry bog in Massachusetts.…",
     "source": "Wind Power News & Analysis RSS Feed",
     "image": null
   },
@@ -760,14 +776,6 @@
     "image": null
   },
   {
-    "title": "European PV module prices stabilise ‘at the bottom’ in October",
-    "link": "https://www.pv-tech.org/european-pv-module-prices-stabilise-at-bottom-in-october/",
-    "date": "2025-11-06",
-    "summary": "The low volatility displayed in PV module prices in Europe has reached a sustained equilibrium between production and demand in October, acc…",
-    "source": "PV Tech",
-    "image": null
-  },
-  {
     "title": "Kremlin-backed firm plans Russian wind turbine factory",
     "link": "https://www.windpowermonthly.com/article/1938716/kremlin-backed-firm-plans-russian-wind-turbine-factory",
     "date": "2025-11-06",
@@ -876,14 +884,6 @@
     "link": "https://www.energy-storage.news/agl-seeks-federal-approval-for-2000mwh-battery-storage-system-in-queensland-australia/",
     "date": "2025-11-05",
     "summary": "Australian energy giant AGL has submitted its 500MW/2,000MWh Tuckeroo Battery project for federal environmental approval.…",
-    "source": "Energy-Storage.News",
-    "image": null
-  },
-  {
-    "title": "‘You need to be co-located with battery storage’: Wärtsilä sees DC-coupling as essential for Australia’s solar future",
-    "link": "https://www.energy-storage.news/you-need-to-be-co-located-with-battery-storage-wartsila-sees-dc-coupling-as-essential-for-australias-solar-future/",
-    "date": "2025-11-05",
-    "summary": "ESN Premium speaks with Neha Sinha of Wärtsilä Energy Storage, about DC-coupled solar-battery hybrids in Australia.…",
     "source": "Energy-Storage.News",
     "image": null
   },
