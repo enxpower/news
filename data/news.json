@@ -216,6 +216,14 @@
     "image": null
   },
   {
+    "title": "Boost Inverter Efficiency by Decoupling Switching Losses and Switching Speeds",
+    "link": "https://eepower.com/technical-articles/achieving-higher-inverter-efficiency-by-decoupling-switching-losses-and-switching-speeds/",
+    "date": "2025-11-17",
+    "summary": "Learn how researchers at FAU Erlangen-Nürnberg, in collaboration with Sanan Semiconductor, have developed a soft-switching inverter that ach…",
+    "source": "EE Power",
+    "image": null
+  },
+  {
     "title": "Tech Giants Race To Grab Power for Data Centers",
     "link": "https://eepower.com/news/tech-giants-race-to-grab-power-for-data-centers/",
     "date": "2025-11-17",
@@ -1068,14 +1076,6 @@
     "link": "https://eepower.com/market-insights/pcer-method-could-produce-carbon-free-hydrogen-from-ammonia/",
     "date": "2025-11-03",
     "summary": "A simulation framework for proton ceramic reactors could help scale hydrogen systems that run on ammonia.…",
-    "source": "EE Power",
-    "image": null
-  },
-  {
-    "title": "MXene Film Could Lead to Smaller, Lighter Lithium-Ion Batteries",
-    "link": "https://eepower.com/market-insights/mxene-film-could-lead-to-smaller-lighter-lithium-ion-batteries/",
-    "date": "2025-11-03",
-    "summary": "Researchers demonstrated that ultrathin Ti3C2Tx MXene films can replace copper current collectors.…",
     "source": "EE Power",
     "image": null
   }
