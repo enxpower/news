@@ -88,10 +88,10 @@
     "image": null
   },
   {
-    "title": "Ohio House passes bipartisan bill to enable community solar programs",
+    "title": "Ohio House passes bipartisan bill to enable community energy programs",
     "link": "https://www.solarpowerworldonline.com/2025/11/ohio-house-passes-bipartisan-bill-to-enable-community-solar-programs/",
     "date": "2025-11-20",
-    "summary": "The Ohio House of Representatives has voted to advance a bipartisan bill that would enable community solar programs in the state. The legisl…",
+    "summary": "The Ohio House of Representatives has voted to advance a bipartisan bill that would enable community energy programs in the state, including…",
     "source": "Solar Power World",
     "image": null
   },
@@ -157,6 +157,14 @@
     "date": "2025-11-20",
     "summary": "<img alt=\"Power Electronics Course: Part 25 - Overview of Battery Energy Storage Systems (BESS).\" class=\"webfeedsFeaturedVisual wp-post-imag…",
     "source": "Power Electronics News",
+    "image": null
+  },
+  {
+    "title": "Thermal Co-Design, Cooling Architecture Optimization, and Reliability Validation",
+    "link": "https://eepower.com/technical-articles/thermal-co-design-cooling-architecture-optimization-and-reliability-validation/",
+    "date": "2025-11-20",
+    "summary": "Explore electro-thermal cooling design and reliability validation for high-voltage SiC and IGBT power modules.…",
+    "source": "EE Power",
     "image": null
   },
   {
@@ -1068,14 +1076,6 @@
     "link": "https://eepower.com/news/briefs-partnerships-push-batteries-data-centers-and-more/",
     "date": "2025-11-06",
     "summary": "Tesla, Samsung DSI, Littelfuse, Emerson, Prevalon Energy, CETY, Qymera, and Smoltek Hydrogen have each entered into strategic partnerships.…",
-    "source": "EE Power",
-    "image": null
-  },
-  {
-    "title": "Vermont Project Will Turn Farm Waste into Renewable Natural Gas",
-    "link": "https://eepower.com/news/vermont-project-will-turn-farm-waste-into-renewable-natural-gas/",
-    "date": "2025-11-05",
-    "summary": "Clean Energy Technologies’ 2.2 MW Vermont Renewable Gas facility will turn agricultural waste into renewable synthetic gas and baseload clea…",
     "source": "EE Power",
     "image": null
   }
