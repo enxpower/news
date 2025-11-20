@@ -1,5 +1,21 @@
 [
   {
+    "title": "One year on: EU Batteries Regulation and CE marking impacting energy storage systems",
+    "link": "https://www.energy-storage.news/one-year-on-eu-batteries-regulation-and-ce-marking-impacting-energy-storage-systems/",
+    "date": "2025-11-20",
+    "summary": "A year since the implementation of the initial steps in EU Batteries Regulation went into effect and the impacts are already being seen, wri…",
+    "source": "Energy-Storage.News",
+    "image": null
+  },
+  {
+    "title": "AI now links technical and commercial realities of BESS asset management",
+    "link": "https://www.energy-storage.news/ai-now-links-technical-and-commercial-realities-of-bess-asset-management/",
+    "date": "2025-11-20",
+    "summary": "We hear from the co-founder and CEO of optimiser Suena Energy Dr. Lennard Wilkening about the evolution of BESS asset management in Europe, …",
+    "source": "Energy-Storage.News",
+    "image": null
+  },
+  {
     "title": "Pacific Green’s 2.5GWh Portland Energy Park BESS clears final federal environmental hurdle in Australia",
     "link": "https://www.energy-storage.news/pacific-greens-2-5gwh-portland-energy-park-bess-clears-final-federal-environmental-hurdle-in-australia/",
     "date": "2025-11-20",
@@ -16,6 +32,14 @@
     "image": null
   },
   {
+    "title": "Arevon Energy breaks ground on 124MW Big Muddy solar project in Illinois",
+    "link": "https://www.pv-tech.org/arevon-energy-breaks-ground-on-124mw-big-muddy-solar-project-in-illinois/",
+    "date": "2025-11-20",
+    "summary": "US independent power producer (IPP) Arevon Energy has begun construction on a 124MW solar PV project in Illinois, its first utility-scale pr…",
+    "source": "PV Tech",
+    "image": null
+  },
+  {
     "title": "CFM starts operations at Colombian solar plant, invests in neighbouring solar-plus-storage project",
     "link": "https://www.pv-tech.org/cfm-starts-operations-colombian-solar-plant-invests-neighbouring-solar-plus-storage-project/",
     "date": "2025-11-20",
@@ -24,11 +48,35 @@
     "image": null
   },
   {
+    "title": "Siemens Gamesa partners with AI supercomputer",
+    "link": "https://www.windpowermonthly.com/article/1940433/siemens-gamesa-partners-ai-supercomputer",
+    "date": "2025-11-20",
+    "summary": "",
+    "source": "Wind Power News & Analysis RSS Feed",
+    "image": null
+  },
+  {
+    "title": "Iberdrola hits out at RWE over “bizarre” wake effect claims",
+    "link": "https://www.windpowermonthly.com/article/1940419/iberdrola-hits-rwe-%E2%80%9Cbizarre%E2%80%9D-wake-effect-claims",
+    "date": "2025-11-20",
+    "summary": "Iberdrola has accused German utility RWE of inaccuracies and “bizarre” claims about its East Anglia Two offshore wind project in the UK Nort…",
+    "source": "Wind Power News & Analysis RSS Feed",
+    "image": null
+  },
+  {
     "title": "Power Electronics Course: Part 25 – Overview of Battery Energy Storage Systems (BESS)",
     "link": "https://www.powerelectronicsnews.com/power-electronics-course-part-25-overview-of-battery-energy-storage-systems-bess/",
     "date": "2025-11-20",
     "summary": "<img alt=\"Power Electronics Course: Part 25 - Overview of Battery Energy Storage Systems (BESS).\" class=\"webfeedsFeaturedVisual wp-post-imag…",
     "source": "Power Electronics News",
+    "image": null
+  },
+  {
+    "title": "Briefs: Achievements in Motors, Fusion, GaN Switches, and V2X",
+    "link": "https://eepower.com/news/briefs-achievements-in-motors-fusion-gan-switches-and-v2x/",
+    "date": "2025-11-20",
+    "summary": "Ebara, Mitsubishi Electric, Zap Energy, Nuclear, Infineon, Nissan, Fermata Energy, and other companies reached notable goals this week.…",
+    "source": "EE Power",
     "image": null
   },
   {
@@ -840,22 +888,6 @@
     "image": null
   },
   {
-    "title": "Octopus Australia reaches financial close on 486MWh DC-coupled solar-plus-storage site",
-    "link": "https://www.energy-storage.news/octopus-australia-reaches-financial-close-on-486mwh-dc-coupled-solar-plus-storage-site/",
-    "date": "2025-11-13",
-    "summary": "Octopus Australia has achieved financial close on a AU$900 million (US$587 million) DC-coupled hybrid facility that combines 300MW of solar …",
-    "source": "Energy-Storage.News",
-    "image": null
-  },
-  {
-    "title": "Ampyr Australia acquires 2,160MWh grid-forming BESS project in South Australia",
-    "link": "https://www.energy-storage.news/ampyr-australia-acquires-2160mwh-grid-forming-bess-project-in-south-australia/",
-    "date": "2025-11-13",
-    "summary": "Ampyr Australia has acquired the 270MW Davenport battery energy storage system (BESS) in South Australia from Green Gold Energy (GGE), renam…",
-    "source": "Energy-Storage.News",
-    "image": null
-  },
-  {
     "title": "QIC and EDP sign exclusivity deal for 400MWac solar-plus-storage site in Australia",
     "link": "https://www.pv-tech.org/qic-and-edp-sign-exclusivity-deal-for-400mwac-solar-plus-storage-site-in-australia/",
     "date": "2025-11-13",
@@ -884,14 +916,6 @@
     "link": "https://www.pv-tech.org/create-energy-advances-us-solar-one-stop-shop-plan-with-staubli-connector-production-deal/",
     "date": "2025-11-13",
     "summary": "US solar hardware manufacturer Create Energy and Swiss cable producer Stäubli have announced a partnership to produce a new solar connector …",
-    "source": "PV Tech",
-    "image": null
-  },
-  {
-    "title": "Corning holds the key to US-made wafer supply",
-    "link": "https://www.pv-tech.org/corning-holds-the-key-to-us-made-wafer-supply/",
-    "date": "2025-11-13",
-    "summary": "Analysis: The opening of Corning's Michigan wafer plant puts it in a strong position to supply US-made, FEOC-compliant products, while compe…",
     "source": "PV Tech",
     "image": null
   },
@@ -957,22 +981,6 @@
     "date": "2025-11-13",
     "summary": "Sungrow, Easymetering, Qualcomm, Infineon, SolarEdge, ABB, VoltaGrid, and Southwest Power Pool have new projects in the works.…",
     "source": "EE Power",
-    "image": null
-  },
-  {
-    "title": "Vestas to cut 900 office jobs by the end of 2025",
-    "link": "https://www.windpowermonthly.com/article/1939468/vestas-cut-900-office-jobs-end-2025",
-    "date": "2025-11-12",
-    "summary": "Vestas will cut approximately 900 office jobs from its global workforce by the end of 2025. This reduction is compared to August, which is w…",
-    "source": "Wind Power News & Analysis RSS Feed",
-    "image": null
-  },
-  {
-    "title": "Wind power patents: Goldwind | Vestas | Equinor | Sany",
-    "link": "https://www.windpowermonthly.com/article/1939455/wind-power-patents-goldwind-vestas-equinor-sany",
-    "date": "2025-11-12",
-    "summary": "Windpower Monthly rounds up the latest patents for wind power technology granted and applied for in the last week.…",
-    "source": "Wind Power News & Analysis RSS Feed",
     "image": null
   },
   {
@@ -1068,14 +1076,6 @@
     "link": "https://eepower.com/news/vermont-project-will-turn-farm-waste-into-renewable-natural-gas/",
     "date": "2025-11-05",
     "summary": "Clean Energy Technologies’ 2.2 MW Vermont Renewable Gas facility will turn agricultural waste into renewable synthetic gas and baseload clea…",
-    "source": "EE Power",
-    "image": null
-  },
-  {
-    "title": "‘Honeycomb’ Floating Solar Panels To Lead PV Project in France",
-    "link": "https://eepower.com/market-insights/honeycomb-floating-solar-panels-to-lead-pv-project-in-france/",
-    "date": "2025-11-04",
-    "summary": "Floating solar panels will become part of a hybrid photovoltaic project in France, continuing a growing trend for renewable energy in tight …",
     "source": "EE Power",
     "image": null
   }
