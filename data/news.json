@@ -128,6 +128,14 @@
     "image": null
   },
   {
+    "title": "Is Spice Modeling Easier the Second Time Around?",
+    "link": "https://eepower.com/technical-articles/is-spice-modeling-easier-the-second-time-around/",
+    "date": "2025-11-21",
+    "summary": "After copying the required curve data into the Model Generator, click “Done” and it performs the calculations and produces a finished QSPICE…",
+    "source": "EE Power",
+    "image": null
+  },
+  {
     "title": "Simulations Find the Best Electrolytes for Sodium-Ion Batteries",
     "link": "https://eepower.com/market-insights/simulations-find-the-best-electrolytes-for-sodium-ion-batteries/",
     "date": "2025-11-21",
@@ -1068,14 +1076,6 @@
     "link": "https://eepower.com/news/100-mw-brick-battery-uses-solar-to-power-oil-production/",
     "date": "2025-11-07",
     "summary": "The world’s largest industrial heat battery is operational at an oil production facility in California.…",
-    "source": "EE Power",
-    "image": null
-  },
-  {
-    "title": "Substation Components—Part 3:&nbsp; Circuit Breakers",
-    "link": "https://eepower.com/technical-articles/substation-componentspart-3-circuit-breakers/",
-    "date": "2025-11-06",
-    "summary": "This article explores the crucial role of circuit breakers in substations, covering their fundamental functions, interruption processes, and…",
     "source": "EE Power",
     "image": null
   }
