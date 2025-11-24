@@ -1,5 +1,13 @@
 [
   {
+    "title": "Australia’s Waratah Super Battery enters planned shutdown amid transformer replacement efforts",
+    "link": "https://www.energy-storage.news/australias-waratah-super-battery-enters-planned-shutdown-amid-transformer-replacement-efforts/",
+    "date": "2025-11-24",
+    "summary": "Developer Akaysha Energy has confirmed that the 850MW Waratah Super Battery will undergo a planned balance of plant shutdown from 20 Novembe…",
+    "source": "Energy-Storage.News",
+    "image": null
+  },
+  {
     "title": "Italy’s MACSE and the evolution of BESS asset management in Europe",
     "link": "https://www.energy-storage.news/italy-macse-future-bess-asset-management-europe-enel-greenvolt-ion-bw-ess/",
     "date": "2025-11-24",
@@ -77,6 +85,14 @@
     "date": "2025-11-24",
     "summary": "Battery energy storage system (BESS) projects are complex undertakings that require coordination across engineering, construction and procur…",
     "source": "Solar Power World",
+    "image": null
+  },
+  {
+    "title": "Siemens Gamesa signs deal for 500MW Egyptian wind farm",
+    "link": "https://www.windpowermonthly.com/article/1940854/siemens-gamesa-signs-deal-500mw-egyptian-wind-farm",
+    "date": "2025-11-24",
+    "summary": "",
+    "source": "Wind Power News & Analysis RSS Feed",
     "image": null
   },
   {
@@ -920,14 +936,6 @@
     "image": null
   },
   {
-    "title": "Updated: US state cancels offshore wind PPA negotiations",
-    "link": "https://www.windpowermonthly.com/article/1939928/updated-us-state-cancels-offshore-wind-ppa-negotiations",
-    "date": "2025-11-17",
-    "summary": "",
-    "source": "Wind Power News & Analysis RSS Feed",
-    "image": null
-  },
-  {
     "title": "Power Electronics Course: Part 24 – Cables in Power Electronics",
     "link": "https://www.powerelectronicsnews.com/power-electronics-course-part-24-cables-in-power-electronics/",
     "date": "2025-11-17",
@@ -972,14 +980,6 @@
     "link": "https://www.energy-storage.news/statera-secures-debt-finance-for-1-36gwh-uk-bess/",
     "date": "2025-11-14",
     "summary": "BESS and flexible generation provider Statera Energy has secured £235 million (US$309 million) in debt financing for its 680MW/1,360MWh Carr…",
-    "source": "Energy-Storage.News",
-    "image": null
-  },
-  {
-    "title": "US sodium-ion startup Peak Energy deploying 720MWh BESS for Jupiter Power, with 4GWh under reservation",
-    "link": "https://www.energy-storage.news/us-sodium-ion-startup-peak-energy-deploying-720mwh-bess-for-jupiter-power-with-4gwh-under-reservation/",
-    "date": "2025-11-14",
-    "summary": "Sodium-ion (Na-ion) battery energy storage system (BESS) startup Peak Energy has announced a multi-year phased agreement with developer Jupi…",
     "source": "Energy-Storage.News",
     "image": null
   },
