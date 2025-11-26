@@ -104,6 +104,14 @@
     "image": null
   },
   {
+    "title": "RWE powers on 200-MW solar + storage project in east-central Texas",
+    "link": "https://www.solarpowerworldonline.com/2025/11/rwe-powers-on-200-mw-solar-storage-project-in-east-central-texas/",
+    "date": "2025-11-26",
+    "summary": "On November 26, RWE commissioned Stoneridge Solar, delivering homegrown energy to Milam County, Texas. The project includes 200 MW of solar …",
+    "source": "Solar Power World",
+    "image": null
+  },
+  {
     "title": "Posigen files for bankruptcy after months of layoffs",
     "link": "https://www.solarpowerworldonline.com/2025/11/posigen-files-for-bankruptcy-after-months-of-layoffs/",
     "date": "2025-11-26",
@@ -173,6 +181,14 @@
     "date": "2025-11-26",
     "summary": "<img alt=\"Exposed GPU layout illustrating the complexity of thermal and electromagnetic management in electronics for the AI era.\" class=\"we…",
     "source": "Power Electronics News",
+    "image": null
+  },
+  {
+    "title": "The Future of Power Conversion in Home Appliances with SiC SLIMDIPs",
+    "link": "https://eepower.com/technical-articles/experience-the-future-of-power-conversion-in-home-appliances-with-hybrid-sic-slimdip-and-full-sic-slimdip/",
+    "date": "2025-11-26",
+    "summary": "Learn how two new Mitsubishi SLIMDIP IPMs address the growing need for high-efficiency power semiconductor devices in consumer applications.…",
+    "source": "EE Power",
     "image": null
   },
   {
@@ -792,14 +808,6 @@
     "image": null
   },
   {
-    "title": "NC State is home to the Southeast’s 1st agrivoltaics training site",
-    "link": "https://www.solarpowerworldonline.com/2025/11/nc-state-is-home-to-the-southeasts-1st-agrivoltaics-training-site/",
-    "date": "2025-11-20",
-    "summary": "NC State University and Nevados, a single-axis solar tracker manufacturer, held a ribbon cutting ceremony Wednesday launching a program and …",
-    "source": "Solar Power World",
-    "image": null
-  },
-  {
     "title": "Japan plans offshore wind auction adjustment amid viability concerns",
     "link": "https://www.windpowermonthly.com/article/1940493/japan-plans-offshore-wind-auction-adjustment-amid-viability-concerns",
     "date": "2025-11-20",
@@ -1068,14 +1076,6 @@
     "link": "https://eepower.com/technical-articles/substation-componentspart-5-busbar-configurations/",
     "date": "2025-11-12",
     "summary": "Here, we provide an overview of common substation busbar configurations—Single Bus, Main and Transfer, Double Breaker/Double Bus, Ring Bus/R…",
-    "source": "EE Power",
-    "image": null
-  },
-  {
-    "title": "Reports: Energy Transition + Data Centers = Opportunity",
-    "link": "https://eepower.com/market-insights/reports-energy-transition-data-centers-opportunity/",
-    "date": "2025-11-11",
-    "summary": "Two reports compiled by Ducker Carlisle indicate abundant opportunities for electrical engineers, manufacturers, and distributors in the com…",
     "source": "EE Power",
     "image": null
   }
