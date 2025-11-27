@@ -1,5 +1,21 @@
 [
   {
+    "title": "Nostromo’s thermal ESS participates in CAISO energy market",
+    "link": "https://www.energy-storage.news/nostromos-thermal-ess-participates-in-caiso-energy-market/",
+    "date": "2025-11-27",
+    "summary": "Nostromo Energy's IceBrick thermal energy storage (TES) technology will participate in the California Independent System Operator (CAISO) wh…",
+    "source": "Energy-Storage.News",
+    "image": null
+  },
+  {
+    "title": "Eos completes financing transactions totalling over US$1 billion, focuses on US manufacturing",
+    "link": "https://www.energy-storage.news/eos-completes-financing-transactions-totalling-over-us1-billion-focuses-on-us-manufacturing/",
+    "date": "2025-11-27",
+    "summary": "US zinc battery storage manufacturer Eos Energy Enterprises has completed two financing transactions totalling over US$1 billion to strength…",
+    "source": "Energy-Storage.News",
+    "image": null
+  },
+  {
     "title": "EDF joint venture kicks off large-scale BESS and solar-plus-storage projects in Chile",
     "link": "https://www.energy-storage.news/edf-joint-venture-kicks-off-large-scale-bess-solar-plus-storage-projects-chile/",
     "date": "2025-11-27",
@@ -29,6 +45,14 @@
     "date": "2025-11-27",
     "summary": "The Western Australian government has launched the first stage of an Expression of Interest (EOI) process for a 50MW/500MWh vanadium flow ba…",
     "source": "Energy-Storage.News",
+    "image": null
+  },
+  {
+    "title": "Romanian TSO Transelectrica publishes new grid allocation rules for 2026",
+    "link": "https://www.pv-tech.org/romanian-tso-transelectrica-publishes-new-grid-allocation-rules-2026/",
+    "date": "2025-11-27",
+    "summary": "Transelectrica has published new rules for the Romanian grid, setting out time frames for auctions involving new energy generation projects.…",
+    "source": "PV Tech",
     "image": null
   },
   {
@@ -864,34 +888,10 @@
     "image": null
   },
   {
-    "title": "AI now links technical and commercial realities of BESS asset management",
-    "link": "https://www.energy-storage.news/ai-now-links-technical-and-commercial-realities-of-bess-asset-management/",
-    "date": "2025-11-20",
-    "summary": "We hear from the co-founder and CEO of optimiser Suena Energy Dr. Lennard Wilkening about the evolution of BESS asset management in Europe, …",
-    "source": "Energy-Storage.News",
-    "image": null
-  },
-  {
-    "title": "Pacific Green’s 2.5GWh Portland Energy Park BESS clears final federal environmental hurdle in Australia",
-    "link": "https://www.energy-storage.news/pacific-greens-2-5gwh-portland-energy-park-bess-clears-final-federal-environmental-hurdle-in-australia/",
-    "date": "2025-11-20",
-    "summary": "Pacific Green's Portland Energy Park, Victoria's largest BESS at 1GW/2.5GWh, has secured federal approval via Australia's EPBC Act.…",
-    "source": "Energy-Storage.News",
-    "image": null
-  },
-  {
     "title": "Australia’s solar paradox: Record 5.3GW installations in 2024 cannot crack global top ten",
     "link": "https://www.pv-tech.org/australias-solar-paradox-record-5-3gw-installations-in-2024-cannot-crack-global-top-ten/",
     "date": "2025-11-20",
     "summary": "Australia achieved a record-breaking 5.3GW of solar PV installations in 2024, marking a recovery for the market while highlighting the natio…",
-    "source": "PV Tech",
-    "image": null
-  },
-  {
-    "title": "SunCable submits 20GW Muckaty Solar Precinct for federal environmental assessment in Australia",
-    "link": "https://www.pv-tech.org/suncable-submits-20gw-muckaty-solar-precinct-for-federal-environmental-assessment-in-australia/",
-    "date": "2025-11-20",
-    "summary": "SunCable has submitted its 20GW Muckaty Solar Precinct proposal to Australia's EPBC Act for federal environmental assessment.…",
     "source": "PV Tech",
     "image": null
   },
