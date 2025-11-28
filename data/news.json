@@ -1,10 +1,34 @@
 [
   {
+    "title": "Battery storage fire safety: Sungrow, Wärtsilä, Chint Power products put through LSFT",
+    "link": "https://www.energy-storage.news/battery-storage-fire-safety-sungrow-wartsila-chint-power-products-put-through-lsft/",
+    "date": "2025-11-28",
+    "summary": "Battery storage products from prominent international providers Sungrow, Wärtsilä and Chint Power have undergone recent fire safety tests.…",
+    "source": "Energy-Storage.News",
+    "image": null
+  },
+  {
+    "title": "Australia opens Capacity Investment Scheme Tender 8, seeking 16GWh of energy storage across NEM",
+    "link": "https://www.energy-storage.news/australia-opens-capacity-investment-scheme-tender-8-seeking-16gwh-of-energy-storage-across-nem/",
+    "date": "2025-11-28",
+    "summary": "The Australian government has officially opened CIS Tender 8, targeting 16GWh of energy storage capacity across the NEM.…",
+    "source": "Energy-Storage.News",
+    "image": null
+  },
+  {
     "title": "Michigan Township enacts one-year BESS moratorium after greenfield developer sizes up area for utility-scale project",
     "link": "https://www.energy-storage.news/michigan-township-enacts-one-year-bess-moratorium-after-greenfield-developer-sizes-up-area-for-utility-scale-project/",
     "date": "2025-11-28",
     "summary": "The Township Board of Oshtemo in Michigan has voted in favour of enacting a one-year moratorium on the approval of any new BESS facilities.…",
     "source": "Energy-Storage.News",
+    "image": null
+  },
+  {
+    "title": "European Patent Office revokes JA Solar multi-busbar PV patent in ‘good news’ for EU manufacturers",
+    "link": "https://www.pv-tech.org/european-patent-office-revokes-ja-solar-multi-busbar-pv-patent-in-good-news-for-eu-manufacturers/",
+    "date": "2025-11-28",
+    "summary": "The European Patent Office (EPO) has revoked a patent for a key solar cell manufacturing process, which has been hailed as “good news” for E…",
+    "source": "PV Tech",
     "image": null
   },
   {
@@ -21,6 +45,14 @@
     "date": "2025-11-28",
     "summary": "Chinese module manufacturer Huasun Energy has launched a new heterojunction module with a 760 W output, a 2,000 V system voltage and 24.5% m…",
     "source": "PV Tech",
+    "image": null
+  },
+  {
+    "title": "Colombia moves to streamline wind farm approvals",
+    "link": "https://www.windpowermonthly.com/article/1941427/colombia-moves-streamline-wind-farm-approvals",
+    "date": "2025-11-28",
+    "summary": "Colombia is implementing a new system to accelerate the approval of new wind farms in the South American country, which includes setting a l…",
+    "source": "Wind Power News & Analysis RSS Feed",
     "image": null
   },
   {
@@ -832,14 +864,6 @@
     "image": null
   },
   {
-    "title": "JUWI sells 156MW Greek solar portfolio to Mirova, retains EPC and O&M roles",
-    "link": "https://www.pv-tech.org/juwi-sells-156mw-greek-solar-portfolio-to-mirova-retains-epc-and-om-roles/",
-    "date": "2025-11-21",
-    "summary": "JUWI, a wholly-owned subsidiary of MVV Energie AG, has completed the sale of a 156MW solar PV portfolio in Greece to Mirova, an affiliate of…",
-    "source": "PV Tech",
-    "image": null
-  },
-  {
     "title": "DOE removes renewable energy offices, prioritizing fossil fuels and nuclear power",
     "link": "https://www.solarpowerworldonline.com/2025/11/doe-removes-renewable-energy-offices-prioritizing-fossil-fuels-and-nuclear-power/",
     "date": "2025-11-21",
@@ -904,34 +928,10 @@
     "image": null
   },
   {
-    "title": "US ROUNDUP: Maxwell Technologies changes hands again, Fullmark completes ITC transfer, OATI partners with Colville Tribes",
-    "link": "https://www.energy-storage.news/us-roundup-maxwell-technologies-changes-hands-again-fullmark-completes-itc-transfer-oati-partners-with-colville-tribes/",
-    "date": "2025-11-20",
-    "summary": "From the US, Maxwell Technologies is acquired for its third time, by Clarios, Fullmark Energy completes a tax credit transfer, and OATI part…",
-    "source": "Energy-Storage.News",
-    "image": null
-  },
-  {
-    "title": "BESS energy density race creates questions of site logistics and product standardisation",
-    "link": "https://www.energy-storage.news/bess-energy-density-race-creates-questions-of-site-logistics-and-product-standardisation/",
-    "date": "2025-11-20",
-    "summary": "The battery storage industry’s race for higher energy density should be put into a site-level perspective, rather than focusing solely on la…",
-    "source": "Energy-Storage.News",
-    "image": null
-  },
-  {
     "title": "Japan plans offshore wind auction adjustment amid viability concerns",
     "link": "https://www.windpowermonthly.com/article/1940493/japan-plans-offshore-wind-auction-adjustment-amid-viability-concerns",
     "date": "2025-11-20",
     "summary": "Japan has proposed adjusting criteria in its offshore wind tender system in an effort to rebuild confidence following early project withdraw…",
-    "source": "Wind Power News & Analysis RSS Feed",
-    "image": null
-  },
-  {
-    "title": "GE Vernova wins first onshore wind repowering deal outside US",
-    "link": "https://www.windpowermonthly.com/article/1940474/ge-vernova-wins-first-onshore-wind-repowering-deal-outside-us",
-    "date": "2025-11-20",
-    "summary": "",
     "source": "Wind Power News & Analysis RSS Feed",
     "image": null
   },
