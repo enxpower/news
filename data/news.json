@@ -128,6 +128,22 @@
     "image": null
   },
   {
+    "title": "Data Centers and the Grid: Key Insights from POWER’s Inaugural Data Center POWER eXchange Summit",
+    "link": "https://www.powermag.com/data-centers-and-the-grid-key-insights-from-powers-inaugural-data-center-power-exchange-summit/",
+    "date": "2025-12-01",
+    "summary": "POWER breaks down the top insights from Data Center POWER eXchange, a one-day summit curated by POWER’s editorial team and convened to exami…",
+    "source": "POWER Magazine",
+    "image": null
+  },
+  {
+    "title": "Emerson Addresses Power Industry’s AI-Driven Demand Surge",
+    "link": "https://www.powermag.com/emerson-addresses-power-industrys-ai-driven-demand-surge/",
+    "date": "2025-12-01",
+    "summary": "The power industry is experiencing unprecedented demand growth, driven largely by data centers and artificial intelligence (AI) applications…",
+    "source": "POWER Magazine",
+    "image": null
+  },
+  {
     "title": "China’s Molten Salt Reactor Reaches Thorium-Uranium Conversion Milestone",
     "link": "https://www.powermag.com/chinas-molten-salt-reactor-reaches-thorium-uranium-conversion-milestone/",
     "date": "2025-12-01",
@@ -188,22 +204,6 @@
     "link": "https://www.powermag.com/bess-storing-potential-for-the-uks-energy-future/",
     "date": "2025-12-01",
     "summary": "The UK&#8217;s battery storage capacity is set to triple by 2030 and could reach 50 GW by mid-century&#8212;a transformation that will resha…",
-    "source": "POWER Magazine",
-    "image": null
-  },
-  {
-    "title": "Finding a Longer-Duration Alternative to Battery Storage",
-    "link": "https://www.powermag.com/finding-a-longer-duration-alternative-to-battery-storage/",
-    "date": "2025-12-01",
-    "summary": "The limitations of lithium-ion batteries are prompting a search for longer-duration solutions. Compressed air energy storage (CAES) and othe…",
-    "source": "POWER Magazine",
-    "image": null
-  },
-  {
-    "title": "On the Steam Side of Nuclear Energy",
-    "link": "https://www.powermag.com/on-the-steam-side-of-nuclear-energy/",
-    "date": "2025-12-01",
-    "summary": "Siemens Energy develops conventional islands for small modular reactors. When Rolls-Royce SMR began developing its small modular reactor (SM…",
     "source": "POWER Magazine",
     "image": null
   },
@@ -944,8 +944,8 @@
     "image": null
   },
   {
-    "title": "New podcast: Why community support is vital for wind power's future",
-    "link": "https://www.windpowermonthly.com/article/1940688/new-podcast-why-community-support-vital-wind-powers-future",
+    "title": "Why community support is vital for wind power's future",
+    "link": "https://www.windpowermonthly.com/article/1940688/why-community-support-vital-wind-powers-future",
     "date": "2025-11-24",
     "summary": "Community engagement can make or break any wind farm project. In this episode of the Wind Power Podcast, we discuss the importance of gettin…",
     "source": "Wind Power News & Analysis RSS Feed",
