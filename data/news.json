@@ -112,6 +112,102 @@
     "image": null
   },
   {
+    "title": "How AI Is Breathing New Life into Aging Coal-Fired Power Assets",
+    "link": "https://www.powermag.com/how-ai-is-breathing-new-life-into-aging-coal-fired-power-assets/",
+    "date": "2025-12-01",
+    "summary": "For years, some folks have considered coal-fired power plants relics of a bygone era, overshadowed by the rise of natural gas and renewables…",
+    "source": "POWER Magazine",
+    "image": null
+  },
+  {
+    "title": "A Guide to Asset Management Software Solutions for Power Industry Leaders",
+    "link": "https://www.powermag.com/a-guide-to-asset-management-software-solutions-for-power-industry-leaders/",
+    "date": "2025-12-01",
+    "summary": "Power company leaders face mounting challenges in asset management&#8212;keeping aging equipment reliable, integrating diverse assets from r…",
+    "source": "POWER Magazine",
+    "image": null
+  },
+  {
+    "title": "Old Turbines, New Tricks: How Retrofits Drive Efficiency and Extend Lifespans in Power Generation",
+    "link": "https://www.powermag.com/old-turbines-new-tricks-how-retrofits-drive-efficiency-and-extend-lifespans-in-power-generation/",
+    "date": "2025-12-01",
+    "summary": "By retrofitting aging turbines with modern control systems, power generation companies are extending equipment lifespans, enhancing operatio…",
+    "source": "POWER Magazine",
+    "image": null
+  },
+  {
+    "title": "Future-Proofing Wind Turbine Communications: Why Fibre Optic Rotary Joints Are the Next Frontier",
+    "link": "https://www.powermag.com/future-proofing-wind-turbine-communications-why-fibre-optic-rotary-joints-are-the-next-frontier/",
+    "date": "2025-12-01",
+    "summary": "While the wind sector battles bearing failures and blade damage, a quieter revolution is unfolding at the heart of the nacelle. Fibre optic …",
+    "source": "POWER Magazine",
+    "image": null
+  },
+  {
+    "title": "BESS: Storing Potential for the UK’s Energy Future",
+    "link": "https://www.powermag.com/bess-storing-potential-for-the-uks-energy-future/",
+    "date": "2025-12-01",
+    "summary": "The UK&#8217;s battery storage capacity is set to triple by 2030 and could reach 50 GW by mid-century&#8212;a transformation that will resha…",
+    "source": "POWER Magazine",
+    "image": null
+  },
+  {
+    "title": "Finding a Longer-Duration Alternative to Battery Storage",
+    "link": "https://www.powermag.com/finding-a-longer-duration-alternative-to-battery-storage/",
+    "date": "2025-12-01",
+    "summary": "The limitations of lithium-ion batteries are prompting a search for longer-duration solutions. Compressed air energy storage (CAES) and othe…",
+    "source": "POWER Magazine",
+    "image": null
+  },
+  {
+    "title": "On the Steam Side of Nuclear Energy",
+    "link": "https://www.powermag.com/on-the-steam-side-of-nuclear-energy/",
+    "date": "2025-12-01",
+    "summary": "Siemens Energy develops conventional islands for small modular reactors. When Rolls-Royce SMR began developing its small modular reactor (SM…",
+    "source": "POWER Magazine",
+    "image": null
+  },
+  {
+    "title": "Shimane 2 Highlights Progress in Japan’s Nuclear Restart Program",
+    "link": "https://www.powermag.com/shimane-2-highlights-progress-in-japans-nuclear-restart-program/",
+    "date": "2025-12-01",
+    "summary": "The Unit 2 reactor at the Shimane nuclear power station resumed operation in January 2025, more than a decade after it, and all other reacto…",
+    "source": "POWER Magazine",
+    "image": null
+  },
+  {
+    "title": "Major Retrofit Restores Early 1900s Hydropower Dam",
+    "link": "https://www.powermag.com/major-retrofit-restores-early-1900s-hydropower-dam/",
+    "date": "2025-12-01",
+    "summary": "A hydroelectric facility that first came online in 1903 stands as a testament to early 20th-century hydroelectric engineering. Although much…",
+    "source": "POWER Magazine",
+    "image": null
+  },
+  {
+    "title": "Saudi Arabia Innovates to Support Renewable Energy Goals",
+    "link": "https://www.powermag.com/saudi-arabia-innovates-to-support-renewable-energy-goals/",
+    "date": "2025-12-01",
+    "summary": "The growing global shift toward renewable energy has intensified the pursuit of high-efficiency photovoltaic (PV) systems, with triple-junct…",
+    "source": "POWER Magazine",
+    "image": null
+  },
+  {
+    "title": "PEN’s Power Predictions for 2025: How Do They Stack Up? — Data Centers",
+    "link": "https://www.powerelectronicsnews.com/pens-power-predictions-for-2025-how-do-they-stack-up-data-centers/",
+    "date": "2025-12-01",
+    "summary": "<img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"208\" src=\"https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2…",
+    "source": "Power Electronics News",
+    "image": null
+  },
+  {
+    "title": "ST Unveils New GaN-Based Smart Power SiPs for Next-Generation Motor Drives",
+    "link": "https://www.powerelectronicsnews.com/st-unveils-new-gan-based-smart-power-sips-for-next-generation-motor-drives/",
+    "date": "2025-12-01",
+    "summary": "<img alt=\"ST Unveils New GaN-Based Smart Power SiPs for Next-Generation Motor Drives.\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"…",
+    "source": "Power Electronics News",
+    "image": null
+  },
+  {
     "title": "600MWh Bulabul battery storage site in Australia attracts Danish partner in AU$300 million deal",
     "link": "https://www.energy-storage.news/600mwh-bulabul-battery-storage-site-in-australia-attracts-danish-partner-in-au300-million-deal/",
     "date": "2025-11-30",
@@ -360,14 +456,6 @@
     "image": null
   },
   {
-    "title": "The POWER Interview: Negotiating the Details of Power Project Contracts",
-    "link": "https://www.powermag.com/the-power-interview-negotiating-the-details-of-power-project-contracts/",
-    "date": "2025-11-27",
-    "summary": "Negotiating contracts is a process that requires preparation and communication, as all parties work toward a mutually beneficial relationshi…",
-    "source": "POWER Magazine",
-    "image": null
-  },
-  {
     "title": "Here’s a roundup of our 5 favorite articles in 2025",
     "link": "https://www.powerelectronicsnews.com/heres-a-roundup-of-our-5-favorite-articles-in-2025/",
     "date": "2025-11-27",
@@ -552,22 +640,6 @@
     "image": null
   },
   {
-    "title": "Winter Reliability Concerns Spur Fresh DOE Intervention for PJM, MISO",
-    "link": "https://www.powermag.com/winter-reliability-concerns-spur-fresh-doe-intervention-for-pjm-miso/",
-    "date": "2025-11-26",
-    "summary": "The Department of Energy (DOE) extended its run of federal grid interventions into winter over the past week, issuing a Section 202(c) emerg…",
-    "source": "POWER Magazine",
-    "image": null
-  },
-  {
-    "title": "NERC: Winter Grid Reliability at Risk Amid Soaring Demand, Fuel Supply Gaps",
-    "link": "https://www.powermag.com/nerc-winter-grid-reliability-at-risk-amid-soaring-demand-fuel-supply-gaps/",
-    "date": "2025-11-26",
-    "summary": "In its recently released Winter Reliability Assessment, the North American Electric Reliability Corporation (NERC) found that while resource…",
-    "source": "POWER Magazine",
-    "image": null
-  },
-  {
     "title": "GlobalFoundries furthering its GaN reach in the U.S.",
     "link": "https://www.powerelectronicsnews.com/globalfoundries-furthering-its-gan-reach-in-the-u-s/",
     "date": "2025-11-26",
@@ -736,14 +808,6 @@
     "image": null
   },
   {
-    "title": "UK Confirms Wylfa as Launch Site for First Nuclear SMR Fleet",
-    "link": "https://www.powermag.com/uk-confirms-wylfa-as-launch-site-for-first-nuclear-smr-fleet/",
-    "date": "2025-11-25",
-    "summary": "The UK has confirmed that Wylfa on the island of Anglesey, North Wales, will host three Rolls-Royce small modular reactors (SMRs) that could…",
-    "source": "POWER Magazine",
-    "image": null
-  },
-  {
     "title": "STMicroelectronics’ low-side switch IC",
     "link": "https://www.powerelectronicsnews.com/stmicroelectronics-low-side-switch-ic/",
     "date": "2025-11-25",
@@ -888,38 +952,6 @@
     "image": null
   },
   {
-    "title": "Why Smarter Interconnection Must Power the Next Phase of Solar Growth",
-    "link": "https://www.powermag.com/why-smarter-interconnection-must-power-the-next-phase-of-solar-growth/",
-    "date": "2025-11-24",
-    "summary": "The demand for distributed generation (DG) solar has never been higher, yet many projects are getting stuck before they even break ground. T…",
-    "source": "POWER Magazine",
-    "image": null
-  },
-  {
-    "title": "Safer by Design Beats Safer by Procedure",
-    "link": "https://www.powermag.com/safer-by-design-beats-safer-by-procedure/",
-    "date": "2025-11-24",
-    "summary": "When I was a kid, I used to watch thunderstorms roll in from the porch, tracing lightning across the sky and marveling at how energy moved b…",
-    "source": "POWER Magazine",
-    "image": null
-  },
-  {
-    "title": "Wolfspeed 1200V/700A YM Six-Pack Power Modules",
-    "link": "https://www.powerelectronicsnews.com/wolfspeed-1200v-700a-ym-six-pack-power-modules/",
-    "date": "2025-11-24",
-    "summary": "<img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"470\" src=\"https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2…",
-    "source": "Power Electronics News",
-    "image": null
-  },
-  {
-    "title": "Overcoming the Voltage Wall: 10-kV E-Mode GaN HEMTs Redefine Power Electronics",
-    "link": "https://www.powerelectronicsnews.com/overcoming-the-voltage-wall-10-kv-e-mode-gan-hemts-redefine-power-electronics/",
-    "date": "2025-11-24",
-    "summary": "<img alt=\"Embedded PCB packaging of WBG Power Electronics.\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"577\" src=\"https://www.power…",
-    "source": "Power Electronics News",
-    "image": null
-  },
-  {
     "title": "Battery Research Reaches for Common Materials, Creative Methods",
     "link": "https://eepower.com/market-insights/battery-research-reaches-for-common-materials-creative-methods/",
     "date": "2025-11-24",
@@ -944,14 +976,6 @@
     "image": null
   },
   {
-    "title": "NRG Energy Will Build New 455-MW Gas-Fired Plant Near Houston",
-    "link": "https://www.powermag.com/nrg-energy-will-build-new-455-mw-gas-fired-plant-near-houston/",
-    "date": "2025-11-21",
-    "summary": "NRG Energy is the latest Texas-based utility to receive a loan agreement from the Texas Energy Fund (TxEF). The company plans to use the fun…",
-    "source": "POWER Magazine",
-    "image": null
-  },
-  {
     "title": "Is Spice Modeling Easier the Second Time Around?",
     "link": "https://eepower.com/technical-articles/is-spice-modeling-easier-the-second-time-around/",
     "date": "2025-11-21",
@@ -965,30 +989,6 @@
     "date": "2025-11-21",
     "summary": "Researchers used a simulation to map out the liquid electrolytes that could create safer, better-performing sodium-ion batteries.…",
     "source": "EE Power",
-    "image": null
-  },
-  {
-    "title": "The POWER Interview: Ensuring Successful Power Plant Decommissioning",
-    "link": "https://www.powermag.com/the-power-interview-ensuring-successful-power-plant-decommissioning/",
-    "date": "2025-11-20",
-    "summary": "Keith Kotimko is the U.S. Decommissioning and Demolition Leader for WSP, a full-service solution provider that offers comprehensive facility…",
-    "source": "POWER Magazine",
-    "image": null
-  },
-  {
-    "title": "Arevon’s Big Muddy Solar Project Moves Forward in Illinois",
-    "link": "https://www.powermag.com/arevons-big-muddy-solar-project-moves-forward-in-illinois/",
-    "date": "2025-11-20",
-    "summary": "Energy developer, owner and operator Arevon Energy has started construction of a $200-million solar farm in Illinois. The 124-MW Big Muddy S…",
-    "source": "POWER Magazine",
-    "image": null
-  },
-  {
-    "title": "Early-Stage Risk Mitigation—Essential Element for Data Center Financing",
-    "link": "https://www.powermag.com/early-stage-risk-mitigation-essential-element-for-data-center-financing/",
-    "date": "2025-11-20",
-    "summary": "Lenders and investors are scrutinizing data center projects closely. Identifying and mitigating risks early helps attract investors and redu…",
-    "source": "POWER Magazine",
     "image": null
   },
   {
