@@ -232,6 +232,14 @@
     "image": null
   },
   {
+    "title": "Unlocking the Potential of Multilevel Power Conversion Topologies",
+    "link": "https://eepower.com/technical-articles/unlocking-the-potential-of-multilevel-power-conversion-topologies/",
+    "date": "2025-12-01",
+    "summary": "This article explores the design challenges of a Flying Capacitor Multilevel (FCML) Totem-Pole Power Factor Correction (PFC) circuit.…",
+    "source": "EE Power",
+    "image": null
+  },
+  {
     "title": "600MWh Bulabul battery storage site in Australia attracts Danish partner in AU$300 million deal",
     "link": "https://www.energy-storage.news/600mwh-bulabul-battery-storage-site-in-australia-attracts-danish-partner-in-au300-million-deal/",
     "date": "2025-11-30",
@@ -1308,14 +1316,6 @@
     "link": "https://eepower.com/technical-articles/advancing-industrial-power-conversion-with-silicon-carbide-system-level-insights-and-design-trade-offs/",
     "date": "2025-11-13",
     "summary": "This article explores the benefits of SiC devices in selected use cases, including HVAC systems, DC fast charging infrastructure, and solar …",
-    "source": "EE Power",
-    "image": null
-  },
-  {
-    "title": "Solar Research Tackles Perovskite, Organic PVs, and Dust",
-    "link": "https://eepower.com/market-insights/solar-research-tackles-perovskite-organic-pvs-and-dust/",
-    "date": "2025-11-13",
-    "summary": "Three separate studies advance molecular tuning for perovskites, crystallization control in organic PVs, and sensorless dust monitoring.…",
     "source": "EE Power",
     "image": null
   }
