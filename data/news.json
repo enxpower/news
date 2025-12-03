@@ -192,6 +192,14 @@
     "image": null
   },
   {
+    "title": "Shell’s Liquid EV Cooling Could Cut Charging Times to 10 Minutes",
+    "link": "https://eepower.com/news/shells-liquid-ev-cooling-could-cut-charging-times-to-10-minutes/",
+    "date": "2025-12-03",
+    "summary": "Shell has developed an “all-in-one” thermal cooling fluid that can cool battery packs and electric vehicle powertrains.…",
+    "source": "EE Power",
+    "image": null
+  },
+  {
     "title": "Optimizing DC-DC Converter Stability",
     "link": "https://eepower.com/technical-articles/optimizing-dc-dc-converter-stability-ac-and-transient-analysis-in-simulations-of-source-impedance-effects/",
     "date": "2025-12-03",
@@ -1068,14 +1076,6 @@
     "link": "https://eepower.com/news/tech-giants-race-to-grab-power-for-data-centers/",
     "date": "2025-11-17",
     "summary": "Meta, OpenAI, and Google are locking in power years before their AI data centers are scheduled to come online.…",
-    "source": "EE Power",
-    "image": null
-  },
-  {
-    "title": "Cage-Like Molecule Boosts Perovskite Solar Efficiency to 31.1%",
-    "link": "https://eepower.com/market-insights/cage-like-molecule-boosts-perovskite-solar-efficiency-to-31.1/",
-    "date": "2025-11-17",
-    "summary": "The molecule reduces interfacial energy losses in perovskite/silicon tandem solar cells.…",
     "source": "EE Power",
     "image": null
   }
