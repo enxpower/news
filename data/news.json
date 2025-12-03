@@ -1,5 +1,21 @@
 [
   {
+    "title": "Ontario municipality denies support for 3.2GWh BESS project ahead of looming IESO RFP deadline",
+    "link": "https://www.energy-storage.news/ontario-municipality-denies-support-for-3-2gwh-bess-project-ahead-of-looming-ieso-rfp-deadline/",
+    "date": "2025-12-03",
+    "summary": "The Municipality of Shuniah in Ontario, Canada, voted against supporting a 400MW/3.2GWh long-duration energy storage project proposed by Pow…",
+    "source": "Energy-Storage.News",
+    "image": null
+  },
+  {
+    "title": "Cache Power plans ‘Canada’s first’ commercial-scale compressed air energy storage facility",
+    "link": "https://www.energy-storage.news/cache-power-plans-canadas-first-commercial-scale-compressed-air-energy-storage-facility/",
+    "date": "2025-12-03",
+    "summary": "Compressed air energy storage (CAES) developer Cache Power is partnering with construction company EllisDon to deliver a CAES facility in No…",
+    "source": "Energy-Storage.News",
+    "image": null
+  },
+  {
     "title": "State-owned Stanwell bags exclusivity for Quinbrook’s 6.24GWh hybrid energy storage facility in Australia",
     "link": "https://www.energy-storage.news/state-owned-stanwell-bags-exclusivity-for-quinbrooks-6-24gwh-hybrid-energy-storage-facility-in-australia/",
     "date": "2025-12-03",
@@ -29,6 +45,14 @@
     "date": "2025-12-03",
     "summary": "Two battery storage system developments from FRV Australia and AGL Energy, totalling 2,200MWh, have reached major milestones in Australia.…",
     "source": "Energy-Storage.News",
+    "image": null
+  },
+  {
+    "title": "Terra-Gen closes financing for 205MW Lockhart III & IV solar project in California",
+    "link": "https://www.pv-tech.org/terra-gen-closes-financing-205mw-lockhart-iii-iv-solar-project-california/",
+    "date": "2025-12-03",
+    "summary": "Terra-Gen has closed financing for its 205MW Lockhart III &#038; IV solar PV project in San Bernadino County, California.…",
+    "source": "PV Tech",
     "image": null
   },
   {
@@ -64,16 +88,16 @@
     "image": null
   },
   {
-    "title": "Siemens Gamesa's India business relaunched as Vayona Energy",
-    "link": "https://www.windpowermonthly.com/article/1941875/siemens-gamesas-india-business-relaunched-vayona-energy",
+    "title": "Siemens Gamesa's former India business relaunched as Vayona Energy",
+    "link": "https://www.windpowermonthly.com/article/1941875/siemens-gamesas-former-india-business-relaunched-vayona-energy",
     "date": "2025-12-03",
     "summary": "The sale of Siemens Gamesa’s former wind turbine manufacturing business in India has been completed, with the new company now rebranded as V…",
     "source": "Wind Power News & Analysis RSS Feed",
     "image": null
   },
   {
-    "title": "Brazil wind complex launched months ahead of schedule",
-    "link": "https://www.windpowermonthly.com/article/1941876/brazil-wind-complex-launched-months-ahead-schedule",
+    "title": "Brazil wind complex fully online months ahead of schedule",
+    "link": "https://www.windpowermonthly.com/article/1941876/brazil-wind-complex-fully-online-months-ahead-schedule",
     "date": "2025-12-03",
     "summary": "",
     "source": "Wind Power News & Analysis RSS Feed",
@@ -85,6 +109,14 @@
     "date": "2025-12-03",
     "summary": "<img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"720\" src=\"https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2…",
     "source": "Power Electronics News",
+    "image": null
+  },
+  {
+    "title": "Optimizing DC-DC Converter Stability: AC and Transient Analysis in Simulations of Source Impedance Effects",
+    "link": "https://eepower.com/technical-articles/optimizing-dc-dc-converter-stability-ac-and-transient-analysis-in-simulations-of-source-impedance-effects/",
+    "date": "2025-12-03",
+    "summary": "This article investigates the optimization of DC-DC converter stability through AC analysis in the frequency-domain and transient analysis i…",
+    "source": "EE Power",
     "image": null
   },
   {
@@ -872,22 +904,6 @@
     "image": null
   },
   {
-    "title": "Australia: Potentia gains consent for 1GWh solar hybrid as Fluence delivers to 600MWh battery storage site",
-    "link": "https://www.energy-storage.news/australia-potentia-gains-consent-for-1gwh-solar-hybrid-as-fluence-delivers-to-600mwh-battery-storage-site/",
-    "date": "2025-11-26",
-    "summary": "Potentia Energy has received federal environmental approval for its 1,000MWh Tallawang Solar Hybrid project, and Fluence has delivered its G…",
-    "source": "Energy-Storage.News",
-    "image": null
-  },
-  {
-    "title": "Safety and sustainability: Dual pillars shaping Australia’s energy storage sector",
-    "link": "https://www.energy-storage.news/safety-and-sustainability-dual-pillars-shaping-australias-energy-storage-sector/",
-    "date": "2025-11-26",
-    "summary": "As Australia accelerates its transition toward renewables, demand for reliable &#038; sustainable energy storage solutions has never been hi…",
-    "source": "Energy-Storage.News",
-    "image": null
-  },
-  {
     "title": "Is Europe heading for another PV module oversupply situation?",
     "link": "https://www.pv-tech.org/is-europe-heading-for-another-pv-module-oversupply-situation/",
     "date": "2025-11-26",
@@ -908,14 +924,6 @@
     "link": "https://www.pv-tech.org/vikram-solar-starts-work-5gw-topcon-module-manufacturing-facility-india/",
     "date": "2025-11-26",
     "summary": "Indian solar PV manufacturer Vikram Solar has started commercial operations at its 5GW Vallam module manufacturing facility in India.…",
-    "source": "PV Tech",
-    "image": null
-  },
-  {
-    "title": "Chinese firms account for nine of the top ten polysilicon manufacturers in 2024",
-    "link": "https://www.pv-tech.org/chinese-firms-nine-top-ten-polysilicon-manufacturers-2024/",
-    "date": "2025-11-26",
-    "summary": "Chinese manufacturers account for nine of the world’s top ten polysilicon producers, led by Tongwei, GCL Technology and Daqo New Energy.…",
     "source": "PV Tech",
     "image": null
   },
@@ -1068,14 +1076,6 @@
     "link": "https://eepower.com/market-insights/cage-like-molecule-boosts-perovskite-solar-efficiency-to-31.1/",
     "date": "2025-11-17",
     "summary": "The molecule reduces interfacial energy losses in perovskite/silicon tandem solar cells.…",
-    "source": "EE Power",
-    "image": null
-  },
-  {
-    "title": "Substation Components—Part 6: Station Batteries and DC Supply",
-    "link": "https://eepower.com/technical-articles/substation-componentspart-6-station-batteries-and-dc-supply/",
-    "date": "2025-11-16",
-    "summary": "In substations, the DC system is critical for protection, control, and SCADA during AC loss. Learn about the relevant IEEE standards, choosi…",
     "source": "EE Power",
     "image": null
   }
