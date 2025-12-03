@@ -1,5 +1,13 @@
 [
   {
+    "title": "ABB acquires Gamesa Electric power electronics division for undisclosed sum",
+    "link": "https://www.energy-storage.news/abb-acquires-gamesa-electric-power-electronics-division-for-undisclosed-sum/",
+    "date": "2025-12-03",
+    "summary": "ABB has acquired the solar PV and wind inverter and battery storage power conversion system (PCS) businesses of Gamesa Electric.…",
+    "source": "Energy-Storage.News",
+    "image": null
+  },
+  {
     "title": "Ontario municipality denies support for 3.2GWh BESS project ahead of looming IESO RFP deadline",
     "link": "https://www.energy-storage.news/ontario-municipality-denies-support-for-3-2gwh-bess-project-ahead-of-looming-ieso-rfp-deadline/",
     "date": "2025-12-03",
@@ -104,6 +112,22 @@
     "image": null
   },
   {
+    "title": "DOE Selects TVA, Holtec to Receive $800 Million to Advance SMR Deployment",
+    "link": "https://www.powermag.com/doe-selects-tva-holtec-to-receive-800-million-to-advance-smr-deployment/",
+    "date": "2025-12-03",
+    "summary": "The U.S. Department of Energy (DOE) said the agency has selected the Tennessee Valley Authority (TVA) and Holtec Government Services to supp…",
+    "source": "POWER Magazine",
+    "image": null
+  },
+  {
+    "title": "Navitas 3300V and 2300V SiC in Die, Discrete, and Module",
+    "link": "https://www.powerelectronicsnews.com/navitas-3300v-and-2300v-sic-in-die-discrete-and-module/",
+    "date": "2025-12-03",
+    "summary": "<img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"608\" src=\"https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2…",
+    "source": "Power Electronics News",
+    "image": null
+  },
+  {
     "title": "The Coming Digital Risk Horizon: Why 2035 Will Test Our Governance of Technology",
     "link": "https://www.powerelectronicsnews.com/the-coming-digital-risk-horizon-why-2035-will-test-our-governance-of-technology/",
     "date": "2025-12-03",
@@ -112,7 +136,7 @@
     "image": null
   },
   {
-    "title": "Optimizing DC-DC Converter Stability: AC and Transient Analysis in Simulations of Source Impedance Effects",
+    "title": "Optimizing DC-DC Converter Stability",
     "link": "https://eepower.com/technical-articles/optimizing-dc-dc-converter-stability-ac-and-transient-analysis-in-simulations-of-source-impedance-effects/",
     "date": "2025-12-03",
     "summary": "This article investigates the optimization of DC-DC converter stability through AC analysis in the frequency-domain and transient analysis i…",
@@ -568,14 +592,6 @@
     "image": null
   },
   {
-    "title": "Future-Proofing Wind Turbine Communications: Why Fibre Optic Rotary Joints Are the Next Frontier",
-    "link": "https://www.powermag.com/future-proofing-wind-turbine-communications-why-fibre-optic-rotary-joints-are-the-next-frontier/",
-    "date": "2025-12-01",
-    "summary": "While the wind sector battles bearing failures and blade damage, a quieter revolution is unfolding at the heart of the nacelle. Fibre optic …",
-    "source": "POWER Magazine",
-    "image": null
-  },
-  {
     "title": "PEN’s Power Predictions for 2025: How Do They Stack Up? — Data Centers",
     "link": "https://www.powerelectronicsnews.com/pens-power-predictions-for-2025-how-do-they-stack-up-data-centers/",
     "date": "2025-12-01",
@@ -896,14 +912,6 @@
     "image": null
   },
   {
-    "title": "‘Rapid growth but disorderly competiton’: Longi enters energy storage industry with PotisEdge deal",
-    "link": "https://www.energy-storage.news/rapid-growth-but-disorderly-competiton-longi-enters-energy-storage-industry-with-potisedge-deal/",
-    "date": "2025-11-26",
-    "summary": "We caught up with the president of system integrator PotisEdge following news of its acquisition by Longi, which marks the Chinese solar PV …",
-    "source": "Energy-Storage.News",
-    "image": null
-  },
-  {
     "title": "Is Europe heading for another PV module oversupply situation?",
     "link": "https://www.pv-tech.org/is-europe-heading-for-another-pv-module-oversupply-situation/",
     "date": "2025-11-26",
@@ -957,14 +965,6 @@
     "date": "2025-11-26",
     "summary": "Vestas has commissioned its first 15MW offshore wind turbine at sea, with the turbine now generating electricity at EnBW's He Dreiht wind fa…",
     "source": "Wind Power News & Analysis RSS Feed",
-    "image": null
-  },
-  {
-    "title": "GlobalFoundries furthering its GaN reach in the U.S.",
-    "link": "https://www.powerelectronicsnews.com/globalfoundries-furthering-its-gan-reach-in-the-u-s/",
-    "date": "2025-11-26",
-    "summary": "<img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"519\" src=\"https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2…",
-    "source": "Power Electronics News",
     "image": null
   },
   {
