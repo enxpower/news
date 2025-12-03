@@ -1,5 +1,13 @@
 [
   {
+    "title": "State-owned Stanwell bags exclusivity for Quinbrook’s 6.24GWh hybrid energy storage facility in Australia",
+    "link": "https://www.energy-storage.news/state-owned-stanwell-bags-exclusivity-for-quinbrooks-6-24gwh-hybrid-energy-storage-facility-in-australia/",
+    "date": "2025-12-03",
+    "summary": "Stanwell bags rights to Quinbrook's 6.24GWh Gladstone Energy Hub, combining 780MW battery energy storage with gas generation in Queensland.…",
+    "source": "Energy-Storage.News",
+    "image": null
+  },
+  {
     "title": "Are battery companies focusing on lithium-ion alternatives financially viable?",
     "link": "https://www.energy-storage.news/are-battery-companies-focusing-on-lithium-ion-alternatives-financially-viable/",
     "date": "2025-12-03",
@@ -24,6 +32,14 @@
     "image": null
   },
   {
+    "title": "Buyers should exercise ‘caution’ as solar component prices rise, says Intertek CEA",
+    "link": "https://www.pv-tech.org/solar-component-material-prices-to-increase-intertek-cea-urges-caution-among-buyers/",
+    "date": "2025-12-03",
+    "summary": "Buyers should prepare for increases in the price of vital solar module components, such as polysilicon, wafers and cells, but “remain cautio…",
+    "source": "PV Tech",
+    "image": null
+  },
+  {
     "title": "‘Renewable energy’ stripped from NREL’s name in shift of priorities",
     "link": "https://www.pv-tech.org/renewable-energy-stripped-from-nrels-name-in-shift-of-priorities/",
     "date": "2025-12-03",
@@ -40,8 +56,24 @@
     "image": null
   },
   {
-    "title": "Partners launch 554MW Brazil wind complex months ahead of schedule",
-    "link": "https://www.windpowermonthly.com/article/1941876/partners-launch-554mw-brazil-wind-complex-months-ahead-schedule",
+    "title": "Trump moves to revoke permit for New England Wind",
+    "link": "https://www.windpowermonthly.com/article/1941878/trump-moves-revoke-permit-new-england-wind",
+    "date": "2025-12-03",
+    "summary": "The Trump administration has confirmed that it is reviewing the construction and operations (COP) plan of Avangrid’s 2.6GW fully permitted N…",
+    "source": "Wind Power News & Analysis RSS Feed",
+    "image": null
+  },
+  {
+    "title": "Siemens Gamesa's India business relaunched as Vayona Energy",
+    "link": "https://www.windpowermonthly.com/article/1941875/siemens-gamesas-india-business-relaunched-vayona-energy",
+    "date": "2025-12-03",
+    "summary": "The sale of Siemens Gamesa’s former wind turbine manufacturing business in India has been completed, with the new company now rebranded as V…",
+    "source": "Wind Power News & Analysis RSS Feed",
+    "image": null
+  },
+  {
+    "title": "Brazil wind complex launched months ahead of schedule",
+    "link": "https://www.windpowermonthly.com/article/1941876/brazil-wind-complex-launched-months-ahead-schedule",
     "date": "2025-12-03",
     "summary": "",
     "source": "Wind Power News & Analysis RSS Feed",
@@ -888,14 +920,6 @@
     "image": null
   },
   {
-    "title": "India adds 11GW solar PV in Q3 2025 – IEEFA",
-    "link": "https://www.pv-tech.org/india-adds-11gw-solar-pv-in-q3-2025-ieefa/",
-    "date": "2025-11-26",
-    "summary": "India has added 11GW of solar PV capacity during the third quarter of 2025, according to a report from the Institute for Energy Economics an…",
-    "source": "PV Tech",
-    "image": null
-  },
-  {
     "title": "Ørsted and ESB win Irish offshore wind tender",
     "link": "https://www.windpowermonthly.com/article/1941136/orsted-esb-win-irish-offshore-wind-tender",
     "date": "2025-11-26",
@@ -941,30 +965,6 @@
     "date": "2025-11-26",
     "summary": "Learn how two new Mitsubishi SLIMDIP IPMs address the growing need for high-efficiency power semiconductor devices in consumer applications.…",
     "source": "EE Power",
-    "image": null
-  },
-  {
-    "title": "Acacia Energy to resell OptiGrid’s AI-powered battery platform for C&I customers in Australia",
-    "link": "https://www.energy-storage.news/acacia-energy-to-resell-optigrids-ai-powered-battery-platform-for-ci-customers-in-australia/",
-    "date": "2025-11-25",
-    "summary": "OptiGrid, an Australian battery optimisation and trading intelligence platform, has partnered with Acacia Energy to accelerate the deploymen…",
-    "source": "Energy-Storage.News",
-    "image": null
-  },
-  {
-    "title": "Norway wins European approval for floating offshore wind grant",
-    "link": "https://www.windpowermonthly.com/article/1940919/norway-wins-european-approval-floating-offshore-wind-grant",
-    "date": "2025-11-25",
-    "summary": "",
-    "source": "Wind Power News & Analysis RSS Feed",
-    "image": null
-  },
-  {
-    "title": "Asbestos discovery prompts Australia-wide wind sector review",
-    "link": "https://www.windpowermonthly.com/article/1940918/asbestos-discovery-prompts-australia-wide-wind-sector-review",
-    "date": "2025-11-25",
-    "summary": "Asbestos has been found in lift brake pads used in wind turbine towers in Australia, prompting national warnings about the toxic material.…",
-    "source": "Wind Power News & Analysis RSS Feed",
     "image": null
   },
   {
