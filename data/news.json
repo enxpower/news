@@ -1,5 +1,13 @@
 [
   {
+    "title": "Germany Roundup: 500MW BESS and data centre transaction, seven-year toll and 370MW pipeline secured",
+    "link": "https://www.energy-storage.news/germany-roundup-500mw-bess-and-data-centre-transaction-seven-year-toll-and-370mw-pipeline-secured/",
+    "date": "2025-12-04",
+    "summary": "A trio of Germany grid-scale BESS news items, with Next Kraftwerke and ju:niz Energy agreeing a seven year toll, Alpiq announcing a 370MW pi…",
+    "source": "Energy-Storage.News",
+    "image": null
+  },
+  {
     "title": "Eight energy trends that will shape energy storage in 2026",
     "link": "https://www.energy-storage.news/eight-energy-trends-that-will-shape-energy-storage-in-2026/",
     "date": "2025-12-04",
@@ -13,6 +21,14 @@
     "date": "2025-12-04",
     "summary": "Zenith secures 25-year PPA with Northern Star for 532MW hybrid project featuring a 138MW/300MWh BESS at Kalgoorlie gold mine in Australia.…",
     "source": "Energy-Storage.News",
+    "image": null
+  },
+  {
+    "title": "Quality, traceability and AI: PV ModuleTech Europe’s key takeaways",
+    "link": "https://www.pv-tech.org/quality-traceability-and-ai-pv-moduletech-europes-key-takeaways/",
+    "date": "2025-12-04",
+    "summary": "Module quality issues such as glass breakage, UVID and delamination featured heavily in the discussions as PV ModuleTech Europe this week.…",
+    "source": "PV Tech",
     "image": null
   },
   {
@@ -32,11 +48,51 @@
     "image": null
   },
   {
+    "title": "Ørsted's 913MW offshore wind farm delivers first power",
+    "link": "https://www.windpowermonthly.com/article/1942045/orsteds-913mw-offshore-wind-farm-delivers-first-power",
+    "date": "2025-12-04",
+    "summary": "",
+    "source": "Wind Power News & Analysis RSS Feed",
+    "image": null
+  },
+  {
+    "title": "Wind technicians needed for O&M work to soar by 2030 – GWEC",
+    "link": "https://www.windpowermonthly.com/article/1942038/wind-technicians-needed-o-m-work-soar-2030-%E2%80%93-gwec",
+    "date": "2025-12-04",
+    "summary": "The number of wind technicians needed to maintain and operate the world’s rapidly expanding and ageing wind fleet will come close to matchin…",
+    "source": "Wind Power News & Analysis RSS Feed",
+    "image": null
+  },
+  {
+    "title": "Mainstream appoints second CEO in a year",
+    "link": "https://www.windpowermonthly.com/article/1942035/mainstream-appoints-second-ceo-year",
+    "date": "2025-12-04",
+    "summary": "Wind power developer Mainstream has announced that CEO Morten Henriksen will step down from his role at the end of 2025, with current COO Ju…",
+    "source": "Wind Power News & Analysis RSS Feed",
+    "image": null
+  },
+  {
     "title": "Italy awards 939MW in latest onshore wind auction",
     "link": "https://www.windpowermonthly.com/article/1942021/italy-awards-939mw-latest-onshore-wind-auction",
     "date": "2025-12-04",
     "summary": "Italian state energy management agency GSE has awarded 20-year contracts for difference (CfDs) to just 939MW of onshore wind capacity in its…",
     "source": "Wind Power News & Analysis RSS Feed",
+    "image": null
+  },
+  {
+    "title": "A Look Into the Industry’s First Commercially Available Multiport SST",
+    "link": "https://www.powerelectronicsnews.com/a-look-into-the-industrys-first-commercially-available-multiport-sst/",
+    "date": "2025-12-04",
+    "summary": "<img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"1711\" src=\"https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/…",
+    "source": "Power Electronics News",
+    "image": null
+  },
+  {
+    "title": "Briefs: Deals in Electronics, GaN, Batteries, and Nuclear",
+    "link": "https://eepower.com/news/briefs-deals-in-electronics-gan-batteries-and-nuclear/",
+    "date": "2025-12-04",
+    "summary": "ABB, Gamesa Electric, Onsemi, Innoscience, Desert Mountain Energy, and Antares Nuclear have been busy making deals and plans to strengthen t…",
+    "source": "EE Power",
     "image": null
   },
   {
@@ -888,14 +944,6 @@
     "image": null
   },
   {
-    "title": "Brookfield enters Thailand and the Philippines markets with Alba Renewables acquisition",
-    "link": "https://www.pv-tech.org/brookfield-enters-thailand-and-the-philippines-markets-with-alba-renewables-acquisition/",
-    "date": "2025-11-27",
-    "summary": "Global investment firm Brookfield Asset Management has acquired Singapore-headquartered independent power producer (IPP) Alba Renewables.…",
-    "source": "PV Tech",
-    "image": null
-  },
-  {
     "title": "Successful Irish auction shows there is 'life in European offshore wind' – Sydbank",
     "link": "https://www.windpowermonthly.com/article/1941255/successful-irish-auction-shows-life-european-offshore-wind-%E2%80%93-sydbank",
     "date": "2025-11-27",
@@ -920,14 +968,6 @@
     "image": null
   },
   {
-    "title": "Here’s a roundup of our 5 favorite articles in 2025",
-    "link": "https://www.powerelectronicsnews.com/heres-a-roundup-of-our-5-favorite-articles-in-2025/",
-    "date": "2025-11-27",
-    "summary": "<img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"953\" src=\"https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2…",
-    "source": "Power Electronics News",
-    "image": null
-  },
-  {
     "title": "Briefs: Strategic Moves in EVs, GaN, Solar, and Nuclear",
     "link": "https://eepower.com/news/briefs-strategic-moves-in-evs-gan-solar-and-nuclear/",
     "date": "2025-11-27",
@@ -941,38 +981,6 @@
     "date": "2025-11-26",
     "summary": "Energy-Storage.news Premium speaks with Michael Kirschner, Managing Director, US, for Habitat Energy, about optimising BESS projects in ERCO…",
     "source": "Energy-Storage.News",
-    "image": null
-  },
-  {
-    "title": "Liquid air energy storage startup Highview breaks ground at 300MWh UK project",
-    "link": "https://www.energy-storage.news/liquid-air-energy-storage-startup-highview-breaks-ground-at-300mwh-uk-project/",
-    "date": "2025-11-26",
-    "summary": "Mayor of Greater Manchester Andy Burnham marked the commencement of construction at Highview's 300MWh liquid air energy storage facility.…",
-    "source": "Energy-Storage.News",
-    "image": null
-  },
-  {
-    "title": "Ørsted and ESB win Irish offshore wind tender",
-    "link": "https://www.windpowermonthly.com/article/1941136/orsted-esb-win-irish-offshore-wind-tender",
-    "date": "2025-11-26",
-    "summary": "A joint venture of Ørsted and ESB has won Ireland’s second offshore wind auction, provisionally securing the rights to develop the 900MW Ton…",
-    "source": "Wind Power News & Analysis RSS Feed",
-    "image": null
-  },
-  {
-    "title": "Norwegian firm Vindr plans Latvia’s largest wind farm",
-    "link": "https://www.windpowermonthly.com/article/1941132/norwegian-firm-vindr-plans-latvias-largest-wind-farm",
-    "date": "2025-11-26",
-    "summary": "",
-    "source": "Wind Power News & Analysis RSS Feed",
-    "image": null
-  },
-  {
-    "title": "Trump allows Revolution Wind construction to continue",
-    "link": "https://www.windpowermonthly.com/article/1941109/trump-allows-revolution-wind-construction-continue",
-    "date": "2025-11-26",
-    "summary": "",
-    "source": "Wind Power News & Analysis RSS Feed",
     "image": null
   },
   {
@@ -1068,14 +1076,6 @@
     "link": "https://eepower.com/technical-articles/achieving-higher-inverter-efficiency-by-decoupling-switching-losses-and-switching-speeds/",
     "date": "2025-11-17",
     "summary": "Learn how researchers at FAU Erlangen-Nürnberg, in collaboration with Sanan Semiconductor, have developed a soft-switching inverter that ach…",
-    "source": "EE Power",
-    "image": null
-  },
-  {
-    "title": "Tech Giants Race To Grab Power for Data Centers",
-    "link": "https://eepower.com/news/tech-giants-race-to-grab-power-for-data-centers/",
-    "date": "2025-11-17",
-    "summary": "Meta, OpenAI, and Google are locking in power years before their AI data centers are scheduled to come online.…",
     "source": "EE Power",
     "image": null
   }
