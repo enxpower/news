@@ -1,5 +1,13 @@
 [
   {
+    "title": "PJM awards interconnection agreements to 23 BESS resources",
+    "link": "https://www.energy-storage.news/pjm-awards-interconnection-agreements-to-23-bess-resources/",
+    "date": "2025-12-04",
+    "summary": "PJM has awarded 23 battery energy storage system (BESS) resources, totalling 2.2GW, with interconnection agreements (IAs) in its first trans…",
+    "source": "Energy-Storage.News",
+    "image": null
+  },
+  {
     "title": "Germany Roundup: 500MW BESS and data centre transaction, seven-year toll and 370MW pipeline secured",
     "link": "https://www.energy-storage.news/germany-roundup-500mw-bess-and-data-centre-transaction-seven-year-toll-and-370mw-pipeline-secured/",
     "date": "2025-12-04",
@@ -21,6 +29,14 @@
     "date": "2025-12-04",
     "summary": "Zenith secures 25-year PPA with Northern Star for 532MW hybrid project featuring a 138MW/300MWh BESS at Kalgoorlie gold mine in Australia.…",
     "source": "Energy-Storage.News",
+    "image": null
+  },
+  {
+    "title": "LONGi enters energy storage market, redefining industry standards with “ultimate safety”",
+    "link": "https://www.pv-tech.org/longi-enters-energy-storage-market-redefining-industry-standards-with-ultimate-safety/",
+    "date": "2025-12-04",
+    "summary": "LONGi unveiled its energy storage strategy in London last week, officially announcing its entry into the storage sector with the launch of t…",
+    "source": "PV Tech",
     "image": null
   },
   {
@@ -77,6 +93,14 @@
     "date": "2025-12-04",
     "summary": "Italian state energy management agency GSE has awarded 20-year contracts for difference (CfDs) to just 939MW of onshore wind capacity in its…",
     "source": "Wind Power News & Analysis RSS Feed",
+    "image": null
+  },
+  {
+    "title": "Littelfuse Introduces High-Current X4-Class Power MOSFET",
+    "link": "https://www.powerelectronicsnews.com/littelfuse-introduces-high-current-x4-class-power-mosfet/",
+    "date": "2025-12-04",
+    "summary": "<img alt=\"Littelfuse Introduces High-Current X4-Class Power MOSFET.\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"471\" src=\"https://…",
+    "source": "Power Electronics News",
     "image": null
   },
   {
@@ -840,14 +864,6 @@
     "image": null
   },
   {
-    "title": "EU continues to secure its SiC supply to support local EV demand",
-    "link": "https://www.powerelectronicsnews.com/eu-continues-to-secure-its-sic-supply-to-support-local-ev-demand/",
-    "date": "2025-11-28",
-    "summary": "<img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"519\" src=\"https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2…",
-    "source": "Power Electronics News",
-    "image": null
-  },
-  {
     "title": "Nostromo’s thermal ESS participates in CAISO energy market",
     "link": "https://www.energy-storage.news/nostromos-thermal-ess-participates-in-caiso-energy-market/",
     "date": "2025-11-27",
@@ -936,14 +952,6 @@
     "image": null
   },
   {
-    "title": "CPUC urged to hold PG&E and SCE ‘to account’ for solar interconnection delays",
-    "link": "https://www.pv-tech.org/cpuc-urged-to-hold-pge-and-sce-to-account-for-solar-interconnection-delays/",
-    "date": "2025-11-27",
-    "summary": "A group of California legislators has called on the state Public Utilities Commission to hold two utilities accountable for delays in connec…",
-    "source": "PV Tech",
-    "image": null
-  },
-  {
     "title": "Successful Irish auction shows there is 'life in European offshore wind' – Sydbank",
     "link": "https://www.windpowermonthly.com/article/1941255/successful-irish-auction-shows-life-european-offshore-wind-%E2%80%93-sydbank",
     "date": "2025-11-27",
@@ -973,14 +981,6 @@
     "date": "2025-11-27",
     "summary": "Electreon, InductEV, Navitas Semiconductor, GlobalFoundries, STMicroelectronics, and X-energy are preparing for future energy needs.…",
     "source": "EE Power",
-    "image": null
-  },
-  {
-    "title": "‘It’s effectively a full reset of the system’: Habitat Energy on ERCOT’s RTC+B market changes",
-    "link": "https://www.energy-storage.news/its-effectively-a-full-reset-of-the-system-habitat-energy-on-ercots-rtcb-market-changes/",
-    "date": "2025-11-26",
-    "summary": "Energy-Storage.news Premium speaks with Michael Kirschner, Managing Director, US, for Habitat Energy, about optimising BESS projects in ERCO…",
-    "source": "Energy-Storage.News",
     "image": null
   },
   {
