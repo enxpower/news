@@ -1,5 +1,13 @@
 [
   {
+    "title": "BrightNight and Cordelio close on 800MWh Washington state BESS",
+    "link": "https://www.energy-storage.news/brightnight-and-cordelio-close-on-800mwh-washington-state-bess/",
+    "date": "2025-12-05",
+    "summary": "Developer BrightNight and independent power producer (IPP) Cordelio Power have announced financial close of the 200MW/800MWh Greenwater batt…",
+    "source": "Energy-Storage.News",
+    "image": null
+  },
+  {
     "title": "ADS-TEC battery-buffered EV fast chargers put into ancillary services market in Austria",
     "link": "https://www.energy-storage.news/ads-tec-battery-buffered-ev-fast-chargers-put-into-ancillary-services-market-in-austria/",
     "date": "2025-12-05",
@@ -13,6 +21,30 @@
     "date": "2025-12-05",
     "summary": "Battery energy storage systems (BESS) equipped with grid-forming inverters have emerged as essential components for maintaining system stabi…",
     "source": "Energy-Storage.News",
+    "image": null
+  },
+  {
+    "title": "US Solar industry demands end to DOI’s ‘unequal’ PV permitting",
+    "link": "https://www.pv-tech.org/us-solar-industry-demands-end-to-dois-unequal-pv-permitting/",
+    "date": "2025-12-05",
+    "summary": "Over 140 US solar companies have urged Congress to reconsider changes to permitting which they say have resulted in “a nearly complete morat…",
+    "source": "PV Tech",
+    "image": null
+  },
+  {
+    "title": "Overcoming Xcel Energy’s ‘hostile’ approach to renewable energy in Colorado",
+    "link": "https://www.pv-tech.org/overcoming-xcel-energys-hostile-approach-to-renewable-energy-in-colorado/",
+    "date": "2025-12-05",
+    "summary": "In November, the Colorado PUC ordered utility Xcel Energy to provide higher-quality information, and introduce flexible tariffs.…",
+    "source": "PV Tech",
+    "image": null
+  },
+  {
+    "title": "GB Energy unveils £15 billion plan to tackle UK's wind power shortfall",
+    "link": "https://www.windpowermonthly.com/article/1942176/gb-energy-unveils-15-billion-plan-tackle-uks-wind-power-shortfall",
+    "date": "2025-12-05",
+    "summary": "The UK’s state-owned energy company, GB Energy, announced plans to tackle a looming shortfall in the UK's wind power targets for 2035 as par…",
+    "source": "Wind Power News & Analysis RSS Feed",
     "image": null
   },
   {
@@ -936,14 +968,6 @@
     "image": null
   },
   {
-    "title": "Eos completes financing transactions totalling over US$1 billion, focuses on US manufacturing",
-    "link": "https://www.energy-storage.news/eos-completes-financing-transactions-totalling-over-us1-billion-focuses-on-us-manufacturing/",
-    "date": "2025-11-27",
-    "summary": "US zinc battery storage manufacturer Eos Energy Enterprises has completed two financing transactions totalling over US$1 billion to strength…",
-    "source": "Energy-Storage.News",
-    "image": null
-  },
-  {
     "title": "How to build a solar-plus-storage project on a US Superfund site",
     "link": "https://www.pv-tech.org/how-to-build-solar-plus-storage-project-us-superfund-site/",
     "date": "2025-11-27",
@@ -952,34 +976,10 @@
     "image": null
   },
   {
-    "title": "4GW/5.12GWh Malaysia solar-plus-storage hub receives World Bank funding",
-    "link": "https://www.pv-tech.org/4gw-5-12gwh-malaysia-solar-plus-storage-hub-receives-world-bank-funding/",
-    "date": "2025-11-27",
-    "summary": "The World Bank will invest in a huge 4GW, 5.12GWh solar-plus-storage complex in Malaysia, which will form part of a pan-Southeast Asian powe…",
-    "source": "PV Tech",
-    "image": null
-  },
-  {
-    "title": "Romanian TSO Transelectrica publishes new grid allocation rules for 2026",
-    "link": "https://www.pv-tech.org/romanian-tso-transelectrica-publishes-new-grid-allocation-rules-2026/",
-    "date": "2025-11-27",
-    "summary": "Transelectrica has published new rules for the Romanian grid, setting out time frames for auctions involving new energy generation projects.…",
-    "source": "PV Tech",
-    "image": null
-  },
-  {
     "title": "Successful Irish auction shows there is 'life in European offshore wind' – Sydbank",
     "link": "https://www.windpowermonthly.com/article/1941255/successful-irish-auction-shows-life-european-offshore-wind-%E2%80%93-sydbank",
     "date": "2025-11-27",
     "summary": "Ørsted’s recent auction victory in Ireland signals life in its long-term ambitions and “in the European offshore wind market” as a whole, ac…",
-    "source": "Wind Power News & Analysis RSS Feed",
-    "image": null
-  },
-  {
-    "title": "Wind farm developer faces fines over condor deaths",
-    "link": "https://www.windpowermonthly.com/article/1941252/wind-farm-developer-faces-fines-condor-deaths",
-    "date": "2025-11-27",
-    "summary": "Spanish firm OPDEnergy is facing fines of more than €4 million after its La Estrella wind farm in central Chile was linked to the death of f…",
     "source": "Wind Power News & Analysis RSS Feed",
     "image": null
   },
