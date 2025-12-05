@@ -24,7 +24,15 @@
     "image": null
   },
   {
-    "title": "US Solar industry demands end to DOI’s ‘unequal’ PV permitting",
+    "title": "WBS Power sells German solar-plus-storage project",
+    "link": "https://www.pv-tech.org/wbs-power-sells-german-solar-plus-project/",
+    "date": "2025-12-05",
+    "summary": "WBS Power has sold the 150MW solar, 500MW/2,000MWh BESS Project Jupiter in Brandenburg, Germany, to investor Prime Capital.…",
+    "source": "PV Tech",
+    "image": null
+  },
+  {
+    "title": "US Solar industry demands end to DOI’s ‘unequal’ PV permitting pause",
     "link": "https://www.pv-tech.org/us-solar-industry-demands-end-to-dois-unequal-pv-permitting/",
     "date": "2025-12-05",
     "summary": "Over 140 US solar companies have urged Congress to reconsider changes to permitting which they say have resulted in “a nearly complete morat…",
@@ -40,10 +48,26 @@
     "image": null
   },
   {
-    "title": "GB Energy unveils £15 billion plan to tackle UK's wind power shortfall",
-    "link": "https://www.windpowermonthly.com/article/1942176/gb-energy-unveils-15-billion-plan-tackle-uks-wind-power-shortfall",
+    "title": "Filling the gap: Why storage belongs in every community solar program",
+    "link": "https://www.solarpowerworldonline.com/2025/12/filling-the-gap-why-storage-belongs-in-every-community-solar-program/",
+    "date": "2025-12-05",
+    "summary": "In late October, the Illinois General Assembly passed the Clean and Reliable Grid Affordability Act (CRGA), a major landmark legislation tha…",
+    "source": "Solar Power World",
+    "image": null
+  },
+  {
+    "title": "GB Energy unveils £15 billion plan to help tackle UK's wind power shortfall",
+    "link": "https://www.windpowermonthly.com/article/1942176/gb-energy-unveils-15-billion-plan-help-tackle-uks-wind-power-shortfall",
     "date": "2025-12-05",
     "summary": "The UK’s state-owned energy company, GB Energy, announced plans to tackle a looming shortfall in the UK's wind power targets for 2035 as par…",
+    "source": "Wind Power News & Analysis RSS Feed",
+    "image": null
+  },
+  {
+    "title": "New podcast: Western OEMs | Attacks on Ukraine wind farms | Auction turbulence",
+    "link": "https://www.windpowermonthly.com/article/1942177/new-podcast-western-oems-attacks-ukraine-wind-farms-auction-turbulence",
+    "date": "2025-12-05",
+    "summary": "Welcome to the Wind Power News Review – hosted by Windpower Monthly’s editor, Ian Griggs, and senior reporter Robyn White, with regular pane…",
     "source": "Wind Power News & Analysis RSS Feed",
     "image": null
   },
@@ -53,6 +77,70 @@
     "date": "2025-12-05",
     "summary": "Windpower Monthly rounds up the latest wind power technology patents filed and published in the past week.…",
     "source": "Wind Power News & Analysis RSS Feed",
+    "image": null
+  },
+  {
+    "title": "Identifying Specific Defects Limiting SHJ Solar Cell Efficiency",
+    "link": "https://eepower.com/market-insights/identifying-specific-defects-limiting-shj-solar-cell-efficiency/",
+    "date": "2025-12-05",
+    "summary": "Scientists have refined an analysis method to isolate previously unresolved defect types in silicon heterojunction solar cells that provides…",
+    "source": "EE Power",
+    "image": null
+  },
+  {
+    "title": "OBG CEO Umar Bin Farooq on the truth behind Dubai’s property boom",
+    "link": "https://www.constructionweekonline.com/multimedia/obg-ceo-umar-bin-farooq-on-the-truth-behind-dubais-property-boom",
+    "date": "2025-12-05",
+    "summary": "<figure><img alt=\"OBG CEO Umar Bin Farooq on the truth behind Dubai’s property boom\" class=\"attachment-medium size-medium wp-post-image\" hei…",
+    "source": "Construction Week Online",
+    "image": null
+  },
+  {
+    "title": "LEOS redefines market momentum in 2025 with mega launches and wellness-led living",
+    "link": "https://www.constructionweekonline.com/features/leos-in-2025-launches-wellness",
+    "date": "2025-12-05",
+    "summary": "<figure><img alt=\"leos\" class=\"attachment-medium size-medium wp-post-image\" height=\"750\" src=\"https://www.constructionweekonline.com/cloud/2…",
+    "source": "Construction Week Online",
+    "image": null
+  },
+  {
+    "title": "Top 25 project launches in November 2025: Wynn, Meraas, DAMAC, Aldar and more",
+    "link": "https://www.constructionweekonline.com/power-lists/project-launches-2025",
+    "date": "2025-12-05",
+    "summary": "<figure><img alt=\"project\" class=\"attachment-medium size-medium wp-post-image\" height=\"750\" src=\"https://www.constructionweekonline.com/clou…",
+    "source": "Construction Week Online",
+    "image": null
+  },
+  {
+    "title": "Dubai property market insight and predictions",
+    "link": "https://www.constructionweekonline.com/business/insights/dubai-property-market",
+    "date": "2025-12-05",
+    "summary": "<figure><img alt=\"property\" class=\"attachment-medium size-medium wp-post-image\" height=\"750\" src=\"https://www.constructionweekonline.com/clo…",
+    "source": "Construction Week Online",
+    "image": null
+  },
+  {
+    "title": "Waterfront properties outperform market in Abu Dhabi with 69% price surge",
+    "link": "https://www.constructionweekonline.com/business/insights/waterfront-properties-abu-dhabi",
+    "date": "2025-12-05",
+    "summary": "<figure><img alt=\"Abu Dhabi\" class=\"attachment-medium size-medium wp-post-image\" height=\"600\" src=\"https://www.constructionweekonline.com/cl…",
+    "source": "Construction Week Online",
+    "image": null
+  },
+  {
+    "title": "Soudah Development, National Grid sign agreement to power Soudah Peaks",
+    "link": "https://www.constructionweekonline.com/people/appointments/soudah-peaks-agreement",
+    "date": "2025-12-05",
+    "summary": "<figure><img alt=\"Soudah\" class=\"attachment-medium size-medium wp-post-image\" height=\"666\" src=\"https://www.constructionweekonline.com/cloud…",
+    "source": "Construction Week Online",
+    "image": null
+  },
+  {
+    "title": "Sharjah: Arada awards contracts worth $735 mn to build Masaar 2",
+    "link": "https://www.constructionweekonline.com/news/sharjah-arada-masaar-2",
+    "date": "2025-12-05",
+    "summary": "<figure><img alt=\"Arada\" class=\"attachment-medium size-medium wp-post-image\" height=\"559\" src=\"https://www.constructionweekonline.com/cloud/…",
+    "source": "Construction Week Online",
     "image": null
   },
   {
@@ -235,7 +323,7 @@
     "title": "Multilevel Topology for AI System Efficiency: Foundations for the Future",
     "link": "https://eepower.com/technical-articles/multilevel-topology-for-ai-system-efficiency-foundations-for-the-future/",
     "date": "2025-12-04",
-    "summary": "ICERGi’s Patented Multilevel Topology, Digital Control and Gate Drive Solutions for Powering AI, Industrial, and EV Charging Applications…",
+    "summary": "Learn about ICERGi’s patented multilevel topology, digital control and gate drive solutions for powering AI, industrial, and EV charging app…",
     "source": "EE Power",
     "image": null
   },
@@ -245,6 +333,110 @@
     "date": "2025-12-04",
     "summary": "ABB, Gamesa Electric, Onsemi, Innoscience, Desert Mountain Energy, and Antares Nuclear have been busy making deals and plans to strengthen t…",
     "source": "EE Power",
+    "image": null
+  },
+  {
+    "title": "The AI paradox in construction: Why the Middle East must get the basics right before embracing innovation",
+    "link": "https://www.constructionweekonline.com/business/insights/ai-paradox-construction-op-ed",
+    "date": "2025-12-04",
+    "summary": "<figure><img alt=\"ai\" class=\"attachment-medium size-medium wp-post-image\" height=\"667\" src=\"https://www.constructionweekonline.com/cloud/202…",
+    "source": "Construction Week Online",
+    "image": null
+  },
+  {
+    "title": "Meraas unveils new chapter of Nad Al Sheba Gardens",
+    "link": "https://www.constructionweekonline.com/projects-tenders/meraas-nad-al-sheba-gardens-2",
+    "date": "2025-12-04",
+    "summary": "<figure><img alt=\"Nad Al Sheba\" class=\"attachment-medium size-medium wp-post-image\" height=\"563\" src=\"https://www.constructionweekonline.com…",
+    "source": "Construction Week Online",
+    "image": null
+  },
+  {
+    "title": "Alpin Limited expands Saudi presence with new sustainable headquarters",
+    "link": "https://www.constructionweekonline.com/news/alpin-limited-saudi-hq",
+    "date": "2025-12-04",
+    "summary": "<figure><img alt=\"Saudi\" class=\"attachment-medium size-medium wp-post-image\" height=\"667\" src=\"https://www.constructionweekonline.com/cloud/…",
+    "source": "Construction Week Online",
+    "image": null
+  },
+  {
+    "title": "Easa Saleh Al Gurg Group acquires BRC Arabia from The Kanoo Group",
+    "link": "https://www.constructionweekonline.com/news/easa-saleh-al-gurg-brc-arabia",
+    "date": "2025-12-04",
+    "summary": "<figure><img alt=\"BRC Arabia\" class=\"attachment-medium size-medium wp-post-image\" height=\"712\" src=\"https://www.constructionweekonline.com/c…",
+    "source": "Construction Week Online",
+    "image": null
+  },
+  {
+    "title": "Saudi Arabia invites bids for King Salman Stadium project",
+    "link": "https://www.constructionweekonline.com/news/king-salman-stadium-project",
+    "date": "2025-12-04",
+    "summary": "<figure><img alt=\"King Salman Stadium\" class=\"attachment-medium size-medium wp-post-image\" height=\"566\" src=\"https://www.constructionweekonl…",
+    "source": "Construction Week Online",
+    "image": null
+  },
+  {
+    "title": "Dubai: RTA announces new integrated project for Al Wasl Road development",
+    "link": "https://www.constructionweekonline.com/news/dubai-rta-al-wasl-road",
+    "date": "2025-12-04",
+    "summary": "<figure><img alt=\"rta\" class=\"attachment-medium size-medium wp-post-image\" height=\"661\" src=\"https://www.constructionweekonline.com/cloud/20…",
+    "source": "Construction Week Online",
+    "image": null
+  },
+  {
+    "title": "BEYOND Developments unveils 31 Above, a new era of commercial architecture",
+    "link": "https://www.constructionweekonline.com/features/beyond-31-above-commercial",
+    "date": "2025-12-04",
+    "summary": "<figure><img alt=\"beyond\" class=\"attachment-medium size-medium wp-post-image\" height=\"565\" src=\"https://www.constructionweekonline.com/cloud…",
+    "source": "Construction Week Online",
+    "image": null
+  },
+  {
+    "title": "Construction Week Middle East x Accuracy Roundtable Discussion 2025",
+    "link": "https://www.constructionweekonline.com/business/insights/construction-week-accuracy",
+    "date": "2025-12-04",
+    "summary": "<figure><img alt=\"Construction\" class=\"attachment-medium size-medium wp-post-image\" height=\"563\" src=\"https://www.constructionweekonline.com…",
+    "source": "Construction Week Online",
+    "image": null
+  },
+  {
+    "title": "Riyadh to introduce a new metro track in 2026?",
+    "link": "https://www.constructionweekonline.com/news/riyadh-metro-track-2026",
+    "date": "2025-12-04",
+    "summary": "<figure><img alt=\"riyadh metro\" class=\"attachment-medium size-medium wp-post-image\" height=\"563\" src=\"https://www.constructionweekonline.com…",
+    "source": "Construction Week Online",
+    "image": null
+  },
+  {
+    "title": "Symbolic Developments talks design, legacy and innovation",
+    "link": "https://www.constructionweekonline.com/business/insights/symbolic-developments-talks-design-legacy-and-innovation",
+    "date": "2025-12-04",
+    "summary": "<figure><img alt=\"Symbolic Developments talks design, legacy and innovation\" class=\"attachment-medium size-medium wp-post-image\" height=\"750…",
+    "source": "Construction Week Online",
+    "image": null
+  },
+  {
+    "title": "Expo 2030 Riyadh appoints Buro Happold as lead design consultant",
+    "link": "https://www.constructionweekonline.com/people/appointments/expo-2030-riyadh-buro-happold",
+    "date": "2025-12-04",
+    "summary": "<figure><img alt=\"expo riyadh\" class=\"attachment-medium size-medium wp-post-image\" height=\"563\" src=\"https://www.constructionweekonline.com/…",
+    "source": "Construction Week Online",
+    "image": null
+  },
+  {
+    "title": "Saudi Arabia: Retal signs $1.4 bn deal to build 5,000+ housing units in Riyadh",
+    "link": "https://www.constructionweekonline.com/news/saudi-arabia-retal-housing-units",
+    "date": "2025-12-04",
+    "summary": "<figure><img alt=\"saudi\" class=\"attachment-medium size-medium wp-post-image\" height=\"667\" src=\"https://www.constructionweekonline.com/cloud/…",
+    "source": "Construction Week Online",
+    "image": null
+  },
+  {
+    "title": "Muriya Tourism appoints Eng. Ashraf Nessim as new CEO, succeeding Eng. Wael Al Lawati",
+    "link": "https://www.constructionweekonline.com/people/appointments/muriya-tourism-new-ceo",
+    "date": "2025-12-04",
+    "summary": "<figure><img alt=\"muriya\" class=\"attachment-medium size-medium wp-post-image\" height=\"709\" src=\"https://www.constructionweekonline.com/cloud…",
+    "source": "Construction Week Online",
     "image": null
   },
   {
@@ -461,6 +653,86 @@
     "date": "2025-12-03",
     "summary": "This article investigates the optimization of DC-DC converter stability through AC analysis in the frequency-domain and transient analysis i…",
     "source": "EE Power",
+    "image": null
+  },
+  {
+    "title": "Abu Dhabi: Trojan Construction welcomes the world to Zayed National Museum",
+    "link": "https://www.constructionweekonline.com/features/trojan-zayed-national-museum",
+    "date": "2025-12-03",
+    "summary": "<figure><img alt=\"Zayed National Museum\" class=\"attachment-medium size-medium wp-post-image\" height=\"682\" src=\"https://www.constructionweeko…",
+    "source": "Construction Week Online",
+    "image": null
+  },
+  {
+    "title": "Tamear wins $90 mn contract for Riyadh business park project",
+    "link": "https://www.constructionweekonline.com/people/appointments/riyadh-business-park-project",
+    "date": "2025-12-03",
+    "summary": "<figure><img alt=\"riyadh\" class=\"attachment-medium size-medium wp-post-image\" height=\"563\" src=\"https://www.constructionweekonline.com/cloud…",
+    "source": "Construction Week Online",
+    "image": null
+  },
+  {
+    "title": "AVENEW Development to bring St. Regis residences to Dubai Islands",
+    "link": "https://www.constructionweekonline.com/projects-tenders/avenew-development-dubai-islands",
+    "date": "2025-12-03",
+    "summary": "<figure><img alt=\"Dubai Islands\" class=\"attachment-medium size-medium wp-post-image\" height=\"643\" src=\"https://www.constructionweekonline.co…",
+    "source": "Construction Week Online",
+    "image": null
+  },
+  {
+    "title": "Ellington Properties announces Eltiera Views in Jumeirah Islands",
+    "link": "https://www.constructionweekonline.com/projects-tenders/ellington-properties",
+    "date": "2025-12-03",
+    "summary": "<figure><img alt=\"Elllington\" class=\"attachment-medium size-medium wp-post-image\" height=\"750\" src=\"https://www.constructionweekonline.com/c…",
+    "source": "Construction Week Online",
+    "image": null
+  },
+  {
+    "title": "Mirage named project management consultant for RAK mixed-use project",
+    "link": "https://www.constructionweekonline.com/people/appointments/mirage-rak-janu",
+    "date": "2025-12-03",
+    "summary": "<figure><img alt=\"RAK\" class=\"attachment-medium size-medium wp-post-image\" height=\"563\" src=\"https://www.constructionweekonline.com/cloud/20…",
+    "source": "Construction Week Online",
+    "image": null
+  },
+  {
+    "title": "Nesma signs $40m deal for transmission lines with SEC",
+    "link": "https://www.constructionweekonline.com/people/appointments/nesma-sec",
+    "date": "2025-12-03",
+    "summary": "<figure><img alt=\"Nesma\" class=\"attachment-medium size-medium wp-post-image\" height=\"663\" src=\"https://www.constructionweekonline.com/cloud/…",
+    "source": "Construction Week Online",
+    "image": null
+  },
+  {
+    "title": "Mini Engineering Day 2025, Jeddah: Advancing the flow of water",
+    "link": "https://www.constructionweekonline.com/events/mini-engineering-day-jeddah",
+    "date": "2025-12-03",
+    "summary": "<figure><img alt=\"Jeddah\" class=\"attachment-medium size-medium wp-post-image\" height=\"748\" src=\"https://www.constructionweekonline.com/cloud…",
+    "source": "Construction Week Online",
+    "image": null
+  },
+  {
+    "title": "GCC office rents hit record highs as demand for prime, ESG-ready space surges",
+    "link": "https://www.constructionweekonline.com/news/knight-frank-mena-gcc-offices",
+    "date": "2025-12-03",
+    "summary": "<figure><img alt=\"Top insights from Knight Frank MENA&#039;s 2025 GCC office market review\" class=\"attachment-medium size-medium wp-post-ima…",
+    "source": "Construction Week Online",
+    "image": null
+  },
+  {
+    "title": "London Gate and Franck Muller celebrate Yachting sell-out",
+    "link": "https://www.constructionweekonline.com/news/london-gate-franck-muller-2",
+    "date": "2025-12-03",
+    "summary": "<figure><img alt=\"Franck Muller\" class=\"attachment-medium size-medium wp-post-image\" height=\"563\" src=\"https://www.constructionweekonline.co…",
+    "source": "Construction Week Online",
+    "image": null
+  },
+  {
+    "title": "Dubai Peninsula: A new ultra-luxury destination in Jumeirah",
+    "link": "https://www.constructionweekonline.com/projects-tenders/dubai-peninsula-jumeirah",
+    "date": "2025-12-03",
+    "summary": "<figure><img alt=\"Jumeirah\" class=\"attachment-medium size-medium wp-post-image\" height=\"459\" src=\"https://www.constructionweekonline.com/clo…",
+    "source": "Construction Week Online",
     "image": null
   },
   {
@@ -784,14 +1056,6 @@
     "image": null
   },
   {
-    "title": "Canadian Solar moves American panel, energy storage operations under new U.S. joint venture",
-    "link": "https://www.solarpowerworldonline.com/2025/12/canadian-solar-moves-american-panel-energy-storage-operations-under-new-u-s-joint-venture/",
-    "date": "2025-12-01",
-    "summary": "Canadian Solar is forming a new joint venture with American shareholders for its U.S.-based solar panel and energy storage manufacturing and…",
-    "source": "Solar Power World",
-    "image": null
-  },
-  {
     "title": "Seatrium files arbitration over cancelled Empire Wind 1 vessel",
     "link": "https://www.windpowermonthly.com/article/1941564/seatrium-files-arbitration-cancelled-empire-wind-1-vessel",
     "date": "2025-12-01",
@@ -968,22 +1232,6 @@
     "image": null
   },
   {
-    "title": "How to build a solar-plus-storage project on a US Superfund site",
-    "link": "https://www.pv-tech.org/how-to-build-solar-plus-storage-project-us-superfund-site/",
-    "date": "2025-11-27",
-    "summary": "Prateek Tare tells PV Tech Premium how Distributed Energy Infrastructure transformed a Superfund site into the Acton PV-plus-storage project…",
-    "source": "PV Tech",
-    "image": null
-  },
-  {
-    "title": "Successful Irish auction shows there is 'life in European offshore wind' – Sydbank",
-    "link": "https://www.windpowermonthly.com/article/1941255/successful-irish-auction-shows-life-european-offshore-wind-%E2%80%93-sydbank",
-    "date": "2025-11-27",
-    "summary": "Ørsted’s recent auction victory in Ireland signals life in its long-term ambitions and “in the European offshore wind market” as a whole, ac…",
-    "source": "Wind Power News & Analysis RSS Feed",
-    "image": null
-  },
-  {
     "title": "Briefs: Strategic Moves in EVs, GaN, Solar, and Nuclear",
     "link": "https://eepower.com/news/briefs-strategic-moves-in-evs-gan-solar-and-nuclear/",
     "date": "2025-11-27",
@@ -1068,14 +1316,6 @@
     "link": "https://eepower.com/market-insights/low-waste-battery-recycling-method-yields-99-pure-metals/",
     "date": "2025-11-19",
     "summary": "Researchers have developed an electrochemical method to recover over 95% of nickel and cobalt from used lithium-ion batteries with over 99% …",
-    "source": "EE Power",
-    "image": null
-  },
-  {
-    "title": "Machine Learning Delivers Faster, More Reliable Power Flow",
-    "link": "https://eepower.com/market-insights/machine-learning-delivers-faster-more-reliable-power-flow/",
-    "date": "2025-11-18",
-    "summary": "MIT researchers created a problem-solving framework that outperforms other methods in identifying grid constraints.…",
     "source": "EE Power",
     "image": null
   }
