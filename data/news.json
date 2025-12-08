@@ -160,6 +160,14 @@
     "image": null
   },
   {
+    "title": "Solving Military-Avionics DC-DC Power Challenges with Modularity—Part 1",
+    "link": "https://eepower.com/technical-articles/solving-military-avionics-dc-dc-power-challenges-with-modularity-part-1/",
+    "date": "2025-12-08",
+    "summary": "We begin this article series on understanding standard parameters and best practices for the effective design of aerospace and military-grad…",
+    "source": "EE Power",
+    "image": null
+  },
+  {
     "title": "Substation Components—Part 8: Grounding/Earthing Systems",
     "link": "https://eepower.com/technical-articles/substation-componentspart-8-grounding-earthing-systems/",
     "date": "2025-12-07",
@@ -1068,14 +1076,6 @@
     "link": "https://eepower.com/technical-articles/thermal-co-design-cooling-architecture-optimization-and-reliability-validation/",
     "date": "2025-11-20",
     "summary": "Explore electro-thermal cooling design and reliability validation for high-voltage SiC and IGBT power modules.…",
-    "source": "EE Power",
-    "image": null
-  },
-  {
-    "title": "Briefs: Achievements in Motors, Fusion, GaN Switches, and V2X",
-    "link": "https://eepower.com/news/briefs-achievements-in-motors-fusion-gan-switches-and-v2x/",
-    "date": "2025-11-20",
-    "summary": "Ebara, Mitsubishi Electric, Zap Energy, Nuclear, Infineon, Nissan, Fermata Energy, and other companies reached notable goals this week.…",
     "source": "EE Power",
     "image": null
   }
