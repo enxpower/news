@@ -40,6 +40,30 @@
     "image": null
   },
   {
+    "title": "Waaree inks 288MW US supply deal for ‘high resilience’ bifacial modules",
+    "link": "https://www.pv-tech.org/waaree-inks-288mw-us-supply-deal-for-high-resilience-bifacial-modules/",
+    "date": "2025-12-09",
+    "summary": "Indian solar PV manufacturer Waaree Energies has signed a 288MWp solar module supply deal with US project developer Sabanci Renewables.…",
+    "source": "PV Tech",
+    "image": null
+  },
+  {
+    "title": "Equinor starts operations at its first hybrid solar-plus-wind project",
+    "link": "https://www.pv-tech.org/equinor-starts-operations-first-hybrid-solar-plus-wind-project/",
+    "date": "2025-12-09",
+    "summary": "Equinor has started commercial operations at its first hybrid solar-plus-wind project in the Brazilian state of Bahia.…",
+    "source": "PV Tech",
+    "image": null
+  },
+  {
+    "title": "Tongwei Global Partner Summit 2025: Arctic protection, digital manufacturing and TNC 3.0 Modules",
+    "link": "https://www.pv-tech.org/tongwei-global-partner-summit-2025-arctic-protection-digital-manfuacturing-tnc-30-modules/",
+    "date": "2025-12-09",
+    "summary": "Tongwei used its Global Partner Summit to show how high-efficiency PV, digital manufacturing and biodiversity protection must advance togeth…",
+    "source": "PV Tech",
+    "image": null
+  },
+  {
     "title": "ACWA Power, Bapco Energies to build 2.8GW solar-plus-storage project in Saudi Arabia",
     "link": "https://www.pv-tech.org/acwa-power-bapco-energies-build-2-8gw-solar-plus-storage-project-saudi-arabia/",
     "date": "2025-12-09",
@@ -56,11 +80,27 @@
     "image": null
   },
   {
+    "title": "Meter collars cut costs and simplify logistics on home solar + storage installations",
+    "link": "https://www.solarpowerworldonline.com/2025/12/meter-collars-cut-costs-and-simplify-logistics-on-home-solar-storage-installations/",
+    "date": "2025-12-09",
+    "summary": "Reducing the stubborn soft costs of solar + storage is a much-discussed topic that will only become more important as the residential tax cr…",
+    "source": "Solar Power World",
+    "image": null
+  },
+  {
     "title": "The US installed 11.7 GW of solar in Q3 alone",
     "link": "https://www.solarpowerworldonline.com/2025/12/the-us-installed-11-7-gw-of-solar-in-q3-alone/",
     "date": "2025-12-09",
     "summary": "The U.S. solar industry installed 11.7 GW of new capacity in Q3 2025, marking the industry’s third-largest quarter on record and pushing tot…",
     "source": "Solar Power World",
+    "image": null
+  },
+  {
+    "title": "RWE appoints hydrogen chief to top onshore wind and solar role",
+    "link": "https://www.windpowermonthly.com/article/1942527/rwe-appoints-hydrogen-chief-top-onshore-wind-solar-role",
+    "date": "2025-12-09",
+    "summary": "German renewables giant RWE will have a new CEO of its onshore wind and solar business in Europe and Australia from April 2026, with the fir…",
+    "source": "Wind Power News & Analysis RSS Feed",
     "image": null
   },
   {
@@ -85,6 +125,14 @@
     "date": "2025-12-09",
     "summary": "Utilities that provide natural gas to customers are investing in smart technologies to modernize their infrastructure. These measures are le…",
     "source": "POWER Magazine",
+    "image": null
+  },
+  {
+    "title": "3D Power-Free Device Heats and Cools Buildings With Sunlight",
+    "link": "https://eepower.com/market-insights/3d-power-free-device-heats-and-cools-buildings-with-sunlight/",
+    "date": "2025-12-09",
+    "summary": "Researchers have developed a passive device modeled after traditional Asian architecture that regulates building temperatures using a shape-…",
+    "source": "EE Power",
     "image": null
   },
   {
@@ -896,30 +944,6 @@
     "image": null
   },
   {
-    "title": "AEMO charts Australia’s rooftop solar boom to 42.5GW by 2036",
-    "link": "https://www.pv-tech.org/aemo-charts-australias-rooftop-solar-boom-to-42-5gw-by-2036/",
-    "date": "2025-12-02",
-    "summary": "Australia's NEM faces a fundamental transformation as solar PV generation and BESS drive the transition to a low-emissions energy system.…",
-    "source": "PV Tech",
-    "image": null
-  },
-  {
-    "title": "Voltage Energy on the implementation of virtual reality and the advantages of aluminum in the EBOS field",
-    "link": "https://www.pv-tech.org/voltage-energy-on-the-implementation-of-virtual-reality-and-the-advantages-of-aluminum-in-the-ebos-field/",
-    "date": "2025-12-02",
-    "summary": "PV Tech sat down with Voltage Energy’s CEO, Li Wang, and discussed the advantages of aluminium and the use of virtual reality in the eBOS fi…",
-    "source": "PV Tech",
-    "image": null
-  },
-  {
-    "title": "Endurans Solar releases American-made transparent backsheet for bifacial modules",
-    "link": "https://www.solarpowerworldonline.com/2025/12/endurans-solar-releases-american-made-transparent-backsheet-for-bifacial-modules/",
-    "date": "2025-12-02",
-    "summary": "U.S.-based solar panel backsheet manufacturer Endurans Solar has attained the IEC 62788-2-1:2023 certification for its new D15T transparent …",
-    "source": "Solar Power World",
-    "image": null
-  },
-  {
     "title": "CIP offshore wind project green-lit by UK energy secretary",
     "link": "https://www.windpowermonthly.com/article/1941738/cip-offshore-wind-project-green-lit-uk-energy-secretary",
     "date": "2025-12-02",
@@ -973,22 +997,6 @@
     "date": "2025-12-02",
     "summary": "AI data centers are on track to increase carbon emissions as much as 20%. A Cornell University report proposes ways to slow the trend.…",
     "source": "EE Power",
-    "image": null
-  },
-  {
-    "title": "Australia: 212,000 PV modules installed at 119MW state-owned solar-plus-storage site",
-    "link": "https://www.pv-tech.org/australia-212000-pv-modules-installed-at-119mw-state-owned-solar-plus-storage-site/",
-    "date": "2025-12-01",
-    "summary": "Victoria's first state-owned solar-plus-storage project has reached a major construction milestone, with the installation of all 212,296 PV …",
-    "source": "PV Tech",
-    "image": null
-  },
-  {
-    "title": "Seatrium files arbitration over cancelled Empire Wind 1 vessel",
-    "link": "https://www.windpowermonthly.com/article/1941564/seatrium-files-arbitration-cancelled-empire-wind-1-vessel",
-    "date": "2025-12-01",
-    "summary": "The company building a wind turbine installation vessel (WTIV) designated for the Empire Wind 1 offshore wind farm in the US has filed arbit…",
-    "source": "Wind Power News & Analysis RSS Feed",
     "image": null
   },
   {
@@ -1068,14 +1076,6 @@
     "link": "https://eepower.com/market-insights/simulations-find-the-best-electrolytes-for-sodium-ion-batteries/",
     "date": "2025-11-21",
     "summary": "Researchers used a simulation to map out the liquid electrolytes that could create safer, better-performing sodium-ion batteries.…",
-    "source": "EE Power",
-    "image": null
-  },
-  {
-    "title": "Thermal Co-Design, Cooling Architecture Optimization, and Reliability Validation",
-    "link": "https://eepower.com/technical-articles/thermal-co-design-cooling-architecture-optimization-and-reliability-validation/",
-    "date": "2025-11-20",
-    "summary": "Explore electro-thermal cooling design and reliability validation for high-voltage SiC and IGBT power modules.…",
     "source": "EE Power",
     "image": null
   }
