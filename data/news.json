@@ -168,6 +168,14 @@
     "image": null
   },
   {
+    "title": "BayWa r.e. Moving Forward With California Solar-Plus-Storage Project",
+    "link": "https://www.powermag.com/baywa-r-e-moving-forward-with-california-solar-plus-storage-project/",
+    "date": "2025-12-10",
+    "summary": "Renewable energy company BayWa r.e. said it has closed financing for a solar-plus-storage installation in San Diego County, California. The …",
+    "source": "POWER Magazine",
+    "image": null
+  },
+  {
     "title": "SemiQ Expands 1200 V QSiC Gen3 Portfolio",
     "link": "https://www.powerelectronicsnews.com/semiq-expands-1200-v-qsic-gen3-portfolio/",
     "date": "2025-12-10",
@@ -189,6 +197,14 @@
     "date": "2025-12-10",
     "summary": "<img alt=\"e-peas Introduces the new AEM15820 Energy Harvesting PMIC.\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"1890\" src=\"https:…",
     "source": "Power Electronics News",
+    "image": null
+  },
+  {
+    "title": "TL431: The Precision Shunt Regulator That Quietly Took Over Power Supplies",
+    "link": "https://eepower.com/market-insights/tl431-the-precision-shunt-regulator-that-quietly-took-over-power-supplies/",
+    "date": "2025-12-10",
+    "summary": "A bandgap reference, an error amplifier, and an output transistor in one three-pin device. It's still a staple after nearly five decades.…",
+    "source": "EE Power",
     "image": null
   },
   {
@@ -952,14 +968,6 @@
     "image": null
   },
   {
-    "title": "SmartestEnergy US Partners with GridBeyond to Optimize Three Energy Storage Resources in ERCOT Totalling 29.7 MW",
-    "link": "https://www.powermag.com/smartestenergy-us-partners-with-gridbeyond-to-optimize-three-energy-storage-resources-in-ercot-totalling-29-7-mw/",
-    "date": "2025-12-03",
-    "summary": "SmartestEnergy US, part of a global energy company helping businesses navigate the energy transition, has selected GridBeyond, a global smar…",
-    "source": "POWER Magazine",
-    "image": null
-  },
-  {
     "title": "Shell’s Liquid EV Cooling Could Cut Charging Times to 10 Minutes",
     "link": "https://eepower.com/news/shells-liquid-ev-cooling-could-cut-charging-times-to-10-minutes/",
     "date": "2025-12-03",
@@ -1068,14 +1076,6 @@
     "link": "https://eepower.com/technical-articles/substation-componentspart-7-scada-and-protection-integration/",
     "date": "2025-11-23",
     "summary": "Learn how modern substation integration merges protection and SCADA over digital networks and requires security and human-centered HMIs for …",
-    "source": "EE Power",
-    "image": null
-  },
-  {
-    "title": "Is Spice Modeling Easier the Second Time Around?",
-    "link": "https://eepower.com/technical-articles/is-spice-modeling-easier-the-second-time-around/",
-    "date": "2025-11-21",
-    "summary": "After copying the required curve data into the Model Generator, click “Done” and it performs the calculations and produces a finished QSPICE…",
     "source": "EE Power",
     "image": null
   }
