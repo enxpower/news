@@ -1,5 +1,13 @@
 [
   {
+    "title": "NextEra signs 2.5GW of renewable energy agreements with Meta for projects across US",
+    "link": "https://www.energy-storage.news/nextera-signs-2-5gw-of-renewable-energy-agreements-with-meta-for-projects-across-us/",
+    "date": "2025-12-10",
+    "summary": "NextEra Energy Resources and Meta have signed 11 power purchase agreements and two energy storage agreements totalling 2.5GW.…",
+    "source": "Energy-Storage.News",
+    "image": null
+  },
+  {
     "title": "Clearway negotiates 560MWh tolling agreements with California IOU SDG&E, sells BESS to yieldco",
     "link": "https://www.energy-storage.news/clearway-negotiates-560mwh-tolling-agreements-with-california-iou-sdge-sells-bess-to-yieldco/",
     "date": "2025-12-10",
@@ -40,6 +48,22 @@
     "image": null
   },
   {
+    "title": "World hits ‘heroic achievement’ of 1TW of operating utility-scale solar capacity",
+    "link": "https://www.pv-tech.org/world-hits-heroic-achievement-1tw-operating-utility-scale-solar-capacity/",
+    "date": "2025-12-10",
+    "summary": "The global utility-scale solar PV sector has exceeded the threshold of 1TW of operating capacity, according to Wiki-Solar.…",
+    "source": "PV Tech",
+    "image": null
+  },
+  {
+    "title": "Plenitude begins operations at 150MW solar PV plant in Spain",
+    "link": "https://www.pv-tech.org/plenitude-begins-operations-at-150mw-solar-pv-plant-in-spain/",
+    "date": "2025-12-10",
+    "summary": "Plentiude, the renewable energy development arm of Italian oil and gas major Eni, has started operations at a 150MW solar PV plant in Spain.…",
+    "source": "PV Tech",
+    "image": null
+  },
+  {
     "title": "US adds 11.7GW solar PV in Q3 despite permitting and political roadblocks persisting",
     "link": "https://www.pv-tech.org/us-adds-11-7gw-solar-pv-in-q3-despite-permitting-and-political-roadblocks-persisting/",
     "date": "2025-12-10",
@@ -56,11 +80,43 @@
     "image": null
   },
   {
-    "title": "GE Vernova sees wind losses continuing into 2026",
-    "link": "https://www.windpowermonthly.com/article/1942639/ge-vernova-sees-wind-losses-continuing-2026",
+    "title": "Greenskies wraps up 3.13-MW community solar project in Connecticut",
+    "link": "https://www.solarpowerworldonline.com/2025/12/greenskies-wraps-up-3-13-mw-community-solar-project-in-connecticut/",
+    "date": "2025-12-10",
+    "summary": "Greenskies Clean Focus announced it has completed a 3.13-MWDC solar project in Durham, Connecticut. Spanning 10 acres and featuring more tha…",
+    "source": "Solar Power World",
+    "image": null
+  },
+  {
+    "title": "Nordex in line for 1GW US wind turbine order",
+    "link": "https://www.windpowermonthly.com/article/1942652/nordex-line-1gw-us-wind-turbine-order",
+    "date": "2025-12-10",
+    "summary": "Nordex is in line to supply just over 1GW of turbines to utility Alliant Energy for wind farms in the US midwest.…",
+    "source": "Wind Power News & Analysis RSS Feed",
+    "image": null
+  },
+  {
+    "title": "EU eyes ending need for new environmental permits for wind repowering",
+    "link": "https://www.windpowermonthly.com/article/1942654/eu-eyes-ending-need-new-environmental-permits-wind-repowering",
+    "date": "2025-12-10",
+    "summary": "The European Commission could overrule the need for environmental permits for repowering onshore wind projects in member states, under propo…",
+    "source": "Wind Power News & Analysis RSS Feed",
+    "image": null
+  },
+  {
+    "title": "GE Vernova warns of major wind losses in 2026",
+    "link": "https://www.windpowermonthly.com/article/1942639/ge-vernova-warns-major-wind-losses-2026",
     "date": "2025-12-10",
     "summary": "GE Vernova expects losses of around $400 million in both 2025 and 2026 in its wind power segment as turbine order demand – especially in the…",
     "source": "Wind Power News & Analysis RSS Feed",
+    "image": null
+  },
+  {
+    "title": "Hydrohertz Aims To Enable Precision EV Battery Thermal Control",
+    "link": "https://eepower.com/news/hydrohertz-aims-to-enable-precision-ev-battery-thermal-control/",
+    "date": "2025-12-10",
+    "summary": "The Dectravalve thermal management system divides the battery pack into independent cooling zones.…",
+    "source": "EE Power",
     "image": null
   },
   {
@@ -840,14 +896,6 @@
     "image": null
   },
   {
-    "title": "VIDEO: Powering certainty with Elementa 2 Pro, bankable energy storage from Trina",
-    "link": "https://www.energy-storage.news/video-powering-certainty-with-elementa-2-pro-bankable-energy-storage-from-trina/",
-    "date": "2025-12-03",
-    "summary": "Energy-Storage.news proudly presents our sponsored webinar with Trina Storage, 'Powering Certainty: Bankable Energy Storage, with Elementa 2…",
-    "source": "Energy-Storage.News",
-    "image": null
-  },
-  {
     "title": "ADB to provide US$650 million loan to accelerate Indian rooftop solar deployment",
     "link": "https://www.pv-tech.org/adb-provide-us650-million-loan-accelerate-indian-rooftop-solar-deployment/",
     "date": "2025-12-03",
@@ -877,30 +925,6 @@
     "date": "2025-12-03",
     "summary": "Buyers should prepare for increases in the price of vital solar module components, such as polysilicon, wafers and cells, but “remain cautio…",
     "source": "PV Tech",
-    "image": null
-  },
-  {
-    "title": "‘Renewable energy’ stripped from NREL’s name in shift of priorities",
-    "link": "https://www.pv-tech.org/renewable-energy-stripped-from-nrels-name-in-shift-of-priorities/",
-    "date": "2025-12-03",
-    "summary": "The US Department of Energy (DOE) has renamed the National Renewable Energy Laboratory (NREL) the National Laboratory of the Rockies.…",
-    "source": "PV Tech",
-    "image": null
-  },
-  {
-    "title": "ARENA commits US$98 million to Sunman’s 500MW PV module manufacturing hub in Australia",
-    "link": "https://www.pv-tech.org/arena-commits-us98-million-to-sunmans-500mw-pv-module-manufacturing-hub-in-australia/",
-    "date": "2025-12-03",
-    "summary": "The Australian Renewable Energy Agency (ARENA) has announced up to AU$151 million (US$98 million) in conditional funding for Sunman Energy t…",
-    "source": "PV Tech",
-    "image": null
-  },
-  {
-    "title": "Enphase begins shipping IQ EV Charger 2 in the US",
-    "link": "https://www.solarpowerworldonline.com/2025/12/enphase-begins-shipping-iq-ev-charger-2-in-the-us/",
-    "date": "2025-12-03",
-    "summary": "Enphase announced the first production shipments of its next-generation IQ EV Charger 2 to customers across the United States. Designed in a…",
-    "source": "Solar Power World",
     "image": null
   },
   {
@@ -964,22 +988,6 @@
     "link": "https://www.windpowermonthly.com/article/1941721/vestas-expands-onshore-wind-turbine-blade-plant-poland",
     "date": "2025-12-02",
     "summary": "Vestas plans to expand its onshore blade manufacturing plant in Poland with hundreds of new workers and an additional production line to mee…",
-    "source": "Wind Power News & Analysis RSS Feed",
-    "image": null
-  },
-  {
-    "title": "Infinity Power begins construction of 200MW Egypt wind farm",
-    "link": "https://www.windpowermonthly.com/article/1941714/infinity-power-begins-construction-200mw-egypt-wind-farm",
-    "date": "2025-12-02",
-    "summary": "",
-    "source": "Wind Power News & Analysis RSS Feed",
-    "image": null
-  },
-  {
-    "title": "Floating wind pioneer Principle Power appoints new chief",
-    "link": "https://www.windpowermonthly.com/article/1941701/floating-wind-pioneer-principle-power-appoints-new-chief",
-    "date": "2025-12-02",
-    "summary": "Floating offshore wind pioneer Principle Power has appointed renewables veteran João Amaral as its new CEO.…",
     "source": "Wind Power News & Analysis RSS Feed",
     "image": null
   },
@@ -1068,14 +1076,6 @@
     "link": "https://eepower.com/technical-articles/is-spice-modeling-easier-the-second-time-around/",
     "date": "2025-11-21",
     "summary": "After copying the required curve data into the Model Generator, click “Done” and it performs the calculations and produces a finished QSPICE…",
-    "source": "EE Power",
-    "image": null
-  },
-  {
-    "title": "Simulations Find the Best Electrolytes for Sodium-Ion Batteries",
-    "link": "https://eepower.com/market-insights/simulations-find-the-best-electrolytes-for-sodium-ion-batteries/",
-    "date": "2025-11-21",
-    "summary": "Researchers used a simulation to map out the liquid electrolytes that could create safer, better-performing sodium-ion batteries.…",
     "source": "EE Power",
     "image": null
   }
