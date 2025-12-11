@@ -1,5 +1,13 @@
 [
   {
+    "title": "US BESS deals: Samsung SDI’s first LFP contract, Trina’s 1GWh+ agreement with Lightshift",
+    "link": "https://www.energy-storage.news/us-bess-deals-samsung-sdis-first-lfp-contract-trinas-1gwh-agreement-with-lightshift/",
+    "date": "2025-12-11",
+    "summary": "South Korea’s Samsung SDI has signed its first US lithium iron phosphate (LFP) cell deal, while Chinese integrator Trina Storage has expande…",
+    "source": "Energy-Storage.News",
+    "image": null
+  },
+  {
     "title": "Germany firmly enters large-scale BESS era with EnBW, Vattenfall and Enertrag project news",
     "link": "https://www.energy-storage.news/germany-firmly-enters-large-scale-bess-era-with-enbw-vattenfall-and-enertrag-project-news/",
     "date": "2025-12-11",
@@ -21,6 +29,30 @@
     "date": "2025-12-11",
     "summary": "Two major Middle East and North Africa (MENA) region projects combining solar PV and battery storage have progressed in Saudi Arabia and Egy…",
     "source": "Energy-Storage.News",
+    "image": null
+  },
+  {
+    "title": "Europe’s solar boom hits brakes, slowing market could be ‘self-destructive’, says SolarPower Europe",
+    "link": "https://www.pv-tech.org/europes-solar-boom-hits-brakes-slowing-market-could-be-self-destructive-says-solarpower-europe/",
+    "date": "2025-12-11",
+    "summary": "Slowing solar PV and energy storage installations in Europe risks “competitiveness and security at a pivotal moment”, according to the head …",
+    "source": "PV Tech",
+    "image": null
+  },
+  {
+    "title": "European Commission proposes European Grids Package to improve connection infrastructure",
+    "link": "https://www.pv-tech.org/european-commission-proposes-european-grids-package-improve-connection-infrastructure/",
+    "date": "2025-12-11",
+    "summary": "The European Commission has proposed improvements to Europe’s energy infrastructure, aiming to accelerate the grid permitting process.…",
+    "source": "PV Tech",
+    "image": null
+  },
+  {
+    "title": "Italy awards 1.1GW of solar PV in NZIA auction",
+    "link": "https://www.pv-tech.org/italy-awards-1-1gw-of-solar-pv-in-nzia-auction/",
+    "date": "2025-12-11",
+    "summary": "Italy has awarded 88 projects for a combined 1.1GW of solar PV in its Net Zero Industry Act (NZIA) non-price criteria FER-X auction.…",
+    "source": "PV Tech",
     "image": null
   },
   {
@@ -53,6 +85,14 @@
     "date": "2025-12-11",
     "summary": "Wind project developers added 1,027MW of new capacity during Q3 2025, bringing the US’s total operational capacity for onshore wind power to…",
     "source": "Wind Power News & Analysis RSS Feed",
+    "image": null
+  },
+  {
+    "title": "Briefs: Moves in EV Batteries and Charging, VPPs, and Geothermal",
+    "link": "https://eepower.com/news/briefs-moves-in-ev-batteries-and-charging-vpps-and-geothermal/",
+    "date": "2025-12-11",
+    "summary": "Acquisitions, partnerships, and funding are impacting Posco, Factorial, Horizon Motor, Chery Automotive, Infineon, Electreon, EnergyHub, Res…",
+    "source": "EE Power",
     "image": null
   },
   {
@@ -872,22 +912,6 @@
     "image": null
   },
   {
-    "title": "Nextpower to double steel tracker manufacturing capacity in Tennessee",
-    "link": "https://www.pv-tech.org/nextpower-to-double-steel-tracker-manufacturing-capacity-in-tennessee/",
-    "date": "2025-12-04",
-    "summary": "Nextpower, formerly Nextracker, will double its steel solar tracker manufacturing capacity in Tennessee and has established a new “regional …",
-    "source": "PV Tech",
-    "image": null
-  },
-  {
-    "title": "Australia generates over 5,000GWh of electricity from renewables in November 2025",
-    "link": "https://www.pv-tech.org/australia-generates-over-5gwh-electricity-renewables-november-2025/",
-    "date": "2025-12-04",
-    "summary": "Australia generated 5,271GWh of utility-scale solar PV and wind power in November 2025, a 28% increase from the same period last year.…",
-    "source": "PV Tech",
-    "image": null
-  },
-  {
     "title": "Ørsted's 913MW offshore wind farm delivers first power",
     "link": "https://www.windpowermonthly.com/article/1942045/orsteds-913mw-offshore-wind-farm-delivers-first-power",
     "date": "2025-12-04",
@@ -949,22 +973,6 @@
     "date": "2025-12-03",
     "summary": "ABB has acquired the solar PV and wind inverter and battery storage power conversion system (PCS) businesses of Gamesa Electric.…",
     "source": "Energy-Storage.News",
-    "image": null
-  },
-  {
-    "title": "Ontario municipality denies support for 3.2GWh BESS project ahead of looming IESO RFP deadline",
-    "link": "https://www.energy-storage.news/ontario-municipality-denies-support-for-3-2gwh-bess-project-ahead-of-looming-ieso-rfp-deadline/",
-    "date": "2025-12-03",
-    "summary": "The Municipality of Shuniah in Ontario, Canada, voted against supporting a 400MW/3.2GWh long-duration energy storage project proposed by Pow…",
-    "source": "Energy-Storage.News",
-    "image": null
-  },
-  {
-    "title": "ADB to provide US$650 million loan to accelerate Indian rooftop solar deployment",
-    "link": "https://www.pv-tech.org/adb-provide-us650-million-loan-accelerate-indian-rooftop-solar-deployment/",
-    "date": "2025-12-03",
-    "summary": "The Asian Development Bank has approved a US$650 million loan to accelerate rooftop solar PV deployment in India.…",
-    "source": "PV Tech",
     "image": null
   },
   {
@@ -1068,14 +1076,6 @@
     "link": "https://eepower.com/market-insights/battery-research-reaches-for-common-materials-creative-methods/",
     "date": "2025-11-24",
     "summary": "Studies focusing on concrete, soy, microwaves, and iron could lead to increased energy storage and better-performing batteries.…",
-    "source": "EE Power",
-    "image": null
-  },
-  {
-    "title": "Substation Components—Part 7: SCADA and Protection Integration",
-    "link": "https://eepower.com/technical-articles/substation-componentspart-7-scada-and-protection-integration/",
-    "date": "2025-11-23",
-    "summary": "Learn how modern substation integration merges protection and SCADA over digital networks and requires security and human-centered HMIs for …",
     "source": "EE Power",
     "image": null
   }
