@@ -24,6 +24,38 @@
     "image": null
   },
   {
+    "title": "Soltec confirms 80% share buyout, continues focus on solar trackers",
+    "link": "https://www.pv-tech.org/soltec-confirms-80-share-buyout-continues-focus-on-solar-trackers/",
+    "date": "2025-12-15",
+    "summary": "Soltec has begun the process of transferring 80% of its share ownership to European investment firm DVC Solutions.…",
+    "source": "PV Tech",
+    "image": null
+  },
+  {
+    "title": "Maxeon files new BC patent infringement lawsuit against Aiko in Germany",
+    "link": "https://www.pv-tech.org/maxeon-files-new-bc-patent-infringement-lawsuit-against-aiko-in-germany/",
+    "date": "2025-12-15",
+    "summary": "Solar manufacturer Maxeon has filed a new patent infringement lawsuit against fellow PV manufacturer Aiko before the Munich Regional Court I…",
+    "source": "PV Tech",
+    "image": null
+  },
+  {
+    "title": "Solesca launches auto-obstruction detection feature in solar design software",
+    "link": "https://www.solarpowerworldonline.com/2025/12/solesca-launches-auto-obstruction-detection-feature-in-solar-design-software/",
+    "date": "2025-12-15",
+    "summary": "Solesca announced the launch of ARGUS 1.0 (Automated Recognition &#38; Geometric Understanding System), an in-house computer vision engine d…",
+    "source": "Solar Power World",
+    "image": null
+  },
+  {
+    "title": "Solar Power World’s most-read stories of 2025",
+    "link": "https://www.solarpowerworldonline.com/2025/12/solar-power-worlds-most-read-stories-of-2025/",
+    "date": "2025-12-15",
+    "summary": "As the year comes to a close, we&#8217;re looking back at the top stories from Solar Power World in 2025. SPW readers were eager to learn mo…",
+    "source": "Solar Power World",
+    "image": null
+  },
+  {
     "title": "Defiant US state launches new offshore wind procurement",
     "link": "https://www.windpowermonthly.com/article/1943102/defiant-us-state-launches-new-offshore-wind-procurement",
     "date": "2025-12-15",
@@ -37,6 +69,14 @@
     "date": "2025-12-15",
     "summary": "Turkey’s ministry of energy and natural resources awarded 20-year offtake agreements to 1,150MW of onshore wind capacity in a competitive au…",
     "source": "Wind Power News & Analysis RSS Feed",
+    "image": null
+  },
+  {
+    "title": "Smart Drone Doubles Down on Transmission Line Threats",
+    "link": "https://eepower.com/market-insights/smart-drone-doubles-down-on-transmission-line-threats/",
+    "date": "2025-12-15",
+    "summary": "Korean researchers have developed an enhanced unmanned aerial vehicle system to simultaneously monitor sagging transmission lines and vegeta…",
+    "source": "EE Power",
     "image": null
   },
   {
@@ -624,22 +664,6 @@
     "image": null
   },
   {
-    "title": "Duke Energy Florida brings online two new solar projects",
-    "link": "https://www.solarpowerworldonline.com/2025/12/duke-energy-florida-brings-online-two-new-solar-projects/",
-    "date": "2025-12-10",
-    "summary": "Duke Energy Florida has completed two new solar energy sites: Half Moon Renewable Energy Center in Sumter County and Rattler Renewable Energ…",
-    "source": "Solar Power World",
-    "image": null
-  },
-  {
-    "title": "Solar glass factory to open in Ohio next year",
-    "link": "https://www.solarpowerworldonline.com/2025/12/solar-glass-factory-to-open-in-ohio-next-year/",
-    "date": "2025-12-10",
-    "summary": "Float-glass manufacturer Stewart Engineers is opening a solar glass manufacturing facility in Ohio and expects production to begin in March …",
-    "source": "Solar Power World",
-    "image": null
-  },
-  {
     "title": "Nordex in line for 1GW US wind turbine order",
     "link": "https://www.windpowermonthly.com/article/1942652/nordex-line-1gw-us-wind-turbine-order",
     "date": "2025-12-10",
@@ -952,22 +976,6 @@
     "image": null
   },
   {
-    "title": "Origis secures finance from Advantage Capital for 305MW US solar PV portfolio",
-    "link": "https://www.pv-tech.org/origis-secures-finance-advantage-capital-305mw-us-solar-pv-portfolio/",
-    "date": "2025-12-05",
-    "summary": "Origis Energy has raised US$265 million in finance from Advantage Capital to support the development of a 305MW solar PV portfolio in the US…",
-    "source": "PV Tech",
-    "image": null
-  },
-  {
-    "title": "WBS Power sells German solar-plus-storage project",
-    "link": "https://www.pv-tech.org/wbs-power-sells-german-solar-plus-project/",
-    "date": "2025-12-05",
-    "summary": "WBS Power has sold the 150MW solar, 500MW/2,000MWh BESS Project Jupiter in Brandenburg, Germany, to investor Prime Capital.…",
-    "source": "PV Tech",
-    "image": null
-  },
-  {
     "title": "GB Energy unveils £15 billion plan to help tackle UK's wind power shortfall",
     "link": "https://www.windpowermonthly.com/article/1942176/gb-energy-unveils-15-billion-plan-help-tackle-uks-wind-power-shortfall",
     "date": "2025-12-05",
@@ -1068,14 +1076,6 @@
     "link": "https://eepower.com/news/briefs-strategic-moves-in-evs-gan-solar-and-nuclear/",
     "date": "2025-11-27",
     "summary": "Electreon, InductEV, Navitas Semiconductor, GlobalFoundries, STMicroelectronics, and X-energy are preparing for future energy needs.…",
-    "source": "EE Power",
-    "image": null
-  },
-  {
-    "title": "The Future of Power Conversion in Home Appliances with SiC SLIMDIPs",
-    "link": "https://eepower.com/technical-articles/experience-the-future-of-power-conversion-in-home-appliances-with-hybrid-sic-slimdip-and-full-sic-slimdip/",
-    "date": "2025-11-26",
-    "summary": "Learn how two new Mitsubishi SLIMDIP IPMs address the growing need for high-efficiency power semiconductor devices in consumer applications.…",
     "source": "EE Power",
     "image": null
   }
