@@ -1,10 +1,34 @@
 [
   {
+    "title": "Egypt: AMEA Power secures IFC funds for ‘Africa’s largest single-site renewables and battery project’",
+    "link": "https://www.energy-storage.news/egypt-amea-power-secures-ifc-funds-for-africas-largest-single-site-renewables-and-battery-project/",
+    "date": "2025-12-19",
+    "summary": "The World Bank’s International Finance Corporation has agreed a financing package for a 1GW solar PV power plant paired with 600MWh of energ…",
+    "source": "Energy-Storage.News",
+    "image": null
+  },
+  {
     "title": "Australian government supports additional 40GWh of Cheaper Home Batteries by 2030",
     "link": "https://www.energy-storage.news/australian-government-supports-additional-40gwh-of-cheaper-home-batteries-by-2030/",
     "date": "2025-12-19",
     "summary": "The Australian government has expanded the nationwide Cheaper Home Batteries Program, which has seen rapid uptake from homeowners.…",
     "source": "Energy-Storage.News",
+    "image": null
+  },
+  {
+    "title": "Chinese polysilicon production has recorded its first decline in 12 years – CPIA",
+    "link": "https://www.pv-tech.org/chinese-polysilicon-production-has-recorded-its-first-decline-in-12-years-cpia/",
+    "date": "2025-12-19",
+    "summary": "Wang Bohua, honorary chairman of the China PV Industry Association (CPIA), said that the polysilicon production in China experienced its fir…",
+    "source": "PV Tech",
+    "image": null
+  },
+  {
+    "title": "Maturation of UK solar and storage has contributed to ‘execution’ risk",
+    "link": "https://www.pv-tech.org/maturation-uk-solar-storage-contributed-execution-risk/",
+    "date": "2025-12-19",
+    "summary": "'The UK market has matured,' Guy Lavarack, chief investment officer at the Luminous Energy Group, tells PV Tech Premium this week.…",
+    "source": "PV Tech",
     "image": null
   },
   {
@@ -21,6 +45,14 @@
     "date": "2025-12-19",
     "summary": "",
     "source": "Wind Power News & Analysis RSS Feed",
+    "image": null
+  },
+  {
+    "title": "ST Introduces Zero-Drift High-Accuracy Op-Amp",
+    "link": "https://www.powerelectronicsnews.com/st-introduces-zero-drift-high-accuracy-op-amp/",
+    "date": "2025-12-19",
+    "summary": "<img alt=\"ST Introduces Zero-Drift High-Accuracy Op-Amp.\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"1350\" src=\"https://www.powere…",
+    "source": "Power Electronics News",
     "image": null
   },
   {
@@ -768,14 +800,6 @@
     "image": null
   },
   {
-    "title": "PEN eBook December 2025 – Motor Drives: WBG Semiconductors, Diamond Substrates, and Magnetic Material Breakthroughs",
-    "link": "https://www.powerelectronicsnews.com/motor-drives-wbg-semiconductors-diamond-substrates-and-magnetic-material-breakthroughs/",
-    "date": "2025-12-15",
-    "summary": "<img alt=\"Rapid Control Prototyping of Synchronous Reluctance Motor Drives by Matlab/Simulink\" class=\"webfeedsFeaturedVisual wp-post-image\" …",
-    "source": "Power Electronics News",
-    "image": null
-  },
-  {
     "title": "Smart Drone Doubles Down on Transmission Line Threats",
     "link": "https://eepower.com/market-insights/smart-drone-doubles-down-on-transmission-line-threats/",
     "date": "2025-12-15",
@@ -848,22 +872,6 @@
     "image": null
   },
   {
-    "title": "US solar PV companies are not waiting for FEOC guidance – Crux survey",
-    "link": "https://www.pv-tech.org/us-solar-pv-companies-are-not-waiting-for-feoc-guidance-crux-survey/",
-    "date": "2025-12-12",
-    "summary": "Solar PV companies in the US are not waiting for guidance from the US Departments of the Treasury or Energy to act regarding Foreign Entity …",
-    "source": "PV Tech",
-    "image": null
-  },
-  {
-    "title": "US solar module prices stabilise at US$0.28/W in November",
-    "link": "https://www.pv-tech.org/us-solar-module-prices-stabilise-us-0-28-w-november/",
-    "date": "2025-12-12",
-    "summary": "US solar PV module prices have stabilised at just over US$0.28/W in the three months to November 2025, according to Anza.…",
-    "source": "PV Tech",
-    "image": null
-  },
-  {
     "title": "Windpower Monthly launches annual state of the industry survey",
     "link": "https://www.windpowermonthly.com/article/1942998/windpower-monthly-launches-annual-state-industry-survey",
     "date": "2025-12-12",
@@ -916,14 +924,6 @@
     "link": "https://www.energy-storage.news/us-bess-deals-samsung-sdis-first-lfp-contract-trinas-1gwh-agreement-with-lightshift/",
     "date": "2025-12-11",
     "summary": "South Korea’s Samsung SDI has signed its first US lithium iron phosphate (LFP) cell deal, while Chinese integrator Trina Storage has expande…",
-    "source": "Energy-Storage.News",
-    "image": null
-  },
-  {
-    "title": "Germany firmly enters large-scale BESS era with EnBW, Vattenfall and Enertrag project news",
-    "link": "https://www.energy-storage.news/germany-firmly-enters-large-scale-bess-era-with-enbw-vattenfall-and-enertrag-project-news/",
-    "date": "2025-12-11",
-    "summary": "A trio of large-scale BESS announcements by major power firms of 700-800MWh capacity each in Germany show the country's energy storage marke…",
     "source": "Energy-Storage.News",
     "image": null
   },
