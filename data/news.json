@@ -8,6 +8,14 @@
     "image": null
   },
   {
+    "title": "Switching and Converter Substations",
+    "link": "https://eepower.com/technical-articles/switching-and-converter-substations/",
+    "date": "2025-12-21",
+    "summary": "This article explores the various functions of switching and converter substations, including network reconfiguration, fault isolation, and …",
+    "source": "EE Power",
+    "image": null
+  },
+  {
     "title": "NYPA to develop 1.2GW of additional storage as part of renewed energy plan, in face of ‘strong federal headwinds’",
     "link": "https://www.energy-storage.news/nypa-to-develop-1-2gw-of-additional-storage-as-part-of-renewed-energy-plan-in-face-of-strong-federal-headwinds/",
     "date": "2025-12-19",
@@ -1068,14 +1076,6 @@
     "link": "https://eepower.com/technical-articles/optimizing-dc-dc-converter-stability-ac-and-transient-analysis-in-simulations-of-source-impedance-effects/",
     "date": "2025-12-03",
     "summary": "This article investigates the optimization of DC-DC converter stability through AC analysis in the frequency-domain and transient analysis i…",
-    "source": "EE Power",
-    "image": null
-  },
-  {
-    "title": "3 Enhanced Tools To Help Utilities Combat Grid Strain",
-    "link": "https://eepower.com/news/3-enhanced-tools-to-help-utilities-combat-grid-strain/",
-    "date": "2025-12-02",
-    "summary": "Schneider, Siemens, and Sense have released upgraded software and tools aimed at boosting grid capacity, visibility, and flexibility amid ri…",
     "source": "EE Power",
     "image": null
   }
