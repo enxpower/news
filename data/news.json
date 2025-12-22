@@ -1,10 +1,34 @@
 [
   {
+    "title": "Can US trade policy deliver a domestic battery supply chain?",
+    "link": "https://www.energy-storage.news/can-us-trade-policy-deliver-a-domestic-battery-supply-chain/",
+    "date": "2025-12-22",
+    "summary": "Building US domestic energy storage manufacturing capacity will require more than limiting foreign participation, writes Aaron Marks of Inte…",
+    "source": "Energy-Storage.News",
+    "image": null
+  },
+  {
     "title": "Australian utility Flow Power closes financing on its first BESS project, in Victoria’s Latrobe Valley",
     "link": "https://www.energy-storage.news/australian-utility-flow-power-closes-financing-on-its-first-bess-project-in-victorias-latrobe-valley/",
     "date": "2025-12-22",
     "summary": "Renewable energy generator and retailer Flow Power has achieved financial close on a 100MW/223MWh battery storage project in Victoria, Austr…",
     "source": "Energy-Storage.News",
+    "image": null
+  },
+  {
+    "title": "The PV Review, 2025: A year of performance and reliability issues for TOPCon and n-type solar PV modules",
+    "link": "https://www.pv-tech.org/the-pv-review-2025-a-year-of-performance-and-reliability-issues-for-topcon-and-n-type-solar-pv-modules/",
+    "date": "2025-12-22",
+    "summary": "The PV Review, 2025: this year has seen many papers and reports on solar PV modules reliability and performance issues, especially with TOPC…",
+    "source": "PV Tech",
+    "image": null
+  },
+  {
+    "title": "Solar tracker giants bet on integration",
+    "link": "https://www.pv-tech.org/solar-tracker-giants-bet-on-integration/",
+    "date": "2025-12-22",
+    "summary": "Tracker producer Nextracker has rebranded as Nextpower to reflect the wider portfolio of products and services it now offers.…",
+    "source": "PV Tech",
     "image": null
   },
   {
@@ -21,6 +45,22 @@
     "date": "2025-12-22",
     "summary": "Altus Power has acquired a 234MW solar portfolio from independent power producer Greenbacker.…",
     "source": "PV Tech",
+    "image": null
+  },
+  {
+    "title": "Maersk and Seatrium settle dispute over Empire Wind vessel",
+    "link": "https://www.windpowermonthly.com/article/1943813/maersk-seatrium-settle-dispute-empire-wind-vessel",
+    "date": "2025-12-22",
+    "summary": "Maersk has settled a dispute over the cancellation of a $475 million contract for a wind turbine installation vessel that was nearly 99% com…",
+    "source": "Wind Power News & Analysis RSS Feed",
+    "image": null
+  },
+  {
+    "title": "New podcast: Christmas special – what were the biggest industry themes in 2025?",
+    "link": "https://www.windpowermonthly.com/article/1943812/new-podcast-christmas-special-%E2%80%93-biggest-industry-themes-2025",
+    "date": "2025-12-22",
+    "summary": "The Windpower Monthly editorial team discusses the industry themes that resonated most strongly with them this year.…",
+    "source": "Wind Power News & Analysis RSS Feed",
     "image": null
   },
   {
@@ -840,22 +880,6 @@
     "image": null
   },
   {
-    "title": "France awards 507MW solar PV in latest tender, average price decreases to €74.13/MWh",
-    "link": "https://www.pv-tech.org/france-awards-507mw-solar-pv-in-latest-tender-average-price-decreases-to-e74-13-mwh/",
-    "date": "2025-12-15",
-    "summary": "France has awarded 507.7MW of solar PV capacity in its latest technology neutral auction, with only solar projects selected.…",
-    "source": "PV Tech",
-    "image": null
-  },
-  {
-    "title": "Soltec confirms 80% share buyout, continues focus on solar trackers",
-    "link": "https://www.pv-tech.org/soltec-confirms-80-share-buyout-continues-focus-on-solar-trackers/",
-    "date": "2025-12-15",
-    "summary": "Soltec has begun the process of transferring 80% of its share ownership to European investment firm DVC Solutions.…",
-    "source": "PV Tech",
-    "image": null
-  },
-  {
     "title": "Defiant US state launches new offshore wind procurement",
     "link": "https://www.windpowermonthly.com/article/1943102/defiant-us-state-launches-new-offshore-wind-procurement",
     "date": "2025-12-15",
@@ -900,14 +924,6 @@
     "link": "https://www.energy-storage.news/system-integrator-guoxia-technology-to-go-public-in-hong-kong-on-16-december/",
     "date": "2025-12-12",
     "summary": "System integrator Guoxia Technology has obtained approval for its main board listing on the Hong Kong Stock Exchange.…",
-    "source": "Energy-Storage.News",
-    "image": null
-  },
-  {
-    "title": "Malaysia’s first large-scale battery storage system inaugurated in Sabah, Borneo",
-    "link": "https://www.energy-storage.news/malaysias-first-large-scale-battery-storage-system-inaugurated-in-sabah-borneo/",
-    "date": "2025-12-12",
-    "summary": "A 100MW/400MWh BESS, the biggest project of its kind by output in Southeast Asia, has been welcomed into operation in Sabah, Malaysia.…",
     "source": "Energy-Storage.News",
     "image": null
   },
@@ -968,14 +984,6 @@
     "image": null
   },
   {
-    "title": "US wind installations uptick masks ‘policy chaos’ – American Clean Power Association",
-    "link": "https://www.windpowermonthly.com/article/1942543/us-wind-installations-uptick-masks-policy-chaos-%E2%80%93-american-clean-power-association",
-    "date": "2025-12-11",
-    "summary": "Wind project developers added 1,027MW of new capacity during Q3 2025, bringing the US’s total operational capacity for onshore wind power to…",
-    "source": "Wind Power News & Analysis RSS Feed",
-    "image": null
-  },
-  {
     "title": "Substation Design and Layout Planning—Part 1: Early Stage Decisions",
     "link": "https://eepower.com/technical-articles/substation-design-and-layout-planningpart-1-early-stage-decisions/",
     "date": "2025-12-11",
@@ -989,14 +997,6 @@
     "date": "2025-12-11",
     "summary": "Acquisitions, partnerships, and funding are impacting Posco, Factorial, Horizon Motor, Chery Automotive, Infineon, Electreon, EnergyHub, Res…",
     "source": "EE Power",
-    "image": null
-  },
-  {
-    "title": "Nordex in line for 1GW US wind turbine order",
-    "link": "https://www.windpowermonthly.com/article/1942652/nordex-line-1gw-us-wind-turbine-order",
-    "date": "2025-12-10",
-    "summary": "Nordex is in line to supply just over 1GW of turbines to utility Alliant Energy for wind farms in the US midwest.…",
-    "source": "Wind Power News & Analysis RSS Feed",
     "image": null
   },
   {
