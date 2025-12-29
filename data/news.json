@@ -64,6 +64,14 @@
     "image": null
   },
   {
+    "title": "Amazon Data Centers Aren’t Raising Your Electric Bills—They May Be Lowering Them",
+    "link": "https://www.powermag.com/amazon-data-centers-arent-raising-your-electric-bills-they-may-be-lowering-them/",
+    "date": "2025-12-29",
+    "summary": "As electricity demand from data centers continues to surge, a persistent question has dogged the industry: Are residential ratepayers footin…",
+    "source": "POWER Magazine",
+    "image": null
+  },
+  {
     "title": "Lebanon, Egypt Sign Deal to Supply Natural Gas for Lebanese Power Plant",
     "link": "https://www.powermag.com/lebanon-egypt-sign-deal-to-supply-natural-gas-for-lebanese-power-plant/",
     "date": "2025-12-29",
@@ -83,8 +91,16 @@
     "title": "Switching Bus Converter Boosts High-Power Data Centers",
     "link": "https://www.powerelectronicsnews.com/switching-bus-converter-boosts-high-power-data-centers/",
     "date": "2025-12-29",
-    "summary": "Data centers demand high power densities, requiring innovations in converter and bus architectures, packaging, and semiconductor devices. Th…",
+    "summary": "<img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"3072\" src=\"https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/…",
     "source": "Power Electronics News",
+    "image": null
+  },
+  {
+    "title": "Our 2025 Top Trend: AI Assimilates",
+    "link": "https://eepower.com/news/our-2025-top-trend-ai-assimilates/",
+    "date": "2025-12-29",
+    "summary": "Do you remember when supercomputers were described by their processing power? That was so 2024. Today, we talk about the power for processin…",
+    "source": "EE Power",
     "image": null
   },
   {
@@ -576,14 +592,6 @@
     "image": null
   },
   {
-    "title": "Trump Media—TAE Merger: Fusion’s Public Market Leap",
-    "link": "https://www.powermag.com/trump-media-tae-merger-fusions-public-market-leap/",
-    "date": "2025-12-21",
-    "summary": "The fusion industry just achieved a major milestone—and this time, it’s not about science. The post <a href=\"https://www.powermag.com/trump-…",
-    "source": "POWER Magazine",
-    "image": null
-  },
-  {
     "title": "Switching and Converter Substations",
     "link": "https://eepower.com/technical-articles/switching-and-converter-substations/",
     "date": "2025-12-21",
@@ -1068,14 +1076,6 @@
     "link": "https://eepower.com/market-insights/3d-power-free-device-heats-and-cools-buildings-with-sunlight/",
     "date": "2025-12-09",
     "summary": "Researchers have developed a passive device modeled after traditional Asian architecture that regulates building temperatures using a shape-…",
-    "source": "EE Power",
-    "image": null
-  },
-  {
-    "title": "Solving Military-Avionics DC-DC Power Challenges with Modularity—Part 1",
-    "link": "https://eepower.com/technical-articles/solving-military-avionics-dc-dc-power-challenges-with-modularity-part-1/",
-    "date": "2025-12-08",
-    "summary": "We begin this article series on understanding standard parameters and best practices for the effective design of aerospace and military-grad…",
     "source": "EE Power",
     "image": null
   }
