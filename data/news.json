@@ -160,6 +160,14 @@
     "image": null
   },
   {
+    "title": "Studies Target Structural Failure in Lithium-Ion Batteries",
+    "link": "https://eepower.com/market-insights/studies-target-structural-failure-in-lithium-ion-batteries/",
+    "date": "2026-01-02",
+    "summary": "University of Chicago, Argonne, Stanford-SLAC, and Skoltech research focused on cathode degradation mechanisms and mitigation strategies.…",
+    "source": "EE Power",
+    "image": null
+  },
+  {
     "title": "IMEC Achieves Record High Voltage GaN Results",
     "link": "https://www.powerelectronicsnews.com/imec-achieves-record-high-voltage-gan-results/",
     "date": "2026-01-01",
@@ -1068,14 +1076,6 @@
     "link": "https://eepower.com/news/briefs-moves-in-ev-batteries-and-charging-vpps-and-geothermal/",
     "date": "2025-12-11",
     "summary": "Acquisitions, partnerships, and funding are impacting Posco, Factorial, Horizon Motor, Chery Automotive, Infineon, Electreon, EnergyHub, Res…",
-    "source": "EE Power",
-    "image": null
-  },
-  {
-    "title": "TL431: The Precision Shunt Regulator That Quietly Took Over Power Supplies",
-    "link": "https://eepower.com/market-insights/tl431-the-precision-shunt-regulator-that-quietly-took-over-power-supplies/",
-    "date": "2025-12-10",
-    "summary": "A bandgap reference, an error amplifier, and an output transistor in one three-pin device. It's still a staple after nearly five decades.…",
     "source": "EE Power",
     "image": null
   }
