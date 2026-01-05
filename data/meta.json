@@ -1,11 +1,11 @@
 {
-  "updated": "2026-01-05 20:00 UTC",
+  "updated": "2026-01-05 21:00 UTC",
   "count": 135,
   "stats": {
     "total_sources": 19,
     "used_sources": 7,
-    "skipped_stale": 12,
-    "errors": 0,
+    "skipped_stale": 11,
+    "errors": 1,
     "items_before_dedup": 135
   },
   "config": {
