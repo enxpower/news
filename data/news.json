@@ -1,5 +1,21 @@
 [
   {
+    "title": "SolarMax secures two EPC agreements for 400MWh total BESS capacity in Puerto Rico",
+    "link": "https://www.energy-storage.news/solarmax-secures-two-epc-agreements-for-400mwh-total-bess-capacity-in-puerto-rico/",
+    "date": "2026-01-06",
+    "summary": "Solar company SolarMax Technology’s wholly owned subsidiary, SolarMax Renewable Energy Provider, has entered into two engineering, procureme…",
+    "source": "Energy-Storage.News",
+    "image": null
+  },
+  {
+    "title": "Utilities SRP and ED3 seeking offtake deal for esVolta’s newly-approved 3.2GWh Arizona BESS",
+    "link": "https://www.energy-storage.news/utilities-srp-and-ed3-seeking-offtake-deal-for-esvoltas-newly-approved-3-2gwh-arizona-bess/",
+    "date": "2026-01-06",
+    "summary": "The Board of Supervisors (BoS) for Arizona’s Pinal County has given the go-ahead to developer and IPP esVolta to construct 3.2GWh BESS withi…",
+    "source": "Energy-Storage.News",
+    "image": null
+  },
+  {
     "title": "2025 concludes with 1.5GWh+ of European BESS project completions, financing and supply deals",
     "link": "https://www.energy-storage.news/2025-concludes-with-1-5gwh-of-european-bess-project-completions-financing-and-supply-deals/",
     "date": "2026-01-06",
@@ -48,11 +64,43 @@
     "image": null
   },
   {
+    "title": "Consumers Energy starts operations at 250MW Michigan solar PV project",
+    "link": "https://www.pv-tech.org/consumers-energy-starts-operations-250mw-michigan-solar-pv-project/",
+    "date": "2026-01-06",
+    "summary": "US utility Consumers Energy has started operations at its 250MW Muskegon solar PV project, its largest in the US state of Michigan.…",
+    "source": "PV Tech",
+    "image": null
+  },
+  {
+    "title": "China to introduce stronger IP protections for solar PV",
+    "link": "https://www.pv-tech.org/china-to-introduce-stronger-ip-protections-for-solar-pv/",
+    "date": "2026-01-06",
+    "summary": "The Chinese government has released a range of policy measures to strengthen intellectual property (IP) protections in the country’s solar P…",
+    "source": "PV Tech",
+    "image": null
+  },
+  {
     "title": "UNSW: Up to one-fifth of solar PV modules degrade 1.5 times faster than average",
     "link": "https://www.pv-tech.org/unsw-up-to-one-fifth-solar-pv-modules-degrade-1-5-times-faster-than-average/",
     "date": "2026-01-06",
     "summary": "Up to one-fifth of solar PV modules degrade 1.5 times faster than average, according to new research from the University of New South Wales.…",
     "source": "PV Tech",
+    "image": null
+  },
+  {
+    "title": "Community solar + storage project comes online in Illinois",
+    "link": "https://www.solarpowerworldonline.com/2026/01/community-solar-storage-project-comes-online-in-illinois/",
+    "date": "2026-01-06",
+    "summary": "Illinois&#8217;s first community solar project to be combined with a battery energy storage system in Ameren Illinois territory is now onlin…",
+    "source": "Solar Power World",
+    "image": null
+  },
+  {
+    "title": "Inverter manufacturers simplify repowering process 2026 Trends in Solar + Storage",
+    "link": "https://www.solarpowerworldonline.com/2026/01/inverter-manufacturers-simplify-repowering-process/",
+    "date": "2026-01-06",
+    "summary": "Solar panels may work for decades, but the more sensitive electronics required to process the power are more likely to fail after a shorter …",
+    "source": "Solar Power World",
     "image": null
   },
   {
@@ -96,10 +144,34 @@
     "image": null
   },
   {
-    "title": "This is how Saudi Aramco built one of the energy industry’s strongest safety cultures",
-    "link": "https://www.constructionweekonline.com/business/how-aramco-built-one-of-the-energy-industrys-strongest-safety-cultures",
+    "title": "Understanding IVRs and their impact on xPU throughput",
+    "link": "https://www.powerelectronicsnews.com/understanding-ivrs-and-their-impact-on-xpu-throughput/",
     "date": "2026-01-06",
-    "summary": "<figure><img alt=\"This is how Aramco built one of the energy industry’s strongest safety cultures\" class=\"attachment-medium size-medium wp-p…",
+    "summary": "<img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"4032\" src=\"https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/…",
+    "source": "Power Electronics News",
+    "image": null
+  },
+  {
+    "title": "Thermal Packaging Advances for SiC and GaN Semiconductors",
+    "link": "https://www.powerelectronicsnews.com/thermal-packaging-advances-for-sic-and-gan-semiconductors/",
+    "date": "2026-01-06",
+    "summary": "<img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"709\" src=\"https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2…",
+    "source": "Power Electronics News",
+    "image": null
+  },
+  {
+    "title": "Google Gobbles More Power Infrastructure for Its Data Centers",
+    "link": "https://eepower.com/news/google-gobbles-more-power-infrastructure-for-its-data-centers/",
+    "date": "2026-01-06",
+    "summary": "Google’s parent company, Alphabet, has made a $4.75 billion deal to acquire a data center and energy infrastructure business.…",
+    "source": "EE Power",
+    "image": null
+  },
+  {
+    "title": "Oman greenlights $941m infrastructure spending in Q4 2025",
+    "link": "https://www.constructionweekonline.com/news/oman-greenlights-941m-infrastructure-spending-in-q4-2025",
+    "date": "2026-01-06",
+    "summary": "<figure><img alt=\"Oman greenlights $941m infrastructure spending in Q4 2025\" class=\"attachment-medium size-medium wp-post-image\" height=\"640…",
     "source": "Construction Week Online",
     "image": null
   },
@@ -808,22 +880,6 @@
     "image": null
   },
   {
-    "title": "Integrating AI Into Modern Power Electronics",
-    "link": "https://www.powerelectronicsnews.com/integrating-ai-into-modern-power-electronics/",
-    "date": "2025-12-30",
-    "summary": "<img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"498\" src=\"https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2…",
-    "source": "Power Electronics News",
-    "image": null
-  },
-  {
-    "title": "Designing for High-Voltage Isolation in Medical Devices, Part 1",
-    "link": "https://www.powerelectronicsnews.com/designing-for-high-voltage-isolation-in-medical-devices-part-1/",
-    "date": "2025-12-30",
-    "summary": "<img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"4480\" src=\"https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/…",
-    "source": "Power Electronics News",
-    "image": null
-  },
-  {
     "title": "Construction begins for King Salman Park’s 35-km green corridor",
     "link": "https://www.constructionweekonline.com/news/king-salman-park-2",
     "date": "2025-12-30",
@@ -900,22 +956,6 @@
     "link": "https://www.pv-tech.org/the-race-is-on-for-us-solar-developers-to-reach-safe-harbour/",
     "date": "2025-12-29",
     "summary": "PV Tech spoke with accountancy firm Baker Tilly about the new safe harbour and 'start of construction' rules for US solar projects.…",
-    "source": "PV Tech",
-    "image": null
-  },
-  {
-    "title": "Metlen completes sale of 588MW Chile solar-plus-storage portfolio to Glenfarne Group, valued at US$865 million",
-    "link": "https://www.pv-tech.org/metlen-completes-sale-588mw-solar-plus-storage-portfolio-glenfarne-group-valued-us865-million/",
-    "date": "2025-12-29",
-    "summary": "The Glenfarne Group has acquired a portfolio of solar PV and co-located BESS assets in Chile from Metlen Energy &#038; Metals.…",
-    "source": "PV Tech",
-    "image": null
-  },
-  {
-    "title": "Saatvik commissions 2GW EPE film manufacturing line in India",
-    "link": "https://www.pv-tech.org/saatvik-commissions-2gw-epe-film-manufacturing-line-in-india/",
-    "date": "2025-12-29",
-    "summary": "Saatvik Green Energy has successfully commissioned and operationalised a 2GW EPE film manufacturing facility at its Ambala plant in Haryana.…",
     "source": "PV Tech",
     "image": null
   },
@@ -1128,14 +1168,6 @@
     "image": null
   },
   {
-    "title": "Policy storms ahead, fire safety and data centres: Energy-Storage.news 2025 Guest Blog picks, Part 1",
-    "link": "https://www.energy-storage.news/policy-storms-ahead-fire-safety-and-data-centres-energy-storage-news-2025-guest-blog-picks-part-1/",
-    "date": "2025-12-23",
-    "summary": "As 2025 draws to a close, here’s a look back at a selection of Guest Blog contributions published by Energy-Storage.news over the past 12 mo…",
-    "source": "Energy-Storage.News",
-    "image": null
-  },
-  {
     "title": "Reaction: Legal challenges ‘almost inevitable’ after Trump’s ‘unhinged’ offshore wind lease pause",
     "link": "https://www.windpowermonthly.com/article/1943927/reaction-legal-challenges-almost-inevitable-trumps-unhinged-offshore-wind-lease-pause",
     "date": "2025-12-23",
@@ -1157,14 +1189,6 @@
     "date": "2025-12-23",
     "summary": "The open-source multi-tool platform can help designers build better wave energy converters.…",
     "source": "EE Power",
-    "image": null
-  },
-  {
-    "title": "Can US trade policy deliver a domestic battery supply chain?",
-    "link": "https://www.energy-storage.news/can-us-trade-policy-deliver-a-domestic-battery-supply-chain/",
-    "date": "2025-12-22",
-    "summary": "Building US domestic energy storage manufacturing capacity will require more than limiting foreign participation, writes Aaron Marks of Inte…",
-    "source": "Energy-Storage.News",
     "image": null
   },
   {
@@ -1256,22 +1280,6 @@
     "image": null
   },
   {
-    "title": "Environmental and renewable energy groups sue IRS, Treasury",
-    "link": "https://www.solarpowerworldonline.com/2025/12/environmental-renewable-energy-groups-sue-irs-treasury/",
-    "date": "2025-12-18",
-    "summary": "A coalition of renewable energy stakeholders have sued the Internal Revenue Service and the Dept. of the Treasury for changes to tax credits…",
-    "source": "Solar Power World",
-    "image": null
-  },
-  {
-    "title": "House-approved SPEED Act aims to shorten environmental reviews, blocks renewables",
-    "link": "https://www.solarpowerworldonline.com/2025/12/house-approved-speed-act-aims-to-shorten-environmental-reviews-blocks-renewables/",
-    "date": "2025-12-18",
-    "summary": "The House of Representatives has passed legislation that could revise permitting and environmental reviews for new energy projects. The Stan…",
-    "source": "Solar Power World",
-    "image": null
-  },
-  {
     "title": "Poland reveals winners in first offshore wind auction",
     "link": "https://www.windpowermonthly.com/article/1943602/poland-reveals-winners-first-offshore-wind-auction",
     "date": "2025-12-18",
@@ -1308,14 +1316,6 @@
     "link": "https://eepower.com/market-insights/smart-drone-doubles-down-on-transmission-line-threats/",
     "date": "2025-12-15",
     "summary": "Korean researchers have developed an enhanced unmanned aerial vehicle system to simultaneously monitor sagging transmission lines and vegeta…",
-    "source": "EE Power",
-    "image": null
-  },
-  {
-    "title": "Three-Phase Module Based on Monolithic Gan Half-Bridge ICs",
-    "link": "https://eepower.com/technical-articles/three-phase-module-based-on-monolithic-gan-half-bridge-ics/",
-    "date": "2025-12-14",
-    "summary": "Learn about the EPC33110, a three-phase module that uses GaN monolithic ICs. It enables the development of smaller, lighter motor drive inve…",
     "source": "EE Power",
     "image": null
   }
