@@ -3,7 +3,7 @@
     "title": "ROUNDUP: Texas BESS updates from SolarMax, Energy Vault, Engie, and Spearmint",
     "link": "https://www.energy-storage.news/roundup-texas-bess-updates-from-solarmax-energy-vault-engie-and-spearmint/",
     "date": "2026-01-07",
-    "summary": "A roundup of updates on BESS projects from SolarMax, Energy Vault, and Engie in the Electric Reliability Council of Texas (ERCOT) market.…",
+    "summary": "A roundup of updates on BESS projects from SolarMax, Energy Vault, Engie, and Spearmint in the Electric Reliability Council of Texas (ERCOT)…",
     "source": "Energy-Storage.News",
     "image": null
   },
@@ -48,6 +48,14 @@
     "image": null
   },
   {
+    "title": "Toyo secures US-sourced polysilicon",
+    "link": "https://www.pv-tech.org/toyo-secures-us-sourced-polysilicon/",
+    "date": "2026-01-07",
+    "summary": "Japanese cell and module manufacturer Toyo Solar has secured a supply agreement to source US-made polysilicon capacity.…",
+    "source": "PV Tech",
+    "image": null
+  },
+  {
     "title": "Inox Clean Energy’s latest INR31 billion equity targets IPP portfolio, manufacturing expansion",
     "link": "https://www.pv-tech.org/inox-clean-energys-latest-inr31-billion-equity-targets-ipp-portfolio-and-manufacturing-expansion/",
     "date": "2026-01-07",
@@ -85,6 +93,14 @@
     "date": "2026-01-07",
     "summary": "Oil and gas explorer Pilot Energy has entered into a binding head of agreement with SN Energy Australia for the joint development of a new s…",
     "source": "PV Tech",
+    "image": null
+  },
+  {
+    "title": "8 multifamily housing properties in Connecticut will be assisted in going solar",
+    "link": "https://www.solarpowerworldonline.com/2026/01/8-multifamily-housing-properties-in-connecticut-will-be-assisted-in-going-solar/",
+    "date": "2026-01-07",
+    "summary": "The Connecticut Green Bank announced that eight affordable multifamily housing properties are moving forward as the first round of projects …",
+    "source": "Solar Power World",
     "image": null
   },
   {
@@ -189,30 +205,6 @@
     "date": "2026-01-07",
     "summary": "Ford pulls back from large battery-only electric vehicles to concentrate on hybrids, smaller, affordable EVs, and grid-scale battery storage…",
     "source": "EE Power",
-    "image": null
-  },
-  {
-    "title": "Al-Futtaim unveils 107 smart, sustainable villas in Dubai Festival City",
-    "link": "https://www.constructionweekonline.com/news/al-futtaim-unveils-107-smart-sustainable-villas-in-dubai-festival-city",
-    "date": "2026-01-07",
-    "summary": "<figure><img alt=\"Al-Futtaim unveils 107 smart, sustainable villas in Dubai Festival City\" class=\"attachment-medium size-medium wp-post-imag…",
-    "source": "Construction Week Online",
-    "image": null
-  },
-  {
-    "title": "Dubai Beach upgrade nears completion as Sheikh Hamdan reviews Jumeirah Beach 1 project",
-    "link": "https://www.constructionweekonline.com/projects-tenders/dubai-beach-upgrade-nears-completion-as-sheikh-hamdan-reviews-jumeirah-beach-1-project",
-    "date": "2026-01-07",
-    "summary": "<figure><img alt=\"Dubai Beach upgrade nears completion as Sheikh Hamdan reviews Jumeirah Beach 1 project\" class=\"attachment-medium size-medi…",
-    "source": "Construction Week Online",
-    "image": null
-  },
-  {
-    "title": "AlBawani named main contractor for the world’s largest data centre",
-    "link": "https://www.constructionweekonline.com/news/albawani-named-main-contractor-for-the-worlds-largest-data-centre",
-    "date": "2026-01-07",
-    "summary": "<figure><img alt=\"AlBawani named main contractor for the world&#039;s largest data centre\" class=\"attachment-medium size-medium wp-post-imag…",
-    "source": "Construction Week Online",
     "image": null
   },
   {
@@ -992,14 +984,6 @@
     "image": null
   },
   {
-    "title": "T1 Energy completes first tax credit sale, valued at US$160 million",
-    "link": "https://www.pv-tech.org/t1-energy-completes-first-tax-credit-sale-valued-us160-million/",
-    "date": "2025-12-31",
-    "summary": "T1 Energy has completed its first sale of Section 45X production tax credits (PTCs) in a deal valued at US$160 million.…",
-    "source": "PV Tech",
-    "image": null
-  },
-  {
     "title": "REI Co-op throws support behind renewable energy projects nationwide",
     "link": "https://www.solarpowerworldonline.com/2025/12/rei-co-op-throws-support-behind-renewable-energy-projects-nationwide/",
     "date": "2025-12-31",
@@ -1112,6 +1096,22 @@
     "image": null
   },
   {
+    "title": "Dubai real estate enters 2026 with shift to logic-based buying",
+    "link": "https://www.constructionweekonline.com/business/insights/dubai-real-estate-2026",
+    "date": "2025-12-30",
+    "summary": "<figure><img alt=\"2026\" class=\"attachment-medium size-medium wp-post-image\" height=\"666\" src=\"https://www.constructionweekonline.com/cloud/2…",
+    "source": "Construction Week Online",
+    "image": null
+  },
+  {
+    "title": "Ras Al Khaimah: BNW Developments unveils Tonino Lamborghini Residences",
+    "link": "https://www.constructionweekonline.com/projects-tenders/ras-al-khaimah-bnw-lamborghini",
+    "date": "2025-12-30",
+    "summary": "<figure><img alt=\"bnw\" class=\"attachment-medium size-medium wp-post-image\" height=\"667\" src=\"https://www.constructionweekonline.com/cloud/20…",
+    "source": "Construction Week Online",
+    "image": null
+  },
+  {
     "title": "PGE receives regulatory approval to increase price of 1GW BESS portfolio, ‘significant changes’ to tariffs and ITC to blame",
     "link": "https://www.energy-storage.news/pge-receives-regulatory-approval-to-increase-price-of-1gw-bess-portfolio-significant-changes-to-tariffs-and-itc-to-blame/",
     "date": "2025-12-29",
@@ -1128,19 +1128,19 @@
     "image": null
   },
   {
-    "title": "Agrivoltaics developer brings Stanford modeling platform in-house to build better solar + crops",
-    "link": "https://www.solarpowerworldonline.com/2025/12/agrivoltaics-developer-brings-stanford-modeling-platform-in-house-to-build-better-solar-crops/",
-    "date": "2025-12-29",
-    "summary": "Agrivoltaic project developer Okovate Sustainable Energy has acquired the assets of Fundusol, a modeling platform born out of Stanford Unive…",
-    "source": "Solar Power World",
-    "image": null
-  },
-  {
     "title": "Our 2025 Top Trend: AI Assimilates",
     "link": "https://eepower.com/news/our-2025-top-trend-ai-assimilates/",
     "date": "2025-12-29",
     "summary": "Do you remember when supercomputers were described by their processing power? That was so 2024. Today, we talk about the power for processin…",
     "source": "EE Power",
+    "image": null
+  },
+  {
+    "title": "Reinventing roof refurbishment with Delta Coatings’ dual-layer innovation",
+    "link": "https://www.constructionweekonline.com/features/delta-coatings-roof",
+    "date": "2025-12-29",
+    "summary": "<figure><img alt=\"roof, DELTAShield Combo Max 3\" class=\"attachment-medium size-medium wp-post-image\" height=\"750\" src=\"https://www.construct…",
+    "source": "Construction Week Online",
     "image": null
   },
   {
