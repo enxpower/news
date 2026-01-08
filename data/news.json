@@ -1,5 +1,21 @@
 [
   {
+    "title": "1.2GWh of energy storage submitted for EPBC Act approval across Australia",
+    "link": "https://www.energy-storage.news/1-2gwh-of-energy-storage-submitted-for-epbc-act-approval-across-australia/",
+    "date": "2026-01-08",
+    "summary": "Three battery energy storage system (BESS) developments across Australia have been submitted to the Environment Protection and Biodiversity …",
+    "source": "Energy-Storage.News",
+    "image": null
+  },
+  {
+    "title": "A Simple Way to Prevent Electricity from Becoming Less Affordable",
+    "link": "https://www.powermag.com/a-simple-way-to-prevent-electricity-from-becoming-less-affordable/",
+    "date": "2026-01-08",
+    "summary": "Affordable electricity prices have become a top priority for consumers, policymakers, voters, and elected officials. Electricity prices for …",
+    "source": "POWER Magazine",
+    "image": null
+  },
+  {
     "title": "ROUNDUP: Texas BESS updates from SolarMax, Energy Vault, Engie, and Spearmint",
     "link": "https://www.energy-storage.news/roundup-texas-bess-updates-from-solarmax-energy-vault-engie-and-spearmint/",
     "date": "2026-01-07",
@@ -272,30 +288,6 @@
     "image": null
   },
   {
-    "title": "Al-Futtaim unveils 107 smart, sustainable villas in Dubai Festival City",
-    "link": "https://www.constructionweekonline.com/news/al-futtaim-unveils-107-smart-sustainable-villas-in-dubai-festival-city",
-    "date": "2026-01-07",
-    "summary": "<figure><img alt=\"Al-Futtaim unveils 107 smart, sustainable villas in Dubai Festival City\" class=\"attachment-medium size-medium wp-post-imag…",
-    "source": "Construction Week Online",
-    "image": null
-  },
-  {
-    "title": "Dubai Beach upgrade nears completion as Sheikh Hamdan reviews Jumeirah Beach 1 project",
-    "link": "https://www.constructionweekonline.com/projects-tenders/dubai-beach-upgrade-nears-completion-as-sheikh-hamdan-reviews-jumeirah-beach-1-project",
-    "date": "2026-01-07",
-    "summary": "<figure><img alt=\"Dubai Beach upgrade nears completion as Sheikh Hamdan reviews Jumeirah Beach 1 project\" class=\"attachment-medium size-medi…",
-    "source": "Construction Week Online",
-    "image": null
-  },
-  {
-    "title": "AlBawani named main contractor for the world’s largest data centre",
-    "link": "https://www.constructionweekonline.com/news/albawani-named-main-contractor-for-the-worlds-largest-data-centre",
-    "date": "2026-01-07",
-    "summary": "<figure><img alt=\"AlBawani named main contractor for the world&#039;s largest data centre\" class=\"attachment-medium size-medium wp-post-imag…",
-    "source": "Construction Week Online",
-    "image": null
-  },
-  {
     "title": "Emaar, Lootah Biofuels launch sustainable yacht fuel at Dubai Marina and Creek Marina",
     "link": "https://www.constructionweekonline.com/news/emaar-lootah-biofuels-launch-sustainable-yacht-fuel",
     "date": "2026-01-07",
@@ -516,14 +508,6 @@
     "link": "https://www.powermag.com/hasi-sunrun-expand-business-with-500-million-joint-venture/",
     "date": "2026-01-06",
     "summary": "HA Sustainable Infrastructure Capital (HASI), a leading investor in sustainable infrastructure assets, and Sunrun, a provider of home batter…",
-    "source": "POWER Magazine",
-    "image": null
-  },
-  {
-    "title": "Shock Pulse Technology: Redefining Boiler Performance",
-    "link": "https://www.powermag.com/shock-pulse-technology-redefining-boiler-performance/",
-    "date": "2026-01-06",
-    "summary": "The thermal utilization of sustainable fuels and the recovery of waste heat play a central role in today’s energy generation and the decarbo…",
     "source": "POWER Magazine",
     "image": null
   },
@@ -1128,6 +1112,22 @@
     "image": null
   },
   {
+    "title": "Dubai real estate enters 2026 with shift to logic-based buying",
+    "link": "https://www.constructionweekonline.com/business/insights/dubai-real-estate-2026",
+    "date": "2025-12-30",
+    "summary": "<figure><img alt=\"2026\" class=\"attachment-medium size-medium wp-post-image\" height=\"666\" src=\"https://www.constructionweekonline.com/cloud/2…",
+    "source": "Construction Week Online",
+    "image": null
+  },
+  {
+    "title": "Ras Al Khaimah: BNW Developments unveils Tonino Lamborghini Residences",
+    "link": "https://www.constructionweekonline.com/projects-tenders/ras-al-khaimah-bnw-lamborghini",
+    "date": "2025-12-30",
+    "summary": "<figure><img alt=\"bnw\" class=\"attachment-medium size-medium wp-post-image\" height=\"667\" src=\"https://www.constructionweekonline.com/cloud/20…",
+    "source": "Construction Week Online",
+    "image": null
+  },
+  {
     "title": "PGE receives regulatory approval to increase price of 1GW BESS portfolio, ‘significant changes’ to tariffs and ITC to blame",
     "link": "https://www.energy-storage.news/pge-receives-regulatory-approval-to-increase-price-of-1gw-bess-portfolio-significant-changes-to-tariffs-and-itc-to-blame/",
     "date": "2025-12-29",
@@ -1149,6 +1149,14 @@
     "date": "2025-12-29",
     "summary": "Do you remember when supercomputers were described by their processing power? That was so 2024. Today, we talk about the power for processin…",
     "source": "EE Power",
+    "image": null
+  },
+  {
+    "title": "Reinventing roof refurbishment with Delta Coatings’ dual-layer innovation",
+    "link": "https://www.constructionweekonline.com/features/delta-coatings-roof",
+    "date": "2025-12-29",
+    "summary": "<figure><img alt=\"roof, DELTAShield Combo Max 3\" class=\"attachment-medium size-medium wp-post-image\" height=\"750\" src=\"https://www.construct…",
+    "source": "Construction Week Online",
     "image": null
   },
   {
@@ -1188,14 +1196,6 @@
     "link": "https://www.energy-storage.news/us-roundup-hydrostor-a-caes-project-hawaiian-electric-on-maui-peregrine-picks-wartsila-for-500mwh-texas-bess/",
     "date": "2025-12-24",
     "summary": "In this Energy-Storage.news roundup, Hydrostor receives permitting approval for its California project, Hawaiian Electric is set to begin co…",
-    "source": "Energy-Storage.News",
-    "image": null
-  },
-  {
-    "title": "Energy-Storage.news most-read news stories of the year 2025",
-    "link": "https://www.energy-storage.news/energy-storage-news-most-read-news-stories-of-the-year-2025/",
-    "date": "2025-12-24",
-    "summary": "As we welcome the end of another year and greet the next, here are the top 10 most-read news stories from 2025.…",
     "source": "Energy-Storage.News",
     "image": null
   },
