@@ -1,5 +1,21 @@
 [
   {
+    "title": "NB Power issues REOI for 50MW Canadian BESS, Boralex commissions 320MWh Ontario project",
+    "link": "https://www.energy-storage.news/nb-power-issues-reoi-for-50mw-canadian-bess-boralex-commissions-320mwh-ontario-project/",
+    "date": "2026-01-08",
+    "summary": "News from Canada, as NB Power issues a request for expressions of interest for 50MW of energy storage, while Boralex commissions its energy …",
+    "source": "Energy-Storage.News",
+    "image": null
+  },
+  {
+    "title": "Greenflash Infrastructure safe harbours over 10GWh of Li-ion energy storage in US",
+    "link": "https://www.energy-storage.news/greenflash-infrastructure-safe-harbours-over-10gwh-of-li-ion-energy-storage-in-us/",
+    "date": "2026-01-08",
+    "summary": "H.I.G. Capital-backed energy platform, Greenflash Infrastructure, has Safe Harboured more than 10GWh of lithium-ion (Li-ion) energy storage …",
+    "source": "Energy-Storage.News",
+    "image": null
+  },
+  {
     "title": "Year in Review: Hithium expects BESS market segmentation by application, not geography, in 2026",
     "link": "https://www.energy-storage.news/year-in-review-hithium-expects-bess-market-segmentation-by-application-not-geography-in-2026/",
     "date": "2026-01-08",
@@ -32,6 +48,14 @@
     "image": null
   },
   {
+    "title": "Energy storage alleviated solar PV, wind curtailment increase in Chile in 2025",
+    "link": "https://www.pv-tech.org/energy-storage-alleviated-solar-pv-wind-curtailment-increase-in-chile-in-2025/",
+    "date": "2026-01-08",
+    "summary": "Curtailment of solar PV and wind has continued to increase in Chile last year and passed 6TWh, up 8% year-on-year, according to trade body, …",
+    "source": "PV Tech",
+    "image": null
+  },
+  {
     "title": "Canadian Solar seeks US$200 million to back US manufacturing",
     "link": "https://www.pv-tech.org/canadian-solar-seeks-us200-million-to-back-us-manufacturing/",
     "date": "2026-01-08",
@@ -53,6 +77,14 @@
     "date": "2026-01-08",
     "summary": "SunPower and the REC Group have unveiled a new 470W solar panel, dubbed 'Monolith', which is designed for use in the US residential sector.…",
     "source": "PV Tech",
+    "image": null
+  },
+  {
+    "title": "Otovo acquires California residential O&M company",
+    "link": "https://www.solarpowerworldonline.com/2026/01/otovo-acquires-california-residential-om-company/",
+    "date": "2026-01-08",
+    "summary": "Residential solar O&#38;M service provider Otovo has entered into an agreement to acquire Solar Service Professionals (SSP), a solar service…",
+    "source": "Solar Power World",
     "image": null
   },
   {
@@ -117,6 +149,14 @@
     "date": "2026-01-08",
     "summary": "Affordable electricity prices have become a top priority for consumers, policymakers, voters, and elected officials. Electricity prices for …",
     "source": "POWER Magazine",
+    "image": null
+  },
+  {
+    "title": "Allegro Expands Power-Thru Gate Driver Portfolio",
+    "link": "https://www.powerelectronicsnews.com/allegro-expands-power-thru-gate-driver-portfolio/",
+    "date": "2026-01-08",
+    "summary": "<img alt=\"Allegro Expands Power-Thru™ Gate Driver Portfolio for High-Voltage SiC Applications.\" class=\"webfeedsFeaturedVisual wp-post-image\"…",
+    "source": "Power Electronics News",
     "image": null
   },
   {
@@ -824,14 +864,6 @@
     "image": null
   },
   {
-    "title": "Michigan brings online 250-MW solar project in Muskegon",
-    "link": "https://www.solarpowerworldonline.com/2026/01/250-mw-solar-project-online-in-michigan/",
-    "date": "2026-01-05",
-    "summary": "A 250-MW solar project is now online in Michigan, sited on 1,900 acres at the Muskegon Resource Recovery Center, a wastewater treatment faci…",
-    "source": "Solar Power World",
-    "image": null
-  },
-  {
     "title": "Massachusetts' offshore wind contracts signing delayed again as Trump turmoil continues",
     "link": "https://www.windpowermonthly.com/article/1944147/massachusetts-offshore-wind-contracts-signing-delayed-again-trump-turmoil-continues",
     "date": "2026-01-05",
@@ -1024,14 +1056,6 @@
     "image": null
   },
   {
-    "title": "Single-Event Effect Characterization of EPC Space’s 100-V GaN",
-    "link": "https://www.powerelectronicsnews.com/single-event-effect-characterization-of-epc-spaces-100-v-gan/",
-    "date": "2026-01-02",
-    "summary": "<img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"1632\" src=\"https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/…",
-    "source": "Power Electronics News",
-    "image": null
-  },
-  {
     "title": "Studies Target Structural Failure in Lithium-Ion Batteries",
     "link": "https://eepower.com/market-insights/studies-target-structural-failure-in-lithium-ion-batteries/",
     "date": "2026-01-02",
@@ -1128,14 +1152,6 @@
     "image": null
   },
   {
-    "title": "Bahrain has begun building 100MW Al Dur solar PV project",
-    "link": "https://www.pv-tech.org/bahrain-has-begun-building-100mw-al-dur-solar-pv-project/",
-    "date": "2025-12-31",
-    "summary": "The government of Bahrain has laid the foundation stone for a 100MW solar power plant in the Al Dur area of the Southern Governorate.…",
-    "source": "PV Tech",
-    "image": null
-  },
-  {
     "title": "Your 2025 EEPower Favorites: Most Viewed Stories of Each Article Type",
     "link": "https://eepower.com/news/your-2025-eepower-favorites-most-viewed-stories-of-each-article-type/",
     "date": "2025-12-31",
@@ -1188,22 +1204,6 @@
     "link": "https://www.energy-storage.news/year-in-review-epc-burns-mcdonnell-on-data-centre-demand-feoc-and-energy-density/",
     "date": "2025-12-30",
     "summary": "The renewables and energy storage teams at US EPC firm Burns &#038; McDonnell tackle our annual Year in Review Q&#038;A series.…",
-    "source": "Energy-Storage.News",
-    "image": null
-  },
-  {
-    "title": "Metlen completes sale of 1.6GWh Chile solar-plus-storage portfolio to Glenfarne Group",
-    "link": "https://www.energy-storage.news/metlen-completes-sale-of-1-6gwh-chile-solar-plus-storage-portfolio-to-glenfarne-group/",
-    "date": "2025-12-30",
-    "summary": "Energy and infrastructure investor Glenfarne Group has bought a portfolio of solar PV and co-located BESS projects in Chile from Greece-head…",
-    "source": "Energy-Storage.News",
-    "image": null
-  },
-  {
-    "title": "PGE receives regulatory approval to increase price of 1GW BESS portfolio, ‘significant changes’ to tariffs and ITC to blame",
-    "link": "https://www.energy-storage.news/pge-receives-regulatory-approval-to-increase-price-of-1gw-bess-portfolio-significant-changes-to-tariffs-and-itc-to-blame/",
-    "date": "2025-12-29",
-    "summary": "Investor-owned utility (IOU) Portland General Electric (PGE) has become the latest US entity to reveal the impact of changes to import tarif…",
     "source": "Energy-Storage.News",
     "image": null
   },
