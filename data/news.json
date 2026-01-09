@@ -1,5 +1,13 @@
 [
   {
+    "title": "German large-scale BESS projects have built industry confidence, but FCA, grid and revenue challenges remain",
+    "link": "https://www.energy-storage.news/german-large-scale-bess-projects-have-built-industry-confidence-but-fca-grid-and-revenue-challenges-remain/",
+    "date": "2026-01-09",
+    "summary": "2025 saw genuinely large-scale BESS projects start construction in Germany, strengthening confidence among stakeholders. But significant cha…",
+    "source": "Energy-Storage.News",
+    "image": null
+  },
+  {
     "title": "Year in Review: Sodium-ion startup Alsym on supply chains, safety and scale",
     "link": "https://www.energy-storage.news/year-in-review-sodium-ion-startup-alsym-on-supply-chains-safety-and-scale/",
     "date": "2026-01-09",
@@ -21,6 +29,30 @@
     "date": "2026-01-09",
     "summary": "Yanara has appointed Gamuda Australia as the project delivery partner for the early contractor involvement (ECI) phase of the Mortlake Energ…",
     "source": "Energy-Storage.News",
+    "image": null
+  },
+  {
+    "title": "US withdrawal from UN climate bodies will have limited impact on solar PV",
+    "link": "https://www.pv-tech.org/us-withdrawal-from-un-climate-bodies-will-have-limited-impact-on-solar-pv/",
+    "date": "2026-01-09",
+    "summary": "The US has withdrawn from a number of UN climate organisations, including the Framework Convention on Climate Change, International Renewabl…",
+    "source": "PV Tech",
+    "image": null
+  },
+  {
+    "title": "Illinois signs clean energy bill, will drive investments for solar PV, battery storage and VPPs",
+    "link": "https://www.pv-tech.org/illinois-signs-clean-energy-bill-will-drive-investments-for-solar-pv-battery-storage-and-vpps/",
+    "date": "2026-01-09",
+    "summary": "The Governor of Illinois, JB Pritzker, has signed a clean energy bill into law that will boost solar PV and energy storage investments in th…",
+    "source": "PV Tech",
+    "image": null
+  },
+  {
+    "title": "Nuclear Researchers Push Fusion, Dark Matter, and the Moon",
+    "link": "https://eepower.com/market-insights/nuclear-researchers-push-fusion-dark-matter-and-the-moon/",
+    "date": "2026-01-09",
+    "summary": "Discoveries could accelerate nuclear development on Earth, demystify the laws of physics, and send nuclear power to the moon.…",
+    "source": "EE Power",
     "image": null
   },
   {
@@ -1112,14 +1144,6 @@
     "image": null
   },
   {
-    "title": "India introduces 20% domestic content rule for Viability Gap Funding of battery storage",
-    "link": "https://www.energy-storage.news/india-introduces-20-domestic-content-rule-for-viability-gap-funding-of-battery-storage/",
-    "date": "2026-01-02",
-    "summary": "The Indian government has made a significant ruling on the Viability Gap Funding (VGF) scheme supporting battery storage projects.…",
-    "source": "Energy-Storage.News",
-    "image": null
-  },
-  {
     "title": "Germany installed 16.2GW solar PV in 2025",
     "link": "https://www.pv-tech.org/germany-installed-16-2gw-solar-pv-in-2025/",
     "date": "2026-01-02",
@@ -1140,22 +1164,6 @@
     "link": "https://www.pv-tech.org/sjvn-commissions-1gw-solar-pv-project-india/",
     "date": "2026-01-02",
     "summary": "SJVN has commissioned a 1GW solar PV plant in Rajasthan, India, its largest solar project to comply with India’s DCR rules.…",
-    "source": "PV Tech",
-    "image": null
-  },
-  {
-    "title": "Spain launches €355 million renewables manufacturing programme",
-    "link": "https://www.pv-tech.org/spain-launches-e355-million-renewables-manufacturing-programme/",
-    "date": "2026-01-02",
-    "summary": "The Spanish Ministry of Ecological Transition (MITECO) has launched a new renewables manufacturing subsidy programme.…",
-    "source": "PV Tech",
-    "image": null
-  },
-  {
-    "title": "PV Tech’s top five Premium stories of the year in 2025",
-    "link": "https://www.pv-tech.org/pv-techs-top-five-premium-stories-of-the-year-in-2025/",
-    "date": "2026-01-02",
-    "summary": "As the year comes to an end, we bring you a recap of the most-read Premium stories that have been published throughout 2025.…",
     "source": "PV Tech",
     "image": null
   },
@@ -1308,14 +1316,6 @@
     "link": "https://eepower.com/technical-articles/sic-mps-diodes-under-stress-robust-performance-under-extreme-current-and-temperature-conditions/",
     "date": "2025-12-19",
     "summary": "What is the reverse recovery behavior of SiC-MPS diodes in scenarios that challenge their thermal and dynamic robustness? This article provi…",
-    "source": "EE Power",
-    "image": null
-  },
-  {
-    "title": "The Next Leap in EV Powertrain Efficiency: The Rise of 3-Level Inverters",
-    "link": "https://eepower.com/technical-articles/the-next-leap-in-ev-powertrain-efficiency-the-rise-of-3-level-inverters/",
-    "date": "2025-12-18",
-    "summary": "Learn the advantages of upgrading from a 2-level inverter to a 3-level inverter for SiC-based EV powertrain designs.…",
     "source": "EE Power",
     "image": null
   }
