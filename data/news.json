@@ -168,6 +168,14 @@
     "image": null
   },
   {
+    "title": "MC34063: The Switching Regulator That Defined Cheap Power",
+    "link": "https://eepower.com/market-insights/mc34063-the-switching-regulator-that-defined-cheap-power/",
+    "date": "2026-01-09",
+    "summary": "Motorola’s 1980s DC-DC controller became the universal answer to “good enough” power conversion.…",
+    "source": "EE Power",
+    "image": null
+  },
+  {
     "title": "Nuclear Researchers Push Fusion, Dark Matter, and the Moon",
     "link": "https://eepower.com/market-insights/nuclear-researchers-push-fusion-dark-matter-and-the-moon/",
     "date": "2026-01-09",
@@ -1308,14 +1316,6 @@
     "link": "https://eepower.com/technical-articles/switching-and-converter-substations/",
     "date": "2025-12-21",
     "summary": "This article explores the various functions of switching and converter substations, including network reconfiguration, fault isolation, and …",
-    "source": "EE Power",
-    "image": null
-  },
-  {
-    "title": "SiC-MPS Diodes Under Stress: Robust Performance Under Extreme Conditions",
-    "link": "https://eepower.com/technical-articles/sic-mps-diodes-under-stress-robust-performance-under-extreme-current-and-temperature-conditions/",
-    "date": "2025-12-19",
-    "summary": "What is the reverse recovery behavior of SiC-MPS diodes in scenarios that challenge their thermal and dynamic robustness? This article provi…",
     "source": "EE Power",
     "image": null
   }
