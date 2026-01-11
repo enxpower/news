@@ -1,5 +1,13 @@
 [
   {
+    "title": "Substation Design and Layout Planning—Part 2: Safety and Thermal Controls",
+    "link": "https://eepower.com/technical-articles/substation-design-and-layout-planningpart-2-safety-and-thermal-controls/",
+    "date": "2026-01-11",
+    "summary": "This article explains how a substation’s physical layout must integrate safety clearances, grounding, and thermal management.…",
+    "source": "EE Power",
+    "image": null
+  },
+  {
     "title": "Terra-Gen puts 129MW/515MWh BESS in operation at California solar PV complex",
     "link": "https://www.energy-storage.news/terra-gen-puts-129mw-515mwh-bess-in-operation-at-california-solar-pv-complex/",
     "date": "2026-01-09",
@@ -1308,14 +1316,6 @@
     "link": "https://eepower.com/technical-articles/selecting-the-right-sic-mosfet-device-a-key-to-efficient-zero-voltage-switching/",
     "date": "2025-12-22",
     "summary": "Learn how research with 1200 V SiC MOSFETs can help designers select the optimal SiC devices for their high-frequency softswitching applicat…",
-    "source": "EE Power",
-    "image": null
-  },
-  {
-    "title": "Switching and Converter Substations",
-    "link": "https://eepower.com/technical-articles/switching-and-converter-substations/",
-    "date": "2025-12-21",
-    "summary": "This article explores the various functions of switching and converter substations, including network reconfiguration, fault isolation, and …",
     "source": "EE Power",
     "image": null
   }
