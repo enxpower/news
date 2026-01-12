@@ -1,10 +1,34 @@
 [
   {
+    "title": "Energy storage fleet mitigated 2TWh of renewables curtailment in Chile in 2025",
+    "link": "https://www.energy-storage.news/energy-storage-fleet-mitigated-2twh-of-renewables-curtailment-in-chile-in-2025/",
+    "date": "2026-01-12",
+    "summary": "Curtailment of solar PV and wind continued to increase in Chile last year and passed 6TWh according to the Chilean renewable energy and ener…",
+    "source": "Energy-Storage.News",
+    "image": null
+  },
+  {
     "title": "Year in Review: Analytics provider TWAICE on 2025’s BESS industry ‘wake-up call’ and operationalising data in 2026",
     "link": "https://www.energy-storage.news/year-in-review-analytics-provider-twaice-on-2025s-bess-industry-wake-up-call-and-operationalising-data-in-2026/",
     "date": "2026-01-12",
     "summary": "Lennart Hinrichs at TWAICE, discusses how the industry’s approach to battery analytics is changing, as part of our annual Year in Review ser…",
     "source": "Energy-Storage.News",
+    "image": null
+  },
+  {
+    "title": "Chinese solar irradiance up to 20% higher in 2025 than historical averages",
+    "link": "https://www.pv-tech.org/chinese-solar-irradiance-20-higher-2025-than-historical-averages-solargis/",
+    "date": "2026-01-12",
+    "summary": "Parts of China saw Global Horizontal Irradiation (GHI) reach 20% more than the long-term average (LTA) figures in 2025.…",
+    "source": "PV Tech",
+    "image": null
+  },
+  {
+    "title": "Nextpower to open 12GW solar PV tracker Saudi facility in Q2 2026",
+    "link": "https://www.pv-tech.org/nextpower-to-open-12gw-solar-pv-tracker-saudi-facility-in-q2-2026/",
+    "date": "2026-01-12",
+    "summary": "Solar PV solutions provider Nextpower has finalised its Saudi joint venture formation, Nextpower Arabia, which is building a manufacturing f…",
+    "source": "PV Tech",
     "image": null
   },
   {
@@ -21,6 +45,14 @@
     "date": "2026-01-12",
     "summary": "December 2025 saw record solar generation in Australia's NEM, with rooftop and utility-scale solar surging, but pricing volatility persisted…",
     "source": "PV Tech",
+    "image": null
+  },
+  {
+    "title": "Introducing our new feature: Benchmarking US solar manufacturing with Finlay Colville",
+    "link": "https://www.solarpowerworldonline.com/2026/01/introducing-our-new-feature-benchmarking-us-solar-manufacturing-with-finlay-colville/",
+    "date": "2026-01-12",
+    "summary": "After 15 years reporting on the solar industry, and many more years removed from organized education where math and science were my worst su…",
+    "source": "Solar Power World",
     "image": null
   },
   {
@@ -784,14 +816,6 @@
     "image": null
   },
   {
-    "title": "Pegasus acquires commercial solar racking manufacturer Aerocompact’s North American division",
-    "link": "https://www.solarpowerworldonline.com/2026/01/pegasus-acquires-commercial-solar-racking-manufacturer-aerocompacts-north-american-division/",
-    "date": "2026-01-07",
-    "summary": "Pegasus, a solar mounting manufacturer, has acquired the North American division of Aerocompact, a global solar racking supplier for commerc…",
-    "source": "Solar Power World",
-    "image": null
-  },
-  {
     "title": "UK delays decision on huge RWE offshore wind farm",
     "link": "https://www.windpowermonthly.com/article/1944463/uk-delays-decision-huge-rwe-offshore-wind-farm",
     "date": "2026-01-07",
@@ -1128,14 +1152,6 @@
     "image": null
   },
   {
-    "title": "Zelestra’s solar-plus-storage Spain offtake deal is ‘PPA 2.0’, firm says",
-    "link": "https://www.energy-storage.news/zelestras-solar-plus-storage-spain-offtake-deal-is-ppa-2-0-firm-says/",
-    "date": "2026-01-05",
-    "summary": "IPP Zelestra and utility EDP's recent PPA deal for a solar-plus-storage project in Spain was the first of its kind in Europe and 'moves the …",
-    "source": "Energy-Storage.News",
-    "image": null
-  },
-  {
     "title": "Why quality assurance in PV cell procurement matters more than ever",
     "link": "https://www.pv-tech.org/why-quality-assurance-pv-cell-procurement-matters-more-than-ever/",
     "date": "2026-01-05",
@@ -1148,22 +1164,6 @@
     "link": "https://www.pv-tech.org/genneia-starts-operations-at-140mw-solar-pv-plant-in-argentina/",
     "date": "2026-01-05",
     "summary": "Argentinian renewables developer Genneia has reached commercial operations at its 140MW Parque Solar San Rafael in Argentina.…",
-    "source": "PV Tech",
-    "image": null
-  },
-  {
-    "title": "Nofar Energy to buy 1GW US solar portfolio from bankrupt Pine Gate",
-    "link": "https://www.pv-tech.org/nofar-energy-to-buy-1gw-us-solar-portfolio-from-bankrupt-pine-gate/",
-    "date": "2026-01-05",
-    "summary": "Israeli renewable energy developer Nofar Energy will acquire an almost 1GW US utility-scale solar portfolio from bankrupt IPP Pine Gate Rene…",
-    "source": "PV Tech",
-    "image": null
-  },
-  {
-    "title": "Inox acquires 250MW solar PV portfolio from SunSource, in talks for further 50MW",
-    "link": "https://www.pv-tech.org/inox-acquires-250mw-solar-pv-portfolio-sunsource-in-talks-further-50mw/",
-    "date": "2026-01-05",
-    "summary": "Independent power producer Inox Clean Energy has acquired an operational solar PV portfolio in India from SunSource Energy.…",
     "source": "PV Tech",
     "image": null
   },
