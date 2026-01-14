@@ -1,5 +1,29 @@
 [
   {
+    "title": "Standardisation is making US BESS an easy target for cyberattacks",
+    "link": "https://www.energy-storage.news/standardisation-is-making-us-bess-an-easy-target-for-cyberattacks/",
+    "date": "2026-01-14",
+    "summary": "Energy-Storage.news Premium speaks with Phil Tonkin, field chief technology officer at Dragos, and Dr. Peter Fox-Penner, a Brattle principal…",
+    "source": "Energy-Storage.News",
+    "image": null
+  },
+  {
+    "title": "Neoen and French TSO to trial grid-forming services with retrofitted BESS",
+    "link": "https://www.energy-storage.news/neoen-and-french-tso-to-trial-grid-forming-services-with-retrofitted-bess/",
+    "date": "2026-01-14",
+    "summary": "IPP Neoen will provide Réseau de Transport d’Electricité (RTE) with grid-forming function from a BESS project in Brittany, France.…",
+    "source": "Energy-Storage.News",
+    "image": null
+  },
+  {
+    "title": "Eolian and CyrusOne team up to deploy Texas data centre at site of 100MW BESS",
+    "link": "https://www.energy-storage.news/eolian-and-cyrusone-team-up-to-deploy-texas-data-centre-at-site-of-100mw-bess/",
+    "date": "2026-01-14",
+    "summary": "Data centre developer CyrusOne and independent power producer (IPP) Eolian have announced the deployment of a 200MW data centre campus at a …",
+    "source": "Energy-Storage.News",
+    "image": null
+  },
+  {
     "title": "Tesla and Sungrow top bankability report ratings, as integrators threaten to outperform cell suppliers",
     "link": "https://www.energy-storage.news/tesla-and-sungrow-top-bankability-report-ratings-as-integrators-threaten-to-outperform-cell-suppliers/",
     "date": "2026-01-14",
@@ -40,11 +64,27 @@
     "image": null
   },
   {
+    "title": "Goldwind installs 20MW offshore wind turbine",
+    "link": "https://www.windpowermonthly.com/article/1945100/goldwind-installs-20mw-offshore-wind-turbine",
+    "date": "2026-01-14",
+    "summary": "Goldwind has installed a 20MW offshore wind turbine in waters off Fujian province in south-east China.…",
+    "source": "Wind Power News & Analysis RSS Feed",
+    "image": null
+  },
+  {
     "title": "UK holds record offshore wind auction as RWE wins big",
     "link": "https://www.windpowermonthly.com/article/1945060/uk-holds-record-offshore-wind-auction-rwe-wins-big",
     "date": "2026-01-14",
     "summary": "The UK has awarded power deals to more than 8GW of new offshore wind capacity in its latest renewable energy contract for difference (CfD) a…",
     "source": "Wind Power News & Analysis RSS Feed",
+    "image": null
+  },
+  {
+    "title": "Study: SE Asia Needs Cross-Border Transmission To Reach Net-Zero",
+    "link": "https://eepower.com/market-insights/study-se-asia-needs-cross-border-transmission-to-reach-net-zero/",
+    "date": "2026-01-14",
+    "summary": "An energy system optimization study modeled regional pathways allowing Southeast Asia to achieve net-zero greenhouse gas emissions in its el…",
+    "source": "EE Power",
     "image": null
   },
   {
@@ -1136,30 +1176,6 @@
     "image": null
   },
   {
-    "title": "CMBlu positions its ‘Organic’ flow batteries as lithium alternative for US hyperscaler demand",
-    "link": "https://www.energy-storage.news/cmblu-positions-organic-flow-batteries-as-lithium-alternative-for-us-hyperscaler-demand/",
-    "date": "2026-01-07",
-    "summary": "Energy-Storage.news Premium speaks with Giovanni Damato, redox flow battery developer CMBlu's North American President, about using its tech…",
-    "source": "Energy-Storage.News",
-    "image": null
-  },
-  {
-    "title": "Western Australia prioritises long-duration energy storage in latest clean energy funding round",
-    "link": "https://www.energy-storage.news/western-australia-prioritises-long-duration-energy-storage-in-latest-clean-energy-funding-round/",
-    "date": "2026-01-07",
-    "summary": "Western Australia has launched the fourth round of its Clean Energy Innovation Grants programme, prioritising long-duration energy storage.…",
-    "source": "Energy-Storage.News",
-    "image": null
-  },
-  {
-    "title": "Australia’s 1,770MWh Eraring Battery 1 commences commercial operations",
-    "link": "https://www.energy-storage.news/australias-1770mwh-eraring-battery-1-commences-commercial-operations/",
-    "date": "2026-01-07",
-    "summary": "Origin Energy has announced the commercial commencement of the 1,770MWh Eraring Battery 1 in New South Wales, Australia.…",
-    "source": "Energy-Storage.News",
-    "image": null
-  },
-  {
     "title": "Toyo secures US-sourced polysilicon",
     "link": "https://www.pv-tech.org/toyo-secures-us-sourced-polysilicon/",
     "date": "2026-01-07",
@@ -1204,14 +1220,6 @@
     "link": "https://www.windpowermonthly.com/article/1944368/orsteds-sunrise-wind-challenge-trump-lease-suspension-order",
     "date": "2026-01-07",
     "summary": "Ørsted’s wholly owned subsidiary Sunrise Wind is poised to launch a legal challenge against President Donald Trump’s order suspending leases…",
-    "source": "Wind Power News & Analysis RSS Feed",
-    "image": null
-  },
-  {
-    "title": "BW Ideol eyes floating offshore wind platform factories as concrete firm Holcim takes stake",
-    "link": "https://www.windpowermonthly.com/article/1944369/bw-ideol-eyes-floating-offshore-wind-platform-factories-concrete-firm-holcim-takes-stake",
-    "date": "2026-01-07",
-    "summary": "",
     "source": "Wind Power News & Analysis RSS Feed",
     "image": null
   },
@@ -1308,14 +1316,6 @@
     "link": "https://eepower.com/market-insights/2025-review-research-lights-the-future-for-the-power-industry/",
     "date": "2025-12-26",
     "summary": "Electric vehicles and batteries, data centers, power transmission and management, renewable energy, and nuclear technology can all benefit f…",
-    "source": "EE Power",
-    "image": null
-  },
-  {
-    "title": "Engineers Speak: EEPower’s Top 7 Interviews for 2025",
-    "link": "https://eepower.com/news/engineers-speak-eepowers-top-7-interviews-for-2025/",
-    "date": "2025-12-25",
-    "summary": "Engineers, CEOs, and analysts lent us their expert insights on issues and solutions in the power industry.…",
     "source": "EE Power",
     "image": null
   }
