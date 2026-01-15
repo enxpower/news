@@ -152,6 +152,14 @@
     "image": null
   },
   {
+    "title": "Apex Clean Energy Closes $2.79 Billion in Financing for Three Renewable Energy Projects",
+    "link": "https://www.powermag.com/apex-clean-energy-closes-2-79-billion-in-financing-for-three-renewable-energy-projects/",
+    "date": "2026-01-15",
+    "summary": "Apex Clean Energy said the company has successfully financed three utility-scale renewable energy assets across Texas, Ohio, and Illinois. T…",
+    "source": "POWER Magazine",
+    "image": null
+  },
+  {
     "title": "Idled California Biomass Power Plant to Be Rebuilt as Carbon-Negative AI Factory",
     "link": "https://www.powermag.com/idled-california-biomass-power-plant-to-be-rebuilt-as-carbon-negative-ai-factoryidled-california-biomass-power-plant-to-be-rebuilt-as-carbon-negative-ai-data-factory/",
     "date": "2026-01-15",
@@ -197,6 +205,14 @@
     "date": "2026-01-15",
     "summary": "<img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"2280\" src=\"https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/…",
     "source": "Power Electronics News",
+    "image": null
+  },
+  {
+    "title": "Enabling High Efficiency: Gate Driver ICs for Automotive Traction Inverters",
+    "link": "https://eepower.com/technical-articles/enabling-flexible-high-efficiency-designs-a-new-family-of-gate-driver-ics-for-automotive-traction-inverters/",
+    "date": "2026-01-15",
+    "summary": "E-mobility is driving significant demand for power electronics, particularly inverters. High-performance power modules help ensure efficient…",
+    "source": "EE Power",
     "image": null
   },
   {
@@ -752,14 +768,6 @@
     "image": null
   },
   {
-    "title": "Nuclear Waste Disposal Group Completes DOE-Funded Research Project",
-    "link": "https://www.powermag.com/nuclear-waste-disposal-group-completes-doe-funded-research-project/",
-    "date": "2026-01-13",
-    "summary": "Deep Isolation Nuclear, an innovator in nuclear waste disposal technology, on January 13 said the company has successfully completed its Pro…",
-    "source": "POWER Magazine",
-    "image": null
-  },
-  {
     "title": "Enphase Energy Starts Production and Distribution of IQ9N-3P",
     "link": "https://www.powerelectronicsnews.com/enphase-energy-starts-production-and-distribution-of-iq9n-3p/",
     "date": "2026-01-13",
@@ -1308,14 +1316,6 @@
     "link": "https://eepower.com/news/our-2025-top-trend-ai-assimilates/",
     "date": "2025-12-29",
     "summary": "Do you remember when supercomputers were described by their processing power? That was so 2024. Today, we talk about the power for processin…",
-    "source": "EE Power",
-    "image": null
-  },
-  {
-    "title": "Solving Military-Avionics DC-DC Power Challenges with Modularity—Part 2",
-    "link": "https://eepower.com/technical-articles/solving-dc-dc-power-challenges-in-military-avionics-through-modularity-part-2/",
-    "date": "2025-12-28",
-    "summary": "In Part 1, we covered the key standards for military and avionics power supply design. Here in Part 2, we examine managing input bus electri…",
     "source": "EE Power",
     "image": null
   }
