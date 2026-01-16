@@ -176,6 +176,14 @@
     "image": null
   },
   {
+    "title": "Solving Military-Avionics DC-DC Power Challenges with Modularity—Part 3",
+    "link": "https://eepower.com/technical-articles/solving-dc-dc-power-challenges-in-military-avionics-through-modularity-part-3/",
+    "date": "2026-01-16",
+    "summary": "In Part 3 of this series, we look at how embedding a boost converter within a board-mounted module reduces the required capacitor value for …",
+    "source": "EE Power",
+    "image": null
+  },
+  {
     "title": "All-in-One Energy Monitoring for Smarter Industrial Power",
     "link": "https://eepower.com/news/all-in-one-energy-monitoring-for-smarter-industrial-power/",
     "date": "2026-01-16",
@@ -1308,14 +1316,6 @@
     "link": "https://eepower.com/news/2026-trade-show-season-previews-energy-tech-innovations/",
     "date": "2026-01-01",
     "summary": "CES, PowerGen, APEC, and DTECH will spotlight solutions for data centers, load growth, and electrification.…",
-    "source": "EE Power",
-    "image": null
-  },
-  {
-    "title": "Your 2025 EEPower Favorites: Most Viewed Stories of Each Article Type",
-    "link": "https://eepower.com/news/your-2025-eepower-favorites-most-viewed-stories-of-each-article-type/",
-    "date": "2025-12-31",
-    "summary": "EEPower publishes hundreds of articles of lots of types. Here, we’ve rounded up your favorite 2025 articles for each article type.…",
     "source": "EE Power",
     "image": null
   }
